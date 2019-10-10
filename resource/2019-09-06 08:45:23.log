@@ -1,0 +1,305 @@
+06-45-2019 08:45:23 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:60296/session/21ae0168496813ff83099abd3ddd19ef/url {"url": "https://www.111.com.cn"}
+06-45-2019 08:45:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:60296 "POST /session/21ae0168496813ff83099abd3ddd19ef/url HTTP/1.1" 200 14
+06-45-2019 08:45:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-45-2019 08:45:26 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:60296/session/21ae0168496813ff83099abd3ddd19ef/source {}
+06-45-2019 08:45:26 urllib3.connectionpool:DEBUG:http://127.0.0.1:60296 "GET /session/21ae0168496813ff83099abd3ddd19ef/source HTTP/1.1" 200 340136
+06-45-2019 08:45:26 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-45-2019 08:45:26 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:60296/session/21ae0168496813ff83099abd3ddd19ef/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u7f8e\u654f\u4f2a\u9ebb\u6eb6\u6db2 \u60e0\u6c0f\");\n$(\"#word\").attr(\"value\",\"\u7f8e\u654f\u4f2a\u9ebb\u6eb6\u6db2 \u60e0\u6c0f\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-45-2019 08:45:26 urllib3.connectionpool:DEBUG:http://127.0.0.1:60296 "POST /session/21ae0168496813ff83099abd3ddd19ef/execute/sync HTTP/1.1" 200 14
+06-45-2019 08:45:26 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-45-2019 08:45:27 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:60296/session/21ae0168496813ff83099abd3ddd19ef/source {}
+06-45-2019 08:45:28 urllib3.connectionpool:DEBUG:http://127.0.0.1:60296 "GET /session/21ae0168496813ff83099abd3ddd19ef/source HTTP/1.1" 200 535760
+06-45-2019 08:45:28 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-45-2019 08:45:28 root:INFO:<div class="itemSearchResultCon" comproid="1229815" isrecom="0" itemid="50169549">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50169549.html" target="_blank">
+<img alt="满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201909/05/200_20190905180546883.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1229815">
+<span>
+                        87.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50169549.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松新效期，维生素d3促进钙质吸收，每日1-2片，妊娠和哺乳期、更年期妇女、老年人等的钙质补充，防治骨质疏松症</a>
+<a class="promoTitle" href="//www.111.com.cn/list/promotion.action?promoid=143056" id="promotion_1229815" pnamesubtitle="满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松" pstock="101" rel="nofollow" ruletype="0" stockflag="" target="_blank" title="">满199减20  288减40</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/50169549.html#itemComments');" pmid="1229815">评论 <em>4771</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1229815">
+<input class="search_list_reduce_gray" data-ywpoint="null_null_null_null_I1122_0" onclick="modifyBuyNum(this, -1);" type="button"/>
+<input class="num" id="buyNum_50169549" onkeyup="var key=event.keyCode;checkBuyNum(this, key)" type="text" value="1"/>
+<input class="search_list_plus" data-ywpoint="null_null_null_null_I1122_0" onclick="modifyBuyNum(this, 1);" type="button"/>
+<button class="buy op_right_btn add_cart_btn border_left" currentstore="true" data-ywpoint="null_null_null_null_I1123_0" id="buyButton_50169549" index="0" inshop="0" merchantid="" onclick="javascript:buyToCart(1,50169549);" pminfo="" productcode="1229815" sellproductid="1229815" specialtype="13">加入购物车</button>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<div class="item_kit" id="item_kit">
+<div class="item_kit_clip clearfix">
+<div class="item_kit_n">
+<a class="k_cur" comproid="1229815" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">1件</a>
+<a class="" comproid="3586426" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">套餐1</a>
+<a class="" comproid="3586301" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">套餐2</a>
+<i style="left: 0px;"></i>
+</div></div>
+</div>
+<!-- 组合品件数条 -->
+</div>
+06-45-2019 08:45:28 root:INFO:https://p1.maiyaole.com/img/item/201909/05/200_20190905180546883.jpg
+06-45-2019 08:45:28 root:INFO:http://www.111.com.cn/product/50169549.html
+06-45-2019 08:45:28 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:60296/session/21ae0168496813ff83099abd3ddd19ef/url {"url": "http://www.111.com.cn/product/50169549.html"}
+06-45-2019 08:45:29 urllib3.connectionpool:DEBUG:http://127.0.0.1:60296 "POST /session/21ae0168496813ff83099abd3ddd19ef/url HTTP/1.1" 200 14
+06-45-2019 08:45:29 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-45-2019 08:45:30 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:60296/session/21ae0168496813ff83099abd3ddd19ef/source {}
+06-45-2019 08:45:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:60296 "GET /session/21ae0168496813ff83099abd3ddd19ef/source HTTP/1.1" 200 243675
+06-45-2019 08:45:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-45-2019 08:45:30 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>Caltrate钙尔奇</td>
+<th>规　　格：</th>
+<td>100片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.225kg</td>
+<th>生产厂商:</th>
+<td>惠氏制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H10950029(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-45-2019 08:45:30 root:INFO:**********************
+06-45-2019 08:45:30 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>]
+06-45-2019 08:45:30 root:INFO:**********************
+06-45-2019 08:45:30 root:INFO:[<td colspan="3">满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松</td>, <td>Caltrate钙尔奇</td>, <td>100片</td>, <td>0.225kg</td>, <td>惠氏制药有限公司</td>, <td>
+                                                                                    国药准字H10950029(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-45-2019 08:45:30 root:INFO:商品名称：满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松
+06-45-2019 08:45:30 root:INFO:品　　牌：Caltrate钙尔奇
+06-45-2019 08:45:30 root:INFO:规　　格：100片
+06-45-2019 08:45:30 root:INFO:重　　量：0.225kg
+06-45-2019 08:45:30 root:INFO:生产厂商:惠氏制药有限公司
+06-45-2019 08:45:30 root:INFO:批准文号：国药准字H10950029
+06-45-2019 08:45:30 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-45-2019 08:45:30 root:INFO:<div class="itemSearchResultCon none" comproid="3586426" itemid="51347694" purchasehidestatus="1">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51347694.html" target="_blank">
+<img alt="满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松 *1件+康恩贝 氨糖软骨素加钙片 1.0g*60片 氨糖钙片 *1件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/item/201908/01/200_20190801090109571.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3586426">
+<span>
+                                  
+                            147.9
+                                  
+                          </span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51347694.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松 *1件+康恩贝 氨糖软骨素加钙片 1.0g*60片 氨糖钙片 *1件暂无</a>
+<a class="promoTitle" href="//www.111.com.cn/list/promotion.action?promoid=" id="promotion_3586426" pnamesubtitle="满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松 *1件+康恩贝 氨糖软骨素加钙片 1.0g*60片 氨糖钙片 *1件" pstock="101" rel="nofollow" ruletype="0" stockflag="" target="_blank" title=""></a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/50169549.html#itemComments');" pmid="1229815">评论 <em>4771</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3586426">
+<input class="search_list_reduce_gray" onclick="modifyBuyNum(this, -1);" type="button"/>
+<input class="num" id="buyNum_51347694" onkeyup="var key=event.keyCode;checkBuyNum(this, key)" type="text" value="1"/>
+<input class="search_list_plus" onclick="modifyBuyNum(this, 1);" type="button"/>
+<button class="buy op_right_btn add_cart_btn border_left" id="buyButton_51347694" index="0" inshop="0" merchantid="" onclick="javascript:buyToCart(3,51347694);" pminfo="" productcode="3586426" sellproductid="3586426" specialtype="13">加入购物车</button>
+</div>
+<div class="sheng"><span>省</span>7.0元</div>
+<u class="bg_border"></u>
+</div>
+06-45-2019 08:45:30 root:INFO:https://p2.maiyaole.com/img/item/201908/01/200_20190801090109571.jpg
+06-45-2019 08:45:30 root:INFO:http://www.111.com.cn/product/51347694.html
+06-45-2019 08:45:30 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:60296/session/21ae0168496813ff83099abd3ddd19ef/url {"url": "http://www.111.com.cn/product/51347694.html"}
+06-45-2019 08:45:31 urllib3.connectionpool:DEBUG:http://127.0.0.1:60296 "POST /session/21ae0168496813ff83099abd3ddd19ef/url HTTP/1.1" 200 14
+06-45-2019 08:45:31 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-45-2019 08:45:32 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:60296/session/21ae0168496813ff83099abd3ddd19ef/source {}
+06-45-2019 08:45:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:60296 "GET /session/21ae0168496813ff83099abd3ddd19ef/source HTTP/1.1" 200 244829
+06-45-2019 08:45:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-45-2019 08:45:32 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松*1件 + 康恩贝 氨糖软骨素加钙片 1.0g*60片 氨糖钙片*1件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>Caltrate钙尔奇</td>
+<th>规　　格：</th>
+<td>100片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.225kg</td>
+<th>生产厂商:</th>
+<td>惠氏制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H10950029,国食健字G20110012(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-45-2019 08:45:32 root:INFO:**********************
+06-45-2019 08:45:32 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>]
+06-45-2019 08:45:32 root:INFO:**********************
+06-45-2019 08:45:32 root:INFO:[<td colspan="3">满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松*1件 + 康恩贝 氨糖软骨素加钙片 1.0g*60片 氨糖钙片*1件</td>, <td>Caltrate钙尔奇</td>, <td>100片</td>, <td>0.225kg</td>, <td>惠氏制药有限公司</td>, <td>
+                                                                                    国药准字H10950029,国食健字G20110012(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-45-2019 08:45:32 root:INFO:商品名称：满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松*1件 + 康恩贝 氨糖软骨素加钙片 1.0g*60片 氨糖钙片*1件
+06-45-2019 08:45:32 root:INFO:品　　牌：Caltrate钙尔奇
+06-45-2019 08:45:32 root:INFO:规　　格：100片
+06-45-2019 08:45:32 root:INFO:重　　量：0.225kg
+06-45-2019 08:45:32 root:INFO:生产厂商:惠氏制药有限公司
+06-45-2019 08:45:32 root:INFO:批准文号：国药准字H10950029,国食健字G20110012
+06-45-2019 08:45:32 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-45-2019 08:45:32 root:INFO:<div class="itemSearchResultCon none" comproid="3586301" itemid="51347659" purchasehidestatus="1">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51347659.html" target="_blank">
+<img alt="满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松 *1件+惠氏 善存银片 100片 补充多维元素片维生素 中老年钙片 *1件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/item/201908/01/200_20190801090109571.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3586301">
+<span>
+                                  
+                            196.9
+                                  
+                          </span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51347659.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松 *1件+惠氏 善存银片 100片 补充多维元素片维生素 中老年钙片 *1件暂无</a>
+<a class="promoTitle" href="//www.111.com.cn/list/promotion.action?promoid=" id="promotion_3586301" pnamesubtitle="满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松 *1件+惠氏 善存银片 100片 补充多维元素片维生素 中老年钙片 *1件" pstock="101" rel="nofollow" ruletype="0" stockflag="" target="_blank" title=""></a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/50169549.html#itemComments');" pmid="1229815">评论 <em>4771</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3586301">
+<input class="search_list_reduce_gray" onclick="modifyBuyNum(this, -1);" type="button"/>
+<input class="num" id="buyNum_51347659" onkeyup="var key=event.keyCode;checkBuyNum(this, key)" type="text" value="1"/>
+<input class="search_list_plus" onclick="modifyBuyNum(this, 1);" type="button"/>
+<button class="buy op_right_btn add_cart_btn border_left" id="buyButton_51347659" index="0" inshop="0" merchantid="" onclick="javascript:buyToCart(3,51347659);" pminfo="" productcode="3586301" sellproductid="3586301" specialtype="13">加入购物车</button>
+</div>
+<div class="sheng"><span>省</span>3.0元</div>
+<u class="bg_border"></u>
+</div>
+06-45-2019 08:45:32 root:INFO:https://p2.maiyaole.com/img/item/201908/01/200_20190801090109571.jpg
+06-45-2019 08:45:32 root:INFO:http://www.111.com.cn/product/51347659.html
+06-45-2019 08:45:32 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:60296/session/21ae0168496813ff83099abd3ddd19ef/url {"url": "http://www.111.com.cn/product/51347659.html"}
+06-45-2019 08:45:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:60296 "POST /session/21ae0168496813ff83099abd3ddd19ef/url HTTP/1.1" 200 14
+06-45-2019 08:45:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-45-2019 08:45:34 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:60296/session/21ae0168496813ff83099abd3ddd19ef/source {}
+06-45-2019 08:45:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:60296 "GET /session/21ae0168496813ff83099abd3ddd19ef/source HTTP/1.1" 200 245155
+06-45-2019 08:45:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-45-2019 08:45:34 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松*1件 + 惠氏 善存银片 100片 补充多维元素片维生素 中老年钙片*1件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>Caltrate钙尔奇</td>
+<th>规　　格：</th>
+<td>100片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.225kg</td>
+<th>生产厂商:</th>
+<td>惠氏制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H10950029,国药准字H10950025(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-45-2019 08:45:34 root:INFO:**********************
+06-45-2019 08:45:34 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>]
+06-45-2019 08:45:34 root:INFO:**********************
+06-45-2019 08:45:34 root:INFO:[<td colspan="3">满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松*1件 + 惠氏 善存银片 100片 补充多维元素片维生素 中老年钙片*1件</td>, <td>Caltrate钙尔奇</td>, <td>100片</td>, <td>0.225kg</td>, <td>惠氏制药有限公司</td>, <td>
+                                                                                    国药准字H10950029,国药准字H10950025(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-45-2019 08:45:34 root:INFO:商品名称：满199减20】惠氏 钙尔奇 碳酸钙D3片100片 孕妇成人中老年 钙片 骨质疏松*1件 + 惠氏 善存银片 100片 补充多维元素片维生素 中老年钙片*1件
+06-45-2019 08:45:34 root:INFO:品　　牌：Caltrate钙尔奇
+06-45-2019 08:45:34 root:INFO:规　　格：100片
+06-45-2019 08:45:34 root:INFO:重　　量：0.225kg
+06-45-2019 08:45:34 root:INFO:生产厂商:惠氏制药有限公司
+06-45-2019 08:45:34 root:INFO:批准文号：国药准字H10950029,国药准字H10950025
+06-45-2019 08:45:34 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-45-2019 08:45:34 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:60296/session/21ae0168496813ff83099abd3ddd19ef/window {}
+06-45-2019 08:45:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:60296 "DELETE /session/21ae0168496813ff83099abd3ddd19ef/window HTTP/1.1" 200 12
+06-45-2019 08:45:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-45-2019 08:45:34 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:60296/session/21ae0168496813ff83099abd3ddd19ef {}
+06-45-2019 08:45:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:60296 "DELETE /session/21ae0168496813ff83099abd3ddd19ef HTTP/1.1" 200 14
+06-45-2019 08:45:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

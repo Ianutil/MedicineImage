@@ -1,0 +1,131 @@
+06-22-2019 08:22:30 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53085/session/ecca4ea265cedb015cadd3715a7dba79/url {"url": "https://www.111.com.cn"}
+06-22-2019 08:22:31 urllib3.connectionpool:DEBUG:http://127.0.0.1:53085 "POST /session/ecca4ea265cedb015cadd3715a7dba79/url HTTP/1.1" 200 14
+06-22-2019 08:22:31 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-22-2019 08:22:32 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53085/session/ecca4ea265cedb015cadd3715a7dba79/source {}
+06-22-2019 08:22:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:53085 "GET /session/ecca4ea265cedb015cadd3715a7dba79/source HTTP/1.1" 200 340133
+06-22-2019 08:22:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-22-2019 08:22:33 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53085/session/ecca4ea265cedb015cadd3715a7dba79/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u975e\u8bfa\u8d1d\u7279\u80f6\u56ca\");\n$(\"#word\").attr(\"value\",\"\u975e\u8bfa\u8d1d\u7279\u80f6\u56ca\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-22-2019 08:22:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:53085 "POST /session/ecca4ea265cedb015cadd3715a7dba79/execute/sync HTTP/1.1" 200 14
+06-22-2019 08:22:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-22-2019 08:22:34 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53085/session/ecca4ea265cedb015cadd3715a7dba79/source {}
+06-22-2019 08:22:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:53085 "GET /session/ecca4ea265cedb015cadd3715a7dba79/source HTTP/1.1" 200 661916
+06-22-2019 08:22:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-22-2019 08:22:34 root:INFO:<div class="itemSearchResultCon" comproid="779214" isrecom="0" itemid="974353">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/974353.html" target="_blank">
+<img alt="力平之 非诺贝特胶囊（微粒化） 200mg*10粒" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201804/13/200_2018041315222562.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_779214">
+<span>
+                        38.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/974353.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    力平之 非诺贝特胶囊（微粒化） 200mg*10粒用于治疗成人饮食控制疗法效果不理想的高胆固醇血症、高脂血症</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_779214">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" druglevel="2" id="askDoctor_779214" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="779214" productcode="779214" sellproductid="779214" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/974353.html" id="buyButton_779214" index="0" inshop="0" merchantid="26" pminfo="779214" productcode="779214" productdisabled="true" sellproductid="779214" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<div class="item_kit" id="item_kit">
+<div class="item_kit_clip clearfix">
+<div class="item_kit_n">
+<a class="k_cur" comproid="779214" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">1件</a>
+<a class="" comproid="3397246" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">套餐1</a>
+<a class="" comproid="3397234" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">套餐2</a>
+<i style="left: 0px;"></i>
+</div></div>
+</div>
+<!-- 组合品件数条 -->
+</div>
+06-22-2019 08:22:34 root:INFO:https://p1.maiyaole.com/img/item/201804/13/200_2018041315222562.jpg
+06-22-2019 08:22:34 root:INFO:http://www.111.com.cn/product/974353.html
+06-22-2019 08:22:34 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53085/session/ecca4ea265cedb015cadd3715a7dba79/url {"url": "http://www.111.com.cn/product/974353.html"}
+06-22-2019 08:22:35 urllib3.connectionpool:DEBUG:http://127.0.0.1:53085 "POST /session/ecca4ea265cedb015cadd3715a7dba79/url HTTP/1.1" 200 14
+06-22-2019 08:22:35 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-22-2019 08:22:36 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53085/session/ecca4ea265cedb015cadd3715a7dba79/source {}
+06-22-2019 08:22:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:53085 "GET /session/ecca4ea265cedb015cadd3715a7dba79/source HTTP/1.1" 200 252998
+06-22-2019 08:22:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-22-2019 08:22:36 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">力平之 非诺贝特胶囊（微粒化） 200mg*10粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>力平之</td>
+<th>规　　格：</th>
+<td>200mg*10粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.014kg</td>
+<th>生产厂商:</th>
+<td>RECIPHARM FONTAINE</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    进口药品注册证H20181239(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-22-2019 08:22:36 root:INFO:**********************
+06-22-2019 08:22:36 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-22-2019 08:22:36 root:INFO:**********************
+06-22-2019 08:22:36 root:INFO:[<td colspan="3">力平之 非诺贝特胶囊（微粒化） 200mg*10粒</td>, <td>力平之</td>, <td>200mg*10粒</td>, <td>0.014kg</td>, <td>RECIPHARM FONTAINE</td>, <td>
+                                                                                    进口药品注册证H20181239(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-22-2019 08:22:36 root:INFO:商品名称：力平之 非诺贝特胶囊（微粒化） 200mg*10粒
+06-22-2019 08:22:36 root:INFO:品　　牌：力平之
+06-22-2019 08:22:36 root:INFO:规　　格：200mg*10粒
+06-22-2019 08:22:36 root:INFO:重　　量：0.014kg
+06-22-2019 08:22:36 root:INFO:生产厂商:RECIPHARM FONTAINE
+06-22-2019 08:22:36 root:INFO:批准文号：进口药品注册证H20181239
+06-22-2019 08:22:36 root:INFO:#### 下载路径 #### ./file/image/4187/0.jpg
+06-22-2019 08:22:36 root:INFO:#### 下载URL #### https://p1.maiyaole.com/img/item/201804/13/200_2018041315222562.jpg
+06-22-2019 08:22:36 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p1.maiyaole.com:443
+06-22-2019 08:22:37 urllib3.connectionpool:DEBUG:https://p1.maiyaole.com:443 "GET /img/item/201804/13/200_2018041315222562.jpg HTTP/1.1" 200 17476
+06-22-2019 08:22:37 root:INFO:#### 下载路径 #### ./file/image/4187/1.jpg
+06-22-2019 08:22:37 root:INFO:#### 下载URL #### https://p2.maiyaole.com/img/item/201804/13/org_2018041315222562.jpg
+06-22-2019 08:22:37 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p2.maiyaole.com:443
+06-22-2019 08:22:37 urllib3.connectionpool:DEBUG:https://p2.maiyaole.com:443 "GET /img/item/201804/13/org_2018041315222562.jpg HTTP/1.1" 200 124606
+06-22-2019 08:22:37 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:53085/session/ecca4ea265cedb015cadd3715a7dba79/window {}
+06-22-2019 08:22:37 urllib3.connectionpool:DEBUG:http://127.0.0.1:53085 "DELETE /session/ecca4ea265cedb015cadd3715a7dba79/window HTTP/1.1" 200 12
+06-22-2019 08:22:37 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-22-2019 08:22:37 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:53085/session/ecca4ea265cedb015cadd3715a7dba79 {}
+06-22-2019 08:22:37 urllib3.connectionpool:DEBUG:http://127.0.0.1:53085 "DELETE /session/ecca4ea265cedb015cadd3715a7dba79 HTTP/1.1" 200 14
+06-22-2019 08:22:37 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

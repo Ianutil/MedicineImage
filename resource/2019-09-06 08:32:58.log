@@ -1,0 +1,122 @@
+06-32-2019 08:32:58 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:56351/session/b1292a722593c085992325766b765f0f/url {"url": "https://www.111.com.cn"}
+06-33-2019 08:33:00 urllib3.connectionpool:DEBUG:http://127.0.0.1:56351 "POST /session/b1292a722593c085992325766b765f0f/url HTTP/1.1" 200 14
+06-33-2019 08:33:00 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-33-2019 08:33:01 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:56351/session/b1292a722593c085992325766b765f0f/source {}
+06-33-2019 08:33:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:56351 "GET /session/b1292a722593c085992325766b765f0f/source HTTP/1.1" 200 339429
+06-33-2019 08:33:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-33-2019 08:33:01 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:56351/session/b1292a722593c085992325766b765f0f/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u5355\u785d\u9178\u5f02\u5c71\u68a8\u916f\u7f13\u91ca\u80f6\u56ca \u8bb8\u74e6\u5179\");\n$(\"#word\").attr(\"value\",\"\u5355\u785d\u9178\u5f02\u5c71\u68a8\u916f\u7f13\u91ca\u80f6\u56ca \u8bb8\u74e6\u5179\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-33-2019 08:33:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:56351 "POST /session/b1292a722593c085992325766b765f0f/execute/sync HTTP/1.1" 200 14
+06-33-2019 08:33:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-33-2019 08:33:02 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:56351/session/b1292a722593c085992325766b765f0f/source {}
+06-33-2019 08:33:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:56351 "GET /session/b1292a722593c085992325766b765f0f/source HTTP/1.1" 200 260389
+06-33-2019 08:33:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-33-2019 08:33:02 root:INFO:<div class="itemSearchResultCon" comproid="779113" isrecom="0" itemid="974220">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/974220.html" target="_blank">
+<img alt="异乐定 单硝酸异山梨酯缓释胶囊（Ⅳ） 50mg*20粒" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/974/974220/120_120.JPG?a=64096778" width="205"/>
+</a>
+<p class="price" id="promotionInfo_779113">
+<span>
+                        72.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/974220.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    异乐定 单硝酸异山梨酯缓释胶囊（Ⅳ） 50mg*20粒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_779113">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" druglevel="4" id="askDoctor_779113" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="779113" productcode="779113" sellproductid="779113" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/974220.html" id="buyButton_779113" index="0" inshop="0" merchantid="26" pminfo="779113" productcode="779113" productdisabled="true" sellproductid="779113" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-33-2019 08:33:02 root:INFO:https://p2.maiyaole.com/img/974/974220/120_120.JPG?a=64096778
+06-33-2019 08:33:02 root:INFO:http://www.111.com.cn/product/974220.html
+06-33-2019 08:33:02 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:56351/session/b1292a722593c085992325766b765f0f/url {"url": "http://www.111.com.cn/product/974220.html"}
+06-33-2019 08:33:03 urllib3.connectionpool:DEBUG:http://127.0.0.1:56351 "POST /session/b1292a722593c085992325766b765f0f/url HTTP/1.1" 200 14
+06-33-2019 08:33:03 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-33-2019 08:33:04 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:56351/session/b1292a722593c085992325766b765f0f/source {}
+06-33-2019 08:33:04 urllib3.connectionpool:DEBUG:http://127.0.0.1:56351 "GET /session/b1292a722593c085992325766b765f0f/source HTTP/1.1" 200 249609
+06-33-2019 08:33:04 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-33-2019 08:33:04 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">异乐定 单硝酸异山梨酯缓释胶囊（Ⅳ） 50mg*20粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>异乐定</td>
+<th>规　　格：</th>
+<td>50mg*20粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.018kg</td>
+<th>生产厂商:</th>
+<td>优时比（珠海）制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-33-2019 08:33:04 root:INFO:**********************
+06-33-2019 08:33:04 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-33-2019 08:33:04 root:INFO:**********************
+06-33-2019 08:33:04 root:INFO:[<td colspan="3">异乐定 单硝酸异山梨酯缓释胶囊（Ⅳ） 50mg*20粒</td>, <td>异乐定</td>, <td>50mg*20粒</td>, <td>0.018kg</td>, <td>优时比（珠海）制药有限公司</td>, <td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-33-2019 08:33:04 root:INFO:商品名称：异乐定 单硝酸异山梨酯缓释胶囊（Ⅳ） 50mg*20粒
+06-33-2019 08:33:04 root:INFO:品　　牌：异乐定
+06-33-2019 08:33:04 root:INFO:规　　格：50mg*20粒
+06-33-2019 08:33:04 root:INFO:重　　量：0.018kg
+06-33-2019 08:33:04 root:INFO:生产厂商:优时比（珠海）制药有限公司
+06-33-2019 08:33:04 root:INFO:批准文号：国药准字H20031224
+06-33-2019 08:33:04 root:INFO:#### 下载路径 #### ./file/image/147336/0.jpg
+06-33-2019 08:33:04 root:INFO:#### 下载URL #### https://p2.maiyaole.com/img/974/974220/120_120.JPG?a=64096778
+06-33-2019 08:33:04 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p2.maiyaole.com:443
+06-33-2019 08:33:04 urllib3.connectionpool:DEBUG:https://p2.maiyaole.com:443 "GET /img/974/974220/120_120.JPG?a=64096778 HTTP/1.1" 200 10307
+06-33-2019 08:33:04 root:INFO:#### 下载路径 #### ./file/image/147336/1.jpg
+06-33-2019 08:33:04 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/974/974220/org_org.JPG?v=1
+06-33-2019 08:33:04 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+06-33-2019 08:33:04 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/974/974220/org_org.JPG?v=1 HTTP/1.1" 200 55011
+06-33-2019 08:33:04 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:56351/session/b1292a722593c085992325766b765f0f/window {}
+06-33-2019 08:33:04 urllib3.connectionpool:DEBUG:http://127.0.0.1:56351 "DELETE /session/b1292a722593c085992325766b765f0f/window HTTP/1.1" 200 12
+06-33-2019 08:33:04 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-33-2019 08:33:04 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:56351/session/b1292a722593c085992325766b765f0f {}
+06-33-2019 08:33:05 urllib3.connectionpool:DEBUG:http://127.0.0.1:56351 "DELETE /session/b1292a722593c085992325766b765f0f HTTP/1.1" 200 14
+06-33-2019 08:33:05 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

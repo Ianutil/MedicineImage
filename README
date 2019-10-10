@@ -1,0 +1,16 @@
+第一步：scrapy startproject 项目名字
+第二步：scrapy genspider Spider名字 www.quote.stockstar.com
+
+
+利用scrapy 框架爬取网站图片，chrome 的webdriver库，解析动态网站
+
+https://www.111.com.cn
+1药网
+
+http://yao.xywy.com/
+医药网
+
+https://www.jd.com/
+爬取京东医药
+
+

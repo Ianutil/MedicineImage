@@ -1,0 +1,1044 @@
+05-08-2019 18:08:18 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/url {"url": "https://www.111.com.cn"}
+05-08-2019 18:08:20 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "POST /session/045060e2cdbbe0046f8d0d82b080ee85/url HTTP/1.1" 200 14
+05-08-2019 18:08:20 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:21 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/source {}
+05-08-2019 18:08:21 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "GET /session/045060e2cdbbe0046f8d0d82b080ee85/source HTTP/1.1" 200 338349
+05-08-2019 18:08:21 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:21 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u94f6\u674f\u53f6\u7247\");\n$(\"#word\").attr(\"value\",\"\u94f6\u674f\u53f6\u7247\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+05-08-2019 18:08:21 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "POST /session/045060e2cdbbe0046f8d0d82b080ee85/execute/sync HTTP/1.1" 200 14
+05-08-2019 18:08:21 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:23 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/source {}
+05-08-2019 18:08:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "GET /session/045060e2cdbbe0046f8d0d82b080ee85/source HTTP/1.1" 200 679381
+05-08-2019 18:08:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:23 root:INFO:<div class="itemSearchResultCon none" comproid="1986354" isrecom="0" itemid="50503421">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50503421.html" target="_blank">
+<img alt="龙城 银杏叶片 24片" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/item/201902/20/200_20190220173626839.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1986354">
+<span>
+                        6.9
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50503421.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    龙城 银杏叶片 24片</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1986354">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" druglevel="2" id="askDoctor_1986354" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="1986354" productcode="1986354" sellproductid="1986354" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/50503421.html" id="buyButton_1986354" index="0" inshop="0" merchantid="26" pminfo="1986354" productcode="1986354" productdisabled="true" sellproductid="1986354" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-08-2019 18:08:23 root:INFO:https://p4.maiyaole.com/img/item/201902/20/200_20190220173626839.jpg
+05-08-2019 18:08:23 root:INFO:http://www.111.com.cn/product/50503421.html
+05-08-2019 18:08:23 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/url {"url": "http://www.111.com.cn/product/50503421.html"}
+05-08-2019 18:08:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "POST /session/045060e2cdbbe0046f8d0d82b080ee85/url HTTP/1.1" 200 14
+05-08-2019 18:08:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:25 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/source {}
+05-08-2019 18:08:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "GET /session/045060e2cdbbe0046f8d0d82b080ee85/source HTTP/1.1" 200 245356
+05-08-2019 18:08:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:25 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">龙城 银杏叶片 24片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>亿康</td>
+<th>规　　格：</th>
+<td>9.6mg:2.4mg*12片*2板</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.02kg</td>
+<th>生产厂商:</th>
+<td>广西两面针亿康药业股份有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z20027940(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+05-08-2019 18:08:25 root:INFO:**********************
+05-08-2019 18:08:25 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+05-08-2019 18:08:25 root:INFO:**********************
+05-08-2019 18:08:25 root:INFO:[<td colspan="3">龙城 银杏叶片 24片</td>, <td>亿康</td>, <td>9.6mg:2.4mg*12片*2板</td>, <td>0.02kg</td>, <td>广西两面针亿康药业股份有限公司</td>, <td>
+                                                                                    国药准字Z20027940(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-08-2019 18:08:25 root:INFO:商品名称：龙城 银杏叶片 24片
+05-08-2019 18:08:25 root:INFO:品　　牌：亿康
+05-08-2019 18:08:25 root:INFO:规　　格：9.6mg:2.4mg*12片*2板
+05-08-2019 18:08:25 root:INFO:重　　量：0.02kg
+05-08-2019 18:08:25 root:INFO:生产厂商:广西两面针亿康药业股份有限公司
+05-08-2019 18:08:25 root:INFO:批准文号：国药准字Z20027940
+05-08-2019 18:08:25 root:INFO:产品类型：处方药
+05-08-2019 18:08:25 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+05-08-2019 18:08:25 root:INFO:<div class="itemSearchResultCon" comproid="3075821" itemid="51065120" purchasehidestatus="1">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51065120.html" target="_blank">
+<img alt="龙城 银杏叶片 24片 *15件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201903/07/200_20190307160144949.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3075821">
+<span>
+                                  
+                            96.0
+                                  
+                                    <u>¥6.4/件</u>
+</span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51065120.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          龙城 银杏叶片 24片 *15件</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3075821">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" id="askDoctor_1986354" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="1986354" productcode="1986354" sellproductid="1986354" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/51065120.html" id="buyButton_3075821" index="0" inshop="0" merchantid="26" pminfo="3075821" productcode="3075821" sellproductid="3075821" specialtype="13">查看详情</a>
+</div>
+<div class="sheng"><span>省</span>7.5元</div>
+<u class="bg_border"></u>
+<div class="item_kit" id="item_kit">
+<div class="item_kit_clip clearfix">
+<div class="item_kit_n">
+<a class="" comproid="1986354" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">1件</a>
+<a class="k_cur" comproid="3075821" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">15件</a>
+<i style="left: 50px;"></i>
+</div></div>
+</div></div>
+05-08-2019 18:08:25 root:INFO:https://p1.maiyaole.com/img/item/201903/07/200_20190307160144949.jpg
+05-08-2019 18:08:25 root:INFO:http://www.111.com.cn/product/51065120.html
+05-08-2019 18:08:25 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/url {"url": "http://www.111.com.cn/product/51065120.html"}
+05-08-2019 18:08:26 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "POST /session/045060e2cdbbe0046f8d0d82b080ee85/url HTTP/1.1" 200 14
+05-08-2019 18:08:26 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:27 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/source {}
+05-08-2019 18:08:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "GET /session/045060e2cdbbe0046f8d0d82b080ee85/source HTTP/1.1" 200 244915
+05-08-2019 18:08:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:27 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">龙城 银杏叶片 24片*15件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>亿康</td>
+<th>规　　格：</th>
+<td>9.6mg:2.4mg*12片*2板</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.02kg</td>
+<th>生产厂商:</th>
+<td>广西两面针亿康药业股份有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z20027940(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+05-08-2019 18:08:27 root:INFO:**********************
+05-08-2019 18:08:27 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>, <th>    </th>]
+05-08-2019 18:08:27 root:INFO:**********************
+05-08-2019 18:08:27 root:INFO:[<td colspan="3">龙城 银杏叶片 24片*15件</td>, <td>亿康</td>, <td>9.6mg:2.4mg*12片*2板</td>, <td>0.02kg</td>, <td>广西两面针亿康药业股份有限公司</td>, <td>
+                                                                                    国药准字Z20027940(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-08-2019 18:08:27 root:INFO:商品名称：龙城 银杏叶片 24片*15件
+05-08-2019 18:08:27 root:INFO:品　　牌：亿康
+05-08-2019 18:08:27 root:INFO:规　　格：9.6mg:2.4mg*12片*2板
+05-08-2019 18:08:27 root:INFO:重　　量：0.02kg
+05-08-2019 18:08:27 root:INFO:生产厂商:广西两面针亿康药业股份有限公司
+05-08-2019 18:08:27 root:INFO:批准文号：国药准字Z20027940
+05-08-2019 18:08:27 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+05-08-2019 18:08:27 root:INFO:<div class="itemSearchResultCon none" comproid="1106416" isrecom="0" itemid="50088345">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/50088345.html" target="_blank">
+<img alt="荣昌制药 银杏叶片 24片" data-ywpoint="null_null_null_null_I1121_1" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/50088/50088345/120_120.JPG" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1106416">
+<span>
+                        20.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/50088345.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    荣昌制药 银杏叶片 24片</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_1">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1106416">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_1" druglevel="2" id="askDoctor_1106416" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="1106416" productcode="1106416" sellproductid="1106416" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_1" href="//www.111.com.cn/product/50088345.html" id="buyButton_1106416" index="0" inshop="0" merchantid="26" pminfo="1106416" productcode="1106416" productdisabled="true" sellproductid="1106416" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-08-2019 18:08:27 root:INFO:https://p3.maiyaole.com/img/50088/50088345/120_120.JPG
+05-08-2019 18:08:27 root:INFO:http://www.111.com.cn/product/50088345.html
+05-08-2019 18:08:27 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/url {"url": "http://www.111.com.cn/product/50088345.html"}
+05-08-2019 18:08:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "POST /session/045060e2cdbbe0046f8d0d82b080ee85/url HTTP/1.1" 200 14
+05-08-2019 18:08:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:28 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/source {}
+05-08-2019 18:08:28 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "GET /session/045060e2cdbbe0046f8d0d82b080ee85/source HTTP/1.1" 200 244844
+05-08-2019 18:08:28 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:28 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">荣昌制药 银杏叶片 24片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>荣昌制药</td>
+<th>规　　格：</th>
+<td>19.2mg:4.8mg*24片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.021kg</td>
+<th>生产厂商:</th>
+<td>烟台荣昌制药股份有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z20063922(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+05-08-2019 18:08:28 root:INFO:**********************
+05-08-2019 18:08:28 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+05-08-2019 18:08:28 root:INFO:**********************
+05-08-2019 18:08:28 root:INFO:[<td colspan="3">荣昌制药 银杏叶片 24片</td>, <td>荣昌制药</td>, <td>19.2mg:4.8mg*24片</td>, <td>0.021kg</td>, <td>烟台荣昌制药股份有限公司</td>, <td>
+                                                                                    国药准字Z20063922(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-08-2019 18:08:28 root:INFO:商品名称：荣昌制药 银杏叶片 24片
+05-08-2019 18:08:28 root:INFO:品　　牌：荣昌制药
+05-08-2019 18:08:28 root:INFO:规　　格：19.2mg:4.8mg*24片
+05-08-2019 18:08:28 root:INFO:重　　量：0.021kg
+05-08-2019 18:08:28 root:INFO:生产厂商:烟台荣昌制药股份有限公司
+05-08-2019 18:08:28 root:INFO:批准文号：国药准字Z20063922
+05-08-2019 18:08:28 root:INFO:产品类型：处方药
+05-08-2019 18:08:28 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+05-08-2019 18:08:28 root:INFO:<div class="itemSearchResultCon" comproid="3095951" itemid="51081509" purchasehidestatus="1">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/51081509.html" target="_blank">
+<img alt="荣昌制药 银杏叶片 24片 *4件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/item/201805/28/200_20180528100849972.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3095951">
+<span>
+                                  
+                            78.0
+                                  
+                                    <u>¥19.5/件</u>
+</span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/51081509.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          荣昌制药 银杏叶片 24片 *4件</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_1">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3095951">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_1" id="askDoctor_1106416" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="1106416" productcode="1106416" sellproductid="1106416" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_1" href="//www.111.com.cn/product/51081509.html" id="buyButton_3095951" index="0" inshop="0" merchantid="26" pminfo="3095951" productcode="3095951" sellproductid="3095951" specialtype="13">查看详情</a>
+</div>
+<div class="sheng"><span>省</span>2.0元</div>
+<u class="bg_border"></u>
+<div class="item_kit" id="item_kit">
+<div class="item_kit_clip clearfix">
+<div class="item_kit_n">
+<a class="" comproid="1106416" data-ywpoint="null_null_null_null_I1120_1" href="javascript:void(0);">1件</a>
+<a class="k_cur" comproid="3095951" data-ywpoint="null_null_null_null_I1120_1" href="javascript:void(0);">4件</a>
+<i style="left: 50px;"></i>
+</div></div>
+</div></div>
+05-08-2019 18:08:28 root:INFO:https://p3.maiyaole.com/img/item/201805/28/200_20180528100849972.jpg
+05-08-2019 18:08:28 root:INFO:http://www.111.com.cn/product/51081509.html
+05-08-2019 18:08:28 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/url {"url": "http://www.111.com.cn/product/51081509.html"}
+05-08-2019 18:08:29 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "POST /session/045060e2cdbbe0046f8d0d82b080ee85/url HTTP/1.1" 200 14
+05-08-2019 18:08:29 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:30 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/source {}
+05-08-2019 18:08:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "GET /session/045060e2cdbbe0046f8d0d82b080ee85/source HTTP/1.1" 200 243609
+05-08-2019 18:08:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:30 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">荣昌制药 银杏叶片 24片*4件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>荣昌制药</td>
+<th>规　　格：</th>
+<td>19.2mg:4.8mg*24片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.021kg</td>
+<th>生产厂商:</th>
+<td>烟台荣昌制药股份有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z20063922(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+05-08-2019 18:08:30 root:INFO:**********************
+05-08-2019 18:08:30 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>, <th>    </th>]
+05-08-2019 18:08:30 root:INFO:**********************
+05-08-2019 18:08:30 root:INFO:[<td colspan="3">荣昌制药 银杏叶片 24片*4件</td>, <td>荣昌制药</td>, <td>19.2mg:4.8mg*24片</td>, <td>0.021kg</td>, <td>烟台荣昌制药股份有限公司</td>, <td>
+                                                                                    国药准字Z20063922(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-08-2019 18:08:30 root:INFO:商品名称：荣昌制药 银杏叶片 24片*4件
+05-08-2019 18:08:30 root:INFO:品　　牌：荣昌制药
+05-08-2019 18:08:30 root:INFO:规　　格：19.2mg:4.8mg*24片
+05-08-2019 18:08:30 root:INFO:重　　量：0.021kg
+05-08-2019 18:08:30 root:INFO:生产厂商:烟台荣昌制药股份有限公司
+05-08-2019 18:08:30 root:INFO:批准文号：国药准字Z20063922
+05-08-2019 18:08:30 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+05-08-2019 18:08:30 root:INFO:<div class="itemSearchResultCon" comproid="1669774" isrecom="0" itemid="50387706">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/50387706.html" target="_blank">
+<img alt="以岭 银杏叶片 24片" data-ywpoint="null_null_null_null_I1121_2" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201901/21/200_20190121111453506.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1669774">
+<span>
+                        9.5
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/50387706.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    以岭 银杏叶片 24片</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_2">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1669774">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_2" druglevel="2" id="askDoctor_1669774" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="1669774" productcode="1669774" sellproductid="1669774" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_2" href="//www.111.com.cn/product/50387706.html" id="buyButton_1669774" index="0" inshop="0" merchantid="26" pminfo="1669774" productcode="1669774" productdisabled="true" sellproductid="1669774" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-08-2019 18:08:30 root:INFO:https://p1.maiyaole.com/img/item/201901/21/200_20190121111453506.jpg
+05-08-2019 18:08:30 root:INFO:http://www.111.com.cn/product/50387706.html
+05-08-2019 18:08:30 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/url {"url": "http://www.111.com.cn/product/50387706.html"}
+05-08-2019 18:08:31 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "POST /session/045060e2cdbbe0046f8d0d82b080ee85/url HTTP/1.1" 200 14
+05-08-2019 18:08:31 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:32 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/source {}
+05-08-2019 18:08:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "GET /session/045060e2cdbbe0046f8d0d82b080ee85/source HTTP/1.1" 200 243313
+05-08-2019 18:08:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:32 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">以岭 银杏叶片 24片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>以岭</td>
+<th>规　　格：</th>
+<td>24片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.02kg</td>
+<th>生产厂商:</th>
+<td>石家庄以岭药业股份有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z20063084(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+05-08-2019 18:08:32 root:INFO:**********************
+05-08-2019 18:08:32 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+05-08-2019 18:08:32 root:INFO:**********************
+05-08-2019 18:08:32 root:INFO:[<td colspan="3">以岭 银杏叶片 24片</td>, <td>以岭</td>, <td>24片</td>, <td>0.02kg</td>, <td>石家庄以岭药业股份有限公司</td>, <td>
+                                                                                    国药准字Z20063084(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-08-2019 18:08:32 root:INFO:商品名称：以岭 银杏叶片 24片
+05-08-2019 18:08:32 root:INFO:品　　牌：以岭
+05-08-2019 18:08:32 root:INFO:规　　格：24片
+05-08-2019 18:08:32 root:INFO:重　　量：0.02kg
+05-08-2019 18:08:32 root:INFO:生产厂商:石家庄以岭药业股份有限公司
+05-08-2019 18:08:32 root:INFO:批准文号：国药准字Z20063084
+05-08-2019 18:08:32 root:INFO:产品类型：处方药
+05-08-2019 18:08:32 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+05-08-2019 18:08:32 root:INFO:<div class="itemSearchResultCon" comproid="3483283" isrecom="0" itemid="51315841">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_3" href="//www.111.com.cn/product/51315841.html" target="_blank">
+<img alt="美罗 银杏叶片 0.5g*24片" data-ywpoint="null_null_null_null_I1121_3" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201907/22/200_20190722143836283.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3483283">
+<span>
+                        25.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_3" href="//www.111.com.cn/product/51315841.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    美罗 银杏叶片 0.5g*24片</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_3">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3483283">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_3" druglevel="2" id="askDoctor_3483283" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="3483283" productcode="3483283" sellproductid="3483283" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_3" href="//www.111.com.cn/product/51315841.html" id="buyButton_3483283" index="0" inshop="0" merchantid="26" pminfo="3483283" productcode="3483283" productdisabled="true" sellproductid="3483283" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-08-2019 18:08:32 root:INFO:https://p1.maiyaole.com/img/item/201907/22/200_20190722143836283.jpg
+05-08-2019 18:08:32 root:INFO:http://www.111.com.cn/product/51315841.html
+05-08-2019 18:08:32 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/url {"url": "http://www.111.com.cn/product/51315841.html"}
+05-08-2019 18:08:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "POST /session/045060e2cdbbe0046f8d0d82b080ee85/url HTTP/1.1" 200 14
+05-08-2019 18:08:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:34 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/source {}
+05-08-2019 18:08:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "GET /session/045060e2cdbbe0046f8d0d82b080ee85/source HTTP/1.1" 200 243279
+05-08-2019 18:08:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:34 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">美罗 银杏叶片 0.5g*24片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>美罗</td>
+<th>规　　格：</th>
+<td>0.5g*24片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.02kg</td>
+<th>生产厂商:</th>
+<td>大连美罗中药厂有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z20064282(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+05-08-2019 18:08:34 root:INFO:**********************
+05-08-2019 18:08:34 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+05-08-2019 18:08:34 root:INFO:**********************
+05-08-2019 18:08:34 root:INFO:[<td colspan="3">美罗 银杏叶片 0.5g*24片</td>, <td>美罗</td>, <td>0.5g*24片</td>, <td>0.02kg</td>, <td>大连美罗中药厂有限公司</td>, <td>
+                                                                                    国药准字Z20064282(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-08-2019 18:08:34 root:INFO:商品名称：美罗 银杏叶片 0.5g*24片
+05-08-2019 18:08:34 root:INFO:品　　牌：美罗
+05-08-2019 18:08:34 root:INFO:规　　格：0.5g*24片
+05-08-2019 18:08:34 root:INFO:重　　量：0.02kg
+05-08-2019 18:08:34 root:INFO:生产厂商:大连美罗中药厂有限公司
+05-08-2019 18:08:34 root:INFO:批准文号：国药准字Z20064282
+05-08-2019 18:08:34 root:INFO:产品类型：处方药
+05-08-2019 18:08:34 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+05-08-2019 18:08:34 root:INFO:<div class="itemSearchResultCon" comproid="2415773" isrecom="0" itemid="50756716">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/50756716.html" target="_blank">
+<img alt="东乐 银杏叶片  24片" data-ywpoint="null_null_null_null_I1121_4" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/201704/02/200_20170402105834866.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_2415773">
+<span>
+                        2.6
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/50756716.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    东乐 银杏叶片  24片</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_4">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102527591">华佗大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2415773">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_4" id="submitRequest_2415773_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50756716,1)" pminfo="2415773" productcode="2415773" sellproductid="2415773" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_4" id="submitRequest_2415773" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50756716,1)" ordersettings="11" pminfo="2415773" productcode="2415773" sellproductid="2415773" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_4" href="//www.111.com.cn/product/50756716.html" id="buyButton_2415773" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="2415773" productcode="2415773" sellproductid="2415773" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-08-2019 18:08:34 root:INFO:https://p2.maiyaole.com/img/201704/02/200_20170402105834866.jpg
+05-08-2019 18:08:34 root:INFO:http://www.111.com.cn/product/50756716.html
+05-08-2019 18:08:34 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/url {"url": "http://www.111.com.cn/product/50756716.html"}
+05-08-2019 18:08:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "POST /session/045060e2cdbbe0046f8d0d82b080ee85/url HTTP/1.1" 200 14
+05-08-2019 18:08:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:35 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/source {}
+05-08-2019 18:08:35 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "GET /session/045060e2cdbbe0046f8d0d82b080ee85/source HTTP/1.1" 200 239711
+05-08-2019 18:08:35 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:35 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">东乐 银杏叶片  24片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>东乐</td>
+<th>规　　格：</th>
+<td>24片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.01kg</td>
+<th>生产厂商:</th>
+<td>涿州东乐制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z20028025(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+05-08-2019 18:08:35 root:INFO:**********************
+05-08-2019 18:08:35 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+05-08-2019 18:08:35 root:INFO:**********************
+05-08-2019 18:08:35 root:INFO:[<td colspan="3">东乐 银杏叶片  24片</td>, <td>东乐</td>, <td>24片</td>, <td>0.01kg</td>, <td>涿州东乐制药有限公司</td>, <td>
+                                                                                    国药准字Z20028025(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-08-2019 18:08:35 root:INFO:商品名称：东乐 银杏叶片  24片
+05-08-2019 18:08:35 root:INFO:品　　牌：东乐
+05-08-2019 18:08:35 root:INFO:规　　格：24片
+05-08-2019 18:08:35 root:INFO:重　　量：0.01kg
+05-08-2019 18:08:35 root:INFO:生产厂商:涿州东乐制药有限公司
+05-08-2019 18:08:35 root:INFO:批准文号：国药准字Z20028025
+05-08-2019 18:08:35 root:INFO:产品类型：处方药
+05-08-2019 18:08:35 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+05-08-2019 18:08:35 root:INFO:<div class="itemSearchResultCon" comproid="2382822" isrecom="0" itemid="50733812">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_5" href="//www.111.com.cn/product/50733812.html" target="_blank">
+<img alt="玉川 银杏叶片 0.24g*24片" data-ywpoint="null_null_null_null_I1121_5" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/201703/08/200_20170308102411229.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_2382822">
+<span>
+                        2.8
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_5" href="//www.111.com.cn/product/50733812.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    玉川 银杏叶片 0.24g*24片</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_5">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102527591">华佗大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2382822">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_5" id="submitRequest_2382822_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50733812,1)" pminfo="2382822" productcode="2382822" sellproductid="2382822" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_5" id="submitRequest_2382822" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50733812,1)" ordersettings="11" pminfo="2382822" productcode="2382822" sellproductid="2382822" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_5" href="//www.111.com.cn/product/50733812.html" id="buyButton_2382822" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="2382822" productcode="2382822" sellproductid="2382822" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-08-2019 18:08:35 root:INFO:https://p3.maiyaole.com/img/201703/08/200_20170308102411229.jpg
+05-08-2019 18:08:35 root:INFO:http://www.111.com.cn/product/50733812.html
+05-08-2019 18:08:35 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/url {"url": "http://www.111.com.cn/product/50733812.html"}
+05-08-2019 18:08:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "POST /session/045060e2cdbbe0046f8d0d82b080ee85/url HTTP/1.1" 200 14
+05-08-2019 18:08:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:37 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/source {}
+05-08-2019 18:08:37 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "GET /session/045060e2cdbbe0046f8d0d82b080ee85/source HTTP/1.1" 200 240210
+05-08-2019 18:08:37 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:38 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">玉川 银杏叶片 0.24g*24片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>玉川</td>
+<th>规　　格：</th>
+<td>0.24g*24片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.05kg</td>
+<th>生产厂商:</th>
+<td>天津亚宝药业科技有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z20043856(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+05-08-2019 18:08:38 root:INFO:**********************
+05-08-2019 18:08:38 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+05-08-2019 18:08:38 root:INFO:**********************
+05-08-2019 18:08:38 root:INFO:[<td colspan="3">玉川 银杏叶片 0.24g*24片</td>, <td>玉川</td>, <td>0.24g*24片</td>, <td>0.05kg</td>, <td>天津亚宝药业科技有限公司</td>, <td>
+                                                                                    国药准字Z20043856(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-08-2019 18:08:38 root:INFO:商品名称：玉川 银杏叶片 0.24g*24片
+05-08-2019 18:08:38 root:INFO:品　　牌：玉川
+05-08-2019 18:08:38 root:INFO:规　　格：0.24g*24片
+05-08-2019 18:08:38 root:INFO:重　　量：0.05kg
+05-08-2019 18:08:38 root:INFO:生产厂商:天津亚宝药业科技有限公司
+05-08-2019 18:08:38 root:INFO:批准文号：国药准字Z20043856
+05-08-2019 18:08:38 root:INFO:产品类型：处方药
+05-08-2019 18:08:38 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+05-08-2019 18:08:38 root:INFO:<div class="itemSearchResultCon" comproid="2741213" isrecom="0" itemid="50828543">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_6" href="//www.111.com.cn/product/50828543.html" target="_blank">
+<img alt="亿康 银杏叶片 9.6mg∶2.4mg*24片" data-ywpoint="null_null_null_null_I1121_6" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/201705/17/200_20170517085735886.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_2741213">
+<span>
+                        4.9
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_6" href="//www.111.com.cn/product/50828543.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    亿康 银杏叶片 9.6mg∶2.4mg*24片</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_6">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102527591">华佗大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2741213">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_6" id="submitRequest_2741213_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50828543,1)" pminfo="2741213" productcode="2741213" sellproductid="2741213" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_6" id="submitRequest_2741213" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50828543,1)" ordersettings="11" pminfo="2741213" productcode="2741213" sellproductid="2741213" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_6" href="//www.111.com.cn/product/50828543.html" id="buyButton_2741213" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="2741213" productcode="2741213" sellproductid="2741213" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-08-2019 18:08:38 root:INFO:https://p3.maiyaole.com/img/201705/17/200_20170517085735886.jpg
+05-08-2019 18:08:38 root:INFO:http://www.111.com.cn/product/50828543.html
+05-08-2019 18:08:38 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/url {"url": "http://www.111.com.cn/product/50828543.html"}
+05-08-2019 18:08:38 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "POST /session/045060e2cdbbe0046f8d0d82b080ee85/url HTTP/1.1" 200 14
+05-08-2019 18:08:38 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:39 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/source {}
+05-08-2019 18:08:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "GET /session/045060e2cdbbe0046f8d0d82b080ee85/source HTTP/1.1" 200 241356
+05-08-2019 18:08:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:39 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">亿康 银杏叶片 9.6mg∶2.4mg*24片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>其他</td>
+<th>规　　格：</th>
+<td>9.6mg:2.4mgx12片x2板/盒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.002kg</td>
+<th>生产厂商:</th>
+<td>广西亿康药业股份有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z20027940(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+05-08-2019 18:08:39 root:INFO:**********************
+05-08-2019 18:08:39 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+05-08-2019 18:08:39 root:INFO:**********************
+05-08-2019 18:08:39 root:INFO:[<td colspan="3">亿康 银杏叶片 9.6mg∶2.4mg*24片</td>, <td>其他</td>, <td>9.6mg:2.4mgx12片x2板/盒</td>, <td>0.002kg</td>, <td>广西亿康药业股份有限公司</td>, <td>
+                                                                                    国药准字Z20027940(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-08-2019 18:08:39 root:INFO:商品名称：亿康 银杏叶片 9.6mg∶2.4mg*24片
+05-08-2019 18:08:39 root:INFO:品　　牌：其他
+05-08-2019 18:08:39 root:INFO:规　　格：9.6mg:2.4mgx12片x2板/盒
+05-08-2019 18:08:39 root:INFO:重　　量：0.002kg
+05-08-2019 18:08:39 root:INFO:生产厂商:广西亿康药业股份有限公司
+05-08-2019 18:08:39 root:INFO:批准文号：国药准字Z20027940
+05-08-2019 18:08:39 root:INFO:产品类型：处方药
+05-08-2019 18:08:39 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+05-08-2019 18:08:39 root:INFO:<div class="itemSearchResultCon" comproid="3270822" isrecom="0" itemid="51194871">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_7" href="//www.111.com.cn/product/51194871.html" target="_blank">
+<img alt="亿康 银杏叶片 9.6mg:2.4mg*12片*2板" data-ywpoint="null_null_null_null_I1121_7" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/201607/22/120_20160722134347725.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3270822">
+<span>
+                        6.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_7" href="//www.111.com.cn/product/51194871.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    亿康 银杏叶片 9.6mg:2.4mg*12片*2板温馨提示：请仔细阅读说明书并按说明使用或在药师指导下购买和使用</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_7">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102551176">瑞人堂大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3270822">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_7" id="submitRequest_3270822_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51194871,1)" pminfo="3270822" productcode="3270822" sellproductid="3270822" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_7" id="submitRequest_3270822" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51194871,1)" ordersettings="11" pminfo="3270822" productcode="3270822" sellproductid="3270822" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_7" href="//www.111.com.cn/product/51194871.html" id="buyButton_3270822" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3270822" productcode="3270822" sellproductid="3270822" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-08-2019 18:08:39 root:INFO:https://p2.maiyaole.com/img/201607/22/120_20160722134347725.jpg
+05-08-2019 18:08:39 root:INFO:http://www.111.com.cn/product/51194871.html
+05-08-2019 18:08:39 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/url {"url": "http://www.111.com.cn/product/51194871.html"}
+05-08-2019 18:08:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "POST /session/045060e2cdbbe0046f8d0d82b080ee85/url HTTP/1.1" 200 14
+05-08-2019 18:08:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:41 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/source {}
+05-08-2019 18:08:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "GET /session/045060e2cdbbe0046f8d0d82b080ee85/source HTTP/1.1" 200 244530
+05-08-2019 18:08:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:41 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">亿康 银杏叶片 9.6mg:2.4mg*12片*2板</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>亿康</td>
+<th>规　　格：</th>
+<td>9.6mg:2.4mg*12片*2板</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.02kg</td>
+<th>生产厂商:</th>
+<td>广西两面针亿康药业股份有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z20027940(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+05-08-2019 18:08:41 root:INFO:**********************
+05-08-2019 18:08:41 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+05-08-2019 18:08:41 root:INFO:**********************
+05-08-2019 18:08:41 root:INFO:[<td colspan="3">亿康 银杏叶片 9.6mg:2.4mg*12片*2板</td>, <td>亿康</td>, <td>9.6mg:2.4mg*12片*2板</td>, <td>0.02kg</td>, <td>广西两面针亿康药业股份有限公司</td>, <td>
+                                                                                    国药准字Z20027940(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-08-2019 18:08:41 root:INFO:商品名称：亿康 银杏叶片 9.6mg:2.4mg*12片*2板
+05-08-2019 18:08:41 root:INFO:品　　牌：亿康
+05-08-2019 18:08:41 root:INFO:规　　格：9.6mg:2.4mg*12片*2板
+05-08-2019 18:08:41 root:INFO:重　　量：0.02kg
+05-08-2019 18:08:41 root:INFO:生产厂商:广西两面针亿康药业股份有限公司
+05-08-2019 18:08:41 root:INFO:批准文号：国药准字Z20027940
+05-08-2019 18:08:41 root:INFO:产品类型：处方药
+05-08-2019 18:08:41 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+05-08-2019 18:08:41 root:INFO:<div class="itemSearchResultCon" comproid="3042963" isrecom="0" itemid="51034990">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_8" href="//www.111.com.cn/product/51034990.html" target="_blank">
+<textarea data-original="" lz="true" style="visibility:hidden;">                              &lt;img src="https://p2.maiyaole.com/img/201803/20/200_20180320152218675.jpg" alt="以岭 银杏叶片 24片" onerror="imgERROR(this,'no_pic_120_120.jpg');" width="205" height="188" data-ywpoint='null_null_null_null_I1121_8'&gt;
+                          </textarea>
+</a>
+<p class="price" id="promotionInfo_3042963">
+<textarea data-original="" lz="true" style="visibility:hidden;">                                  
+                                &lt;span&gt;
+                                    7.9
+                                &lt;/span&gt;
+                              </textarea>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_8" href="//www.111.com.cn/product/51034990.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    以岭 银杏叶片 24片</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_8">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102527591">华佗大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3042963">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_8" id="submitRequest_3042963_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51034990,1)" pminfo="3042963" productcode="3042963" sellproductid="3042963" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_8" id="submitRequest_3042963" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51034990,1)" ordersettings="11" pminfo="3042963" productcode="3042963" sellproductid="3042963" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_8" href="//www.111.com.cn/product/51034990.html" id="buyButton_3042963" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3042963" productcode="3042963" sellproductid="3042963" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-08-2019 18:08:41 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85/window {}
+05-08-2019 18:08:42 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "DELETE /session/045060e2cdbbe0046f8d0d82b080ee85/window HTTP/1.1" 200 12
+05-08-2019 18:08:42 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-08-2019 18:08:42 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:58299/session/045060e2cdbbe0046f8d0d82b080ee85 {}
+05-08-2019 18:08:42 urllib3.connectionpool:DEBUG:http://127.0.0.1:58299 "DELETE /session/045060e2cdbbe0046f8d0d82b080ee85 HTTP/1.1" 200 14
+05-08-2019 18:08:42 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

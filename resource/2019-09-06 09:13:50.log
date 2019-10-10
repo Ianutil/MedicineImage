@@ -1,0 +1,609 @@
+06-13-2019 09:13:50 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/url {"url": "https://www.111.com.cn"}
+06-13-2019 09:13:51 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "POST /session/fe94878108e3d5c8a99746c1bbfe84d3/url HTTP/1.1" 200 14
+06-13-2019 09:13:51 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-13-2019 09:13:52 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/source {}
+06-13-2019 09:13:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "GET /session/fe94878108e3d5c8a99746c1bbfe84d3/source HTTP/1.1" 200 340132
+06-13-2019 09:13:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-13-2019 09:13:52 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u73bb\u7483\u9178\u94a0\u6ef4\u773c\u6db2\");\n$(\"#word\").attr(\"value\",\"\u73bb\u7483\u9178\u94a0\u6ef4\u773c\u6db2\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-13-2019 09:13:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "POST /session/fe94878108e3d5c8a99746c1bbfe84d3/execute/sync HTTP/1.1" 200 14
+06-13-2019 09:13:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-13-2019 09:13:53 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/source {}
+06-13-2019 09:13:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "GET /session/fe94878108e3d5c8a99746c1bbfe84d3/source HTTP/1.1" 200 680387
+06-13-2019 09:13:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-13-2019 09:13:54 root:INFO:<div class="itemSearchResultCon none" comproid="1106704" isrecom="0" itemid="50088525">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50088525.html" target="_blank">
+<img alt="【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/item/201908/15/200_20190815104527632.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1106704">
+<span>
+                        78.8
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50088525.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml【拍下到手价61.8元/盒】用于干眼症，缓解干眼症状。</a>
+<a class="promoTitle" href="//www.111.com.cn/list/promotion.action?promoid=145142" id="promotion_1106704" pnamesubtitle="【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml" pstock="101" rel="nofollow" ruletype="0" stockflag="" target="_blank" title="">到手价61.8元/盒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1106704">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" druglevel="2" id="askDoctor_1106704" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432120732700',1);" pminfo="1106704" productcode="1106704" sellproductid="1106704" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/50088525.html" id="buyButton_1106704" index="0" inshop="0" merchantid="26" pminfo="1106704" productcode="1106704" productdisabled="true" sellproductid="1106704" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-13-2019 09:13:54 root:INFO:https://p3.maiyaole.com/img/item/201908/15/200_20190815104527632.jpg
+06-13-2019 09:13:54 root:INFO:http://www.111.com.cn/product/50088525.html
+06-13-2019 09:13:54 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/url {"url": "http://www.111.com.cn/product/50088525.html"}
+06-13-2019 09:13:55 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "POST /session/fe94878108e3d5c8a99746c1bbfe84d3/url HTTP/1.1" 200 14
+06-13-2019 09:13:55 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-13-2019 09:13:56 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/source {}
+06-13-2019 09:13:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "GET /session/fe94878108e3d5c8a99746c1bbfe84d3/source HTTP/1.1" 200 248078
+06-13-2019 09:13:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-13-2019 09:13:56 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>海露</td>
+<th>规　　格：</th>
+<td>10ml*1支</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.04kg</td>
+<th>生产厂商:</th>
+<td>URSAPHARM Arzneimittel GmbH</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    H20150150(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-13-2019 09:13:56 root:INFO:**********************
+06-13-2019 09:13:56 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-13-2019 09:13:56 root:INFO:**********************
+06-13-2019 09:13:56 root:INFO:[<td colspan="3">【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml</td>, <td>海露</td>, <td>10ml*1支</td>, <td>0.04kg</td>, <td>URSAPHARM Arzneimittel GmbH</td>, <td>
+                                                                                    H20150150(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-13-2019 09:13:56 root:INFO:商品名称：【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml
+06-13-2019 09:13:56 root:INFO:品　　牌：海露
+06-13-2019 09:13:56 root:INFO:规　　格：10ml*1支
+06-13-2019 09:13:56 root:INFO:重　　量：0.04kg
+06-13-2019 09:13:56 root:INFO:生产厂商:URSAPHARM Arzneimittel GmbH
+06-13-2019 09:13:56 root:INFO:批准文号：H20150150
+06-13-2019 09:13:56 root:INFO:产品类型：处方药
+06-13-2019 09:13:56 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-13-2019 09:13:56 root:INFO:<div class="itemSearchResultCon" comproid="3407266" itemid="51285449" purchasehidestatus="2">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51285449.html" target="_blank">
+<img alt="【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml *3件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/50088/50088525/120_120.jpg?a=401306260" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3407266">
+<span>
+                                  
+                            233.4
+                                  
+                                    <u>¥77.8/件</u>
+</span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51285449.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml *3件</a>
+<a class="promoTitle" href="//www.111.com.cn/list/promotion.action?promoid=" id="promotion_3407266" pnamesubtitle="【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml *3件" pstock="101" rel="nofollow" ruletype="0" stockflag="" target="_blank" title=""></a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3407266">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" id="askDoctor_1106704" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432120732700',1);" pminfo="1106704" productcode="1106704" sellproductid="1106704" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/51285449.html" id="buyButton_3407266" index="0" inshop="0" merchantid="26" pminfo="3407266" productcode="3407266" sellproductid="3407266" specialtype="13">查看详情</a>
+</div>
+<div class="sheng"><span>省</span>3.0元</div>
+<u class="bg_border"></u>
+<div class="item_kit" id="item_kit">
+<div class="item_kit_clip clearfix">
+<div class="item_kit_n">
+<a class="" comproid="1106704" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">1件</a>
+<a class="k_cur" comproid="3407266" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">3件</a>
+<a class="" comproid="3407259" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">2件</a>
+<a class="" comproid="3591079" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">3件</a>
+<i style="left: 0px;"></i>
+</div></div>
+</div></div>
+06-13-2019 09:13:56 root:INFO:https://p3.maiyaole.com/img/50088/50088525/120_120.jpg?a=401306260
+06-13-2019 09:13:56 root:INFO:http://www.111.com.cn/product/51285449.html
+06-13-2019 09:13:56 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/url {"url": "http://www.111.com.cn/product/51285449.html"}
+06-13-2019 09:13:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "POST /session/fe94878108e3d5c8a99746c1bbfe84d3/url HTTP/1.1" 200 14
+06-13-2019 09:13:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-13-2019 09:13:58 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/source {}
+06-13-2019 09:13:58 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "GET /session/fe94878108e3d5c8a99746c1bbfe84d3/source HTTP/1.1" 200 244830
+06-13-2019 09:13:58 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-13-2019 09:13:58 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml*3件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>海露</td>
+<th>规　　格：</th>
+<td>10ml*1支</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.04kg</td>
+<th>生产厂商:</th>
+<td>URSAPHARM Arzneimittel GmbH</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    H20150150(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-13-2019 09:13:58 root:INFO:**********************
+06-13-2019 09:13:58 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-13-2019 09:13:58 root:INFO:**********************
+06-13-2019 09:13:58 root:INFO:[<td colspan="3">【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml*3件</td>, <td>海露</td>, <td>10ml*1支</td>, <td>0.04kg</td>, <td>URSAPHARM Arzneimittel GmbH</td>, <td>
+                                                                                    H20150150(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-13-2019 09:13:58 root:INFO:商品名称：【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml*3件
+06-13-2019 09:13:58 root:INFO:品　　牌：海露
+06-13-2019 09:13:58 root:INFO:规　　格：10ml*1支
+06-13-2019 09:13:58 root:INFO:重　　量：0.04kg
+06-13-2019 09:13:58 root:INFO:生产厂商:URSAPHARM Arzneimittel GmbH
+06-13-2019 09:13:58 root:INFO:批准文号：H20150150
+06-13-2019 09:13:58 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-13-2019 09:13:58 root:INFO:<div class="itemSearchResultCon none" comproid="3407259" itemid="51285447" purchasehidestatus="2">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51285447.html" target="_blank">
+<img alt="【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml *2件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/50088/50088525/120_120.jpg?a=401306260" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3407259">
+<span>
+                                  
+                            156.6
+                                  
+                                    <u>¥78.3/件</u>
+</span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51285447.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml *2件</a>
+<a class="promoTitle" href="//www.111.com.cn/list/promotion.action?promoid=" id="promotion_3407259" pnamesubtitle="【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml *2件" pstock="101" rel="nofollow" ruletype="0" stockflag="" target="_blank" title=""></a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3407259">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" id="askDoctor_1106704" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432120732700',1);" pminfo="1106704" productcode="1106704" sellproductid="1106704" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/51285447.html" id="buyButton_3407259" index="0" inshop="0" merchantid="26" pminfo="3407259" productcode="3407259" sellproductid="3407259" specialtype="13">查看详情</a>
+</div>
+<div class="sheng"><span>省</span>1.0元</div>
+<u class="bg_border"></u>
+</div>
+06-13-2019 09:13:58 root:INFO:https://p3.maiyaole.com/img/50088/50088525/120_120.jpg?a=401306260
+06-13-2019 09:13:58 root:INFO:http://www.111.com.cn/product/51285447.html
+06-13-2019 09:13:58 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/url {"url": "http://www.111.com.cn/product/51285447.html"}
+06-13-2019 09:13:58 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "POST /session/fe94878108e3d5c8a99746c1bbfe84d3/url HTTP/1.1" 200 14
+06-13-2019 09:13:58 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-13-2019 09:13:59 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/source {}
+06-13-2019 09:13:59 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "GET /session/fe94878108e3d5c8a99746c1bbfe84d3/source HTTP/1.1" 200 244830
+06-13-2019 09:13:59 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-13-2019 09:13:59 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml*2件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>海露</td>
+<th>规　　格：</th>
+<td>10ml*1支</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.04kg</td>
+<th>生产厂商:</th>
+<td>URSAPHARM Arzneimittel GmbH</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    H20150150(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-13-2019 09:13:59 root:INFO:**********************
+06-13-2019 09:13:59 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-13-2019 09:13:59 root:INFO:**********************
+06-13-2019 09:13:59 root:INFO:[<td colspan="3">【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml*2件</td>, <td>海露</td>, <td>10ml*1支</td>, <td>0.04kg</td>, <td>URSAPHARM Arzneimittel GmbH</td>, <td>
+                                                                                    H20150150(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-13-2019 09:13:59 root:INFO:商品名称：【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml*2件
+06-13-2019 09:13:59 root:INFO:品　　牌：海露
+06-13-2019 09:13:59 root:INFO:规　　格：10ml*1支
+06-13-2019 09:13:59 root:INFO:重　　量：0.04kg
+06-13-2019 09:13:59 root:INFO:生产厂商:URSAPHARM Arzneimittel GmbH
+06-13-2019 09:13:59 root:INFO:批准文号：H20150150
+06-13-2019 09:13:59 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-13-2019 09:13:59 root:INFO:<div class="itemSearchResultCon none" comproid="3591079" itemid="51350447" purchasehidestatus="1">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51350447.html" target="_blank">
+<img alt="【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml *3件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/item/201908/19/200_20190819091847159.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3591079">
+<span>
+                                  
+                            236.4
+                                  
+                                    <u>¥78.8/件</u>
+</span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51350447.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml *3件</a>
+<a class="promoTitle" href="//www.111.com.cn/list/promotion.action?promoid=" id="promotion_3591079" pnamesubtitle="【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml *3件" pstock="101" rel="nofollow" ruletype="0" stockflag="" target="_blank" title=""></a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3591079">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" id="askDoctor_1106704" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432120732700',1);" pminfo="1106704" productcode="1106704" sellproductid="1106704" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/51350447.html" id="buyButton_3591079" index="0" inshop="0" merchantid="26" pminfo="3591079" productcode="3591079" sellproductid="3591079" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+</div>
+06-13-2019 09:13:59 root:INFO:https://p2.maiyaole.com/img/item/201908/19/200_20190819091847159.jpg
+06-13-2019 09:13:59 root:INFO:http://www.111.com.cn/product/51350447.html
+06-13-2019 09:13:59 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/url {"url": "http://www.111.com.cn/product/51350447.html"}
+06-14-2019 09:14:00 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "POST /session/fe94878108e3d5c8a99746c1bbfe84d3/url HTTP/1.1" 200 14
+06-14-2019 09:14:00 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-14-2019 09:14:01 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/source {}
+06-14-2019 09:14:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "GET /session/fe94878108e3d5c8a99746c1bbfe84d3/source HTTP/1.1" 200 244829
+06-14-2019 09:14:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-14-2019 09:14:01 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml*3件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>海露</td>
+<th>规　　格：</th>
+<td>10ml*1支</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.04kg</td>
+<th>生产厂商:</th>
+<td>URSAPHARM Arzneimittel GmbH</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    H20150150(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-14-2019 09:14:01 root:INFO:**********************
+06-14-2019 09:14:01 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-14-2019 09:14:01 root:INFO:**********************
+06-14-2019 09:14:01 root:INFO:[<td colspan="3">【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml*3件</td>, <td>海露</td>, <td>10ml*1支</td>, <td>0.04kg</td>, <td>URSAPHARM Arzneimittel GmbH</td>, <td>
+                                                                                    H20150150(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-14-2019 09:14:01 root:INFO:商品名称：【拍下立减】海露/HYCOSAN 玻璃酸钠滴眼液 10ml*3件
+06-14-2019 09:14:01 root:INFO:品　　牌：海露
+06-14-2019 09:14:01 root:INFO:规　　格：10ml*1支
+06-14-2019 09:14:01 root:INFO:重　　量：0.04kg
+06-14-2019 09:14:01 root:INFO:生产厂商:URSAPHARM Arzneimittel GmbH
+06-14-2019 09:14:01 root:INFO:批准文号：H20150150
+06-14-2019 09:14:01 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-14-2019 09:14:01 root:INFO:<div class="itemSearchResultCon" comproid="2681371" isrecom="0" itemid="50794860">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/50794860.html" target="_blank">
+<img alt="爱丽 玻璃酸钠滴眼液 5ml:15mg" data-ywpoint="null_null_null_null_I1121_1" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/item/201809/28/200_20180928103920843.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_2681371">
+<span>
+                        39.5
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/50794860.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    爱丽 玻璃酸钠滴眼液 5ml:15mg适用于伴随下述疾患的角结膜上皮损伤：1.干燥综合征,斯.约二氏综合征,干眼综合征等内因性疾患；2.手术后、药物性、外伤、佩戴隐形眼镜等外因性疾患。</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_1">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2681371">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_1" druglevel="2" id="askDoctor_2681371" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432120732700',1);" pminfo="2681371" productcode="2681371" sellproductid="2681371" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_1" href="//www.111.com.cn/product/50794860.html" id="buyButton_2681371" index="0" inshop="0" merchantid="26" pminfo="2681371" productcode="2681371" productdisabled="true" sellproductid="2681371" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-14-2019 09:14:01 root:INFO:https://p4.maiyaole.com/img/item/201809/28/200_20180928103920843.jpg
+06-14-2019 09:14:01 root:INFO:http://www.111.com.cn/product/50794860.html
+06-14-2019 09:14:01 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/url {"url": "http://www.111.com.cn/product/50794860.html"}
+06-14-2019 09:14:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "POST /session/fe94878108e3d5c8a99746c1bbfe84d3/url HTTP/1.1" 200 14
+06-14-2019 09:14:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-14-2019 09:14:03 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/source {}
+06-14-2019 09:14:03 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "GET /session/fe94878108e3d5c8a99746c1bbfe84d3/source HTTP/1.1" 200 246928
+06-14-2019 09:14:03 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-14-2019 09:14:03 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">爱丽 玻璃酸钠滴眼液 5ml:15mg</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>爱丽</td>
+<th>规　　格：</th>
+<td>0.3%(5ml:15mg)</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.015kg</td>
+<th>生产厂商:</th>
+<td>Santen Pharmaceutical Co.Ltd</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    进口药品注册证H20171192(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-14-2019 09:14:03 root:INFO:**********************
+06-14-2019 09:14:03 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-14-2019 09:14:03 root:INFO:**********************
+06-14-2019 09:14:03 root:INFO:[<td colspan="3">爱丽 玻璃酸钠滴眼液 5ml:15mg</td>, <td>爱丽</td>, <td>0.3%(5ml:15mg)</td>, <td>0.015kg</td>, <td>Santen Pharmaceutical Co.Ltd</td>, <td>
+                                                                                    进口药品注册证H20171192(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-14-2019 09:14:03 root:INFO:商品名称：爱丽 玻璃酸钠滴眼液 5ml:15mg
+06-14-2019 09:14:03 root:INFO:品　　牌：爱丽
+06-14-2019 09:14:03 root:INFO:规　　格：0.3%(5ml:15mg)
+06-14-2019 09:14:03 root:INFO:重　　量：0.015kg
+06-14-2019 09:14:03 root:INFO:生产厂商:Santen Pharmaceutical Co.Ltd
+06-14-2019 09:14:03 root:INFO:批准文号：进口药品注册证H20171192
+06-14-2019 09:14:03 root:INFO:产品类型：处方药
+06-14-2019 09:14:03 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-14-2019 09:14:03 root:INFO:<div class="itemSearchResultCon none" comproid="779614" isrecom="0" itemid="974952">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/974952.html" target="_blank">
+<img alt="爱丽 玻璃酸钠滴眼液 5ml:5mg" data-ywpoint="null_null_null_null_I1121_2" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/item/201807/26/200_20180726160956215.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_779614">
+<span>
+                        26.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/974952.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    爱丽 玻璃酸钠滴眼液 5ml:5mg用于干燥综合症（Sjogren,s syndrome）、斯-约二氏综合症（Stevens-Johnson syndrome）、眼干燥症（dry eye）等内因性疾患及各种外因性疾患（如手术、药物性、外伤、配戴隐形眼镜等）所致的角结膜上皮损伤。尤其适用于干燥综合症和斯-约二氏综合症需长期用药的患者。</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_2">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_779614">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_2" druglevel="2" id="askDoctor_779614" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432120732700',1);" pminfo="779614" productcode="779614" sellproductid="779614" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_2" href="//www.111.com.cn/product/974952.html" id="buyButton_779614" index="0" inshop="0" merchantid="26" pminfo="779614" productcode="779614" productdisabled="true" sellproductid="779614" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-14-2019 09:14:03 root:INFO:https://p3.maiyaole.com/img/item/201807/26/200_20180726160956215.jpg
+06-14-2019 09:14:03 root:INFO:http://www.111.com.cn/product/974952.html
+06-14-2019 09:14:03 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/url {"url": "http://www.111.com.cn/product/974952.html"}
+06-14-2019 09:14:04 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "POST /session/fe94878108e3d5c8a99746c1bbfe84d3/url HTTP/1.1" 200 14
+06-14-2019 09:14:04 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-14-2019 09:14:05 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/source {}
+06-14-2019 09:14:05 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "GET /session/fe94878108e3d5c8a99746c1bbfe84d3/source HTTP/1.1" 200 248917
+06-14-2019 09:14:05 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-14-2019 09:14:05 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">爱丽 玻璃酸钠滴眼液 5ml:5mg</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>爱丽</td>
+<th>规　　格：</th>
+<td>5ml:5mg</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.015kg</td>
+<th>生产厂商:</th>
+<td>Santen Pharmaceutical Co.Ltd</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    进口药品注册证H20130583(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-14-2019 09:14:05 root:INFO:**********************
+06-14-2019 09:14:05 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-14-2019 09:14:05 root:INFO:**********************
+06-14-2019 09:14:05 root:INFO:[<td colspan="3">爱丽 玻璃酸钠滴眼液 5ml:5mg</td>, <td>爱丽</td>, <td>5ml:5mg</td>, <td>0.015kg</td>, <td>Santen Pharmaceutical Co.Ltd</td>, <td>
+                                                                                    进口药品注册证H20130583(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-14-2019 09:14:05 root:INFO:商品名称：爱丽 玻璃酸钠滴眼液 5ml:5mg
+06-14-2019 09:14:05 root:INFO:品　　牌：爱丽
+06-14-2019 09:14:05 root:INFO:规　　格：5ml:5mg
+06-14-2019 09:14:05 root:INFO:重　　量：0.015kg
+06-14-2019 09:14:05 root:INFO:生产厂商:Santen Pharmaceutical Co.Ltd
+06-14-2019 09:14:05 root:INFO:批准文号：进口药品注册证H20130583
+06-14-2019 09:14:05 root:INFO:#### 下载路径 #### ./file/image/5251/0.jpg
+06-14-2019 09:14:05 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/item/201807/26/200_20180726160956215.jpg
+06-14-2019 09:14:05 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+06-14-2019 09:14:05 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/item/201807/26/200_20180726160956215.jpg HTTP/1.1" 200 12640
+06-14-2019 09:14:05 root:INFO:#### 下载路径 #### ./file/image/5251/1.jpg
+06-14-2019 09:14:05 root:INFO:#### 下载URL #### https://p4.maiyaole.com/img/item/201807/26/org_20180726160956215.jpg
+06-14-2019 09:14:05 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p4.maiyaole.com:443
+06-14-2019 09:14:05 urllib3.connectionpool:DEBUG:https://p4.maiyaole.com:443 "GET /img/item/201807/26/org_20180726160956215.jpg HTTP/1.1" 200 117380
+06-14-2019 09:14:05 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3/window {}
+06-14-2019 09:14:05 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "DELETE /session/fe94878108e3d5c8a99746c1bbfe84d3/window HTTP/1.1" 200 12
+06-14-2019 09:14:05 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-14-2019 09:14:05 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:52472/session/fe94878108e3d5c8a99746c1bbfe84d3 {}
+06-14-2019 09:14:05 urllib3.connectionpool:DEBUG:http://127.0.0.1:52472 "DELETE /session/fe94878108e3d5c8a99746c1bbfe84d3 HTTP/1.1" 200 14
+06-14-2019 09:14:05 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

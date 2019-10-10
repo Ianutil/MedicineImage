@@ -1,0 +1,201 @@
+05-32-2019 17:32:54 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63948/session/7c91acb843adfc22968d3e90aa8b057b/url {"url": "https://www.111.com.cn"}
+05-32-2019 17:32:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:63948 "POST /session/7c91acb843adfc22968d3e90aa8b057b/url HTTP/1.1" 200 14
+05-32-2019 17:32:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-32-2019 17:32:57 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63948/session/7c91acb843adfc22968d3e90aa8b057b/source {}
+05-32-2019 17:32:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:63948 "GET /session/7c91acb843adfc22968d3e90aa8b057b/source HTTP/1.1" 200 340134
+05-32-2019 17:32:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-32-2019 17:32:57 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63948/session/7c91acb843adfc22968d3e90aa8b057b/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u590d\u65b9\u6d88\u5316\u9176\u80f6\u56ca\");\n$(\"#word\").attr(\"value\",\"\u590d\u65b9\u6d88\u5316\u9176\u80f6\u56ca\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+05-32-2019 17:32:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:63948 "POST /session/7c91acb843adfc22968d3e90aa8b057b/execute/sync HTTP/1.1" 200 14
+05-32-2019 17:32:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-32-2019 17:32:58 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63948/session/7c91acb843adfc22968d3e90aa8b057b/source {}
+05-32-2019 17:32:58 urllib3.connectionpool:DEBUG:http://127.0.0.1:63948 "GET /session/7c91acb843adfc22968d3e90aa8b057b/source HTTP/1.1" 200 612358
+05-32-2019 17:32:58 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-32-2019 17:32:58 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63948/session/7c91acb843adfc22968d3e90aa8b057b/url {"url": "http://www.111.com.cn/product/988255.html"}
+05-32-2019 17:32:59 urllib3.connectionpool:DEBUG:http://127.0.0.1:63948 "POST /session/7c91acb843adfc22968d3e90aa8b057b/url HTTP/1.1" 200 14
+05-32-2019 17:32:59 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-33-2019 17:33:00 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63948/session/7c91acb843adfc22968d3e90aa8b057b/source {}
+05-33-2019 17:33:00 urllib3.connectionpool:DEBUG:http://127.0.0.1:63948 "GET /session/7c91acb843adfc22968d3e90aa8b057b/source HTTP/1.1" 200 248444
+05-33-2019 17:33:00 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-33-2019 17:33:00 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">达吉 复方消化酶胶囊 20粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>达吉</td>
+<th>规　　格：</th>
+<td>20粒/盒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.031kg</td>
+<th>生产厂商:</th>
+<td>韩林制药株式会社</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    进口药品注册证H20181242(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+05-33-2019 17:33:00 root:INFO:**********************
+05-33-2019 17:33:00 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+05-33-2019 17:33:00 root:INFO:**********************
+05-33-2019 17:33:00 root:INFO:[<td colspan="3">达吉 复方消化酶胶囊 20粒</td>, <td>达吉</td>, <td>20粒/盒</td>, <td>0.031kg</td>, <td>韩林制药株式会社</td>, <td>
+                                                                                    进口药品注册证H20181242(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-33-2019 17:33:00 root:INFO:商品名称：达吉 复方消化酶胶囊 20粒
+05-33-2019 17:33:00 root:INFO:品　　牌：达吉
+05-33-2019 17:33:00 root:INFO:规　　格：20粒/盒
+05-33-2019 17:33:00 root:INFO:重　　量：0.031kg
+05-33-2019 17:33:00 root:INFO:生产厂商:韩林制药株式会社
+05-33-2019 17:33:00 root:INFO:批准文号：进口药品注册证H20181242
+05-33-2019 17:33:00 root:INFO:#### 下载路径 #### ./file/image/4091/0.jpg
+05-33-2019 17:33:00 root:INFO:#### 下载URL #### https://p1.maiyaole.com/img/item/201702/17/200_2017021717485952.jpg
+05-33-2019 17:33:00 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p1.maiyaole.com:443
+05-33-2019 17:33:00 urllib3.connectionpool:DEBUG:https://p1.maiyaole.com:443 "GET /img/item/201702/17/200_2017021717485952.jpg HTTP/1.1" 200 32898
+05-33-2019 17:33:00 root:INFO:#### 下载路径 #### ./file/image/4091/1.jpg
+05-33-2019 17:33:00 root:INFO:#### 下载URL #### https://p1.maiyaole.com/img/item/201702/17/org_2017021717485952.jpg
+05-33-2019 17:33:00 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p1.maiyaole.com:443
+05-33-2019 17:33:00 urllib3.connectionpool:DEBUG:https://p1.maiyaole.com:443 "GET /img/item/201702/17/org_2017021717485952.jpg HTTP/1.1" 200 312841
+05-33-2019 17:33:00 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63948/session/7c91acb843adfc22968d3e90aa8b057b/url {"url": "http://www.111.com.cn/product/50096730.html"}
+05-33-2019 17:33:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:63948 "POST /session/7c91acb843adfc22968d3e90aa8b057b/url HTTP/1.1" 200 14
+05-33-2019 17:33:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-33-2019 17:33:02 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63948/session/7c91acb843adfc22968d3e90aa8b057b/source {}
+05-33-2019 17:33:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:63948 "GET /session/7c91acb843adfc22968d3e90aa8b057b/source HTTP/1.1" 200 248576
+05-33-2019 17:33:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-33-2019 17:33:02 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">星昊美彤 复方消化酶胶囊 10粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>星昊美彤</td>
+<th>规　　格：</th>
+<td>10粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.018kg</td>
+<th>生产厂商:</th>
+<td>广东星昊药业有限公司委托北京星昊医药股份有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20064646(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+05-33-2019 17:33:02 root:INFO:**********************
+05-33-2019 17:33:02 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+05-33-2019 17:33:02 root:INFO:**********************
+05-33-2019 17:33:02 root:INFO:[<td colspan="3">星昊美彤 复方消化酶胶囊 10粒</td>, <td>星昊美彤</td>, <td>10粒</td>, <td>0.018kg</td>, <td>广东星昊药业有限公司委托北京星昊医药股份有限公司</td>, <td>
+                                                                                    国药准字H20064646(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-33-2019 17:33:02 root:INFO:商品名称：星昊美彤 复方消化酶胶囊 10粒
+05-33-2019 17:33:02 root:INFO:品　　牌：星昊美彤
+05-33-2019 17:33:02 root:INFO:规　　格：10粒
+05-33-2019 17:33:02 root:INFO:重　　量：0.018kg
+05-33-2019 17:33:02 root:INFO:生产厂商:广东星昊药业有限公司委托北京星昊医药股份有限公司
+05-33-2019 17:33:02 root:INFO:批准文号：国药准字H20064646
+05-33-2019 17:33:02 root:INFO:产品类型：OTC（非处方药）
+05-33-2019 17:33:02 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+05-33-2019 17:33:02 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63948/session/7c91acb843adfc22968d3e90aa8b057b/url {"url": "http://www.111.com.cn/product/51130864.html"}
+05-33-2019 17:33:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:63948 "POST /session/7c91acb843adfc22968d3e90aa8b057b/url HTTP/1.1" 200 14
+05-33-2019 17:33:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-33-2019 17:33:03 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63948/session/7c91acb843adfc22968d3e90aa8b057b/source {}
+05-33-2019 17:33:03 urllib3.connectionpool:DEBUG:http://127.0.0.1:63948 "GET /session/7c91acb843adfc22968d3e90aa8b057b/source HTTP/1.1" 200 241088
+05-33-2019 17:33:03 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-33-2019 17:33:04 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">星昊美彤 复方消化酶胶囊 10粒*2板</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>星昊美彤</td>
+<th>规　　格：</th>
+<td>10粒*2板</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.1kg</td>
+<th>生产厂商:</th>
+<td>广东星昊药业有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20064646(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+05-33-2019 17:33:04 root:INFO:**********************
+05-33-2019 17:33:04 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+05-33-2019 17:33:04 root:INFO:**********************
+05-33-2019 17:33:04 root:INFO:[<td colspan="3">星昊美彤 复方消化酶胶囊 10粒*2板</td>, <td>星昊美彤</td>, <td>10粒*2板</td>, <td>0.1kg</td>, <td>广东星昊药业有限公司</td>, <td>
+                                                                                    国药准字H20064646(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-33-2019 17:33:04 root:INFO:商品名称：星昊美彤 复方消化酶胶囊 10粒*2板
+05-33-2019 17:33:04 root:INFO:品　　牌：星昊美彤
+05-33-2019 17:33:04 root:INFO:规　　格：10粒*2板
+05-33-2019 17:33:04 root:INFO:重　　量：0.1kg
+05-33-2019 17:33:04 root:INFO:生产厂商:广东星昊药业有限公司
+05-33-2019 17:33:04 root:INFO:批准文号：国药准字H20064646
+05-33-2019 17:33:04 root:INFO:产品类型：OTC（非处方药）
+05-33-2019 17:33:04 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+05-33-2019 17:33:04 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:63948/session/7c91acb843adfc22968d3e90aa8b057b/window {}
+05-33-2019 17:33:04 urllib3.connectionpool:DEBUG:http://127.0.0.1:63948 "DELETE /session/7c91acb843adfc22968d3e90aa8b057b/window HTTP/1.1" 200 12
+05-33-2019 17:33:04 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-33-2019 17:33:04 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:63948/session/7c91acb843adfc22968d3e90aa8b057b {}
+05-33-2019 17:33:04 urllib3.connectionpool:DEBUG:http://127.0.0.1:63948 "DELETE /session/7c91acb843adfc22968d3e90aa8b057b HTTP/1.1" 200 14
+05-33-2019 17:33:04 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

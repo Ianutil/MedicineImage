@@ -1,0 +1,45 @@
+11-48-2019 09:48:05 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:56844/session/d7c35ebcc4f501c1e3e1bb5514a23b5f/url {"url": "http://yao.xywy.com/search/?q=\u53f6\u9178\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+11-48-2019 09:48:06 urllib3.connectionpool:DEBUG:http://127.0.0.1:56844 "POST /session/d7c35ebcc4f501c1e3e1bb5514a23b5f/url HTTP/1.1" 200 14
+11-48-2019 09:48:06 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-48-2019 09:48:07 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:56844/session/d7c35ebcc4f501c1e3e1bb5514a23b5f/source {}
+11-48-2019 09:48:07 urllib3.connectionpool:DEBUG:http://127.0.0.1:56844 "GET /session/d7c35ebcc4f501c1e3e1bb5514a23b5f/source HTTP/1.1" 200 144024
+11-48-2019 09:48:07 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-48-2019 09:48:07 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:56844/session/d7c35ebcc4f501c1e3e1bb5514a23b5f/url {"url": "http://yao.xywy.com/goods/122399.htm"}
+11-48-2019 09:48:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:56844 "POST /session/d7c35ebcc4f501c1e3e1bb5514a23b5f/url HTTP/1.1" 200 14
+11-48-2019 09:48:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-48-2019 09:48:11 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:56844/session/d7c35ebcc4f501c1e3e1bb5514a23b5f/source {}
+11-48-2019 09:48:11 urllib3.connectionpool:DEBUG:http://127.0.0.1:56844 "GET /session/d7c35ebcc4f501c1e3e1bb5514a23b5f/source HTTP/1.1" 200 174579
+11-48-2019 09:48:11 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-48-2019 09:48:11 root:ERROR:#### 解析异常 #### 叶酸片(处方药)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 164, in parseDetailHtml
+    position = dt.find("b").atts["style"]
+AttributeError: 'NoneType' object has no attribute 'atts'
+11-48-2019 09:48:11 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:56844/session/d7c35ebcc4f501c1e3e1bb5514a23b5f/url {"url": "http://yao.xywy.com/goods/17680.htm"}
+11-48-2019 09:48:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:56844 "POST /session/d7c35ebcc4f501c1e3e1bb5514a23b5f/url HTTP/1.1" 200 14
+11-48-2019 09:48:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-48-2019 09:48:17 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:56844/session/d7c35ebcc4f501c1e3e1bb5514a23b5f/source {}
+11-48-2019 09:48:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:56844 "GET /session/d7c35ebcc4f501c1e3e1bb5514a23b5f/source HTTP/1.1" 200 171811
+11-48-2019 09:48:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-48-2019 09:48:17 root:ERROR:#### 解析异常 #### 叶酸片(处方药)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 164, in parseDetailHtml
+    position = dt.find("b").atts["style"]
+AttributeError: 'NoneType' object has no attribute 'atts'
+11-48-2019 09:48:17 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:56844/session/d7c35ebcc4f501c1e3e1bb5514a23b5f/url {"url": "http://yao.xywy.com/goods/16384.htm"}
+11-48-2019 09:48:21 urllib3.connectionpool:DEBUG:http://127.0.0.1:56844 "POST /session/d7c35ebcc4f501c1e3e1bb5514a23b5f/url HTTP/1.1" 200 14
+11-48-2019 09:48:21 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-48-2019 09:48:22 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:56844/session/d7c35ebcc4f501c1e3e1bb5514a23b5f/source {}
+11-48-2019 09:48:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:56844 "GET /session/d7c35ebcc4f501c1e3e1bb5514a23b5f/source HTTP/1.1" 200 180932
+11-48-2019 09:48:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-48-2019 09:48:22 root:ERROR:#### 解析异常 #### 叶酸片(处方药)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 164, in parseDetailHtml
+    position = dt.find("b").atts["style"]
+AttributeError: 'NoneType' object has no attribute 'atts'
+11-48-2019 09:48:22 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:56844/session/d7c35ebcc4f501c1e3e1bb5514a23b5f/window {}
+11-48-2019 09:48:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:56844 "DELETE /session/d7c35ebcc4f501c1e3e1bb5514a23b5f/window HTTP/1.1" 200 12
+11-48-2019 09:48:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-48-2019 09:48:22 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:56844/session/d7c35ebcc4f501c1e3e1bb5514a23b5f {}
+11-48-2019 09:48:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:56844 "DELETE /session/d7c35ebcc4f501c1e3e1bb5514a23b5f HTTP/1.1" 200 14
+11-48-2019 09:48:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

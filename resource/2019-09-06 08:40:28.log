@@ -1,0 +1,116 @@
+06-40-2019 08:40:28 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58688/session/c026bc946d7d1639900828321834b135/url {"url": "https://www.111.com.cn"}
+06-40-2019 08:40:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:58688 "POST /session/c026bc946d7d1639900828321834b135/url HTTP/1.1" 200 14
+06-40-2019 08:40:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-40-2019 08:40:31 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58688/session/c026bc946d7d1639900828321834b135/source {}
+06-40-2019 08:40:31 urllib3.connectionpool:DEBUG:http://127.0.0.1:58688 "GET /session/c026bc946d7d1639900828321834b135/source HTTP/1.1" 200 338347
+06-40-2019 08:40:31 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-40-2019 08:40:31 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58688/session/c026bc946d7d1639900828321834b135/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u53f6\u9178\u7247 \u4fe1\u8c0a\");\n$(\"#word\").attr(\"value\",\"\u53f6\u9178\u7247 \u4fe1\u8c0a\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-40-2019 08:40:31 urllib3.connectionpool:DEBUG:http://127.0.0.1:58688 "POST /session/c026bc946d7d1639900828321834b135/execute/sync HTTP/1.1" 200 14
+06-40-2019 08:40:31 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-40-2019 08:40:32 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58688/session/c026bc946d7d1639900828321834b135/source {}
+06-40-2019 08:40:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:58688 "GET /session/c026bc946d7d1639900828321834b135/source HTTP/1.1" 200 218977
+06-40-2019 08:40:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-40-2019 08:40:32 root:INFO:<div class="itemSearchResultCon" comproid="1125056" isrecom="0" itemid="50097151">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50097151.html" target="_blank">
+<img alt="SINE/信谊 甲氨蝶呤片 2.5mg*16片" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/item/201908/22/200_20190822115854895.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1125056">
+<span>
+                        49.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50097151.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    SINE/信谊 甲氨蝶呤片 2.5mg*16片已到货，购买请咨询药师</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1125056">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1126_0" druglevel="3" index="0" inshop="0" merchantid="26" onclick="doDrugLevel(248,50097151,3);" pminfo="1125056" productcode="1125056" sellproductid="1125056" specialtype="13">咨询医生</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/50097151.html" id="buyButton_1125056" index="0" inshop="0" merchantid="26" pminfo="1125056" productcode="1125056" productdisabled="true" sellproductid="1125056" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-40-2019 08:40:32 root:INFO:https://p3.maiyaole.com/img/item/201908/22/200_20190822115854895.jpg
+06-40-2019 08:40:32 root:INFO:http://www.111.com.cn/product/50097151.html
+06-40-2019 08:40:32 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58688/session/c026bc946d7d1639900828321834b135/url {"url": "http://www.111.com.cn/product/50097151.html"}
+06-40-2019 08:40:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:58688 "POST /session/c026bc946d7d1639900828321834b135/url HTTP/1.1" 200 14
+06-40-2019 08:40:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-40-2019 08:40:34 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58688/session/c026bc946d7d1639900828321834b135/source {}
+06-40-2019 08:40:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:58688 "GET /session/c026bc946d7d1639900828321834b135/source HTTP/1.1" 200 250263
+06-40-2019 08:40:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-40-2019 08:40:34 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">SINE/信谊 甲氨蝶呤片 2.5mg*16片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>信谊</td>
+<th>规　　格：</th>
+<td>2.5mg*16片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.015kg</td>
+<th>生产厂商:</th>
+<td>上海上药信谊药厂有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H31020644(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-40-2019 08:40:34 root:INFO:**********************
+06-40-2019 08:40:34 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-40-2019 08:40:34 root:INFO:**********************
+06-40-2019 08:40:34 root:INFO:[<td colspan="3">SINE/信谊 甲氨蝶呤片 2.5mg*16片</td>, <td>信谊</td>, <td>2.5mg*16片</td>, <td>0.015kg</td>, <td>上海上药信谊药厂有限公司</td>, <td>
+                                                                                    国药准字H31020644(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-40-2019 08:40:34 root:INFO:商品名称：SINE/信谊 甲氨蝶呤片 2.5mg*16片
+06-40-2019 08:40:34 root:INFO:品　　牌：信谊
+06-40-2019 08:40:34 root:INFO:规　　格：2.5mg*16片
+06-40-2019 08:40:34 root:INFO:重　　量：0.015kg
+06-40-2019 08:40:34 root:INFO:生产厂商:上海上药信谊药厂有限公司
+06-40-2019 08:40:34 root:INFO:批准文号：国药准字H31020644
+06-40-2019 08:40:34 root:INFO:产品类型：处方药
+06-40-2019 08:40:34 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-40-2019 08:40:34 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:58688/session/c026bc946d7d1639900828321834b135/window {}
+06-40-2019 08:40:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:58688 "DELETE /session/c026bc946d7d1639900828321834b135/window HTTP/1.1" 200 12
+06-40-2019 08:40:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-40-2019 08:40:34 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:58688/session/c026bc946d7d1639900828321834b135 {}
+06-40-2019 08:40:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:58688 "DELETE /session/c026bc946d7d1639900828321834b135 HTTP/1.1" 200 14
+06-40-2019 08:40:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

@@ -1,0 +1,13 @@
+04-00-2019 17:00:48 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:49958/session/579a97bbec8bba06e6a4e8142e5e54a3/url {"url": "https://search.jd.com/Search?keyword=\u516d\u5473\u5730\u9ec4\u4e38 \u4e07\u4ed5\u8bda&enc=utf-8&wq=\u516d\u5473\u5730\u9ec4\u4e38 \u4e07\u4ed5\u8bda&pvid=e594be63471b41b2a6821999b9c2e65a"}
+04-00-2019 17:00:50 urllib3.connectionpool:DEBUG:http://127.0.0.1:49958 "POST /session/579a97bbec8bba06e6a4e8142e5e54a3/url HTTP/1.1" 200 14
+04-00-2019 17:00:50 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-00-2019 17:00:51 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:49958/session/579a97bbec8bba06e6a4e8142e5e54a3/source {}
+04-00-2019 17:00:51 urllib3.connectionpool:DEBUG:http://127.0.0.1:49958 "GET /session/579a97bbec8bba06e6a4e8142e5e54a3/source HTTP/1.1" 200 127183
+04-00-2019 17:00:51 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-00-2019 17:00:51 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:49958/session/579a97bbec8bba06e6a4e8142e5e54a3/url {"url": "http://item.jd.com/29920109438.html"}
+04-00-2019 17:00:54 urllib3.connectionpool:DEBUG:http://127.0.0.1:49958 "POST /session/579a97bbec8bba06e6a4e8142e5e54a3/url HTTP/1.1" 200 14
+04-00-2019 17:00:54 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-00-2019 17:00:55 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:49958/session/579a97bbec8bba06e6a4e8142e5e54a3/source {}
+04-00-2019 17:00:55 urllib3.connectionpool:DEBUG:http://127.0.0.1:49958 "GET /session/579a97bbec8bba06e6a4e8142e5e54a3/source HTTP/1.1" 200 219731
+04-00-2019 17:00:55 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-00-2019 17:00:55 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:49958/session/579a97bbec8bba06e6a4e8142e5e54a3/url {"url": "http://item.jd.com/12521618.html"}

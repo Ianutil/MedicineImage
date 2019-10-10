@@ -1,0 +1,18 @@
+10-30-2019 17:30:28 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54962/session/27868857c9045a56537c654cb8f85009/url {"url": "http://yao.xywy.com/search/?q=\u53f6\u9178\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+10-30-2019 17:30:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "POST /session/27868857c9045a56537c654cb8f85009/url HTTP/1.1" 200 14
+10-30-2019 17:30:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-30-2019 17:30:31 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54962/session/27868857c9045a56537c654cb8f85009/source {}
+10-30-2019 17:30:31 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "GET /session/27868857c9045a56537c654cb8f85009/source HTTP/1.1" 200 144024
+10-30-2019 17:30:31 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-30-2019 17:30:31 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54962/session/27868857c9045a56537c654cb8f85009/url {"url": "http://yao.xywy.com/goods/17680.htm"}
+10-31-2019 17:31:18 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "POST /session/27868857c9045a56537c654cb8f85009/url HTTP/1.1" 200 14
+10-31-2019 17:31:18 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-31-2019 17:31:19 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54962/session/27868857c9045a56537c654cb8f85009/source {}
+10-31-2019 17:31:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "GET /session/27868857c9045a56537c654cb8f85009/source HTTP/1.1" 200 173247
+10-31-2019 17:31:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-31-2019 17:31:48 root:ERROR:#### 解析异常 #### 叶酸片(处方药)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 164, in parseDetailHtml
+    label = dt.find("b").next
+AttributeError: 'NoneType' object has no attribute 'next'
+10-31-2019 17:31:48 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54962/session/27868857c9045a56537c654cb8f85009/url {"url": "http://yao.xywy.com/goods/122399.htm"}

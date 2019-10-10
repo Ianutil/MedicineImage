@@ -1,0 +1,120 @@
+06-38-2019 09:38:02 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:59712/session/f634f7702c9a162a2b3913bd12ef4bc1/url {"url": "https://www.111.com.cn"}
+06-38-2019 09:38:03 urllib3.connectionpool:DEBUG:http://127.0.0.1:59712 "POST /session/f634f7702c9a162a2b3913bd12ef4bc1/url HTTP/1.1" 200 14
+06-38-2019 09:38:03 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-38-2019 09:38:04 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:59712/session/f634f7702c9a162a2b3913bd12ef4bc1/source {}
+06-38-2019 09:38:04 urllib3.connectionpool:DEBUG:http://127.0.0.1:59712 "GET /session/f634f7702c9a162a2b3913bd12ef4bc1/source HTTP/1.1" 200 339434
+06-38-2019 09:38:04 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-38-2019 09:38:04 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:59712/session/f634f7702c9a162a2b3913bd12ef4bc1/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u590d\u65b9\u9ec4\u8fde\u7d20\u7247 \u592a\u6781\");\n$(\"#word\").attr(\"value\",\"\u590d\u65b9\u9ec4\u8fde\u7d20\u7247 \u592a\u6781\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-38-2019 09:38:04 urllib3.connectionpool:DEBUG:http://127.0.0.1:59712 "POST /session/f634f7702c9a162a2b3913bd12ef4bc1/execute/sync HTTP/1.1" 200 14
+06-38-2019 09:38:04 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-38-2019 09:38:06 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:59712/session/f634f7702c9a162a2b3913bd12ef4bc1/source {}
+06-38-2019 09:38:06 urllib3.connectionpool:DEBUG:http://127.0.0.1:59712 "GET /session/f634f7702c9a162a2b3913bd12ef4bc1/source HTTP/1.1" 200 265033
+06-38-2019 09:38:06 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-38-2019 09:38:06 root:INFO:<div class="itemSearchResultCon" comproid="3461794" isrecom="0" itemid="51309833">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51309833.html" target="_blank">
+<img alt="太极 复方黄连素片 12T*3板" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/201907/05/200_20190705175731399.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3461794">
+<span>
+                        29.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51309833.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    太极 复方黄连素片 12T*3板连锁大药房 有保障更放心  祝君安康</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102552307">医心达大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3461794">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3461794_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51309833,1)" pminfo="3461794" productcode="3461794" sellproductid="3461794" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3461794" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51309833,1)" ordersettings="11" pminfo="3461794" productcode="3461794" sellproductid="3461794" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/51309833.html" id="buyButton_3461794" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3461794" productcode="3461794" sellproductid="3461794" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-38-2019 09:38:06 root:INFO:https://p2.maiyaole.com/img/201907/05/200_20190705175731399.jpg
+06-38-2019 09:38:06 root:INFO:http://www.111.com.cn/product/51309833.html
+06-38-2019 09:38:06 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:59712/session/f634f7702c9a162a2b3913bd12ef4bc1/url {"url": "http://www.111.com.cn/product/51309833.html"}
+06-38-2019 09:38:07 urllib3.connectionpool:DEBUG:http://127.0.0.1:59712 "POST /session/f634f7702c9a162a2b3913bd12ef4bc1/url HTTP/1.1" 200 14
+06-38-2019 09:38:07 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-38-2019 09:38:08 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:59712/session/f634f7702c9a162a2b3913bd12ef4bc1/source {}
+06-38-2019 09:38:08 urllib3.connectionpool:DEBUG:http://127.0.0.1:59712 "GET /session/f634f7702c9a162a2b3913bd12ef4bc1/source HTTP/1.1" 200 241421
+06-38-2019 09:38:08 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-38-2019 09:38:08 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">太极 复方黄连素片 12T*3板</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>X太极</td>
+<th>规　　格：</th>
+<td>12T*3板</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.01kg</td>
+<th>生产厂商:</th>
+<td>太极集团四川绵阳制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z51020212(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-38-2019 09:38:08 root:INFO:**********************
+06-38-2019 09:38:08 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-38-2019 09:38:08 root:INFO:**********************
+06-38-2019 09:38:08 root:INFO:[<td colspan="3">太极 复方黄连素片 12T*3板</td>, <td>X太极</td>, <td>12T*3板</td>, <td>0.01kg</td>, <td>太极集团四川绵阳制药有限公司</td>, <td>
+                                                                                    国药准字Z51020212(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-38-2019 09:38:08 root:INFO:商品名称：太极 复方黄连素片 12T*3板
+06-38-2019 09:38:08 root:INFO:品　　牌：X太极
+06-38-2019 09:38:08 root:INFO:规　　格：12T*3板
+06-38-2019 09:38:08 root:INFO:重　　量：0.01kg
+06-38-2019 09:38:08 root:INFO:生产厂商:太极集团四川绵阳制药有限公司
+06-38-2019 09:38:08 root:INFO:批准文号：国药准字Z51020212
+06-38-2019 09:38:08 root:INFO:#### 下载路径 #### ./file/image/289202/0.jpg
+06-38-2019 09:38:08 root:INFO:#### 下载URL #### https://p2.maiyaole.com/img/201907/05/200_20190705175731399.jpg
+06-38-2019 09:38:08 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p2.maiyaole.com:443
+06-38-2019 09:38:08 urllib3.connectionpool:DEBUG:https://p2.maiyaole.com:443 "GET /img/201907/05/200_20190705175731399.jpg HTTP/1.1" 200 11739
+06-38-2019 09:38:08 root:INFO:#### 下载路径 #### ./file/image/289202/1.jpg
+06-38-2019 09:38:08 root:INFO:#### 下载URL #### https://p4.maiyaole.com/img/201907/05/org_20190705175731399.jpg
+06-38-2019 09:38:08 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p4.maiyaole.com:443
+06-38-2019 09:38:09 urllib3.connectionpool:DEBUG:https://p4.maiyaole.com:443 "GET /img/201907/05/org_20190705175731399.jpg HTTP/1.1" 200 57587
+06-38-2019 09:38:09 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:59712/session/f634f7702c9a162a2b3913bd12ef4bc1/window {}
+06-38-2019 09:38:09 urllib3.connectionpool:DEBUG:http://127.0.0.1:59712 "DELETE /session/f634f7702c9a162a2b3913bd12ef4bc1/window HTTP/1.1" 200 12
+06-38-2019 09:38:09 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-38-2019 09:38:09 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:59712/session/f634f7702c9a162a2b3913bd12ef4bc1 {}
+06-38-2019 09:38:09 urllib3.connectionpool:DEBUG:http://127.0.0.1:59712 "DELETE /session/f634f7702c9a162a2b3913bd12ef4bc1 HTTP/1.1" 200 14
+06-38-2019 09:38:09 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

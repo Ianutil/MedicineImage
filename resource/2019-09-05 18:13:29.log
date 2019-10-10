@@ -1,0 +1,21 @@
+05-13-2019 18:13:29 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:59833/session/58a750ae83515e6a51a58ae73629aca4/url {"url": "https://www.111.com.cn"}
+05-13-2019 18:13:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:59833 "POST /session/58a750ae83515e6a51a58ae73629aca4/url HTTP/1.1" 200 14
+05-13-2019 18:13:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-13-2019 18:13:31 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:59833/session/58a750ae83515e6a51a58ae73629aca4/source {}
+05-13-2019 18:13:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:59833 "GET /session/58a750ae83515e6a51a58ae73629aca4/source HTTP/1.1" 200 340134
+05-13-2019 18:13:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-13-2019 18:13:32 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:59833/session/58a750ae83515e6a51a58ae73629aca4/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u94f6\u674f\u53f6\u7247\");\n$(\"#word\").attr(\"value\",\"\u94f6\u674f\u53f6\u7247\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+05-13-2019 18:13:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:59833 "POST /session/58a750ae83515e6a51a58ae73629aca4/execute/sync HTTP/1.1" 200 14
+05-13-2019 18:13:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-13-2019 18:13:34 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:59833/session/58a750ae83515e6a51a58ae73629aca4/source {}
+05-13-2019 18:13:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:59833 "GET /session/58a750ae83515e6a51a58ae73629aca4/source HTTP/1.1" 200 679379
+05-13-2019 18:13:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-13-2019 18:13:34 root:INFO:<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/51081509.html" target="_blank">
+<img alt="荣昌制药 银杏叶片 24片 *4件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/item/201805/28/200_20180528100849972.jpg" width="205"/>
+</a>
+05-13-2019 18:13:34 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:59833/session/58a750ae83515e6a51a58ae73629aca4/window {}
+05-13-2019 18:13:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:59833 "DELETE /session/58a750ae83515e6a51a58ae73629aca4/window HTTP/1.1" 200 12
+05-13-2019 18:13:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-13-2019 18:13:34 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:59833/session/58a750ae83515e6a51a58ae73629aca4 {}
+05-13-2019 18:13:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:59833 "DELETE /session/58a750ae83515e6a51a58ae73629aca4 HTTP/1.1" 200 14
+05-13-2019 18:13:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

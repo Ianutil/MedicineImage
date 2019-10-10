@@ -1,0 +1,122 @@
+06-34-2019 09:34:11 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58578/session/fcf8fa530f44b4be75b8614d1e38f050/url {"url": "https://www.111.com.cn"}
+06-34-2019 09:34:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:58578 "POST /session/fcf8fa530f44b4be75b8614d1e38f050/url HTTP/1.1" 200 14
+06-34-2019 09:34:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-34-2019 09:34:13 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58578/session/fcf8fa530f44b4be75b8614d1e38f050/source {}
+06-34-2019 09:34:13 urllib3.connectionpool:DEBUG:http://127.0.0.1:58578 "GET /session/fcf8fa530f44b4be75b8614d1e38f050/source HTTP/1.1" 200 340134
+06-34-2019 09:34:13 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-34-2019 09:34:13 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58578/session/fcf8fa530f44b4be75b8614d1e38f050/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u5c3c\u53ef\u5730\u5c14\u7247 \u559c\u683c\u8fc8\");\n$(\"#word\").attr(\"value\",\"\u5c3c\u53ef\u5730\u5c14\u7247 \u559c\u683c\u8fc8\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-34-2019 09:34:13 urllib3.connectionpool:DEBUG:http://127.0.0.1:58578 "POST /session/fcf8fa530f44b4be75b8614d1e38f050/execute/sync HTTP/1.1" 200 14
+06-34-2019 09:34:13 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-34-2019 09:34:14 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58578/session/fcf8fa530f44b4be75b8614d1e38f050/source {}
+06-34-2019 09:34:14 urllib3.connectionpool:DEBUG:http://127.0.0.1:58578 "GET /session/fcf8fa530f44b4be75b8614d1e38f050/source HTTP/1.1" 200 360261
+06-34-2019 09:34:14 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-34-2019 09:34:14 root:INFO:<div class="itemSearchResultCon" comproid="1061271" isrecom="0" itemid="50069082">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50069082.html" target="_blank">
+<img alt="喜格迈 尼可地尔片 5mg*30片" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/item/201611/22/200_20161122104512997.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1061271">
+<span>
+                        68.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50069082.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    喜格迈 尼可地尔片 5mg*30片硝酸酯类药品，能够扩张血管减少心脏压力以及恢复病灶供血，同时具有保护心脏作用，适合用于心绞痛治疗（1次5mg，1日3次）</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1061271">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" druglevel="2" id="askDoctor_1061271" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="1061271" productcode="1061271" sellproductid="1061271" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/50069082.html" id="buyButton_1061271" index="0" inshop="0" merchantid="26" pminfo="1061271" productcode="1061271" productdisabled="true" sellproductid="1061271" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-34-2019 09:34:14 root:INFO:https://p3.maiyaole.com/img/item/201611/22/200_20161122104512997.jpg
+06-34-2019 09:34:14 root:INFO:http://www.111.com.cn/product/50069082.html
+06-34-2019 09:34:14 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:58578/session/fcf8fa530f44b4be75b8614d1e38f050/url {"url": "http://www.111.com.cn/product/50069082.html"}
+06-34-2019 09:34:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:58578 "POST /session/fcf8fa530f44b4be75b8614d1e38f050/url HTTP/1.1" 200 14
+06-34-2019 09:34:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-34-2019 09:34:17 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:58578/session/fcf8fa530f44b4be75b8614d1e38f050/source {}
+06-34-2019 09:34:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:58578 "GET /session/fcf8fa530f44b4be75b8614d1e38f050/source HTTP/1.1" 200 247415
+06-34-2019 09:34:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-34-2019 09:34:17 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">喜格迈 尼可地尔片 5mg*30片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>喜格迈</td>
+<th>规　　格：</th>
+<td>5mg*30片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.02kg</td>
+<th>生产厂商:</th>
+<td>Nipro Pharma Corporation Kagamiishi Plant</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    进口药品注册证H20160539(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-34-2019 09:34:17 root:INFO:**********************
+06-34-2019 09:34:17 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-34-2019 09:34:17 root:INFO:**********************
+06-34-2019 09:34:17 root:INFO:[<td colspan="3">喜格迈 尼可地尔片 5mg*30片</td>, <td>喜格迈</td>, <td>5mg*30片</td>, <td>0.02kg</td>, <td>Nipro Pharma Corporation Kagamiishi Plant</td>, <td>
+                                                                                    进口药品注册证H20160539(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-34-2019 09:34:17 root:INFO:商品名称：喜格迈 尼可地尔片 5mg*30片
+06-34-2019 09:34:17 root:INFO:品　　牌：喜格迈
+06-34-2019 09:34:17 root:INFO:规　　格：5mg*30片
+06-34-2019 09:34:17 root:INFO:重　　量：0.02kg
+06-34-2019 09:34:17 root:INFO:生产厂商:Nipro Pharma Corporation Kagamiishi Plant
+06-34-2019 09:34:17 root:INFO:批准文号：进口药品注册证H20160539
+06-34-2019 09:34:17 root:INFO:#### 下载路径 #### ./file/image/232982/0.jpg
+06-34-2019 09:34:17 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/item/201611/22/200_20161122104512997.jpg
+06-34-2019 09:34:17 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+06-34-2019 09:34:17 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/item/201611/22/200_20161122104512997.jpg HTTP/1.1" 200 12754
+06-34-2019 09:34:17 root:INFO:#### 下载路径 #### ./file/image/232982/1.jpg
+06-34-2019 09:34:17 root:INFO:#### 下载URL #### https://p2.maiyaole.com/img/item/201611/22/org_20161122104512997.jpg
+06-34-2019 09:34:17 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p2.maiyaole.com:443
+06-34-2019 09:34:17 urllib3.connectionpool:DEBUG:https://p2.maiyaole.com:443 "GET /img/item/201611/22/org_20161122104512997.jpg HTTP/1.1" 200 124335
+06-34-2019 09:34:17 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:58578/session/fcf8fa530f44b4be75b8614d1e38f050/window {}
+06-34-2019 09:34:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:58578 "DELETE /session/fcf8fa530f44b4be75b8614d1e38f050/window HTTP/1.1" 200 12
+06-34-2019 09:34:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-34-2019 09:34:17 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:58578/session/fcf8fa530f44b4be75b8614d1e38f050 {}
+06-34-2019 09:34:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:58578 "DELETE /session/fcf8fa530f44b4be75b8614d1e38f050 HTTP/1.1" 200 14
+06-34-2019 09:34:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

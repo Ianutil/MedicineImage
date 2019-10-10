@@ -1,0 +1,120 @@
+06-15-2019 09:15:09 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:52863/session/9b630f56cdf3bbf136b01559b52950e0/url {"url": "https://www.111.com.cn"}
+06-15-2019 09:15:11 urllib3.connectionpool:DEBUG:http://127.0.0.1:52863 "POST /session/9b630f56cdf3bbf136b01559b52950e0/url HTTP/1.1" 200 14
+06-15-2019 09:15:11 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-15-2019 09:15:12 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:52863/session/9b630f56cdf3bbf136b01559b52950e0/source {}
+06-15-2019 09:15:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:52863 "GET /session/9b630f56cdf3bbf136b01559b52950e0/source HTTP/1.1" 200 340132
+06-15-2019 09:15:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-15-2019 09:15:12 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:52863/session/9b630f56cdf3bbf136b01559b52950e0/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u725b\u9ec4\u4e0a\u6e05\u4e38 \u5e7f\u4fe1\");\n$(\"#word\").attr(\"value\",\"\u725b\u9ec4\u4e0a\u6e05\u4e38 \u5e7f\u4fe1\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-15-2019 09:15:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:52863 "POST /session/9b630f56cdf3bbf136b01559b52950e0/execute/sync HTTP/1.1" 200 14
+06-15-2019 09:15:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-15-2019 09:15:13 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:52863/session/9b630f56cdf3bbf136b01559b52950e0/source {}
+06-15-2019 09:15:13 urllib3.connectionpool:DEBUG:http://127.0.0.1:52863 "GET /session/9b630f56cdf3bbf136b01559b52950e0/source HTTP/1.1" 200 232351
+06-15-2019 09:15:13 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-15-2019 09:15:13 root:INFO:<div class="itemSearchResultCon" comproid="3444398" isrecom="0" itemid="51303377">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51303377.html" target="_blank">
+<img alt="广信 牛黄上清丸 6g*10袋/盒" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/201906/29/200_20190629155923691.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3444398">
+<span>
+                        8.3
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51303377.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    广信 牛黄上清丸 6g*10袋/盒--货到付款，满88元免配送费，祝君安康！</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102556110">康药师大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3444398">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3444398_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51303377,1)" pminfo="3444398" productcode="3444398" sellproductid="3444398" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3444398" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51303377,1)" ordersettings="11" pminfo="3444398" productcode="3444398" sellproductid="3444398" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/51303377.html" id="buyButton_3444398" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3444398" productcode="3444398" sellproductid="3444398" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-15-2019 09:15:13 root:INFO:https://p2.maiyaole.com/img/201906/29/200_20190629155923691.jpg
+06-15-2019 09:15:13 root:INFO:http://www.111.com.cn/product/51303377.html
+06-15-2019 09:15:13 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:52863/session/9b630f56cdf3bbf136b01559b52950e0/url {"url": "http://www.111.com.cn/product/51303377.html"}
+06-15-2019 09:15:14 urllib3.connectionpool:DEBUG:http://127.0.0.1:52863 "POST /session/9b630f56cdf3bbf136b01559b52950e0/url HTTP/1.1" 200 14
+06-15-2019 09:15:14 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-15-2019 09:15:15 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:52863/session/9b630f56cdf3bbf136b01559b52950e0/source {}
+06-15-2019 09:15:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:52863 "GET /session/9b630f56cdf3bbf136b01559b52950e0/source HTTP/1.1" 200 249844
+06-15-2019 09:15:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-15-2019 09:15:15 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">广信 牛黄上清丸 6g*10袋/盒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>其他</td>
+<th>规　　格：</th>
+<td>6g*10袋/盒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.002kg</td>
+<th>生产厂商:</th>
+<td>江西广信药业有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z20023172(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-15-2019 09:15:15 root:INFO:**********************
+06-15-2019 09:15:15 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-15-2019 09:15:15 root:INFO:**********************
+06-15-2019 09:15:15 root:INFO:[<td colspan="3">广信 牛黄上清丸 6g*10袋/盒</td>, <td>其他</td>, <td>6g*10袋/盒</td>, <td>0.002kg</td>, <td>江西广信药业有限公司</td>, <td>
+                                                                                    国药准字Z20023172(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-15-2019 09:15:15 root:INFO:商品名称：广信 牛黄上清丸 6g*10袋/盒
+06-15-2019 09:15:15 root:INFO:品　　牌：其他
+06-15-2019 09:15:15 root:INFO:规　　格：6g*10袋/盒
+06-15-2019 09:15:15 root:INFO:重　　量：0.002kg
+06-15-2019 09:15:15 root:INFO:生产厂商:江西广信药业有限公司
+06-15-2019 09:15:15 root:INFO:批准文号：国药准字Z20023172
+06-15-2019 09:15:15 root:INFO:#### 下载路径 #### ./file/image/24902/0.jpg
+06-15-2019 09:15:15 root:INFO:#### 下载URL #### https://p2.maiyaole.com/img/201906/29/200_20190629155923691.jpg
+06-15-2019 09:15:15 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p2.maiyaole.com:443
+06-15-2019 09:15:15 urllib3.connectionpool:DEBUG:https://p2.maiyaole.com:443 "GET /img/201906/29/200_20190629155923691.jpg HTTP/1.1" 200 14022
+06-15-2019 09:15:15 root:INFO:#### 下载路径 #### ./file/image/24902/1.jpg
+06-15-2019 09:15:15 root:INFO:#### 下载URL #### https://p4.maiyaole.com/img/201906/29/org_20190629155923691.jpg
+06-15-2019 09:15:15 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p4.maiyaole.com:443
+06-15-2019 09:15:15 urllib3.connectionpool:DEBUG:https://p4.maiyaole.com:443 "GET /img/201906/29/org_20190629155923691.jpg HTTP/1.1" 200 131517
+06-15-2019 09:15:15 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:52863/session/9b630f56cdf3bbf136b01559b52950e0/window {}
+06-15-2019 09:15:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:52863 "DELETE /session/9b630f56cdf3bbf136b01559b52950e0/window HTTP/1.1" 200 12
+06-15-2019 09:15:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-15-2019 09:15:16 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:52863/session/9b630f56cdf3bbf136b01559b52950e0 {}
+06-15-2019 09:15:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:52863 "DELETE /session/9b630f56cdf3bbf136b01559b52950e0 HTTP/1.1" 200 14
+06-15-2019 09:15:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

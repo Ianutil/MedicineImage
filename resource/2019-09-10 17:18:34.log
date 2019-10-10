@@ -1,0 +1,18 @@
+10-18-2019 17:18:34 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:49259/session/7ef9f9f2229eacbe1868561d04b92bbb/url {"url": "http://yao.xywy.com/search/?q=\u53f6\u9178\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+10-18-2019 17:18:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:49259 "POST /session/7ef9f9f2229eacbe1868561d04b92bbb/url HTTP/1.1" 200 14
+10-18-2019 17:18:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-18-2019 17:18:37 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:49259/session/7ef9f9f2229eacbe1868561d04b92bbb/source {}
+10-18-2019 17:18:37 urllib3.connectionpool:DEBUG:http://127.0.0.1:49259 "GET /session/7ef9f9f2229eacbe1868561d04b92bbb/source HTTP/1.1" 200 144024
+10-18-2019 17:18:37 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-18-2019 17:18:39 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:49259/session/7ef9f9f2229eacbe1868561d04b92bbb/url {"url": "http://yao.xywy.com/goods/17680.htm"}
+10-18-2019 17:18:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:49259 "POST /session/7ef9f9f2229eacbe1868561d04b92bbb/url HTTP/1.1" 200 14
+10-18-2019 17:18:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-18-2019 17:18:41 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:49259/session/7ef9f9f2229eacbe1868561d04b92bbb/source {}
+10-18-2019 17:18:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:49259 "GET /session/7ef9f9f2229eacbe1868561d04b92bbb/source HTTP/1.1" 200 174439
+10-18-2019 17:18:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-23-2019 17:23:55 root:ERROR:#### 解析异常 #### 叶酸片(处方药)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 169, in parseDetailHtml
+    name = text[8]+text[3]+text[5]+text[7]+text[2]+text[0]+text[1]+text[4]+text[7]
+IndexError: list index out of range
+10-23-2019 17:23:55 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:49259/session/7ef9f9f2229eacbe1868561d04b92bbb/url {"url": "http://yao.xywy.com/goods/122399.htm"}

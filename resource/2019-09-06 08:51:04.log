@@ -1,0 +1,123 @@
+06-51-2019 08:51:04 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62082/session/9996e7641f5d9d47fdeeeff5dcbaf9ea/url {"url": "https://www.111.com.cn"}
+06-51-2019 08:51:06 urllib3.connectionpool:DEBUG:http://127.0.0.1:62082 "POST /session/9996e7641f5d9d47fdeeeff5dcbaf9ea/url HTTP/1.1" 200 14
+06-51-2019 08:51:06 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-51-2019 08:51:07 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62082/session/9996e7641f5d9d47fdeeeff5dcbaf9ea/source {}
+06-51-2019 08:51:07 urllib3.connectionpool:DEBUG:http://127.0.0.1:62082 "GET /session/9996e7641f5d9d47fdeeeff5dcbaf9ea/source HTTP/1.1" 200 340134
+06-51-2019 08:51:07 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-51-2019 08:51:07 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62082/session/9996e7641f5d9d47fdeeeff5dcbaf9ea/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u916a\u9178\u68ad\u83cc\u6d3b\u83cc\u7247\");\n$(\"#word\").attr(\"value\",\"\u916a\u9178\u68ad\u83cc\u6d3b\u83cc\u7247\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-51-2019 08:51:07 urllib3.connectionpool:DEBUG:http://127.0.0.1:62082 "POST /session/9996e7641f5d9d47fdeeeff5dcbaf9ea/execute/sync HTTP/1.1" 200 14
+06-51-2019 08:51:07 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-51-2019 08:51:08 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62082/session/9996e7641f5d9d47fdeeeff5dcbaf9ea/source {}
+06-51-2019 08:51:08 urllib3.connectionpool:DEBUG:http://127.0.0.1:62082 "GET /session/9996e7641f5d9d47fdeeeff5dcbaf9ea/source HTTP/1.1" 200 264413
+06-51-2019 08:51:08 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-51-2019 08:51:08 root:INFO:<div class="itemSearchResultCon" comproid="1096302" isrecom="0" itemid="50083577">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50083577.html" target="_blank">
+<img alt="【限时买2赠1 买3赠2】米雅 酪酸梭菌活菌片 20片 胃肠道功能紊乱肠道菌群紊乱日本进口药" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/item/201908/22/200_2019082216223662.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1096302">
+<span>
+                        115.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50083577.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    【限时买2赠1 买3赠2】米雅 酪酸梭菌活菌片 20片 胃肠道功能紊乱肠道菌群紊乱日本进口药【1药网自营】用于各种原因引起的肠道菌群紊乱所致的消化道症状</a>
+<a class="promoTitle" href="//www.111.com.cn/list/promotion.action?promoid=145082" id="promotion_1096302" pnamesubtitle="【限时买2赠1 买3赠2】米雅 酪酸梭菌活菌片 20片 胃肠道功能紊乱肠道菌群紊乱日本进口药" pstock="101" rel="nofollow" ruletype="0" stockflag="" target="_blank" title="">限时满减</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/50083577.html#itemComments');" pmid="1096302">评论 <em>1374</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1096302">
+<input class="search_list_reduce_gray" data-ywpoint="null_null_null_null_I1122_0" onclick="modifyBuyNum(this, -1);" type="button"/>
+<input class="num" id="buyNum_50083577" onkeyup="var key=event.keyCode;checkBuyNum(this, key)" type="text" value="1"/>
+<input class="search_list_plus" data-ywpoint="null_null_null_null_I1122_0" onclick="modifyBuyNum(this, 1);" type="button"/>
+<button class="buy op_right_btn add_cart_btn border_left" currentstore="true" data-ywpoint="null_null_null_null_I1123_0" id="buyButton_50083577" index="0" inshop="0" merchantid="" onclick="javascript:buyToCart(1,50083577);" pminfo="" productcode="1096302" sellproductid="1096302" specialtype="13">加入购物车</button>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-51-2019 08:51:08 root:INFO:https://p4.maiyaole.com/img/item/201908/22/200_2019082216223662.jpg
+06-51-2019 08:51:08 root:INFO:http://www.111.com.cn/product/50083577.html
+06-51-2019 08:51:08 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62082/session/9996e7641f5d9d47fdeeeff5dcbaf9ea/url {"url": "http://www.111.com.cn/product/50083577.html"}
+06-51-2019 08:51:09 urllib3.connectionpool:DEBUG:http://127.0.0.1:62082 "POST /session/9996e7641f5d9d47fdeeeff5dcbaf9ea/url HTTP/1.1" 200 14
+06-51-2019 08:51:09 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-51-2019 08:51:10 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62082/session/9996e7641f5d9d47fdeeeff5dcbaf9ea/source {}
+06-51-2019 08:51:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:62082 "GET /session/9996e7641f5d9d47fdeeeff5dcbaf9ea/source HTTP/1.1" 200 255912
+06-51-2019 08:51:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-51-2019 08:51:10 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">【限时买2赠1 买3赠2】米雅 酪酸梭菌活菌片 20片 胃肠道功能紊乱肠道菌群紊乱日本进口药</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>米雅</td>
+<th>规　　格：</th>
+<td>活菌数≧0.35*10^6CFU</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.023kg</td>
+<th>生产厂商:</th>
+<td>日本米雅利桑制药株式会社</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字S20140080(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-51-2019 08:51:10 root:INFO:**********************
+06-51-2019 08:51:10 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-51-2019 08:51:10 root:INFO:**********************
+06-51-2019 08:51:10 root:INFO:[<td colspan="3">【限时买2赠1 买3赠2】米雅 酪酸梭菌活菌片 20片 胃肠道功能紊乱肠道菌群紊乱日本进口药</td>, <td>米雅</td>, <td>活菌数≧0.35*10^6CFU</td>, <td>0.023kg</td>, <td>日本米雅利桑制药株式会社</td>, <td>
+                                                                                    国药准字S20140080(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-51-2019 08:51:10 root:INFO:商品名称：【限时买2赠1 买3赠2】米雅 酪酸梭菌活菌片 20片 胃肠道功能紊乱肠道菌群紊乱日本进口药
+06-51-2019 08:51:10 root:INFO:品　　牌：米雅
+06-51-2019 08:51:10 root:INFO:规　　格：活菌数≧0.35*10^6CFU
+06-51-2019 08:51:10 root:INFO:重　　量：0.023kg
+06-51-2019 08:51:10 root:INFO:生产厂商:日本米雅利桑制药株式会社
+06-51-2019 08:51:10 root:INFO:批准文号：国药准字S20140080
+06-51-2019 08:51:10 root:INFO:#### 下载路径 #### ./file/image/4074/0.jpg
+06-51-2019 08:51:10 root:INFO:#### 下载URL #### https://p4.maiyaole.com/img/item/201908/22/200_2019082216223662.jpg
+06-51-2019 08:51:10 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p4.maiyaole.com:443
+06-51-2019 08:51:10 urllib3.connectionpool:DEBUG:https://p4.maiyaole.com:443 "GET /img/item/201908/22/200_2019082216223662.jpg HTTP/1.1" 200 15962
+06-51-2019 08:51:10 root:INFO:#### 下载路径 #### ./file/image/4074/1.jpg
+06-51-2019 08:51:10 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/item/201908/22/org_2019082216223662.jpg
+06-51-2019 08:51:10 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+06-51-2019 08:51:10 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/item/201908/22/org_2019082216223662.jpg HTTP/1.1" 200 137975
+06-51-2019 08:51:10 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:62082/session/9996e7641f5d9d47fdeeeff5dcbaf9ea/window {}
+06-51-2019 08:51:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:62082 "DELETE /session/9996e7641f5d9d47fdeeeff5dcbaf9ea/window HTTP/1.1" 200 12
+06-51-2019 08:51:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-51-2019 08:51:10 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:62082/session/9996e7641f5d9d47fdeeeff5dcbaf9ea {}
+06-51-2019 08:51:11 urllib3.connectionpool:DEBUG:http://127.0.0.1:62082 "DELETE /session/9996e7641f5d9d47fdeeeff5dcbaf9ea HTTP/1.1" 200 14
+06-51-2019 08:51:11 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

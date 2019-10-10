@@ -1,0 +1,320 @@
+06-48-2019 08:48:22 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:61261/session/165555a5a1538cc497e4545240ead4c4/url {"url": "https://www.111.com.cn"}
+06-48-2019 08:48:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:61261 "POST /session/165555a5a1538cc497e4545240ead4c4/url HTTP/1.1" 200 14
+06-48-2019 08:48:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-48-2019 08:48:25 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:61261/session/165555a5a1538cc497e4545240ead4c4/source {}
+06-48-2019 08:48:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:61261 "GET /session/165555a5a1538cc497e4545240ead4c4/source HTTP/1.1" 200 340133
+06-48-2019 08:48:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-48-2019 08:48:25 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:61261/session/165555a5a1538cc497e4545240ead4c4/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u66ff\u7c73\u6c99\u5766\u7247\");\n$(\"#word\").attr(\"value\",\"\u66ff\u7c73\u6c99\u5766\u7247\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-48-2019 08:48:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:61261 "POST /session/165555a5a1538cc497e4545240ead4c4/execute/sync HTTP/1.1" 200 14
+06-48-2019 08:48:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-48-2019 08:48:26 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:61261/session/165555a5a1538cc497e4545240ead4c4/source {}
+06-48-2019 08:48:26 urllib3.connectionpool:DEBUG:http://127.0.0.1:61261 "GET /session/165555a5a1538cc497e4545240ead4c4/source HTTP/1.1" 200 690974
+06-48-2019 08:48:26 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-48-2019 08:48:26 root:INFO:<div class="itemSearchResultCon none" comproid="1120484" isrecom="0" itemid="50095033">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50095033.html" target="_blank">
+<img alt="万邦 邦坦 替米沙坦片 40mg*24片" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/item/201803/21/200_20180321132029401.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1120484">
+<span>
+                        15.5
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50095033.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    万邦 邦坦 替米沙坦片 40mg*24片用于高血压的治疗，降低心血管风险</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1120484">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" druglevel="2" id="askDoctor_1120484" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="1120484" productcode="1120484" sellproductid="1120484" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/50095033.html" id="buyButton_1120484" index="0" inshop="0" merchantid="26" pminfo="1120484" productcode="1120484" productdisabled="true" sellproductid="1120484" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-48-2019 08:48:26 root:INFO:https://p3.maiyaole.com/img/item/201803/21/200_20180321132029401.jpg
+06-48-2019 08:48:26 root:INFO:http://www.111.com.cn/product/50095033.html
+06-48-2019 08:48:26 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:61261/session/165555a5a1538cc497e4545240ead4c4/url {"url": "http://www.111.com.cn/product/50095033.html"}
+06-48-2019 08:48:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:61261 "POST /session/165555a5a1538cc497e4545240ead4c4/url HTTP/1.1" 200 14
+06-48-2019 08:48:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-48-2019 08:48:28 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:61261/session/165555a5a1538cc497e4545240ead4c4/source {}
+06-48-2019 08:48:28 urllib3.connectionpool:DEBUG:http://127.0.0.1:61261 "GET /session/165555a5a1538cc497e4545240ead4c4/source HTTP/1.1" 200 259979
+06-48-2019 08:48:28 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-48-2019 08:48:28 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">万邦 邦坦 替米沙坦片 40mg*24片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>邦坦</td>
+<th>规　　格：</th>
+<td>40mg*24片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.022kg</td>
+<th>生产厂商:</th>
+<td>江苏万邦生化医药集团有限责任公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20050715(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-48-2019 08:48:28 root:INFO:**********************
+06-48-2019 08:48:28 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-48-2019 08:48:28 root:INFO:**********************
+06-48-2019 08:48:28 root:INFO:[<td colspan="3">万邦 邦坦 替米沙坦片 40mg*24片</td>, <td>邦坦</td>, <td>40mg*24片</td>, <td>0.022kg</td>, <td>江苏万邦生化医药集团有限责任公司</td>, <td>
+                                                                                    国药准字H20050715(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-48-2019 08:48:28 root:INFO:商品名称：万邦 邦坦 替米沙坦片 40mg*24片
+06-48-2019 08:48:28 root:INFO:品　　牌：邦坦
+06-48-2019 08:48:28 root:INFO:规　　格：40mg*24片
+06-48-2019 08:48:28 root:INFO:重　　量：0.022kg
+06-48-2019 08:48:28 root:INFO:生产厂商:江苏万邦生化医药集团有限责任公司
+06-48-2019 08:48:28 root:INFO:批准文号：国药准字H20050715
+06-48-2019 08:48:28 root:INFO:产品类型：处方药
+06-48-2019 08:48:28 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-48-2019 08:48:28 root:INFO:<div class="itemSearchResultCon" comproid="3302330" itemid="51220738" purchasehidestatus="1">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51220738.html" target="_blank">
+<img alt="万邦 邦坦 替米沙坦片 40mg*24片 *10件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/item/201902/28/200_20190228150053155.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3302330">
+<span>
+                                  
+                            150.0
+                                  
+                                    <u>¥15.0/件</u>
+</span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51220738.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          万邦 邦坦 替米沙坦片 40mg*24片 *10件</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3302330">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" id="askDoctor_1120484" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="1120484" productcode="1120484" sellproductid="1120484" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/51220738.html" id="buyButton_3302330" index="0" inshop="0" merchantid="26" pminfo="3302330" productcode="3302330" sellproductid="3302330" specialtype="13">查看详情</a>
+</div>
+<div class="sheng"><span>省</span>5.0元</div>
+<u class="bg_border"></u>
+<div class="item_kit" id="item_kit">
+<div class="item_kit_clip clearfix">
+<div class="item_kit_n">
+<a class="" comproid="1120484" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">1件</a>
+<a class="k_cur" comproid="3302330" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">10件</a>
+<i style="left: 50px;"></i>
+</div></div>
+</div></div>
+06-48-2019 08:48:28 root:INFO:https://p4.maiyaole.com/img/item/201902/28/200_20190228150053155.jpg
+06-48-2019 08:48:28 root:INFO:http://www.111.com.cn/product/51220738.html
+06-48-2019 08:48:28 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:61261/session/165555a5a1538cc497e4545240ead4c4/url {"url": "http://www.111.com.cn/product/51220738.html"}
+06-48-2019 08:48:29 urllib3.connectionpool:DEBUG:http://127.0.0.1:61261 "POST /session/165555a5a1538cc497e4545240ead4c4/url HTTP/1.1" 200 14
+06-48-2019 08:48:29 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-48-2019 08:48:30 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:61261/session/165555a5a1538cc497e4545240ead4c4/source {}
+06-48-2019 08:48:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:61261 "GET /session/165555a5a1538cc497e4545240ead4c4/source HTTP/1.1" 200 258833
+06-48-2019 08:48:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-48-2019 08:48:30 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">万邦 邦坦 替米沙坦片 40mg*24片*10件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>邦坦</td>
+<th>规　　格：</th>
+<td>40mg*24片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.022kg</td>
+<th>生产厂商:</th>
+<td>江苏万邦生化医药集团有限责任公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20050715(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-48-2019 08:48:30 root:INFO:**********************
+06-48-2019 08:48:30 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-48-2019 08:48:30 root:INFO:**********************
+06-48-2019 08:48:30 root:INFO:[<td colspan="3">万邦 邦坦 替米沙坦片 40mg*24片*10件</td>, <td>邦坦</td>, <td>40mg*24片</td>, <td>0.022kg</td>, <td>江苏万邦生化医药集团有限责任公司</td>, <td>
+                                                                                    国药准字H20050715(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-48-2019 08:48:30 root:INFO:商品名称：万邦 邦坦 替米沙坦片 40mg*24片*10件
+06-48-2019 08:48:30 root:INFO:品　　牌：邦坦
+06-48-2019 08:48:30 root:INFO:规　　格：40mg*24片
+06-48-2019 08:48:30 root:INFO:重　　量：0.022kg
+06-48-2019 08:48:30 root:INFO:生产厂商:江苏万邦生化医药集团有限责任公司
+06-48-2019 08:48:30 root:INFO:批准文号：国药准字H20050715
+06-48-2019 08:48:30 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-48-2019 08:48:30 root:INFO:<div class="itemSearchResultCon none" comproid="779194" isrecom="0" itemid="974316">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/974316.html" target="_blank">
+<img alt="勃林格殷格翰 美卡素 替米沙坦片 80mg*7片" data-ywpoint="null_null_null_null_I1121_1" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/974/974316/120_120.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_779194">
+<span>
+                        39.5
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/974316.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    勃林格殷格翰 美卡素 替米沙坦片 80mg*7片</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_1">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_779194">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_1" druglevel="2" id="askDoctor_779194" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="779194" productcode="779194" sellproductid="779194" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_1" href="//www.111.com.cn/product/974316.html" id="buyButton_779194" index="0" inshop="0" merchantid="26" pminfo="779194" productcode="779194" productdisabled="true" sellproductid="779194" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-48-2019 08:48:30 root:INFO:https://p3.maiyaole.com/img/974/974316/120_120.jpg
+06-48-2019 08:48:30 root:INFO:http://www.111.com.cn/product/974316.html
+06-48-2019 08:48:30 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:61261/session/165555a5a1538cc497e4545240ead4c4/url {"url": "http://www.111.com.cn/product/974316.html"}
+06-48-2019 08:48:31 urllib3.connectionpool:DEBUG:http://127.0.0.1:61261 "POST /session/165555a5a1538cc497e4545240ead4c4/url HTTP/1.1" 200 14
+06-48-2019 08:48:31 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-48-2019 08:48:32 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:61261/session/165555a5a1538cc497e4545240ead4c4/source {}
+06-48-2019 08:48:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:61261 "GET /session/165555a5a1538cc497e4545240ead4c4/source HTTP/1.1" 200 259804
+06-48-2019 08:48:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-48-2019 08:48:32 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">勃林格殷格翰 美卡素 替米沙坦片 80mg*7片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>勃林格殷格翰/BoehringerIngelheim/美卡素</td>
+<th>规　　格：</th>
+<td>80mg*7片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.016kg</td>
+<th>生产厂商:</th>
+<td>上海勃林格殷格翰药业有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20180016 J20150084(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-48-2019 08:48:32 root:INFO:**********************
+06-48-2019 08:48:32 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-48-2019 08:48:32 root:INFO:**********************
+06-48-2019 08:48:32 root:INFO:[<td colspan="3">勃林格殷格翰 美卡素 替米沙坦片 80mg*7片</td>, <td>勃林格殷格翰/BoehringerIngelheim/美卡素</td>, <td>80mg*7片</td>, <td>0.016kg</td>, <td>上海勃林格殷格翰药业有限公司</td>, <td>
+                                                                                    国药准字J20180016 J20150084(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-48-2019 08:48:32 root:INFO:商品名称：勃林格殷格翰 美卡素 替米沙坦片 80mg*7片
+06-48-2019 08:48:32 root:INFO:品　　牌：勃林格殷格翰/BoehringerIngelheim/美卡素
+06-48-2019 08:48:32 root:INFO:规　　格：80mg*7片
+06-48-2019 08:48:32 root:INFO:重　　量：0.016kg
+06-48-2019 08:48:32 root:INFO:生产厂商:上海勃林格殷格翰药业有限公司
+06-48-2019 08:48:32 root:INFO:批准文号：国药准字J20180016 J20150084
+06-48-2019 08:48:32 root:INFO:#### 下载路径 #### ./file/image/2767/0.jpg
+06-48-2019 08:48:32 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/974/974316/120_120.jpg
+06-48-2019 08:48:32 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+06-48-2019 08:48:32 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/974/974316/120_120.jpg HTTP/1.1" 200 8318
+06-48-2019 08:48:32 root:INFO:#### 下载路径 #### ./file/image/2767/1.jpg
+06-48-2019 08:48:32 root:INFO:#### 下载URL #### https://p1.maiyaole.com/img/974/974316/org_org.jpg?v=1
+06-48-2019 08:48:32 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p1.maiyaole.com:443
+06-48-2019 08:48:32 urllib3.connectionpool:DEBUG:https://p1.maiyaole.com:443 "GET /img/974/974316/org_org.jpg?v=1 HTTP/1.1" 200 72870
+06-48-2019 08:48:32 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:61261/session/165555a5a1538cc497e4545240ead4c4/window {}
+06-48-2019 08:48:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:61261 "DELETE /session/165555a5a1538cc497e4545240ead4c4/window HTTP/1.1" 200 12
+06-48-2019 08:48:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-48-2019 08:48:32 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:61261/session/165555a5a1538cc497e4545240ead4c4 {}
+06-48-2019 08:48:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:61261 "DELETE /session/165555a5a1538cc497e4545240ead4c4 HTTP/1.1" 200 14
+06-48-2019 08:48:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

@@ -1,0 +1,23 @@
+11-50-2019 09:50:12 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57667/session/42784b3fbaf3180d3fa1d5854e37dd22/url {"url": "http://yao.xywy.com/search/?q=\u53f6\u9178\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+11-50-2019 09:50:14 urllib3.connectionpool:DEBUG:http://127.0.0.1:57667 "POST /session/42784b3fbaf3180d3fa1d5854e37dd22/url HTTP/1.1" 200 14
+11-50-2019 09:50:14 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-50-2019 09:50:15 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57667/session/42784b3fbaf3180d3fa1d5854e37dd22/source {}
+11-50-2019 09:50:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:57667 "GET /session/42784b3fbaf3180d3fa1d5854e37dd22/source HTTP/1.1" 200 144024
+11-50-2019 09:50:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-50-2019 09:50:15 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57667/session/42784b3fbaf3180d3fa1d5854e37dd22/url {"url": "http://yao.xywy.com/goods/122399.htm"}
+11-50-2019 09:50:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:57667 "POST /session/42784b3fbaf3180d3fa1d5854e37dd22/url HTTP/1.1" 200 14
+11-50-2019 09:50:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-50-2019 09:50:18 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57667/session/42784b3fbaf3180d3fa1d5854e37dd22/source {}
+11-50-2019 09:50:18 urllib3.connectionpool:DEBUG:http://127.0.0.1:57667 "GET /session/42784b3fbaf3180d3fa1d5854e37dd22/source HTTP/1.1" 200 174586
+11-50-2019 09:50:18 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-51-2019 09:51:17 root:ERROR:#### 解析异常 #### 叶酸片(处方药)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 164, in parseDetailHtml
+    position = dt.find("b").attrs["style"]
+AttributeError: 'NoneType' object has no attribute 'attrs'
+11-51-2019 09:51:17 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57667/session/42784b3fbaf3180d3fa1d5854e37dd22/url {"url": "http://yao.xywy.com/goods/17680.htm"}
+11-51-2019 09:51:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:57667 "POST /session/42784b3fbaf3180d3fa1d5854e37dd22/url HTTP/1.1" 200 14
+11-51-2019 09:51:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-51-2019 09:51:20 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57667/session/42784b3fbaf3180d3fa1d5854e37dd22/source {}
+11-51-2019 09:51:20 urllib3.connectionpool:DEBUG:http://127.0.0.1:57667 "GET /session/42784b3fbaf3180d3fa1d5854e37dd22/source HTTP/1.1" 200 171798
+11-51-2019 09:51:20 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

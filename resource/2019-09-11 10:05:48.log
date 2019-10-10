@@ -1,0 +1,30 @@
+11-05-2019 10:05:48 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62441/session/5e2d51fd9db156ee1271d395d0a52be0/url {"url": "http://yao.xywy.com/search/?q=\u53f6\u9178\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+11-05-2019 10:05:49 urllib3.connectionpool:DEBUG:http://127.0.0.1:62441 "POST /session/5e2d51fd9db156ee1271d395d0a52be0/url HTTP/1.1" 200 14
+11-05-2019 10:05:49 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-05-2019 10:05:50 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62441/session/5e2d51fd9db156ee1271d395d0a52be0/source {}
+11-05-2019 10:05:50 urllib3.connectionpool:DEBUG:http://127.0.0.1:62441 "GET /session/5e2d51fd9db156ee1271d395d0a52be0/source HTTP/1.1" 200 144024
+11-05-2019 10:05:50 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-05-2019 10:05:50 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62441/session/5e2d51fd9db156ee1271d395d0a52be0/url {"url": "http://yao.xywy.com/goods/122399.htm"}
+11-05-2019 10:05:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:62441 "POST /session/5e2d51fd9db156ee1271d395d0a52be0/url HTTP/1.1" 200 14
+11-05-2019 10:05:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-05-2019 10:05:54 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62441/session/5e2d51fd9db156ee1271d395d0a52be0/source {}
+11-05-2019 10:05:54 urllib3.connectionpool:DEBUG:http://127.0.0.1:62441 "GET /session/5e2d51fd9db156ee1271d395d0a52be0/source HTTP/1.1" 200 174581
+11-05-2019 10:05:54 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-05-2019 10:05:54 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62441/session/5e2d51fd9db156ee1271d395d0a52be0/url {"url": "http://yao.xywy.com/goods/17680.htm"}
+11-05-2019 10:05:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:62441 "POST /session/5e2d51fd9db156ee1271d395d0a52be0/url HTTP/1.1" 200 14
+11-05-2019 10:05:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-05-2019 10:05:57 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62441/session/5e2d51fd9db156ee1271d395d0a52be0/source {}
+11-05-2019 10:05:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:62441 "GET /session/5e2d51fd9db156ee1271d395d0a52be0/source HTTP/1.1" 200 172667
+11-05-2019 10:05:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-05-2019 10:05:57 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62441/session/5e2d51fd9db156ee1271d395d0a52be0/url {"url": "http://yao.xywy.com/goods/16384.htm"}
+11-06-2019 10:06:00 urllib3.connectionpool:DEBUG:http://127.0.0.1:62441 "POST /session/5e2d51fd9db156ee1271d395d0a52be0/url HTTP/1.1" 200 14
+11-06-2019 10:06:00 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-06-2019 10:06:01 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62441/session/5e2d51fd9db156ee1271d395d0a52be0/source {}
+11-06-2019 10:06:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:62441 "GET /session/5e2d51fd9db156ee1271d395d0a52be0/source HTTP/1.1" 200 181733
+11-06-2019 10:06:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-06-2019 10:06:01 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:62441/session/5e2d51fd9db156ee1271d395d0a52be0/window {}
+11-06-2019 10:06:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:62441 "DELETE /session/5e2d51fd9db156ee1271d395d0a52be0/window HTTP/1.1" 200 12
+11-06-2019 10:06:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-06-2019 10:06:01 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:62441/session/5e2d51fd9db156ee1271d395d0a52be0 {}
+11-06-2019 10:06:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:62441 "DELETE /session/5e2d51fd9db156ee1271d395d0a52be0 HTTP/1.1" 200 14
+11-06-2019 10:06:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

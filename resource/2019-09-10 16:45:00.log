@@ -1,0 +1,45 @@
+10-45-2019 16:45:00 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53391/session/e729d02a62947bfc36ab2fa4b0d914c7/url {"url": "http://yao.xywy.com/search/?q=\u53f6\u9178\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+10-45-2019 16:45:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:53391 "POST /session/e729d02a62947bfc36ab2fa4b0d914c7/url HTTP/1.1" 200 14
+10-45-2019 16:45:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-45-2019 16:45:02 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53391/session/e729d02a62947bfc36ab2fa4b0d914c7/source {}
+10-45-2019 16:45:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:53391 "GET /session/e729d02a62947bfc36ab2fa4b0d914c7/source HTTP/1.1" 200 144024
+10-45-2019 16:45:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-45-2019 16:45:03 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53391/session/e729d02a62947bfc36ab2fa4b0d914c7/url {"url": "http:/goods/17680.htm"}
+10-45-2019 16:45:03 urllib3.connectionpool:DEBUG:http://127.0.0.1:53391 "POST /session/e729d02a62947bfc36ab2fa4b0d914c7/url HTTP/1.1" 200 14
+10-45-2019 16:45:03 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-45-2019 16:45:04 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53391/session/e729d02a62947bfc36ab2fa4b0d914c7/source {}
+10-45-2019 16:45:04 urllib3.connectionpool:DEBUG:http://127.0.0.1:53391 "GET /session/e729d02a62947bfc36ab2fa4b0d914c7/source HTTP/1.1" 200 201268
+10-45-2019 16:45:04 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-45-2019 16:45:04 root:ERROR:#### 解析异常 #### 叶酸片(处方药)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 159, in parseDetailHtml
+    dts = div[0].contents[3].find_all("dl")
+IndexError: list index out of range
+10-45-2019 16:45:04 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53391/session/e729d02a62947bfc36ab2fa4b0d914c7/url {"url": "http:/goods/122399.htm"}
+10-45-2019 16:45:04 urllib3.connectionpool:DEBUG:http://127.0.0.1:53391 "POST /session/e729d02a62947bfc36ab2fa4b0d914c7/url HTTP/1.1" 200 14
+10-45-2019 16:45:04 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-45-2019 16:45:05 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53391/session/e729d02a62947bfc36ab2fa4b0d914c7/source {}
+10-45-2019 16:45:05 urllib3.connectionpool:DEBUG:http://127.0.0.1:53391 "GET /session/e729d02a62947bfc36ab2fa4b0d914c7/source HTTP/1.1" 200 201270
+10-45-2019 16:45:05 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-45-2019 16:45:05 root:ERROR:#### 解析异常 #### 叶酸片(处方药)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 159, in parseDetailHtml
+    dts = div[0].contents[3].find_all("dl")
+IndexError: list index out of range
+10-45-2019 16:45:05 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53391/session/e729d02a62947bfc36ab2fa4b0d914c7/url {"url": "http:/goods/16384.htm"}
+10-45-2019 16:45:05 urllib3.connectionpool:DEBUG:http://127.0.0.1:53391 "POST /session/e729d02a62947bfc36ab2fa4b0d914c7/url HTTP/1.1" 200 14
+10-45-2019 16:45:05 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-45-2019 16:45:06 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53391/session/e729d02a62947bfc36ab2fa4b0d914c7/source {}
+10-45-2019 16:45:06 urllib3.connectionpool:DEBUG:http://127.0.0.1:53391 "GET /session/e729d02a62947bfc36ab2fa4b0d914c7/source HTTP/1.1" 200 201268
+10-45-2019 16:45:06 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-45-2019 16:45:06 root:ERROR:#### 解析异常 #### 叶酸片(处方药)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 159, in parseDetailHtml
+    dts = div[0].contents[3].find_all("dl")
+IndexError: list index out of range
+10-45-2019 16:45:06 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:53391/session/e729d02a62947bfc36ab2fa4b0d914c7/window {}
+10-45-2019 16:45:06 urllib3.connectionpool:DEBUG:http://127.0.0.1:53391 "DELETE /session/e729d02a62947bfc36ab2fa4b0d914c7/window HTTP/1.1" 200 12
+10-45-2019 16:45:06 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-45-2019 16:45:06 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:53391/session/e729d02a62947bfc36ab2fa4b0d914c7 {}
+10-45-2019 16:45:06 urllib3.connectionpool:DEBUG:http://127.0.0.1:53391 "DELETE /session/e729d02a62947bfc36ab2fa4b0d914c7 HTTP/1.1" 200 14
+10-45-2019 16:45:06 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

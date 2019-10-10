@@ -1,0 +1,122 @@
+06-10-2019 09:10:30 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51459/session/2e24d2c55a056a81aad597fcdf13fc7a/url {"url": "https://www.111.com.cn"}
+06-10-2019 09:10:31 urllib3.connectionpool:DEBUG:http://127.0.0.1:51459 "POST /session/2e24d2c55a056a81aad597fcdf13fc7a/url HTTP/1.1" 200 14
+06-10-2019 09:10:31 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-10-2019 09:10:32 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51459/session/2e24d2c55a056a81aad597fcdf13fc7a/source {}
+06-10-2019 09:10:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:51459 "GET /session/2e24d2c55a056a81aad597fcdf13fc7a/source HTTP/1.1" 200 340134
+06-10-2019 09:10:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-10-2019 09:10:32 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51459/session/2e24d2c55a056a81aad597fcdf13fc7a/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u8fc7\u6c27\u82ef\u7532\u9170\u51dd\u80f6\");\n$(\"#word\").attr(\"value\",\"\u8fc7\u6c27\u82ef\u7532\u9170\u51dd\u80f6\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-10-2019 09:10:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:51459 "POST /session/2e24d2c55a056a81aad597fcdf13fc7a/execute/sync HTTP/1.1" 200 14
+06-10-2019 09:10:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-10-2019 09:10:33 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51459/session/2e24d2c55a056a81aad597fcdf13fc7a/source {}
+06-10-2019 09:10:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:51459 "GET /session/2e24d2c55a056a81aad597fcdf13fc7a/source HTTP/1.1" 200 464342
+06-10-2019 09:10:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-10-2019 09:10:33 root:INFO:<div class="itemSearchResultCon none" comproid="794172" isrecom="0" itemid="4228065">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/4228065.html" target="_blank">
+<img alt="班赛 过氧苯甲酰凝胶5%* 15g" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201612/05/200_20161205114427497.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_794172">
+<span>
+                        26.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/4228065.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    班赛 过氧苯甲酰凝胶5%* 15g法国进口，外用治疗寻常座疮</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/4228065.html#itemComments');" pmid="794172">评论 <em>4608</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_794172">
+<input class="search_list_reduce_gray" data-ywpoint="null_null_null_null_I1122_0" onclick="modifyBuyNum(this, -1);" type="button"/>
+<input class="num" id="buyNum_4228065" onkeyup="var key=event.keyCode;checkBuyNum(this, key)" type="text" value="1"/>
+<input class="search_list_plus" data-ywpoint="null_null_null_null_I1122_0" onclick="modifyBuyNum(this, 1);" type="button"/>
+<button class="buy op_right_btn add_cart_btn border_left" currentstore="true" data-ywpoint="null_null_null_null_I1123_0" id="buyButton_4228065" index="0" inshop="0" merchantid="" onclick="javascript:buyToCart(1,4228065);" pminfo="" productcode="794172" sellproductid="794172" specialtype="13">加入购物车</button>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-10-2019 09:10:33 root:INFO:https://p1.maiyaole.com/img/item/201612/05/200_20161205114427497.jpg
+06-10-2019 09:10:33 root:INFO:http://www.111.com.cn/product/4228065.html
+06-10-2019 09:10:33 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51459/session/2e24d2c55a056a81aad597fcdf13fc7a/url {"url": "http://www.111.com.cn/product/4228065.html"}
+06-10-2019 09:10:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:51459 "POST /session/2e24d2c55a056a81aad597fcdf13fc7a/url HTTP/1.1" 200 14
+06-10-2019 09:10:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-10-2019 09:10:35 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51459/session/2e24d2c55a056a81aad597fcdf13fc7a/source {}
+06-10-2019 09:10:35 urllib3.connectionpool:DEBUG:http://127.0.0.1:51459 "GET /session/2e24d2c55a056a81aad597fcdf13fc7a/source HTTP/1.1" 200 251127
+06-10-2019 09:10:35 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-10-2019 09:10:35 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">班赛 过氧苯甲酰凝胶5%* 15g</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>班赛</td>
+<th>规　　格：</th>
+<td>5%*15g</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.024kg</td>
+<th>生产厂商:</th>
+<td>Laboratoires Galderma</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    进口药品注册证号：H20140076(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-10-2019 09:10:35 root:INFO:**********************
+06-10-2019 09:10:35 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-10-2019 09:10:35 root:INFO:**********************
+06-10-2019 09:10:35 root:INFO:[<td colspan="3">班赛 过氧苯甲酰凝胶5%* 15g</td>, <td>班赛</td>, <td>5%*15g</td>, <td>0.024kg</td>, <td>Laboratoires Galderma</td>, <td>
+                                                                                    进口药品注册证号：H20140076(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-10-2019 09:10:35 root:INFO:商品名称：班赛 过氧苯甲酰凝胶5%* 15g
+06-10-2019 09:10:35 root:INFO:品　　牌：班赛
+06-10-2019 09:10:35 root:INFO:规　　格：5%*15g
+06-10-2019 09:10:35 root:INFO:重　　量：0.024kg
+06-10-2019 09:10:35 root:INFO:生产厂商:Laboratoires Galderma
+06-10-2019 09:10:35 root:INFO:批准文号：进口药品注册证号：H20140076
+06-10-2019 09:10:35 root:INFO:#### 下载路径 #### ./file/image/5181/0.jpg
+06-10-2019 09:10:35 root:INFO:#### 下载URL #### https://p1.maiyaole.com/img/item/201612/05/200_20161205114427497.jpg
+06-10-2019 09:10:35 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p1.maiyaole.com:443
+06-10-2019 09:10:35 urllib3.connectionpool:DEBUG:https://p1.maiyaole.com:443 "GET /img/item/201612/05/200_20161205114427497.jpg HTTP/1.1" 200 19071
+06-10-2019 09:10:35 root:INFO:#### 下载路径 #### ./file/image/5181/1.jpg
+06-10-2019 09:10:35 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/item/201612/05/org_20161205114427497.jpg
+06-10-2019 09:10:35 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+06-10-2019 09:10:36 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/item/201612/05/org_20161205114427497.jpg HTTP/1.1" 200 175889
+06-10-2019 09:10:36 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:51459/session/2e24d2c55a056a81aad597fcdf13fc7a/window {}
+06-10-2019 09:10:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:51459 "DELETE /session/2e24d2c55a056a81aad597fcdf13fc7a/window HTTP/1.1" 200 12
+06-10-2019 09:10:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-10-2019 09:10:36 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:51459/session/2e24d2c55a056a81aad597fcdf13fc7a {}
+06-10-2019 09:10:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:51459 "DELETE /session/2e24d2c55a056a81aad597fcdf13fc7a HTTP/1.1" 200 14
+06-10-2019 09:10:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

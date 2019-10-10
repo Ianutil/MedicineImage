@@ -1,0 +1,6 @@
+04-21-2019 16:21:02 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:54552/session/0a1face0b7cbc214caaf818fa1afa8ac/window {}
+04-21-2019 16:21:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:54552 "DELETE /session/0a1face0b7cbc214caaf818fa1afa8ac/window HTTP/1.1" 200 12
+04-21-2019 16:21:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-21-2019 16:21:02 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:54552/session/0a1face0b7cbc214caaf818fa1afa8ac {}
+04-21-2019 16:21:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:54552 "DELETE /session/0a1face0b7cbc214caaf818fa1afa8ac HTTP/1.1" 200 14
+04-21-2019 16:21:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

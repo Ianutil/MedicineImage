@@ -1,0 +1,123 @@
+06-24-2019 09:24:12 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55532/session/be44c2837946094e7ce5ea6ebb0c304f/url {"url": "https://www.111.com.cn"}
+06-24-2019 09:24:14 urllib3.connectionpool:DEBUG:http://127.0.0.1:55532 "POST /session/be44c2837946094e7ce5ea6ebb0c304f/url HTTP/1.1" 200 14
+06-24-2019 09:24:14 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-24-2019 09:24:15 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55532/session/be44c2837946094e7ce5ea6ebb0c304f/source {}
+06-24-2019 09:24:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:55532 "GET /session/be44c2837946094e7ce5ea6ebb0c304f/source HTTP/1.1" 200 339428
+06-24-2019 09:24:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-24-2019 09:24:15 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55532/session/be44c2837946094e7ce5ea6ebb0c304f/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u6c28\u5496\u9ec4\u654f\u53e3\u670d\u6eb6\u6db2 \u548c\u76c8\");\n$(\"#word\").attr(\"value\",\"\u6c28\u5496\u9ec4\u654f\u53e3\u670d\u6eb6\u6db2 \u548c\u76c8\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-24-2019 09:24:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:55532 "POST /session/be44c2837946094e7ce5ea6ebb0c304f/execute/sync HTTP/1.1" 200 14
+06-24-2019 09:24:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-24-2019 09:24:16 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55532/session/be44c2837946094e7ce5ea6ebb0c304f/source {}
+06-24-2019 09:24:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:55532 "GET /session/be44c2837946094e7ce5ea6ebb0c304f/source HTTP/1.1" 200 238447
+06-24-2019 09:24:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-24-2019 09:24:16 root:INFO:<div class="itemSearchResultCon" comproid="3100056" isrecom="0" itemid="51085205">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51085205.html" target="_blank">
+<img alt="和盈 氨咖黄敏口服溶液 10ml*6支" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/201907/01/200_20190701160323490.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3100056">
+<span>
+                        97.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51085205.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    和盈 氨咖黄敏口服溶液 10ml*6支天天快乐生活愉快！-31282</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102528214">丹陛华大药房</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3100056">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3100056_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51085205,1)" pminfo="3100056" productcode="3100056" sellproductid="3100056" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3100056" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51085205,1)" ordersettings="11" pminfo="3100056" productcode="3100056" sellproductid="3100056" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/51085205.html" id="buyButton_3100056" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3100056" productcode="3100056" sellproductid="3100056" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-24-2019 09:24:16 root:INFO:https://p1.maiyaole.com/img/201907/01/200_20190701160323490.jpg
+06-24-2019 09:24:16 root:INFO:http://www.111.com.cn/product/51085205.html
+06-24-2019 09:24:16 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55532/session/be44c2837946094e7ce5ea6ebb0c304f/url {"url": "http://www.111.com.cn/product/51085205.html"}
+06-24-2019 09:24:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:55532 "POST /session/be44c2837946094e7ce5ea6ebb0c304f/url HTTP/1.1" 200 14
+06-24-2019 09:24:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-24-2019 09:24:18 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55532/session/be44c2837946094e7ce5ea6ebb0c304f/source {}
+06-24-2019 09:24:18 urllib3.connectionpool:DEBUG:http://127.0.0.1:55532 "GET /session/be44c2837946094e7ce5ea6ebb0c304f/source HTTP/1.1" 200 243341
+06-24-2019 09:24:18 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-24-2019 09:24:18 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">和盈 氨咖黄敏口服溶液 10ml*6支</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>和盈</td>
+<th>规　　格：</th>
+<td>10ml*6支</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.1kg</td>
+<th>生产厂商:</th>
+<td>江西和盈</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20058569(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-24-2019 09:24:18 root:INFO:**********************
+06-24-2019 09:24:18 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-24-2019 09:24:18 root:INFO:**********************
+06-24-2019 09:24:18 root:INFO:[<td colspan="3">和盈 氨咖黄敏口服溶液 10ml*6支</td>, <td>和盈</td>, <td>10ml*6支</td>, <td>0.1kg</td>, <td>江西和盈</td>, <td>
+                                                                                    国药准字H20058569(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-24-2019 09:24:18 root:INFO:商品名称：和盈 氨咖黄敏口服溶液 10ml*6支
+06-24-2019 09:24:18 root:INFO:品　　牌：和盈
+06-24-2019 09:24:18 root:INFO:规　　格：10ml*6支
+06-24-2019 09:24:18 root:INFO:重　　量：0.1kg
+06-24-2019 09:24:18 root:INFO:生产厂商:江西和盈
+06-24-2019 09:24:18 root:INFO:批准文号：国药准字H20058569
+06-24-2019 09:24:18 root:INFO:#### 下载路径 #### ./file/image/139203/0.jpg
+06-24-2019 09:24:18 root:INFO:#### 下载URL #### https://p1.maiyaole.com/img/201907/01/200_20190701160323490.jpg
+06-24-2019 09:24:18 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p1.maiyaole.com:443
+06-24-2019 09:24:19 urllib3.connectionpool:DEBUG:https://p1.maiyaole.com:443 "GET /img/201907/01/200_20190701160323490.jpg HTTP/1.1" 200 18130
+06-24-2019 09:24:19 root:INFO:#### 下载路径 #### ./file/image/139203/1.jpg
+06-24-2019 09:24:19 root:INFO:#### 下载URL #### https://p2.maiyaole.com/img/201907/01/org_20190701160323490.jpg
+06-24-2019 09:24:19 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p2.maiyaole.com:443
+06-24-2019 09:24:19 urllib3.connectionpool:DEBUG:https://p2.maiyaole.com:443 "GET /img/201907/01/org_20190701160323490.jpg HTTP/1.1" 200 194011
+06-24-2019 09:24:19 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:55532/session/be44c2837946094e7ce5ea6ebb0c304f/window {}
+06-24-2019 09:24:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:55532 "DELETE /session/be44c2837946094e7ce5ea6ebb0c304f/window HTTP/1.1" 200 12
+06-24-2019 09:24:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-24-2019 09:24:19 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:55532/session/be44c2837946094e7ce5ea6ebb0c304f {}
+06-24-2019 09:24:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:55532 "DELETE /session/be44c2837946094e7ce5ea6ebb0c304f HTTP/1.1" 200 14
+06-24-2019 09:24:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

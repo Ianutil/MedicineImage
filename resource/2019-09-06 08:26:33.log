@@ -1,0 +1,220 @@
+06-26-2019 08:26:33 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54304/session/10a0b1e92babae6cfe016dd6f0c4503a/url {"url": "https://www.111.com.cn"}
+06-26-2019 08:26:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:54304 "POST /session/10a0b1e92babae6cfe016dd6f0c4503a/url HTTP/1.1" 200 14
+06-26-2019 08:26:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-26-2019 08:26:35 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54304/session/10a0b1e92babae6cfe016dd6f0c4503a/source {}
+06-26-2019 08:26:35 urllib3.connectionpool:DEBUG:http://127.0.0.1:54304 "GET /session/10a0b1e92babae6cfe016dd6f0c4503a/source HTTP/1.1" 200 339428
+06-26-2019 08:26:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-26-2019 08:26:36 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54304/session/10a0b1e92babae6cfe016dd6f0c4503a/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u590d\u65b9\u6c2f\u5df1\u5b9a\u542b\u6f31\u6db2\");\n$(\"#word\").attr(\"value\",\"\u590d\u65b9\u6c2f\u5df1\u5b9a\u542b\u6f31\u6db2\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-26-2019 08:26:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:54304 "POST /session/10a0b1e92babae6cfe016dd6f0c4503a/execute/sync HTTP/1.1" 200 14
+06-26-2019 08:26:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-26-2019 08:26:37 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54304/session/10a0b1e92babae6cfe016dd6f0c4503a/source {}
+06-26-2019 08:26:37 urllib3.connectionpool:DEBUG:http://127.0.0.1:54304 "GET /session/10a0b1e92babae6cfe016dd6f0c4503a/source HTTP/1.1" 200 474780
+06-26-2019 08:26:37 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-26-2019 08:26:37 root:INFO:<div class="itemSearchResultCon" comproid="779634" isrecom="0" itemid="974990">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/974990.html" target="_blank">
+<img alt="口泰 复方氯己定含漱液 200ml" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201807/31/200_20180731151509133.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_779634">
+<span>
+                        14.5
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/974990.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    口泰 复方氯己定含漱液 200ml用于牙龈炎、冠周炎、口腔黏膜炎等引致的牙周脓肿、口腔黏膜溃疡等病症的辅助治疗。</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/974990.html#itemComments');" pmid="779634">评论 <em>226</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_779634">
+<input class="search_list_reduce_gray" data-ywpoint="null_null_null_null_I1122_0" onclick="modifyBuyNum(this, -1);" type="button"/>
+<input class="num" id="buyNum_974990" onkeyup="var key=event.keyCode;checkBuyNum(this, key)" type="text" value="1"/>
+<input class="search_list_plus" data-ywpoint="null_null_null_null_I1122_0" onclick="modifyBuyNum(this, 1);" type="button"/>
+<button class="buy op_right_btn add_cart_btn border_left" currentstore="true" data-ywpoint="null_null_null_null_I1123_0" id="buyButton_974990" index="0" inshop="0" merchantid="" onclick="javascript:buyToCart(1,974990);" pminfo="" productcode="779634" sellproductid="779634" specialtype="13">加入购物车</button>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-26-2019 08:26:37 root:INFO:https://p1.maiyaole.com/img/item/201807/31/200_20180731151509133.jpg
+06-26-2019 08:26:37 root:INFO:http://www.111.com.cn/product/974990.html
+06-26-2019 08:26:37 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54304/session/10a0b1e92babae6cfe016dd6f0c4503a/url {"url": "http://www.111.com.cn/product/974990.html"}
+06-26-2019 08:26:38 urllib3.connectionpool:DEBUG:http://127.0.0.1:54304 "POST /session/10a0b1e92babae6cfe016dd6f0c4503a/url HTTP/1.1" 200 14
+06-26-2019 08:26:38 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-26-2019 08:26:39 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54304/session/10a0b1e92babae6cfe016dd6f0c4503a/source {}
+06-26-2019 08:26:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:54304 "GET /session/10a0b1e92babae6cfe016dd6f0c4503a/source HTTP/1.1" 200 245007
+06-26-2019 08:26:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-26-2019 08:26:40 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">口泰 复方氯己定含漱液 200ml</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>口泰</td>
+<th>规　　格：</th>
+<td>200ml</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.234kg</td>
+<th>生产厂商:</th>
+<td>深圳南粤药业有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H10920104(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-26-2019 08:26:40 root:INFO:**********************
+06-26-2019 08:26:40 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-26-2019 08:26:40 root:INFO:**********************
+06-26-2019 08:26:40 root:INFO:[<td colspan="3">口泰 复方氯己定含漱液 200ml</td>, <td>口泰</td>, <td>200ml</td>, <td>0.234kg</td>, <td>深圳南粤药业有限公司</td>, <td>
+                                                                                    国药准字H10920104(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-26-2019 08:26:40 root:INFO:商品名称：口泰 复方氯己定含漱液 200ml
+06-26-2019 08:26:40 root:INFO:品　　牌：口泰
+06-26-2019 08:26:40 root:INFO:规　　格：200ml
+06-26-2019 08:26:40 root:INFO:重　　量：0.234kg
+06-26-2019 08:26:40 root:INFO:生产厂商:深圳南粤药业有限公司
+06-26-2019 08:26:40 root:INFO:批准文号：国药准字H10920104
+06-26-2019 08:26:40 root:INFO:产品类型：OTC（非处方药）
+06-26-2019 08:26:40 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-26-2019 08:26:40 root:INFO:<div class="itemSearchResultCon" comproid="1127401" isrecom="0" itemid="50098202">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/50098202.html" target="_blank">
+<img alt="金口馨 复方氯己定含漱液 300ml" data-ywpoint="null_null_null_null_I1121_1" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/50098/50098202/120_120.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1127401">
+<span>
+                        26.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/50098202.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    金口馨 复方氯己定含漱液 300ml用于牙龈炎、冠周炎、口腔黏膜炎等引致的牙周脓肿、口腔黏膜溃疡等病症的辅助治疗。</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_1">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/50098202.html#itemComments');" pmid="1127401">评论 <em>139</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1127401">
+<input class="search_list_reduce_gray" data-ywpoint="null_null_null_null_I1122_1" onclick="modifyBuyNum(this, -1);" type="button"/>
+<input class="num" id="buyNum_50098202" onkeyup="var key=event.keyCode;checkBuyNum(this, key)" type="text" value="1"/>
+<input class="search_list_plus" data-ywpoint="null_null_null_null_I1122_1" onclick="modifyBuyNum(this, 1);" type="button"/>
+<button class="buy op_right_btn add_cart_btn border_left" currentstore="true" data-ywpoint="null_null_null_null_I1123_1" id="buyButton_50098202" index="0" inshop="0" merchantid="" onclick="javascript:buyToCart(1,50098202);" pminfo="" productcode="1127401" sellproductid="1127401" specialtype="13">加入购物车</button>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-26-2019 08:26:40 root:INFO:https://p2.maiyaole.com/img/50098/50098202/120_120.jpg
+06-26-2019 08:26:40 root:INFO:http://www.111.com.cn/product/50098202.html
+06-26-2019 08:26:40 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54304/session/10a0b1e92babae6cfe016dd6f0c4503a/url {"url": "http://www.111.com.cn/product/50098202.html"}
+06-26-2019 08:26:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:54304 "POST /session/10a0b1e92babae6cfe016dd6f0c4503a/url HTTP/1.1" 200 14
+06-26-2019 08:26:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-26-2019 08:26:42 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54304/session/10a0b1e92babae6cfe016dd6f0c4503a/source {}
+06-26-2019 08:26:42 urllib3.connectionpool:DEBUG:http://127.0.0.1:54304 "GET /session/10a0b1e92babae6cfe016dd6f0c4503a/source HTTP/1.1" 200 247388
+06-26-2019 08:26:42 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-26-2019 08:26:42 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">金口馨 复方氯己定含漱液 300ml</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>金口馨</td>
+<th>规　　格：</th>
+<td>300ml</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.385kg</td>
+<th>生产厂商:</th>
+<td>江苏晨牌邦德药业有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20058018(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-26-2019 08:26:42 root:INFO:**********************
+06-26-2019 08:26:42 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-26-2019 08:26:42 root:INFO:**********************
+06-26-2019 08:26:42 root:INFO:[<td colspan="3">金口馨 复方氯己定含漱液 300ml</td>, <td>金口馨</td>, <td>300ml</td>, <td>0.385kg</td>, <td>江苏晨牌邦德药业有限公司</td>, <td>
+                                                                                    国药准字H20058018(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-26-2019 08:26:42 root:INFO:商品名称：金口馨 复方氯己定含漱液 300ml
+06-26-2019 08:26:42 root:INFO:品　　牌：金口馨
+06-26-2019 08:26:42 root:INFO:规　　格：300ml
+06-26-2019 08:26:42 root:INFO:重　　量：0.385kg
+06-26-2019 08:26:42 root:INFO:生产厂商:江苏晨牌邦德药业有限公司
+06-26-2019 08:26:42 root:INFO:批准文号：国药准字H20058018
+06-26-2019 08:26:42 root:INFO:#### 下载路径 #### ./file/image/147003/0.jpg
+06-26-2019 08:26:42 root:INFO:#### 下载URL #### https://p2.maiyaole.com/img/50098/50098202/120_120.jpg
+06-26-2019 08:26:42 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p2.maiyaole.com:443
+06-26-2019 08:26:42 urllib3.connectionpool:DEBUG:https://p2.maiyaole.com:443 "GET /img/50098/50098202/120_120.jpg HTTP/1.1" 200 9615
+06-26-2019 08:26:42 root:INFO:#### 下载路径 #### ./file/image/147003/1.jpg
+06-26-2019 08:26:42 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/50098/50098202/org_org.jpg?v=1
+06-26-2019 08:26:42 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+06-26-2019 08:26:42 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/50098/50098202/org_org.jpg?v=1 HTTP/1.1" 200 52607
+06-26-2019 08:26:42 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:54304/session/10a0b1e92babae6cfe016dd6f0c4503a/window {}
+06-26-2019 08:26:43 urllib3.connectionpool:DEBUG:http://127.0.0.1:54304 "DELETE /session/10a0b1e92babae6cfe016dd6f0c4503a/window HTTP/1.1" 200 12
+06-26-2019 08:26:43 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-26-2019 08:26:43 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:54304/session/10a0b1e92babae6cfe016dd6f0c4503a {}
+06-26-2019 08:26:43 urllib3.connectionpool:DEBUG:http://127.0.0.1:54304 "DELETE /session/10a0b1e92babae6cfe016dd6f0c4503a HTTP/1.1" 200 14
+06-26-2019 08:26:43 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

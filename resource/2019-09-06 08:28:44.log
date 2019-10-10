@@ -1,0 +1,315 @@
+06-28-2019 08:28:44 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54962/session/cb8f4e5de93f812aadff7164a5290663/url {"url": "https://www.111.com.cn"}
+06-28-2019 08:28:46 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "POST /session/cb8f4e5de93f812aadff7164a5290663/url HTTP/1.1" 200 14
+06-28-2019 08:28:46 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-28-2019 08:28:47 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54962/session/cb8f4e5de93f812aadff7164a5290663/source {}
+06-28-2019 08:28:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "GET /session/cb8f4e5de93f812aadff7164a5290663/source HTTP/1.1" 200 339733
+06-28-2019 08:28:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-28-2019 08:28:47 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54962/session/cb8f4e5de93f812aadff7164a5290663/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u76d0\u9178\u4e8c\u7532\u53cc\u80cd\u7247 \u4fe1\u8c0a\");\n$(\"#word\").attr(\"value\",\"\u76d0\u9178\u4e8c\u7532\u53cc\u80cd\u7247 \u4fe1\u8c0a\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-28-2019 08:28:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "POST /session/cb8f4e5de93f812aadff7164a5290663/execute/sync HTTP/1.1" 200 14
+06-28-2019 08:28:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-28-2019 08:28:48 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54962/session/cb8f4e5de93f812aadff7164a5290663/source {}
+06-28-2019 08:28:48 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "GET /session/cb8f4e5de93f812aadff7164a5290663/source HTTP/1.1" 200 340268
+06-28-2019 08:28:48 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-28-2019 08:28:48 root:INFO:<div class="itemSearchResultCon" comproid="2286308" isrecom="0" itemid="50674165">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50674165.html" target="_blank">
+<img alt="信谊 盐酸二甲双胍片 0.25g*60片" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/7885/7885727/120_120.jpg?a=1419652609" width="205"/>
+</a>
+<p class="price" id="promotionInfo_2286308">
+<span>
+                        6.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50674165.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    信谊 盐酸二甲双胍片 0.25g*60片用于单纯饮食控制不满意的II型糖尿病病人，尤其是肥胖和伴高胰岛素血症者，用本药不但有降 血糖作用</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102532298">壹心康新特药</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2286308">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_2286308_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50674165,1)" pminfo="2286308" productcode="2286308" sellproductid="2286308" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_2286308" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50674165,1)" ordersettings="11" pminfo="2286308" productcode="2286308" sellproductid="2286308" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/50674165.html" id="buyButton_2286308" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="2286308" productcode="2286308" sellproductid="2286308" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-28-2019 08:28:48 root:INFO:https://p4.maiyaole.com/img/7885/7885727/120_120.jpg?a=1419652609
+06-28-2019 08:28:48 root:INFO:http://www.111.com.cn/product/50674165.html
+06-28-2019 08:28:48 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54962/session/cb8f4e5de93f812aadff7164a5290663/url {"url": "http://www.111.com.cn/product/50674165.html"}
+06-28-2019 08:28:49 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "POST /session/cb8f4e5de93f812aadff7164a5290663/url HTTP/1.1" 200 14
+06-28-2019 08:28:49 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-28-2019 08:28:50 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54962/session/cb8f4e5de93f812aadff7164a5290663/source {}
+06-28-2019 08:28:50 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "GET /session/cb8f4e5de93f812aadff7164a5290663/source HTTP/1.1" 200 246705
+06-28-2019 08:28:50 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-28-2019 08:28:50 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">信谊 盐酸二甲双胍片 0.25g*60片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>信谊</td>
+<th>规　　格：</th>
+<td>0.25g*60片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.04kg</td>
+<th>生产厂商:</th>
+<td>上海上药信谊药厂有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H31022081(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-28-2019 08:28:50 root:INFO:**********************
+06-28-2019 08:28:50 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-28-2019 08:28:50 root:INFO:**********************
+06-28-2019 08:28:50 root:INFO:[<td colspan="3">信谊 盐酸二甲双胍片 0.25g*60片</td>, <td>信谊</td>, <td>0.25g*60片</td>, <td>0.04kg</td>, <td>上海上药信谊药厂有限公司</td>, <td>
+                                                                                    国药准字H31022081(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-28-2019 08:28:50 root:INFO:商品名称：信谊 盐酸二甲双胍片 0.25g*60片
+06-28-2019 08:28:50 root:INFO:品　　牌：信谊
+06-28-2019 08:28:50 root:INFO:规　　格：0.25g*60片
+06-28-2019 08:28:50 root:INFO:重　　量：0.04kg
+06-28-2019 08:28:50 root:INFO:生产厂商:上海上药信谊药厂有限公司
+06-28-2019 08:28:50 root:INFO:批准文号：国药准字H31022081
+06-28-2019 08:28:50 root:INFO:产品类型：处方药
+06-28-2019 08:28:50 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-28-2019 08:28:50 root:INFO:<div class="itemSearchResultCon" comproid="3364018" isrecom="0" itemid="51255802">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/51255802.html" target="_blank">
+<img alt="信谊天平 盐酸二甲双胍片 0.25g*48片" data-ywpoint="null_null_null_null_I1121_1" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/201904/24/200_20190424115436600.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3364018">
+<span>
+                        3.5
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/51255802.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    信谊天平 盐酸二甲双胍片 0.25g*48片厂家改名：上海信谊天平药业有限公司</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_1">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102532298">壹心康新特药</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3364018">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_1" id="submitRequest_3364018_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51255802,1)" pminfo="3364018" productcode="3364018" sellproductid="3364018" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_1" id="submitRequest_3364018" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51255802,1)" ordersettings="11" pminfo="3364018" productcode="3364018" sellproductid="3364018" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_1" href="//www.111.com.cn/product/51255802.html" id="buyButton_3364018" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3364018" productcode="3364018" sellproductid="3364018" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-28-2019 08:28:50 root:INFO:https://p3.maiyaole.com/img/201904/24/200_20190424115436600.jpg
+06-28-2019 08:28:50 root:INFO:http://www.111.com.cn/product/51255802.html
+06-28-2019 08:28:50 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54962/session/cb8f4e5de93f812aadff7164a5290663/url {"url": "http://www.111.com.cn/product/51255802.html"}
+06-28-2019 08:28:51 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "POST /session/cb8f4e5de93f812aadff7164a5290663/url HTTP/1.1" 200 14
+06-28-2019 08:28:51 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-28-2019 08:28:52 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54962/session/cb8f4e5de93f812aadff7164a5290663/source {}
+06-28-2019 08:28:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "GET /session/cb8f4e5de93f812aadff7164a5290663/source HTTP/1.1" 200 251652
+06-28-2019 08:28:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-28-2019 08:28:52 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">信谊天平 盐酸二甲双胍片 0.25g*48片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>其他</td>
+<th>规　　格：</th>
+<td>0.25g*48片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.002kg</td>
+<th>生产厂商:</th>
+<td>上海信谊天平药业有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H31020246(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-28-2019 08:28:52 root:INFO:**********************
+06-28-2019 08:28:52 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-28-2019 08:28:52 root:INFO:**********************
+06-28-2019 08:28:52 root:INFO:[<td colspan="3">信谊天平 盐酸二甲双胍片 0.25g*48片</td>, <td>其他</td>, <td>0.25g*48片</td>, <td>0.002kg</td>, <td>上海信谊天平药业有限公司</td>, <td>
+                                                                                    国药准字H31020246(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-28-2019 08:28:52 root:INFO:商品名称：信谊天平 盐酸二甲双胍片 0.25g*48片
+06-28-2019 08:28:52 root:INFO:品　　牌：其他
+06-28-2019 08:28:52 root:INFO:规　　格：0.25g*48片
+06-28-2019 08:28:52 root:INFO:重　　量：0.002kg
+06-28-2019 08:28:52 root:INFO:生产厂商:上海信谊天平药业有限公司
+06-28-2019 08:28:52 root:INFO:批准文号：国药准字H31020246
+06-28-2019 08:28:52 root:INFO:产品类型：处方药
+06-28-2019 08:28:52 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-28-2019 08:28:52 root:INFO:<div class="itemSearchResultCon" comproid="2308734" isrecom="0" itemid="50685762">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/50685762.html" target="_blank">
+<img alt="信谊 长乐 盐酸二甲双胍片 0.25g*60片" data-ywpoint="null_null_null_null_I1121_2" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/201612/16/200_20161216143548823.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_2308734">
+<span>
+                        4.5
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/50685762.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    信谊 长乐 盐酸二甲双胍片 0.25g*60片本品用于单纯饮食控制不满意的Ⅱ型糖尿病病人，尤其是肥胖和伴高胰岛素血症者，用本药不但有降血糖作用，还可能有减轻体重和高胰</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_2">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102532298">壹心康新特药</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2308734">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_2" id="submitRequest_2308734_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50685762,1)" pminfo="2308734" productcode="2308734" sellproductid="2308734" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_2" id="submitRequest_2308734" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50685762,1)" ordersettings="11" pminfo="2308734" productcode="2308734" sellproductid="2308734" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_2" href="//www.111.com.cn/product/50685762.html" id="buyButton_2308734" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="2308734" productcode="2308734" sellproductid="2308734" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-28-2019 08:28:52 root:INFO:https://p1.maiyaole.com/img/201612/16/200_20161216143548823.jpg
+06-28-2019 08:28:52 root:INFO:http://www.111.com.cn/product/50685762.html
+06-28-2019 08:28:52 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54962/session/cb8f4e5de93f812aadff7164a5290663/url {"url": "http://www.111.com.cn/product/50685762.html"}
+06-28-2019 08:28:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "POST /session/cb8f4e5de93f812aadff7164a5290663/url HTTP/1.1" 200 14
+06-28-2019 08:28:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-28-2019 08:28:54 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54962/session/cb8f4e5de93f812aadff7164a5290663/source {}
+06-28-2019 08:28:54 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "GET /session/cb8f4e5de93f812aadff7164a5290663/source HTTP/1.1" 200 243494
+06-28-2019 08:28:54 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-28-2019 08:28:54 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">信谊 长乐 盐酸二甲双胍片 0.25g*60片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>信谊</td>
+<th>规　　格：</th>
+<td>0.25g*60片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.033kg</td>
+<th>生产厂商:</th>
+<td>上海信谊天平药业有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H31020246(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-28-2019 08:28:54 root:INFO:**********************
+06-28-2019 08:28:54 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-28-2019 08:28:54 root:INFO:**********************
+06-28-2019 08:28:54 root:INFO:[<td colspan="3">信谊 长乐 盐酸二甲双胍片 0.25g*60片</td>, <td>信谊</td>, <td>0.25g*60片</td>, <td>0.033kg</td>, <td>上海信谊天平药业有限公司</td>, <td>
+                                                                                    国药准字H31020246(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-28-2019 08:28:54 root:INFO:商品名称：信谊 长乐 盐酸二甲双胍片 0.25g*60片
+06-28-2019 08:28:54 root:INFO:品　　牌：信谊
+06-28-2019 08:28:54 root:INFO:规　　格：0.25g*60片
+06-28-2019 08:28:54 root:INFO:重　　量：0.033kg
+06-28-2019 08:28:54 root:INFO:生产厂商:上海信谊天平药业有限公司
+06-28-2019 08:28:54 root:INFO:批准文号：国药准字H31020246
+06-28-2019 08:28:54 root:INFO:产品类型：处方药
+06-28-2019 08:28:54 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-28-2019 08:28:54 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:54962/session/cb8f4e5de93f812aadff7164a5290663/window {}
+06-28-2019 08:28:54 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "DELETE /session/cb8f4e5de93f812aadff7164a5290663/window HTTP/1.1" 200 12
+06-28-2019 08:28:54 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-28-2019 08:28:54 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:54962/session/cb8f4e5de93f812aadff7164a5290663 {}
+06-28-2019 08:28:54 urllib3.connectionpool:DEBUG:http://127.0.0.1:54962 "DELETE /session/cb8f4e5de93f812aadff7164a5290663 HTTP/1.1" 200 14
+06-28-2019 08:28:54 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

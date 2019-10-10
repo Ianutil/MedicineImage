@@ -1,0 +1,18 @@
+06-26-2019 09:26:11 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:56174/session/073e6b09206a3ddc75fad892af0c68dc/url {"url": "https://www.111.com.cn"}
+06-26-2019 09:26:14 urllib3.connectionpool:DEBUG:http://127.0.0.1:56174 "POST /session/073e6b09206a3ddc75fad892af0c68dc/url HTTP/1.1" 200 14
+06-26-2019 09:26:14 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-26-2019 09:26:15 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:56174/session/073e6b09206a3ddc75fad892af0c68dc/source {}
+06-26-2019 09:26:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:56174 "GET /session/073e6b09206a3ddc75fad892af0c68dc/source HTTP/1.1" 200 340135
+06-26-2019 09:26:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-26-2019 09:26:15 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:56174/session/073e6b09206a3ddc75fad892af0c68dc/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u9999\u7802\u517b\u80c3\u4e38 \u4e07\u4ed5\u8bda\");\n$(\"#word\").attr(\"value\",\"\u9999\u7802\u517b\u80c3\u4e38 \u4e07\u4ed5\u8bda\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-26-2019 09:26:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:56174 "POST /session/073e6b09206a3ddc75fad892af0c68dc/execute/sync HTTP/1.1" 200 14
+06-26-2019 09:26:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-26-2019 09:26:16 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:56174/session/073e6b09206a3ddc75fad892af0c68dc/source {}
+06-26-2019 09:26:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:56174 "GET /session/073e6b09206a3ddc75fad892af0c68dc/source HTTP/1.1" 200 204696
+06-26-2019 09:26:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-26-2019 09:26:16 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:56174/session/073e6b09206a3ddc75fad892af0c68dc/window {}
+06-26-2019 09:26:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:56174 "DELETE /session/073e6b09206a3ddc75fad892af0c68dc/window HTTP/1.1" 200 12
+06-26-2019 09:26:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-26-2019 09:26:17 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:56174/session/073e6b09206a3ddc75fad892af0c68dc {}
+06-26-2019 09:26:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:56174 "DELETE /session/073e6b09206a3ddc75fad892af0c68dc HTTP/1.1" 200 14
+06-26-2019 09:26:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

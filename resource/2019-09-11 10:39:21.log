@@ -1,0 +1,543 @@
+11-39-2019 10:39:21 root:INFO:[1616, '上海信谊黄河制药有限公司', '国药准字H31020147', 2027514, '叶酸片(处方药)']
+11-39-2019 10:39:21 root:INFO:********************* 关键字：叶酸片+上海信谊
+11-39-2019 10:39:21 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u53f6\u9178\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+11-39-2019 10:39:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-39-2019 10:39:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:23 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-39-2019 10:39:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 144024
+11-39-2019 10:39:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:23 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/122399.htm"}
+11-39-2019 10:39:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-39-2019 10:39:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:28 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-39-2019 10:39:28 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 174579
+11-39-2019 10:39:28 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:28 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/17680.htm"}
+11-39-2019 10:39:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-39-2019 10:39:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:31 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-39-2019 10:39:31 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 171798
+11-39-2019 10:39:31 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:31 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/16384.htm"}
+11-39-2019 10:39:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-39-2019 10:39:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:34 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-39-2019 10:39:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 180881
+11-39-2019 10:39:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:34 root:INFO:[1746, '上海信谊天平药业有限公司', '国药准字H20034013', 2044638, '盐酸小檗碱片(OTC)']
+11-39-2019 10:39:34 root:INFO:********************* 关键字：盐酸小檗碱片+上海信谊
+11-39-2019 10:39:34 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u76d0\u9178\u5c0f\u6a97\u78b1\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+11-39-2019 10:39:35 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-39-2019 10:39:35 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:36 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-39-2019 10:39:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 143628
+11-39-2019 10:39:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:36 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/42101.htm"}
+11-39-2019 10:39:38 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-39-2019 10:39:38 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:39 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-39-2019 10:39:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 175309
+11-39-2019 10:39:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:39 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/2900.htm"}
+11-39-2019 10:39:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-39-2019 10:39:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:41 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-39-2019 10:39:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 169987
+11-39-2019 10:39:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:42 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/708.htm"}
+11-39-2019 10:39:43 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-39-2019 10:39:43 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:44 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-39-2019 10:39:44 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 188020
+11-39-2019 10:39:44 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:44 root:INFO:[2455, '上海医药(集团)有限公司信谊制药总厂委托上海辛帕斯制药有限公司', '国药准字H31021331', 1110559, '安乃近片(处方药)']
+11-39-2019 10:39:44 root:INFO:********************* 关键字：安乃近片+上海医药
+11-39-2019 10:39:44 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u5b89\u4e43\u8fd1\u7247+\u4e0a\u6d77\u533b\u836f&sort=complex&pricefilter=0"}
+11-39-2019 10:39:46 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-39-2019 10:39:46 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:47 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-39-2019 10:39:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 145024
+11-39-2019 10:39:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:47 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/4011.htm"}
+11-39-2019 10:39:49 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-39-2019 10:39:49 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:50 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-39-2019 10:39:50 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 178755
+11-39-2019 10:39:50 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:50 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/4009.htm"}
+11-39-2019 10:39:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-39-2019 10:39:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:53 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-39-2019 10:39:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 182588
+11-39-2019 10:39:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:53 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/15150.htm"}
+11-39-2019 10:39:55 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-39-2019 10:39:55 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:56 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-39-2019 10:39:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 173381
+11-39-2019 10:39:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:56 root:INFO:[2468, '上海强生制药有限公司', '国药准字H20010115', 1110376, '酚麻美敏片(OTC)']
+11-39-2019 10:39:56 root:INFO:********************* 关键字：酚麻美敏片+上海强生
+11-39-2019 10:39:56 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u915a\u9ebb\u7f8e\u654f\u7247+\u4e0a\u6d77\u5f3a\u751f&sort=complex&pricefilter=0"}
+11-39-2019 10:39:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-39-2019 10:39:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:58 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-39-2019 10:39:58 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 144606
+11-39-2019 10:39:58 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-39-2019 10:39:58 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/2569.htm"}
+11-40-2019 10:40:00 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:00 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:01 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 201447
+11-40-2019 10:40:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:01 root:INFO:#### 下载路径 #### ./file/image/other/2468/0.jpg
+11-40-2019 10:40:01 root:INFO:#### 下载URL #### http://xs3.op.xywy.com/api.iu1.xywy.com/wksc/20170922/c45fcb7fbbaafbf88f75d80809f166d447809.png
+11-40-2019 10:40:01 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): xs3.op.xywy.com:80
+11-40-2019 10:40:01 urllib3.connectionpool:DEBUG:http://xs3.op.xywy.com:80 "GET /api.iu1.xywy.com/wksc/20170922/c45fcb7fbbaafbf88f75d80809f166d447809.png HTTP/1.1" 200 390731
+11-40-2019 10:40:01 root:ERROR:#### 解析异常 #### 酚麻美敏片(OTC)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 182, in parseDetailHtml
+    lis = soup.find_all("div", "jqzoom_slideBox fl pr")[0].contents[1]
+IndexError: list index out of range
+11-40-2019 10:40:01 root:INFO:[2481, '中美上海施贵宝制药有限公司', '国药准字H10970388(H10970387)', 1110121, '氨酚伪麻美芬片(日片)/氨麻美敏片Ⅱ(夜片)(OTC)']
+11-40-2019 10:40:01 root:INFO:********************* 关键字：氨酚伪麻美芬片(日片)/氨麻美敏片Ⅱ(夜片)+中美上海
+11-40-2019 10:40:01 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u6c28\u915a\u4f2a\u9ebb\u7f8e\u82ac\u7247(\u65e5\u7247)/\u6c28\u9ebb\u7f8e\u654f\u7247\u2161(\u591c\u7247)+\u4e2d\u7f8e\u4e0a\u6d77&sort=complex&pricefilter=0"}
+11-40-2019 10:40:03 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:03 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:04 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:04 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 148312
+11-40-2019 10:40:04 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:04 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/4876.htm"}
+11-40-2019 10:40:05 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:05 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:06 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:06 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 182608
+11-40-2019 10:40:06 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:06 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/18248.htm"}
+11-40-2019 10:40:09 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:09 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:10 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 176823
+11-40-2019 10:40:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:10 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/3694.htm"}
+11-40-2019 10:40:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:13 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:13 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 174434
+11-40-2019 10:40:13 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:13 root:INFO:[2728, '惠氏制药有限公司', '国药准字H20030054', 1150096, '美敏伪麻溶液(OTC)']
+11-40-2019 10:40:13 root:INFO:********************* 关键字：美敏伪麻溶液+惠氏制药
+11-40-2019 10:40:13 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u7f8e\u654f\u4f2a\u9ebb\u6eb6\u6db2+\u60e0\u6c0f\u5236\u836f&sort=complex&pricefilter=0"}
+11-40-2019 10:40:14 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:14 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:15 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 143037
+11-40-2019 10:40:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:15 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/3678.htm"}
+11-40-2019 10:40:18 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:18 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:19 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 181424
+11-40-2019 10:40:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:19 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/181465.htm"}
+11-40-2019 10:40:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:23 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 184027
+11-40-2019 10:40:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:23 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/437659.htm"}
+11-40-2019 10:40:26 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:26 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:27 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 173110
+11-40-2019 10:40:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:27 root:INFO:[2735, '上海运佳黄浦制药有限公司', '国药准字H31022217', 1170371, '开塞露(含甘油)(OTC)']
+11-40-2019 10:40:27 root:INFO:********************* 关键字：开塞露(含甘油)+上海运佳
+11-40-2019 10:40:27 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u5f00\u585e\u9732(\u542b\u7518\u6cb9)+\u4e0a\u6d77\u8fd0\u4f73&sort=complex&pricefilter=0"}
+11-40-2019 10:40:28 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:28 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:29 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:29 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 142857
+11-40-2019 10:40:29 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:29 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/11028.htm"}
+11-40-2019 10:40:31 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:31 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:32 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 184833
+11-40-2019 10:40:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:32 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/11032.htm"}
+11-40-2019 10:40:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:35 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:35 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 180251
+11-40-2019 10:40:35 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:35 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/7780.htm"}
+11-40-2019 10:40:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:37 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:38 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 174476
+11-40-2019 10:40:38 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:38 root:INFO:[2780, '西双版纳版纳药业有限责任公司', '国药准字H53021369', 1110690, '秋水仙碱片(处方药)']
+11-40-2019 10:40:38 root:INFO:********************* 关键字：秋水仙碱片+西双版纳
+11-40-2019 10:40:38 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u79cb\u6c34\u4ed9\u78b1\u7247+\u897f\u53cc\u7248\u7eb3&sort=complex&pricefilter=0"}
+11-40-2019 10:40:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:41 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 144079
+11-40-2019 10:40:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:41 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/7480.htm"}
+11-40-2019 10:40:46 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:46 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:47 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 228730
+11-40-2019 10:40:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:47 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/34402.htm"}
+11-40-2019 10:40:49 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-40-2019 10:40:49 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:50 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-40-2019 10:40:50 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 176150
+11-40-2019 10:40:50 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-40-2019 10:40:50 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/30067.htm"}
+11-42-2019 10:42:07 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:07 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:08 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:08 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 169752
+11-42-2019 10:42:08 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:08 root:INFO:[2916, '河北赛克药业有限公司', '国药准字H13023971', 2143666, '尼群地平片(处方药)']
+11-42-2019 10:42:08 root:INFO:********************* 关键字：尼群地平片+河北赛克
+11-42-2019 10:42:08 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u5c3c\u7fa4\u5730\u5e73\u7247+\u6cb3\u5317\u8d5b\u514b&sort=complex&pricefilter=0"}
+11-42-2019 10:42:09 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:09 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:10 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 142365
+11-42-2019 10:42:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:10 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/18232.htm"}
+11-42-2019 10:42:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:13 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:13 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 173853
+11-42-2019 10:42:13 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:13 root:INFO:#### 下载路径 #### ./file/image/other/2916/0.jpg
+11-42-2019 10:42:13 root:INFO:#### 下载URL #### http://xs3.op.xywy.com/api.iu1.xywy.com/wksc/20160806/e2e4f0687e27189e177ae168615c871368245.jpg
+11-42-2019 10:42:13 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): xs3.op.xywy.com:80
+11-42-2019 10:42:13 urllib3.connectionpool:DEBUG:http://xs3.op.xywy.com:80 "GET /api.iu1.xywy.com/wksc/20160806/e2e4f0687e27189e177ae168615c871368245.jpg HTTP/1.1" 200 37472
+11-42-2019 10:42:13 root:ERROR:#### 解析异常 #### 尼群地平片(处方药)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 182, in parseDetailHtml
+    lis = soup.find_all("div", "jqzoom_slideBox fl pr")[0].contents[1]
+IndexError: list index out of range
+11-42-2019 10:42:13 root:INFO:[2942, '杭州默沙东制药有限公司', '国药准字H19990366', 1110651, '辛伐他汀片(处方药)']
+11-42-2019 10:42:13 root:INFO:********************* 关键字：辛伐他汀片+杭州默沙
+11-42-2019 10:42:13 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u8f9b\u4f10\u4ed6\u6c40\u7247+\u676d\u5dde\u9ed8\u6c99&sort=complex&pricefilter=0"}
+11-42-2019 10:42:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:16 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 156039
+11-42-2019 10:42:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:16 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/132711.htm"}
+11-42-2019 10:42:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:20 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:20 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 185836
+11-42-2019 10:42:20 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:20 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/38278.htm"}
+11-42-2019 10:42:21 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:21 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:23 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 185455
+11-42-2019 10:42:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:23 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/4291.htm"}
+11-42-2019 10:42:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:26 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:26 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 194750
+11-42-2019 10:42:26 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:26 root:INFO:[2942, '杭州默沙东制药有限公司', '国药准字H19990366', 2124024, '辛伐他汀片(处方药)']
+11-42-2019 10:42:26 root:INFO:********************* 关键字：辛伐他汀片+杭州默沙
+11-42-2019 10:42:26 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u8f9b\u4f10\u4ed6\u6c40\u7247+\u676d\u5dde\u9ed8\u6c99&sort=complex&pricefilter=0"}
+11-42-2019 10:42:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:28 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:28 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 156039
+11-42-2019 10:42:28 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:28 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/132711.htm"}
+11-42-2019 10:42:29 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:29 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:30 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 185821
+11-42-2019 10:42:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:30 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/38278.htm"}
+11-42-2019 10:42:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:33 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 185455
+11-42-2019 10:42:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:33 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/4291.htm"}
+11-42-2019 10:42:35 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:35 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:36 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 194772
+11-42-2019 10:42:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:36 root:INFO:[3112, '扬子江药业集团有限公司', '国药准字H19980059', 1115813, '盐酸西替利嗪片(OTC)']
+11-42-2019 10:42:36 root:INFO:********************* 关键字：盐酸西替利嗪片+扬子江药
+11-42-2019 10:42:36 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u76d0\u9178\u897f\u66ff\u5229\u55ea\u7247+\u626c\u5b50\u6c5f\u836f&sort=complex&pricefilter=0"}
+11-42-2019 10:42:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:40 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 146442
+11-42-2019 10:42:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:40 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/4528.htm"}
+11-42-2019 10:42:43 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:43 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:44 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:44 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 181812
+11-42-2019 10:42:44 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:44 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/13239.htm"}
+11-42-2019 10:42:48 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:48 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:49 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:49 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 183350
+11-42-2019 10:42:49 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:49 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/4492.htm"}
+11-42-2019 10:42:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:54 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:54 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 175278
+11-42-2019 10:42:54 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:54 root:INFO:[3235, '上海信谊天平药业有限公司', '国药准字H31022719', 1110548, '尼莫地平片(处方药)']
+11-42-2019 10:42:54 root:INFO:********************* 关键字：尼莫地平片+上海信谊
+11-42-2019 10:42:54 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u5c3c\u83ab\u5730\u5e73\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+11-42-2019 10:42:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-42-2019 10:42:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:57 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-42-2019 10:42:58 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 144430
+11-42-2019 10:42:58 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-42-2019 10:42:58 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/38131.htm"}
+11-43-2019 10:43:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-43-2019 10:43:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:02 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-43-2019 10:43:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 175654
+11-43-2019 10:43:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:02 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/136890.htm"}
+11-43-2019 10:43:04 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-43-2019 10:43:04 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:05 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-43-2019 10:43:05 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 177241
+11-43-2019 10:43:05 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:05 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/9403.htm"}
+11-43-2019 10:43:06 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-43-2019 10:43:06 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:07 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-43-2019 10:43:07 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 175164
+11-43-2019 10:43:07 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:07 root:INFO:[3433, '卫材(中国)药业有限公司', '国药准字J20080040', 1110385, '雷贝拉唑钠肠溶片(处方药)']
+11-43-2019 10:43:07 root:INFO:********************* 关键字：雷贝拉唑钠肠溶片+卫材(中
+11-43-2019 10:43:07 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u96f7\u8d1d\u62c9\u5511\u94a0\u80a0\u6eb6\u7247+\u536b\u6750(\u4e2d&sort=complex&pricefilter=0"}
+11-43-2019 10:43:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-43-2019 10:43:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:13 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-43-2019 10:43:13 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 145038
+11-43-2019 10:43:13 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:13 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/130255.htm"}
+11-43-2019 10:43:18 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-43-2019 10:43:18 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:19 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-43-2019 10:43:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 189327
+11-43-2019 10:43:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:19 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/2538.htm"}
+11-43-2019 10:43:21 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-43-2019 10:43:21 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:22 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-43-2019 10:43:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 186935
+11-43-2019 10:43:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:22 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/35971.htm"}
+11-43-2019 10:43:28 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-43-2019 10:43:28 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:29 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-43-2019 10:43:29 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 190867
+11-43-2019 10:43:29 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:30 root:INFO:[3702, '上海青平药业有限公司', '国药准字H19999156', 1110370, '食母生片(OTC)']
+11-43-2019 10:43:30 root:INFO:********************* 关键字：食母生片+上海青平
+11-43-2019 10:43:30 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u98df\u6bcd\u751f\u7247+\u4e0a\u6d77\u9752\u5e73&sort=complex&pricefilter=0"}
+11-43-2019 10:43:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-43-2019 10:43:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:33 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-43-2019 10:43:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 142402
+11-43-2019 10:43:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:33 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/4484.htm"}
+11-43-2019 10:43:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-43-2019 10:43:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:37 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-43-2019 10:43:37 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 176584
+11-43-2019 10:43:37 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:37 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/38748.htm"}
+11-43-2019 10:43:38 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-43-2019 10:43:38 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:39 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-43-2019 10:43:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 171527
+11-43-2019 10:43:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:39 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/4479.htm"}
+11-43-2019 10:43:43 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-43-2019 10:43:43 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:44 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-43-2019 10:43:44 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 179203
+11-43-2019 10:43:44 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:44 root:INFO:[4144, '比利时联合化工集团医药部（瑞士）', 'H20100740', 1111269, '盐酸西替利嗪片(OTC)']
+11-43-2019 10:43:44 root:INFO:********************* 关键字：盐酸西替利嗪片+比利时联
+11-43-2019 10:43:44 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u76d0\u9178\u897f\u66ff\u5229\u55ea\u7247+\u6bd4\u5229\u65f6\u8054&sort=complex&pricefilter=0"}
+11-43-2019 10:43:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-43-2019 10:43:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:53 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-43-2019 10:43:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 144927
+11-43-2019 10:43:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:53 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/4528.htm"}
+11-43-2019 10:43:55 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-43-2019 10:43:55 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:56 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-43-2019 10:43:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 181812
+11-43-2019 10:43:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-43-2019 10:43:57 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/13239.htm"}
+11-43-2019 10:43:59 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-43-2019 10:43:59 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:00 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-44-2019 10:44:00 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 183357
+11-44-2019 10:44:00 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:00 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/4492.htm"}
+11-44-2019 10:44:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-44-2019 10:44:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:02 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-44-2019 10:44:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 175256
+11-44-2019 10:44:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:03 root:INFO:[4192, 'Ipsen Pharma(Beaufour Ipsen Industrie)', 'H20130307', 2030856, '银杏叶片(处方药)']
+11-44-2019 10:44:03 root:INFO:********************* 关键字：银杏叶片+Ipse
+11-44-2019 10:44:03 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u94f6\u674f\u53f6\u7247+Ipse&sort=complex&pricefilter=0"}
+11-44-2019 10:44:07 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-44-2019 10:44:07 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:08 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-44-2019 10:44:08 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 145296
+11-44-2019 10:44:08 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:08 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/3601.htm"}
+11-44-2019 10:44:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-44-2019 10:44:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:11 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-44-2019 10:44:11 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 182411
+11-44-2019 10:44:11 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:11 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/4935.htm"}
+11-44-2019 10:44:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-44-2019 10:44:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:16 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-44-2019 10:44:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 180761
+11-44-2019 10:44:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:17 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/6516.htm"}
+11-44-2019 10:44:18 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-44-2019 10:44:18 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:19 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-44-2019 10:44:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 179578
+11-44-2019 10:44:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:19 root:INFO:[4709, '上海衡山药业有限公司', '国药准字H31021354', 1160098, '口服补液盐II(OTC)']
+11-44-2019 10:44:19 root:INFO:********************* 关键字：口服补液盐II+上海衡山
+11-44-2019 10:44:19 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u53e3\u670d\u8865\u6db2\u76d0II+\u4e0a\u6d77\u8861\u5c71&sort=complex&pricefilter=0"}
+11-44-2019 10:44:29 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-44-2019 10:44:29 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:30 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-44-2019 10:44:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 141344
+11-44-2019 10:44:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:30 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/6226.htm"}
+11-44-2019 10:44:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-44-2019 10:44:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:33 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-44-2019 10:44:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 174272
+11-44-2019 10:44:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:33 root:INFO:#### 下载路径 #### ./file/image/other/4709/0.jpg
+11-44-2019 10:44:33 root:INFO:#### 下载URL #### http://xs3.op.xywy.com/api.iu1.xywy.com/wksc/20160608/7bb13dd4cc0abdf369bc4cdb1e4d352042214.jpg
+11-44-2019 10:44:33 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): xs3.op.xywy.com:80
+11-44-2019 10:44:33 urllib3.connectionpool:DEBUG:http://xs3.op.xywy.com:80 "GET /api.iu1.xywy.com/wksc/20160608/7bb13dd4cc0abdf369bc4cdb1e4d352042214.jpg HTTP/1.1" 200 302187
+11-44-2019 10:44:37 root:ERROR:#### 解析异常 #### 口服补液盐II(OTC)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 182, in parseDetailHtml
+    lis = soup.find_all("div", "jqzoom_slideBox fl pr")[0].contents[1]
+IndexError: list index out of range
+11-44-2019 10:44:37 root:INFO:[4867, '上海中医大药业股份有限公司', '国药准字Z31020012', 2103290, '复方消痔栓(OTC)']
+11-44-2019 10:44:37 root:INFO:********************* 关键字：复方消痔栓+上海中医
+11-44-2019 10:44:37 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u590d\u65b9\u6d88\u75d4\u6813+\u4e0a\u6d77\u4e2d\u533b&sort=complex&pricefilter=0"}
+11-44-2019 10:44:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-44-2019 10:44:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:40 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-44-2019 10:44:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 145775
+11-44-2019 10:44:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:40 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/28476.htm"}
+11-44-2019 10:44:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-44-2019 10:44:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:42 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-44-2019 10:44:42 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 169239
+11-44-2019 10:44:42 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:42 root:INFO:#### 下载路径 #### ./file/image/other/4867/0.jpg
+11-44-2019 10:44:42 root:INFO:#### 下载URL #### http://xs3.op.xywy.com/api.iu1.xywy.com/wksc/20160729/4af50014f2f021fe88cb94a20f0ebeec50786.jpg
+11-44-2019 10:44:42 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): xs3.op.xywy.com:80
+11-44-2019 10:44:42 urllib3.connectionpool:DEBUG:http://xs3.op.xywy.com:80 "GET /api.iu1.xywy.com/wksc/20160729/4af50014f2f021fe88cb94a20f0ebeec50786.jpg HTTP/1.1" 200 92644
+11-44-2019 10:44:42 root:ERROR:#### 解析异常 #### 复方消痔栓(OTC)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 182, in parseDetailHtml
+    lis = soup.find_all("div", "jqzoom_slideBox fl pr")[0].contents[1]
+IndexError: list index out of range
+11-44-2019 10:44:42 root:INFO:[4910, '上海运佳黄浦制药有限公司', '国药准字H31022695', 1170018, '呋麻滴鼻液(OTC)']
+11-44-2019 10:44:42 root:INFO:********************* 关键字：呋麻滴鼻液+上海运佳
+11-44-2019 10:44:42 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u544b\u9ebb\u6ef4\u9f3b\u6db2+\u4e0a\u6d77\u8fd0\u4f73&sort=complex&pricefilter=0"}
+11-44-2019 10:44:44 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-44-2019 10:44:44 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:45 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-44-2019 10:44:45 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 140661
+11-44-2019 10:44:45 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:45 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/926.htm"}
+11-44-2019 10:44:46 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-44-2019 10:44:46 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:47 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-44-2019 10:44:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 171786
+11-44-2019 10:44:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:47 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/34417.htm"}
+11-44-2019 10:44:50 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-44-2019 10:44:50 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:51 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-44-2019 10:44:51 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 174531
+11-44-2019 10:44:51 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:51 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/36525.htm"}
+11-44-2019 10:44:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-44-2019 10:44:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:54 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-44-2019 10:44:54 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 173760
+11-44-2019 10:44:54 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-44-2019 10:44:54 root:INFO:[5065, '德国拜耳（Bayer AG)', 'H20100680', 2103520, '克霉唑阴道片(处方药)']
+11-44-2019 10:44:54 root:INFO:********************* 关键字：克霉唑阴道片+德国拜耳
+11-44-2019 10:44:54 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u514b\u9709\u5511\u9634\u9053\u7247+\u5fb7\u56fd\u62dc\u8033&sort=complex&pricefilter=0"}
+11-45-2019 10:45:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-45-2019 10:45:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-45-2019 10:45:03 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-45-2019 10:45:03 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 142373
+11-45-2019 10:45:03 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-45-2019 10:45:03 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/76813.htm"}
+11-45-2019 10:45:09 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-45-2019 10:45:09 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-45-2019 10:45:10 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-45-2019 10:45:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 172581
+11-45-2019 10:45:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-45-2019 10:45:10 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/16147.htm"}
+11-45-2019 10:45:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-45-2019 10:45:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-45-2019 10:45:17 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-45-2019 10:45:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 192691
+11-45-2019 10:45:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-45-2019 10:45:17 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/12342.htm"}
+11-45-2019 10:45:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-45-2019 10:45:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-45-2019 10:45:33 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-45-2019 10:45:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 174290
+11-45-2019 10:45:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-45-2019 10:45:33 root:INFO:[25091, '上海雷允上药业有限公司', '国药准字Z31020515', 1212544, '牛黄解毒片(处方药)']
+11-45-2019 10:45:33 root:INFO:********************* 关键字：牛黄解毒片+上海雷允
+11-45-2019 10:45:33 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/search/?q=\u725b\u9ec4\u89e3\u6bd2\u7247+\u4e0a\u6d77\u96f7\u5141&sort=complex&pricefilter=0"}
+11-45-2019 10:45:37 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "POST /session/68a6b2d002278a57f9bd661270d1ef99/url HTTP/1.1" 200 14
+11-45-2019 10:45:37 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-45-2019 10:45:38 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/source {}
+11-45-2019 10:45:38 urllib3.connectionpool:DEBUG:http://127.0.0.1:57765 "GET /session/68a6b2d002278a57f9bd661270d1ef99/source HTTP/1.1" 200 144326
+11-45-2019 10:45:38 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-45-2019 10:45:38 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57765/session/68a6b2d002278a57f9bd661270d1ef99/url {"url": "http://yao.xywy.com/goods/31077.htm"}

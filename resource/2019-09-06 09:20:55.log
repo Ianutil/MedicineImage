@@ -1,0 +1,1198 @@
+06-20-2019 09:20:55 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/url {"url": "https://www.111.com.cn"}
+06-20-2019 09:20:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "POST /session/4466a3d23007f3a0860b09aed2d9658d/url HTTP/1.1" 200 14
+06-20-2019 09:20:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-20-2019 09:20:57 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/source {}
+06-20-2019 09:20:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "GET /session/4466a3d23007f3a0860b09aed2d9658d/source HTTP/1.1" 200 340134
+06-20-2019 09:20:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-20-2019 09:20:57 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u4e73\u9178\u83cc\u7d20\u7247 \u4f0a\u6625\");\n$(\"#word\").attr(\"value\",\"\u4e73\u9178\u83cc\u7d20\u7247 \u4f0a\u6625\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-20-2019 09:20:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "POST /session/4466a3d23007f3a0860b09aed2d9658d/execute/sync HTTP/1.1" 200 14
+06-20-2019 09:20:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-20-2019 09:20:58 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/source {}
+06-20-2019 09:20:58 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "GET /session/4466a3d23007f3a0860b09aed2d9658d/source HTTP/1.1" 200 285882
+06-20-2019 09:20:58 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-20-2019 09:20:58 root:INFO:<div class="itemSearchResultCon" comproid="3100071" isrecom="0" itemid="51085220">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51085220.html" target="_blank">
+<img alt="伊春 芩暴红止咳口服液 10ml*9支" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/201805/29/200_20180529153438386.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3100071">
+<span>
+                        49.9
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51085220.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    伊春 芩暴红止咳口服液 10ml*9支天天快乐生活愉快！-29850</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102528214">丹陛华大药房</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3100071">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3100071_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51085220,1)" pminfo="3100071" productcode="3100071" sellproductid="3100071" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3100071" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51085220,1)" ordersettings="11" pminfo="3100071" productcode="3100071" sellproductid="3100071" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/51085220.html" id="buyButton_3100071" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3100071" productcode="3100071" sellproductid="3100071" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-20-2019 09:20:58 root:INFO:https://p4.maiyaole.com/img/201805/29/200_20180529153438386.jpg
+06-20-2019 09:20:58 root:INFO:http://www.111.com.cn/product/51085220.html
+06-20-2019 09:20:58 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/url {"url": "http://www.111.com.cn/product/51085220.html"}
+06-20-2019 09:20:59 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "POST /session/4466a3d23007f3a0860b09aed2d9658d/url HTTP/1.1" 200 14
+06-20-2019 09:20:59 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:00 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/source {}
+06-21-2019 09:21:00 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "GET /session/4466a3d23007f3a0860b09aed2d9658d/source HTTP/1.1" 200 239248
+06-21-2019 09:21:00 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:00 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">伊春 芩暴红止咳口服液 10ml*9支</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>伊春</td>
+<th>规　　格：</th>
+<td>10ml*9支</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.1kg</td>
+<th>生产厂商:</th>
+<td>伊春金北药制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z10950037(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-21-2019 09:21:00 root:INFO:**********************
+06-21-2019 09:21:00 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-21-2019 09:21:00 root:INFO:**********************
+06-21-2019 09:21:00 root:INFO:[<td colspan="3">伊春 芩暴红止咳口服液 10ml*9支</td>, <td>伊春</td>, <td>10ml*9支</td>, <td>0.1kg</td>, <td>伊春金北药制药有限公司</td>, <td>
+                                                                                    国药准字Z10950037(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-21-2019 09:21:00 root:INFO:商品名称：伊春 芩暴红止咳口服液 10ml*9支
+06-21-2019 09:21:00 root:INFO:品　　牌：伊春
+06-21-2019 09:21:00 root:INFO:规　　格：10ml*9支
+06-21-2019 09:21:00 root:INFO:重　　量：0.1kg
+06-21-2019 09:21:00 root:INFO:生产厂商:伊春金北药制药有限公司
+06-21-2019 09:21:00 root:INFO:批准文号：国药准字Z10950037
+06-21-2019 09:21:00 root:INFO:产品类型：处方药
+06-21-2019 09:21:00 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-21-2019 09:21:00 root:INFO:<div class="itemSearchResultCon" comproid="2161673" isrecom="0" itemid="50586283">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/50586283.html" target="_blank">
+<img alt="伊春日诺 咽炎片 0.3g*24片" data-ywpoint="null_null_null_null_I1121_1" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/201610/01/200_20161001184855932.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_2161673">
+<span>
+                        11.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/50586283.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    伊春日诺 咽炎片 0.3g*24片【正规连锁药房发货，质量有保证，请放心选购。】</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_1">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102507276">天安堂深圳力昌大...</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2161673">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_1" id="submitRequest_2161673_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50586283,1)" pminfo="2161673" productcode="2161673" sellproductid="2161673" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_1" id="submitRequest_2161673" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50586283,1)" ordersettings="11" pminfo="2161673" productcode="2161673" sellproductid="2161673" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_1" href="//www.111.com.cn/product/50586283.html" id="buyButton_2161673" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="2161673" productcode="2161673" sellproductid="2161673" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-21-2019 09:21:00 root:INFO:https://p1.maiyaole.com/img/201610/01/200_20161001184855932.jpg
+06-21-2019 09:21:00 root:INFO:http://www.111.com.cn/product/50586283.html
+06-21-2019 09:21:00 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/url {"url": "http://www.111.com.cn/product/50586283.html"}
+06-21-2019 09:21:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "POST /session/4466a3d23007f3a0860b09aed2d9658d/url HTTP/1.1" 200 14
+06-21-2019 09:21:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:02 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/source {}
+06-21-2019 09:21:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "GET /session/4466a3d23007f3a0860b09aed2d9658d/source HTTP/1.1" 200 250432
+06-21-2019 09:21:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:02 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">伊春日诺 咽炎片 0.3g*24片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>其他</td>
+<th>规　　格：</th>
+<td>0.3g*24片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.002kg</td>
+<th>生产厂商:</th>
+<td>伊春吉特普制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z23020529(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-21-2019 09:21:02 root:INFO:**********************
+06-21-2019 09:21:02 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-21-2019 09:21:02 root:INFO:**********************
+06-21-2019 09:21:02 root:INFO:[<td colspan="3">伊春日诺 咽炎片 0.3g*24片</td>, <td>其他</td>, <td>0.3g*24片</td>, <td>0.002kg</td>, <td>伊春吉特普制药有限公司</td>, <td>
+                                                                                    国药准字Z23020529(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-21-2019 09:21:02 root:INFO:商品名称：伊春日诺 咽炎片 0.3g*24片
+06-21-2019 09:21:02 root:INFO:品　　牌：其他
+06-21-2019 09:21:02 root:INFO:规　　格：0.3g*24片
+06-21-2019 09:21:02 root:INFO:重　　量：0.002kg
+06-21-2019 09:21:02 root:INFO:生产厂商:伊春吉特普制药有限公司
+06-21-2019 09:21:02 root:INFO:批准文号：国药准字Z23020529
+06-21-2019 09:21:02 root:INFO:产品类型：OTC（非处方药）
+06-21-2019 09:21:02 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-21-2019 09:21:02 root:INFO:<div class="itemSearchResultCon" comproid="2328774" isrecom="0" itemid="50698071">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/50698071.html" target="_blank">
+<img alt="伊春 替米沙坦胶囊 40mg*7粒" data-ywpoint="null_null_null_null_I1121_2" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/201612/27/200_20161227090734944.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_2328774">
+<span>
+                        15.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/50698071.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    伊春 替米沙坦胶囊 40mg*7粒【正规连锁药房发货，质量有保证，请放心选购。】用于原发性高血压的治疗。</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_2">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102507276">天安堂深圳力昌大...</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2328774">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_2" id="submitRequest_2328774_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50698071,1)" pminfo="2328774" productcode="2328774" sellproductid="2328774" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_2" id="submitRequest_2328774" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50698071,1)" ordersettings="11" pminfo="2328774" productcode="2328774" sellproductid="2328774" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_2" href="//www.111.com.cn/product/50698071.html" id="buyButton_2328774" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="2328774" productcode="2328774" sellproductid="2328774" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-21-2019 09:21:02 root:INFO:https://p3.maiyaole.com/img/201612/27/200_20161227090734944.jpg
+06-21-2019 09:21:02 root:INFO:http://www.111.com.cn/product/50698071.html
+06-21-2019 09:21:02 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/url {"url": "http://www.111.com.cn/product/50698071.html"}
+06-21-2019 09:21:03 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "POST /session/4466a3d23007f3a0860b09aed2d9658d/url HTTP/1.1" 200 14
+06-21-2019 09:21:03 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:04 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/source {}
+06-21-2019 09:21:04 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "GET /session/4466a3d23007f3a0860b09aed2d9658d/source HTTP/1.1" 200 266506
+06-21-2019 09:21:04 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:04 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">伊春 替米沙坦胶囊 40mg*7粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>伊春</td>
+<th>规　　格：</th>
+<td>40mg*7粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.01kg</td>
+<th>生产厂商:</th>
+<td>伊春药业有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20052627(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-21-2019 09:21:04 root:INFO:**********************
+06-21-2019 09:21:04 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-21-2019 09:21:04 root:INFO:**********************
+06-21-2019 09:21:04 root:INFO:[<td colspan="3">伊春 替米沙坦胶囊 40mg*7粒</td>, <td>伊春</td>, <td>40mg*7粒</td>, <td>0.01kg</td>, <td>伊春药业有限公司</td>, <td>
+                                                                                    国药准字H20052627(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-21-2019 09:21:04 root:INFO:商品名称：伊春 替米沙坦胶囊 40mg*7粒
+06-21-2019 09:21:04 root:INFO:品　　牌：伊春
+06-21-2019 09:21:04 root:INFO:规　　格：40mg*7粒
+06-21-2019 09:21:04 root:INFO:重　　量：0.01kg
+06-21-2019 09:21:04 root:INFO:生产厂商:伊春药业有限公司
+06-21-2019 09:21:04 root:INFO:批准文号：国药准字H20052627
+06-21-2019 09:21:04 root:INFO:产品类型：处方药
+06-21-2019 09:21:04 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-21-2019 09:21:04 root:INFO:<div class="itemSearchResultCon" comproid="3057192" isrecom="0" itemid="51048202">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_3" href="//www.111.com.cn/product/51048202.html" target="_blank">
+<img alt="伊春日诺 咽炎片 0.3g*24片" data-ywpoint="null_null_null_null_I1121_3" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/201805/10/200_20180510174935543.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3057192">
+<span>
+                        5.8
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_3" href="//www.111.com.cn/product/51048202.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    伊春日诺 咽炎片 0.3g*24片三笑康大药房祝您早日康复-15186</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_3">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102544840">三笑康大药房</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3057192">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_3" id="submitRequest_3057192_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51048202,1)" pminfo="3057192" productcode="3057192" sellproductid="3057192" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_3" id="submitRequest_3057192" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51048202,1)" ordersettings="11" pminfo="3057192" productcode="3057192" sellproductid="3057192" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_3" href="//www.111.com.cn/product/51048202.html" id="buyButton_3057192" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3057192" productcode="3057192" sellproductid="3057192" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-21-2019 09:21:04 root:INFO:https://p3.maiyaole.com/img/201805/10/200_20180510174935543.jpg
+06-21-2019 09:21:04 root:INFO:http://www.111.com.cn/product/51048202.html
+06-21-2019 09:21:04 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/url {"url": "http://www.111.com.cn/product/51048202.html"}
+06-21-2019 09:21:05 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "POST /session/4466a3d23007f3a0860b09aed2d9658d/url HTTP/1.1" 200 14
+06-21-2019 09:21:05 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:06 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/source {}
+06-21-2019 09:21:06 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "GET /session/4466a3d23007f3a0860b09aed2d9658d/source HTTP/1.1" 200 248539
+06-21-2019 09:21:06 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:06 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">伊春日诺 咽炎片 0.3g*24片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>其他</td>
+<th>规　　格：</th>
+<td>0.3g*24片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.002kg</td>
+<th>生产厂商:</th>
+<td>伊春吉特普制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z23020529(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-21-2019 09:21:06 root:INFO:**********************
+06-21-2019 09:21:06 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-21-2019 09:21:06 root:INFO:**********************
+06-21-2019 09:21:06 root:INFO:[<td colspan="3">伊春日诺 咽炎片 0.3g*24片</td>, <td>其他</td>, <td>0.3g*24片</td>, <td>0.002kg</td>, <td>伊春吉特普制药有限公司</td>, <td>
+                                                                                    国药准字Z23020529(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-21-2019 09:21:06 root:INFO:商品名称：伊春日诺 咽炎片 0.3g*24片
+06-21-2019 09:21:06 root:INFO:品　　牌：其他
+06-21-2019 09:21:06 root:INFO:规　　格：0.3g*24片
+06-21-2019 09:21:06 root:INFO:重　　量：0.002kg
+06-21-2019 09:21:06 root:INFO:生产厂商:伊春吉特普制药有限公司
+06-21-2019 09:21:06 root:INFO:批准文号：国药准字Z23020529
+06-21-2019 09:21:06 root:INFO:产品类型：OTC（非处方药）
+06-21-2019 09:21:06 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-21-2019 09:21:06 root:INFO:<div class="itemSearchResultCon none" comproid="2091206" isrecom="0" itemid="50550748">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/50550748.html" target="_blank">
+<img alt="葵花 康妇消炎栓 2.0g*9粒" data-ywpoint="null_null_null_null_I1121_4" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/item/201608/27/200_20160827151720940.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_2091206">
+<span>
+                        35.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/50550748.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    葵花 康妇消炎栓 2.0g*9粒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_4">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2091206">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_4" druglevel="2" id="askDoctor_2091206" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121656411',1);" pminfo="2091206" productcode="2091206" sellproductid="2091206" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_4" href="//www.111.com.cn/product/50550748.html" id="buyButton_2091206" index="0" inshop="0" merchantid="26" pminfo="2091206" productcode="2091206" productdisabled="true" sellproductid="2091206" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-21-2019 09:21:06 root:INFO:https://p2.maiyaole.com/img/item/201608/27/200_20160827151720940.jpg
+06-21-2019 09:21:06 root:INFO:http://www.111.com.cn/product/50550748.html
+06-21-2019 09:21:06 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/url {"url": "http://www.111.com.cn/product/50550748.html"}
+06-21-2019 09:21:07 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "POST /session/4466a3d23007f3a0860b09aed2d9658d/url HTTP/1.1" 200 14
+06-21-2019 09:21:07 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:08 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/source {}
+06-21-2019 09:21:08 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "GET /session/4466a3d23007f3a0860b09aed2d9658d/source HTTP/1.1" 200 247998
+06-21-2019 09:21:08 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:08 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">葵花 康妇消炎栓 2.0g*9粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>葵花</td>
+<th>规　　格：</th>
+<td>2.0g*9粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.037kg</td>
+<th>生产厂商:</th>
+<td>葵花药业集团（伊春）有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z23022143(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-21-2019 09:21:08 root:INFO:**********************
+06-21-2019 09:21:08 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-21-2019 09:21:08 root:INFO:**********************
+06-21-2019 09:21:08 root:INFO:[<td colspan="3">葵花 康妇消炎栓 2.0g*9粒</td>, <td>葵花</td>, <td>2.0g*9粒</td>, <td>0.037kg</td>, <td>葵花药业集团（伊春）有限公司</td>, <td>
+                                                                                    国药准字Z23022143(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-21-2019 09:21:08 root:INFO:商品名称：葵花 康妇消炎栓 2.0g*9粒
+06-21-2019 09:21:08 root:INFO:品　　牌：葵花
+06-21-2019 09:21:08 root:INFO:规　　格：2.0g*9粒
+06-21-2019 09:21:08 root:INFO:重　　量：0.037kg
+06-21-2019 09:21:08 root:INFO:生产厂商:葵花药业集团（伊春）有限公司
+06-21-2019 09:21:08 root:INFO:批准文号：国药准字Z23022143
+06-21-2019 09:21:08 root:INFO:产品类型：处方药
+06-21-2019 09:21:08 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-21-2019 09:21:08 root:INFO:<div class="itemSearchResultCon" comproid="3249937" itemid="51177645" purchasehidestatus="2">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/51177645.html" target="_blank">
+<img alt="葵花 康妇消炎栓 2.0g*9粒 *3件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201905/15/200_20190515135327798.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3249937">
+<span>
+                                  
+                            102.0
+                                  
+                                    <u>¥34.0/件</u>
+</span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/51177645.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          葵花 康妇消炎栓 2.0g*9粒 *3件</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_4">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3249937">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_4" id="askDoctor_2091206" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121656411',1);" pminfo="2091206" productcode="2091206" sellproductid="2091206" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_4" href="//www.111.com.cn/product/51177645.html" id="buyButton_3249937" index="0" inshop="0" merchantid="26" pminfo="3249937" productcode="3249937" sellproductid="3249937" specialtype="13">查看详情</a>
+</div>
+<div class="sheng"><span>省</span>3.0元</div>
+<u class="bg_border"></u>
+<div class="item_kit" id="item_kit">
+<div class="item_kit_clip clearfix">
+<div class="item_kit_n">
+<a class="" comproid="2091206" data-ywpoint="null_null_null_null_I1120_4" href="javascript:void(0);">1件</a>
+<a class="k_cur" comproid="3249937" data-ywpoint="null_null_null_null_I1120_4" href="javascript:void(0);">3件</a>
+<a class="" comproid="3386636" data-ywpoint="null_null_null_null_I1120_4" href="javascript:void(0);">套餐1</a>
+<a class="" comproid="3239809" data-ywpoint="null_null_null_null_I1120_4" href="javascript:void(0);">套餐2</a>
+<i style="left: 50px;"></i>
+</div></div>
+</div></div>
+06-21-2019 09:21:08 root:INFO:https://p1.maiyaole.com/img/item/201905/15/200_20190515135327798.jpg
+06-21-2019 09:21:08 root:INFO:http://www.111.com.cn/product/51177645.html
+06-21-2019 09:21:08 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/url {"url": "http://www.111.com.cn/product/51177645.html"}
+06-21-2019 09:21:09 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "POST /session/4466a3d23007f3a0860b09aed2d9658d/url HTTP/1.1" 200 14
+06-21-2019 09:21:09 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:10 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/source {}
+06-21-2019 09:21:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "GET /session/4466a3d23007f3a0860b09aed2d9658d/source HTTP/1.1" 200 246308
+06-21-2019 09:21:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:10 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">葵花 康妇消炎栓 2.0g*9粒*3件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>葵花</td>
+<th>规　　格：</th>
+<td>2.0g*9粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.037kg</td>
+<th>生产厂商:</th>
+<td>葵花药业集团（伊春）有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z23022143(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-21-2019 09:21:10 root:INFO:**********************
+06-21-2019 09:21:10 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-21-2019 09:21:10 root:INFO:**********************
+06-21-2019 09:21:10 root:INFO:[<td colspan="3">葵花 康妇消炎栓 2.0g*9粒*3件</td>, <td>葵花</td>, <td>2.0g*9粒</td>, <td>0.037kg</td>, <td>葵花药业集团（伊春）有限公司</td>, <td>
+                                                                                    国药准字Z23022143(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-21-2019 09:21:10 root:INFO:商品名称：葵花 康妇消炎栓 2.0g*9粒*3件
+06-21-2019 09:21:10 root:INFO:品　　牌：葵花
+06-21-2019 09:21:10 root:INFO:规　　格：2.0g*9粒
+06-21-2019 09:21:10 root:INFO:重　　量：0.037kg
+06-21-2019 09:21:10 root:INFO:生产厂商:葵花药业集团（伊春）有限公司
+06-21-2019 09:21:10 root:INFO:批准文号：国药准字Z23022143
+06-21-2019 09:21:10 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-21-2019 09:21:10 root:INFO:<div class="itemSearchResultCon none" comproid="3386636" itemid="51270594" purchasehidestatus="2">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/51270594.html" target="_blank">
+<img alt="葵花 康妇消炎栓 2.0g*9粒 *1件+恩威 洁尔阴洗液 300ml（带冲洗器） *1件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/item/201905/15/200_20190515135602526.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3386636">
+<span>
+                                  
+                            61.8
+                                  
+                          </span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/51270594.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          葵花 康妇消炎栓 2.0g*9粒 *1件+恩威 洁尔阴洗液 300ml（带冲洗器） *1件暂无</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_4">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3386636">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_4" id="askDoctor_2091206" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121656411',1);" pminfo="2091206" productcode="2091206" sellproductid="2091206" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_4" href="//www.111.com.cn/product/51270594.html" id="buyButton_3386636" index="0" inshop="0" merchantid="26" pminfo="3386636" productcode="3386636" sellproductid="3386636" specialtype="13">查看详情</a>
+</div>
+<div class="sheng"><span>省</span>3.0元</div>
+<u class="bg_border"></u>
+</div>
+06-21-2019 09:21:10 root:INFO:https://p2.maiyaole.com/img/item/201905/15/200_20190515135602526.jpg
+06-21-2019 09:21:10 root:INFO:http://www.111.com.cn/product/51270594.html
+06-21-2019 09:21:10 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/url {"url": "http://www.111.com.cn/product/51270594.html"}
+06-21-2019 09:21:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "POST /session/4466a3d23007f3a0860b09aed2d9658d/url HTTP/1.1" 200 14
+06-21-2019 09:21:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:11 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/source {}
+06-21-2019 09:21:11 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "GET /session/4466a3d23007f3a0860b09aed2d9658d/source HTTP/1.1" 200 254627
+06-21-2019 09:21:11 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:12 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">葵花 康妇消炎栓 2.0g*9粒*1件 + 恩威 洁尔阴洗液 300ml（带冲洗器）*1件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>葵花</td>
+<th>规　　格：</th>
+<td>2.0g*9粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.037kg</td>
+<th>生产厂商:</th>
+<td>葵花药业集团（伊春）有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z23022143,国药准字Z10930008(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-21-2019 09:21:12 root:INFO:**********************
+06-21-2019 09:21:12 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-21-2019 09:21:12 root:INFO:**********************
+06-21-2019 09:21:12 root:INFO:[<td colspan="3">葵花 康妇消炎栓 2.0g*9粒*1件 + 恩威 洁尔阴洗液 300ml（带冲洗器）*1件</td>, <td>葵花</td>, <td>2.0g*9粒</td>, <td>0.037kg</td>, <td>葵花药业集团（伊春）有限公司</td>, <td>
+                                                                                    国药准字Z23022143,国药准字Z10930008(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-21-2019 09:21:12 root:INFO:商品名称：葵花 康妇消炎栓 2.0g*9粒*1件 + 恩威 洁尔阴洗液 300ml（带冲洗器）*1件
+06-21-2019 09:21:12 root:INFO:品　　牌：葵花
+06-21-2019 09:21:12 root:INFO:规　　格：2.0g*9粒
+06-21-2019 09:21:12 root:INFO:重　　量：0.037kg
+06-21-2019 09:21:12 root:INFO:生产厂商:葵花药业集团（伊春）有限公司
+06-21-2019 09:21:12 root:INFO:批准文号：国药准字Z23022143,国药准字Z10930008
+06-21-2019 09:21:12 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-21-2019 09:21:12 root:INFO:<div class="itemSearchResultCon none" comproid="3239809" itemid="51169912" purchasehidestatus="2">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/51169912.html" target="_blank">
+<img alt="葵花 康妇消炎栓 2.0g*9粒 *2件+百灵鸟 经带宁胶囊 0.3g*36粒 *1件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201905/15/200_2019051513550360.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3239809">
+<span>
+                                  
+                            112.0
+                                  
+                          </span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/51169912.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          葵花 康妇消炎栓 2.0g*9粒 *2件+百灵鸟 经带宁胶囊 0.3g*36粒 *1件暂无</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_4">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3239809">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_4" id="askDoctor_2091206" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121656411',1);" pminfo="2091206" productcode="2091206" sellproductid="2091206" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_4" href="//www.111.com.cn/product/51169912.html" id="buyButton_3239809" index="0" inshop="0" merchantid="26" pminfo="3239809" productcode="3239809" sellproductid="3239809" specialtype="13">查看详情</a>
+</div>
+<div class="sheng"><span>省</span>7.0元</div>
+<u class="bg_border"></u>
+</div>
+06-21-2019 09:21:12 root:INFO:https://p1.maiyaole.com/img/item/201905/15/200_2019051513550360.jpg
+06-21-2019 09:21:12 root:INFO:http://www.111.com.cn/product/51169912.html
+06-21-2019 09:21:12 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/url {"url": "http://www.111.com.cn/product/51169912.html"}
+06-21-2019 09:21:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "POST /session/4466a3d23007f3a0860b09aed2d9658d/url HTTP/1.1" 200 14
+06-21-2019 09:21:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:13 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/source {}
+06-21-2019 09:21:13 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "GET /session/4466a3d23007f3a0860b09aed2d9658d/source HTTP/1.1" 200 251803
+06-21-2019 09:21:13 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:13 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">葵花 康妇消炎栓 2.0g*9粒*2件 + 百灵鸟 经带宁胶囊 0.3g*36粒*1件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>葵花</td>
+<th>规　　格：</th>
+<td>2.0g*9粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.037kg</td>
+<th>生产厂商:</th>
+<td>葵花药业集团（伊春）有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z23022143,国药准字Z20025009(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-21-2019 09:21:13 root:INFO:**********************
+06-21-2019 09:21:13 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-21-2019 09:21:13 root:INFO:**********************
+06-21-2019 09:21:13 root:INFO:[<td colspan="3">葵花 康妇消炎栓 2.0g*9粒*2件 + 百灵鸟 经带宁胶囊 0.3g*36粒*1件</td>, <td>葵花</td>, <td>2.0g*9粒</td>, <td>0.037kg</td>, <td>葵花药业集团（伊春）有限公司</td>, <td>
+                                                                                    国药准字Z23022143,国药准字Z20025009(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-21-2019 09:21:13 root:INFO:商品名称：葵花 康妇消炎栓 2.0g*9粒*2件 + 百灵鸟 经带宁胶囊 0.3g*36粒*1件
+06-21-2019 09:21:13 root:INFO:品　　牌：葵花
+06-21-2019 09:21:13 root:INFO:规　　格：2.0g*9粒
+06-21-2019 09:21:13 root:INFO:重　　量：0.037kg
+06-21-2019 09:21:13 root:INFO:生产厂商:葵花药业集团（伊春）有限公司
+06-21-2019 09:21:13 root:INFO:批准文号：国药准字Z23022143,国药准字Z20025009
+06-21-2019 09:21:13 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-21-2019 09:21:13 root:INFO:<div class="itemSearchResultCon" comproid="3314389" isrecom="0" itemid="51230243">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_5" href="//www.111.com.cn/product/51230243.html" target="_blank">
+<img alt="伊春 芩暴红止咳口服液 10ml*9支" data-ywpoint="null_null_null_null_I1121_5" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/201903/15/200_20190315140951501.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3314389">
+<span>
+                        49.33
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_5" href="//www.111.com.cn/product/51230243.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    伊春 芩暴红止咳口服液 10ml*9支</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_5">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102550031">成都拜欧大药房旗...</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3314389">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_5" id="submitRequest_3314389_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51230243,1)" pminfo="3314389" productcode="3314389" sellproductid="3314389" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_5" id="submitRequest_3314389" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51230243,1)" ordersettings="11" pminfo="3314389" productcode="3314389" sellproductid="3314389" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_5" href="//www.111.com.cn/product/51230243.html" id="buyButton_3314389" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3314389" productcode="3314389" sellproductid="3314389" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-21-2019 09:21:13 root:INFO:https://p2.maiyaole.com/img/201903/15/200_20190315140951501.jpg
+06-21-2019 09:21:13 root:INFO:http://www.111.com.cn/product/51230243.html
+06-21-2019 09:21:13 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/url {"url": "http://www.111.com.cn/product/51230243.html"}
+06-21-2019 09:21:14 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "POST /session/4466a3d23007f3a0860b09aed2d9658d/url HTTP/1.1" 200 14
+06-21-2019 09:21:14 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:15 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/source {}
+06-21-2019 09:21:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "GET /session/4466a3d23007f3a0860b09aed2d9658d/source HTTP/1.1" 200 240541
+06-21-2019 09:21:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:15 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">伊春 芩暴红止咳口服液 10ml*9支</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>伊春</td>
+<th>规　　格：</th>
+<td>10ml*9支</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.1kg</td>
+<th>生产厂商:</th>
+<td>伊春金北药制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z10950037(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-21-2019 09:21:15 root:INFO:**********************
+06-21-2019 09:21:15 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-21-2019 09:21:15 root:INFO:**********************
+06-21-2019 09:21:15 root:INFO:[<td colspan="3">伊春 芩暴红止咳口服液 10ml*9支</td>, <td>伊春</td>, <td>10ml*9支</td>, <td>0.1kg</td>, <td>伊春金北药制药有限公司</td>, <td>
+                                                                                    国药准字Z10950037(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-21-2019 09:21:15 root:INFO:商品名称：伊春 芩暴红止咳口服液 10ml*9支
+06-21-2019 09:21:15 root:INFO:品　　牌：伊春
+06-21-2019 09:21:15 root:INFO:规　　格：10ml*9支
+06-21-2019 09:21:15 root:INFO:重　　量：0.1kg
+06-21-2019 09:21:15 root:INFO:生产厂商:伊春金北药制药有限公司
+06-21-2019 09:21:15 root:INFO:批准文号：国药准字Z10950037
+06-21-2019 09:21:15 root:INFO:产品类型：处方药
+06-21-2019 09:21:15 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-21-2019 09:21:15 root:INFO:<div class="itemSearchResultCon" comproid="1554024" isrecom="0" itemid="50302576">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_6" href="//www.111.com.cn/product/50302576.html" target="_blank">
+<img alt="葵花 海洋胃药 0.3g*36粒" data-ywpoint="null_null_null_null_I1121_6" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/201604/28/120_20160428161505857.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1554024">
+<span>
+                        15.1
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_6" href="//www.111.com.cn/product/50302576.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    葵花 海洋胃药 0.3g*36粒脾胃虚弱，胃寒作痛，胃酸过多及由胃，十二指肠溃疡所致上述证候。</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_6">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1554024">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_6" druglevel="2" id="askDoctor_1554024" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121618420',1);" pminfo="1554024" productcode="1554024" sellproductid="1554024" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_6" href="//www.111.com.cn/product/50302576.html" id="buyButton_1554024" index="0" inshop="0" merchantid="26" pminfo="1554024" productcode="1554024" productdisabled="true" sellproductid="1554024" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-21-2019 09:21:15 root:INFO:https://p2.maiyaole.com/img/201604/28/120_20160428161505857.jpg
+06-21-2019 09:21:15 root:INFO:http://www.111.com.cn/product/50302576.html
+06-21-2019 09:21:15 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/url {"url": "http://www.111.com.cn/product/50302576.html"}
+06-21-2019 09:21:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "POST /session/4466a3d23007f3a0860b09aed2d9658d/url HTTP/1.1" 200 14
+06-21-2019 09:21:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:17 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/source {}
+06-21-2019 09:21:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "GET /session/4466a3d23007f3a0860b09aed2d9658d/source HTTP/1.1" 200 243585
+06-21-2019 09:21:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:17 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">葵花 海洋胃药 0.3g*36粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>葵花</td>
+<th>规　　格：</th>
+<td>0.3g*36粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.01kg</td>
+<th>生产厂商:</th>
+<td>葵花药业集团（伊春）有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z20033223(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-21-2019 09:21:17 root:INFO:**********************
+06-21-2019 09:21:17 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-21-2019 09:21:17 root:INFO:**********************
+06-21-2019 09:21:17 root:INFO:[<td colspan="3">葵花 海洋胃药 0.3g*36粒</td>, <td>葵花</td>, <td>0.3g*36粒</td>, <td>0.01kg</td>, <td>葵花药业集团（伊春）有限公司</td>, <td>
+                                                                                    国药准字Z20033223(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-21-2019 09:21:17 root:INFO:商品名称：葵花 海洋胃药 0.3g*36粒
+06-21-2019 09:21:17 root:INFO:品　　牌：葵花
+06-21-2019 09:21:17 root:INFO:规　　格：0.3g*36粒
+06-21-2019 09:21:17 root:INFO:重　　量：0.01kg
+06-21-2019 09:21:17 root:INFO:生产厂商:葵花药业集团（伊春）有限公司
+06-21-2019 09:21:17 root:INFO:批准文号：国药准字Z20033223
+06-21-2019 09:21:17 root:INFO:产品类型：处方药
+06-21-2019 09:21:17 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-21-2019 09:21:17 root:INFO:<div class="itemSearchResultCon" comproid="1971198" isrecom="0" itemid="50494205">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_7" href="//www.111.com.cn/product/50494205.html" target="_blank">
+<img alt="葵花 康妇消炎栓 2.8g*6粒" data-ywpoint="null_null_null_null_I1121_7" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/item/201703/10/200_20170310152418794.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1971198">
+<span>
+                        25.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_7" href="//www.111.com.cn/product/50494205.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    葵花 康妇消炎栓 2.8g*6粒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_7">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1971198">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_7" druglevel="2" id="askDoctor_1971198" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121656411',1);" pminfo="1971198" productcode="1971198" sellproductid="1971198" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_7" href="//www.111.com.cn/product/50494205.html" id="buyButton_1971198" index="0" inshop="0" merchantid="26" pminfo="1971198" productcode="1971198" productdisabled="true" sellproductid="1971198" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-21-2019 09:21:17 root:INFO:https://p3.maiyaole.com/img/item/201703/10/200_20170310152418794.jpg
+06-21-2019 09:21:17 root:INFO:http://www.111.com.cn/product/50494205.html
+06-21-2019 09:21:17 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/url {"url": "http://www.111.com.cn/product/50494205.html"}
+06-21-2019 09:21:18 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "POST /session/4466a3d23007f3a0860b09aed2d9658d/url HTTP/1.1" 200 14
+06-21-2019 09:21:18 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:19 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/source {}
+06-21-2019 09:21:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "GET /session/4466a3d23007f3a0860b09aed2d9658d/source HTTP/1.1" 200 246323
+06-21-2019 09:21:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:19 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">葵花 康妇消炎栓 2.8g*6粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>葵花</td>
+<th>规　　格：</th>
+<td>2.8g*6粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.01kg</td>
+<th>生产厂商:</th>
+<td>葵花药业集团（伊春）有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z23022143(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-21-2019 09:21:19 root:INFO:**********************
+06-21-2019 09:21:19 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-21-2019 09:21:19 root:INFO:**********************
+06-21-2019 09:21:19 root:INFO:[<td colspan="3">葵花 康妇消炎栓 2.8g*6粒</td>, <td>葵花</td>, <td>2.8g*6粒</td>, <td>0.01kg</td>, <td>葵花药业集团（伊春）有限公司</td>, <td>
+                                                                                    国药准字Z23022143(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-21-2019 09:21:19 root:INFO:商品名称：葵花 康妇消炎栓 2.8g*6粒
+06-21-2019 09:21:19 root:INFO:品　　牌：葵花
+06-21-2019 09:21:19 root:INFO:规　　格：2.8g*6粒
+06-21-2019 09:21:19 root:INFO:重　　量：0.01kg
+06-21-2019 09:21:19 root:INFO:生产厂商:葵花药业集团（伊春）有限公司
+06-21-2019 09:21:19 root:INFO:批准文号：国药准字Z23022143
+06-21-2019 09:21:19 root:INFO:产品类型：处方药
+06-21-2019 09:21:19 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-21-2019 09:21:19 root:INFO:<div class="itemSearchResultCon" comproid="798098" isrecom="0" itemid="6102919">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_8" href="//www.111.com.cn/product/6102919.html" target="_blank">
+<textarea data-original="" lz="true" style="visibility:hidden;">                              &lt;img src="https://p2.maiyaole.com/img/6102/6102919/120_120.jpg" alt="葵花 康妇消炎栓 2.8g*9粒" onerror="imgERROR(this,'no_pic_120_120.jpg');" width="205" height="188" data-ywpoint='null_null_null_null_I1121_8'&gt;
+                          </textarea>
+</a>
+<p class="price" id="promotionInfo_798098">
+<textarea data-original="" lz="true" style="visibility:hidden;">                                  
+                                &lt;span&gt;
+                                    33.0
+                                &lt;/span&gt;
+                              </textarea>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_8" href="//www.111.com.cn/product/6102919.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    葵花 康妇消炎栓 2.8g*9粒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_8">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_798098">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_8" druglevel="2" id="askDoctor_798098" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121656411',1);" pminfo="798098" productcode="798098" sellproductid="798098" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_8" href="//www.111.com.cn/product/6102919.html" id="buyButton_798098" index="0" inshop="0" merchantid="26" pminfo="798098" productcode="798098" productdisabled="true" sellproductid="798098" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-21-2019 09:21:19 root:INFO:<div class="itemSearchResultCon" comproid="808675" isrecom="0" itemid="50006145">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_9" href="//www.111.com.cn/product/50006145.html" target="_blank">
+<textarea data-original="" lz="true" style="visibility:hidden;">                              &lt;img src="https://p2.maiyaole.com/img/50006/50006145/120_120.jpg?a=1259635628" alt="葵花 康妇消炎栓 2.8g*7粒" onerror="imgERROR(this,'no_pic_120_120.jpg');" width="205" height="188" data-ywpoint='null_null_null_null_I1121_9'&gt;
+                          </textarea>
+</a>
+<p class="price" id="promotionInfo_808675">
+<textarea data-original="" lz="true" style="visibility:hidden;">                                  
+                                &lt;span&gt;
+                                    25.9
+                                &lt;/span&gt;
+                              </textarea>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_9" href="//www.111.com.cn/product/50006145.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    葵花 康妇消炎栓 2.8g*7粒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_9">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_808675">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_9" druglevel="2" id="askDoctor_808675" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121656411',1);" pminfo="808675" productcode="808675" sellproductid="808675" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_9" href="//www.111.com.cn/product/50006145.html" id="buyButton_808675" index="0" inshop="0" merchantid="26" pminfo="808675" productcode="808675" productdisabled="true" sellproductid="808675" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-21-2019 09:21:19 root:INFO:<div class="itemSearchResultCon" comproid="2852249" isrecom="0" itemid="50908468">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_10" href="//www.111.com.cn/product/50908468.html" target="_blank">
+<textarea data-original="" lz="true" style="visibility:hidden;">                              &lt;img src="https://p3.maiyaole.com/img/item/201707/31/200_20170731134107222.jpg" alt="葵花 康妇消炎栓 2.0g*6粒" onerror="imgERROR(this,'no_pic_120_120.jpg');" width="205" height="188" data-ywpoint='null_null_null_null_I1121_10'&gt;
+                          </textarea>
+</a>
+<p class="price" id="promotionInfo_2852249">
+<textarea data-original="" lz="true" style="visibility:hidden;">                                  
+                                &lt;span&gt;
+                                    27.0
+                                &lt;/span&gt;
+                              </textarea>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_10" href="//www.111.com.cn/product/50908468.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    葵花 康妇消炎栓 2.0g*6粒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_10">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2852249">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_10" druglevel="2" id="askDoctor_2852249" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121656411',1);" pminfo="2852249" productcode="2852249" sellproductid="2852249" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_10" href="//www.111.com.cn/product/50908468.html" id="buyButton_2852249" index="0" inshop="0" merchantid="26" pminfo="2852249" productcode="2852249" productdisabled="true" sellproductid="2852249" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-21-2019 09:21:19 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d/window {}
+06-21-2019 09:21:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "DELETE /session/4466a3d23007f3a0860b09aed2d9658d/window HTTP/1.1" 200 12
+06-21-2019 09:21:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 09:21:19 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:54583/session/4466a3d23007f3a0860b09aed2d9658d {}
+06-21-2019 09:21:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:54583 "DELETE /session/4466a3d23007f3a0860b09aed2d9658d HTTP/1.1" 200 14
+06-21-2019 09:21:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

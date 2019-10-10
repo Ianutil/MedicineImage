@@ -1,0 +1,114 @@
+06-16-2019 09:16:36 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53288/session/51bcd95de47b2c223bb198313384e36e/url {"url": "https://www.111.com.cn"}
+06-16-2019 09:16:37 urllib3.connectionpool:DEBUG:http://127.0.0.1:53288 "POST /session/51bcd95de47b2c223bb198313384e36e/url HTTP/1.1" 200 14
+06-16-2019 09:16:37 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-16-2019 09:16:38 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53288/session/51bcd95de47b2c223bb198313384e36e/source {}
+06-16-2019 09:16:38 urllib3.connectionpool:DEBUG:http://127.0.0.1:53288 "GET /session/51bcd95de47b2c223bb198313384e36e/source HTTP/1.1" 200 340135
+06-16-2019 09:16:38 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-16-2019 09:16:38 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53288/session/51bcd95de47b2c223bb198313384e36e/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u8865\u80be\u5f3a\u8eab\u80f6\u56ca \u96f7\u5141\u4e0a\");\n$(\"#word\").attr(\"value\",\"\u8865\u80be\u5f3a\u8eab\u80f6\u56ca \u96f7\u5141\u4e0a\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-16-2019 09:16:38 urllib3.connectionpool:DEBUG:http://127.0.0.1:53288 "POST /session/51bcd95de47b2c223bb198313384e36e/execute/sync HTTP/1.1" 200 14
+06-16-2019 09:16:38 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-16-2019 09:16:39 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53288/session/51bcd95de47b2c223bb198313384e36e/source {}
+06-16-2019 09:16:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:53288 "GET /session/51bcd95de47b2c223bb198313384e36e/source HTTP/1.1" 200 221776
+06-16-2019 09:16:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-16-2019 09:16:39 root:INFO:<div class="itemSearchResultCon" comproid="2991750" isrecom="0" itemid="50990527">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50990527.html" target="_blank">
+<img alt="雷氏 补肾强身胶囊 0.3g*9s*6板" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/201712/06/200_20171206081641590.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_2991750">
+<span>
+                        35.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50990527.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    雷氏 补肾强身胶囊 0.3g*9s*6板正规医药公司进货，药品质量有保障。</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102509961">上海荣馨大药房旗...</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2991750">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_2991750_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50990527,1)" pminfo="2991750" productcode="2991750" sellproductid="2991750" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_2991750" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50990527,1)" ordersettings="11" pminfo="2991750" productcode="2991750" sellproductid="2991750" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/50990527.html" id="buyButton_2991750" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="2991750" productcode="2991750" sellproductid="2991750" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-16-2019 09:16:39 root:INFO:https://p4.maiyaole.com/img/201712/06/200_20171206081641590.jpg
+06-16-2019 09:16:39 root:INFO:http://www.111.com.cn/product/50990527.html
+06-16-2019 09:16:39 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53288/session/51bcd95de47b2c223bb198313384e36e/url {"url": "http://www.111.com.cn/product/50990527.html"}
+06-16-2019 09:16:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:53288 "POST /session/51bcd95de47b2c223bb198313384e36e/url HTTP/1.1" 200 14
+06-16-2019 09:16:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-16-2019 09:16:41 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53288/session/51bcd95de47b2c223bb198313384e36e/source {}
+06-16-2019 09:16:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:53288 "GET /session/51bcd95de47b2c223bb198313384e36e/source HTTP/1.1" 200 248435
+06-16-2019 09:16:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-16-2019 09:16:41 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">雷氏 补肾强身胶囊 0.3g*9s*6板 </td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>雷氏</td>
+<th>规　　格：</th>
+<td>0.3g*9s*6板 </td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.06kg</td>
+<th>生产厂商:</th>
+<td>上海雷允上药业有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z31020436(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-16-2019 09:16:41 root:INFO:**********************
+06-16-2019 09:16:41 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-16-2019 09:16:41 root:INFO:**********************
+06-16-2019 09:16:41 root:INFO:[<td colspan="3">雷氏 补肾强身胶囊 0.3g*9s*6板 </td>, <td>雷氏</td>, <td>0.3g*9s*6板 </td>, <td>0.06kg</td>, <td>上海雷允上药业有限公司</td>, <td>
+                                                                                    国药准字Z31020436(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-16-2019 09:16:41 root:INFO:商品名称：雷氏 补肾强身胶囊 0.3g*9s*6板
+06-16-2019 09:16:41 root:INFO:品　　牌：雷氏
+06-16-2019 09:16:41 root:INFO:规　　格：0.3g*9s*6板
+06-16-2019 09:16:41 root:INFO:重　　量：0.06kg
+06-16-2019 09:16:41 root:INFO:生产厂商:上海雷允上药业有限公司
+06-16-2019 09:16:41 root:INFO:批准文号：国药准字Z31020436
+06-16-2019 09:16:41 root:INFO:产品类型：OTC（非处方药）
+06-16-2019 09:16:41 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-16-2019 09:16:41 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:53288/session/51bcd95de47b2c223bb198313384e36e/window {}
+06-16-2019 09:16:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:53288 "DELETE /session/51bcd95de47b2c223bb198313384e36e/window HTTP/1.1" 200 12
+06-16-2019 09:16:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-16-2019 09:16:41 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:53288/session/51bcd95de47b2c223bb198313384e36e {}
+06-16-2019 09:16:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:53288 "DELETE /session/51bcd95de47b2c223bb198313384e36e HTTP/1.1" 200 14
+06-16-2019 09:16:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

@@ -1,0 +1,215 @@
+06-03-2019 09:03:51 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:49452/session/544ae971d8eb33a6c73312c0d7cb311f/url {"url": "https://www.111.com.cn"}
+06-03-2019 09:03:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:49452 "POST /session/544ae971d8eb33a6c73312c0d7cb311f/url HTTP/1.1" 200 14
+06-03-2019 09:03:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-03-2019 09:03:53 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:49452/session/544ae971d8eb33a6c73312c0d7cb311f/source {}
+06-03-2019 09:03:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:49452 "GET /session/544ae971d8eb33a6c73312c0d7cb311f/source HTTP/1.1" 200 340133
+06-03-2019 09:03:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-03-2019 09:03:53 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:49452/session/544ae971d8eb33a6c73312c0d7cb311f/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u96f7\u8d1d\u62c9\u5511\u94a0\u80a0\u6eb6\u7247 \u536b\u6750\");\n$(\"#word\").attr(\"value\",\"\u96f7\u8d1d\u62c9\u5511\u94a0\u80a0\u6eb6\u7247 \u536b\u6750\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-03-2019 09:03:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:49452 "POST /session/544ae971d8eb33a6c73312c0d7cb311f/execute/sync HTTP/1.1" 200 14
+06-03-2019 09:03:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-03-2019 09:03:54 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:49452/session/544ae971d8eb33a6c73312c0d7cb311f/source {}
+06-03-2019 09:03:54 urllib3.connectionpool:DEBUG:http://127.0.0.1:49452 "GET /session/544ae971d8eb33a6c73312c0d7cb311f/source HTTP/1.1" 200 225230
+06-03-2019 09:03:54 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-03-2019 09:03:55 root:INFO:<div class="itemSearchResultCon" comproid="1064244" isrecom="0" itemid="50070073">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50070073.html" target="_blank">
+<img alt="波利特 雷贝拉唑钠肠溶片 10mg*7片" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/50070/50070073/120_120.jpg?a=159285674" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1064244">
+<span>
+                        94.1
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50070073.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    波利特 雷贝拉唑钠肠溶片 10mg*7片胃溃疡、十二指肠溃疡、反流性食管炎，也辅助用于胃溃疡或十二指肠溃疡患者根除幽门螺旋杆菌</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1064244">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" druglevel="2" id="askDoctor_1064244" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121618420',1);" pminfo="1064244" productcode="1064244" sellproductid="1064244" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/50070073.html" id="buyButton_1064244" index="0" inshop="0" merchantid="26" pminfo="1064244" productcode="1064244" productdisabled="true" sellproductid="1064244" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<div class="item_kit" id="item_kit">
+<div class="item_kit_clip clearfix">
+<div class="item_kit_n">
+<a class="k_cur" comproid="1064244" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">1件</a>
+<a class="" comproid="3289932" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">套餐1</a>
+<i style="left: 0px;"></i>
+</div></div>
+</div>
+<!-- 组合品件数条 -->
+</div>
+06-03-2019 09:03:55 root:INFO:https://p1.maiyaole.com/img/50070/50070073/120_120.jpg?a=159285674
+06-03-2019 09:03:55 root:INFO:http://www.111.com.cn/product/50070073.html
+06-03-2019 09:03:55 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:49452/session/544ae971d8eb33a6c73312c0d7cb311f/url {"url": "http://www.111.com.cn/product/50070073.html"}
+06-03-2019 09:03:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:49452 "POST /session/544ae971d8eb33a6c73312c0d7cb311f/url HTTP/1.1" 200 14
+06-03-2019 09:03:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-03-2019 09:03:57 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:49452/session/544ae971d8eb33a6c73312c0d7cb311f/source {}
+06-03-2019 09:03:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:49452 "GET /session/544ae971d8eb33a6c73312c0d7cb311f/source HTTP/1.1" 200 251442
+06-03-2019 09:03:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-03-2019 09:03:57 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">波利特 雷贝拉唑钠肠溶片 10mg*7片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>波利特</td>
+<th>规　　格：</th>
+<td>10mg*7片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.018kg</td>
+<th>生产厂商:</th>
+<td>卫材（中国）药业有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20090091(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-03-2019 09:03:57 root:INFO:**********************
+06-03-2019 09:03:57 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-03-2019 09:03:57 root:INFO:**********************
+06-03-2019 09:03:57 root:INFO:[<td colspan="3">波利特 雷贝拉唑钠肠溶片 10mg*7片</td>, <td>波利特</td>, <td>10mg*7片</td>, <td>0.018kg</td>, <td>卫材（中国）药业有限公司</td>, <td>
+                                                                                    国药准字H20090091(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-03-2019 09:03:57 root:INFO:商品名称：波利特 雷贝拉唑钠肠溶片 10mg*7片
+06-03-2019 09:03:57 root:INFO:品　　牌：波利特
+06-03-2019 09:03:57 root:INFO:规　　格：10mg*7片
+06-03-2019 09:03:57 root:INFO:重　　量：0.018kg
+06-03-2019 09:03:57 root:INFO:生产厂商:卫材（中国）药业有限公司
+06-03-2019 09:03:57 root:INFO:批准文号：国药准字H20090091
+06-03-2019 09:03:57 root:INFO:产品类型：处方药
+06-03-2019 09:03:57 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-03-2019 09:03:57 root:INFO:<div class="itemSearchResultCon none" comproid="3289932" itemid="51210860" purchasehidestatus="2">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51210860.html" target="_blank">
+<img alt="波利特 雷贝拉唑钠肠溶片 10mg*7片 *2件+丽珠维三联 枸橼酸铋钾片/替硝唑片/克拉霉素片组合包装 8片/盒 *7件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/item/201901/23/200_20190123112225650.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3289932">
+<span>
+                                  
+                            339.0
+                                  
+                          </span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51210860.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          波利特 雷贝拉唑钠肠溶片 10mg*7片 *2件+丽珠维三联 枸橼酸铋钾片/替硝唑片/克拉霉素片组合包装 8片/盒 *7件幽门螺旋杆菌感染四联疗法，一周用量，适用于治疗十二指肠溃疡、胃溃疡、慢性胃炎，伴有幽门螺旋菌Hp感染者 1、波利特雷贝拉挫钠每日1次，每次20mg（2片），清晨或餐前服用 2、枸橼酸铋钾片：每日2次，每次2片，早、晚餐前半小时空腹服用。 2、替硝唑片：每日2次，每次1片，早、晚餐后服用。 3、克拉霉素片：每日2次，每次1片，早、晚餐后服用。</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3289932">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" id="askDoctor_1064244" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121618420',1);" pminfo="1064244" productcode="1064244" sellproductid="1064244" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/51210860.html" id="buyButton_3289932" index="0" inshop="0" merchantid="26" pminfo="3289932" productcode="3289932" sellproductid="3289932" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+</div>
+06-03-2019 09:03:57 root:INFO:https://p2.maiyaole.com/img/item/201901/23/200_20190123112225650.jpg
+06-03-2019 09:03:57 root:INFO:http://www.111.com.cn/product/51210860.html
+06-03-2019 09:03:57 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:49452/session/544ae971d8eb33a6c73312c0d7cb311f/url {"url": "http://www.111.com.cn/product/51210860.html"}
+06-03-2019 09:03:58 urllib3.connectionpool:DEBUG:http://127.0.0.1:49452 "POST /session/544ae971d8eb33a6c73312c0d7cb311f/url HTTP/1.1" 200 14
+06-03-2019 09:03:58 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-03-2019 09:03:59 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:49452/session/544ae971d8eb33a6c73312c0d7cb311f/source {}
+06-03-2019 09:03:59 urllib3.connectionpool:DEBUG:http://127.0.0.1:49452 "GET /session/544ae971d8eb33a6c73312c0d7cb311f/source HTTP/1.1" 200 244064
+06-03-2019 09:03:59 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-03-2019 09:03:59 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">波利特 雷贝拉唑钠肠溶片 10mg*7片*2件 + 丽珠维三联 枸橼酸铋钾片/替硝唑片/克拉霉素片组合包装 8片/盒*7件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>波利特</td>
+<th>规　　格：</th>
+<td>10mg*7片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.018kg</td>
+<th>生产厂商:</th>
+<td>卫材（中国）药业有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20090091,国药准字H10900084,H10950320,H10960227(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-03-2019 09:03:59 root:INFO:**********************
+06-03-2019 09:03:59 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-03-2019 09:03:59 root:INFO:**********************
+06-03-2019 09:03:59 root:INFO:[<td colspan="3">波利特 雷贝拉唑钠肠溶片 10mg*7片*2件 + 丽珠维三联 枸橼酸铋钾片/替硝唑片/克拉霉素片组合包装 8片/盒*7件</td>, <td>波利特</td>, <td>10mg*7片</td>, <td>0.018kg</td>, <td>卫材（中国）药业有限公司</td>, <td>
+                                                                                    国药准字H20090091,国药准字H10900084,H10950320,H10960227(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-03-2019 09:03:59 root:INFO:商品名称：波利特 雷贝拉唑钠肠溶片 10mg*7片*2件 + 丽珠维三联 枸橼酸铋钾片/替硝唑片/克拉霉素片组合包装 8片/盒*7件
+06-03-2019 09:03:59 root:INFO:品　　牌：波利特
+06-03-2019 09:03:59 root:INFO:规　　格：10mg*7片
+06-03-2019 09:03:59 root:INFO:重　　量：0.018kg
+06-03-2019 09:03:59 root:INFO:生产厂商:卫材（中国）药业有限公司
+06-03-2019 09:03:59 root:INFO:批准文号：国药准字H20090091,国药准字H10900084,H10950320,H10960227
+06-03-2019 09:03:59 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-03-2019 09:03:59 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:49452/session/544ae971d8eb33a6c73312c0d7cb311f/window {}
+06-03-2019 09:03:59 urllib3.connectionpool:DEBUG:http://127.0.0.1:49452 "DELETE /session/544ae971d8eb33a6c73312c0d7cb311f/window HTTP/1.1" 200 12
+06-03-2019 09:03:59 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-03-2019 09:03:59 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:49452/session/544ae971d8eb33a6c73312c0d7cb311f {}
+06-03-2019 09:03:59 urllib3.connectionpool:DEBUG:http://127.0.0.1:49452 "DELETE /session/544ae971d8eb33a6c73312c0d7cb311f HTTP/1.1" 200 14
+06-03-2019 09:03:59 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

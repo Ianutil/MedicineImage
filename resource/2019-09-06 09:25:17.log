@@ -1,0 +1,120 @@
+06-25-2019 09:25:17 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55875/session/851e64de70182b92c5bbae0f3ca4397b/url {"url": "https://www.111.com.cn"}
+06-25-2019 09:25:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:55875 "POST /session/851e64de70182b92c5bbae0f3ca4397b/url HTTP/1.1" 200 14
+06-25-2019 09:25:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-25-2019 09:25:20 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55875/session/851e64de70182b92c5bbae0f3ca4397b/source {}
+06-25-2019 09:25:20 urllib3.connectionpool:DEBUG:http://127.0.0.1:55875 "GET /session/851e64de70182b92c5bbae0f3ca4397b/source HTTP/1.1" 200 340133
+06-25-2019 09:25:20 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-25-2019 09:25:20 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55875/session/851e64de70182b92c5bbae0f3ca4397b/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u7334\u5934\u83cc\u7247 \u4e09\u660e\u5929\");\n$(\"#word\").attr(\"value\",\"\u7334\u5934\u83cc\u7247 \u4e09\u660e\u5929\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-25-2019 09:25:20 urllib3.connectionpool:DEBUG:http://127.0.0.1:55875 "POST /session/851e64de70182b92c5bbae0f3ca4397b/execute/sync HTTP/1.1" 200 14
+06-25-2019 09:25:20 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-25-2019 09:25:21 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55875/session/851e64de70182b92c5bbae0f3ca4397b/source {}
+06-25-2019 09:25:21 urllib3.connectionpool:DEBUG:http://127.0.0.1:55875 "GET /session/851e64de70182b92c5bbae0f3ca4397b/source HTTP/1.1" 200 492342
+06-25-2019 09:25:21 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-25-2019 09:25:21 root:INFO:<div class="itemSearchResultCon" comproid="3268937" isrecom="0" itemid="51193131">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51193131.html" target="_blank">
+<img alt="天泰 猴头菌片 100片/盒" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/50057/50057779/120_120.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3268937">
+<span>
+                        3.5
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51193131.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    天泰 猴头菌片 100片/盒温馨提示：请仔细阅读说明书并按说明使用或在药师指导下购买和使用</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102551176">瑞人堂大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3268937">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3268937_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51193131,1)" pminfo="3268937" productcode="3268937" sellproductid="3268937" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3268937" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51193131,1)" ordersettings="11" pminfo="3268937" productcode="3268937" sellproductid="3268937" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/51193131.html" id="buyButton_3268937" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3268937" productcode="3268937" sellproductid="3268937" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-25-2019 09:25:21 root:INFO:https://p1.maiyaole.com/img/50057/50057779/120_120.jpg
+06-25-2019 09:25:21 root:INFO:http://www.111.com.cn/product/51193131.html
+06-25-2019 09:25:21 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55875/session/851e64de70182b92c5bbae0f3ca4397b/url {"url": "http://www.111.com.cn/product/51193131.html"}
+06-25-2019 09:25:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:55875 "POST /session/851e64de70182b92c5bbae0f3ca4397b/url HTTP/1.1" 200 14
+06-25-2019 09:25:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-25-2019 09:25:23 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55875/session/851e64de70182b92c5bbae0f3ca4397b/source {}
+06-25-2019 09:25:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:55875 "GET /session/851e64de70182b92c5bbae0f3ca4397b/source HTTP/1.1" 200 251226
+06-25-2019 09:25:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-25-2019 09:25:23 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">天泰 猴头菌片 100片/盒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>其他</td>
+<th>规　　格：</th>
+<td>100片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.002kg</td>
+<th>生产厂商:</th>
+<td>福建省三明天泰制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z35020198(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-25-2019 09:25:23 root:INFO:**********************
+06-25-2019 09:25:23 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-25-2019 09:25:23 root:INFO:**********************
+06-25-2019 09:25:23 root:INFO:[<td colspan="3">天泰 猴头菌片 100片/盒</td>, <td>其他</td>, <td>100片</td>, <td>0.002kg</td>, <td>福建省三明天泰制药有限公司</td>, <td>
+                                                                                    国药准字Z35020198(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-25-2019 09:25:23 root:INFO:商品名称：天泰 猴头菌片 100片/盒
+06-25-2019 09:25:23 root:INFO:品　　牌：其他
+06-25-2019 09:25:23 root:INFO:规　　格：100片
+06-25-2019 09:25:23 root:INFO:重　　量：0.002kg
+06-25-2019 09:25:23 root:INFO:生产厂商:福建省三明天泰制药有限公司
+06-25-2019 09:25:23 root:INFO:批准文号：国药准字Z35020198
+06-25-2019 09:25:23 root:INFO:#### 下载路径 #### ./file/image/146312/0.jpg
+06-25-2019 09:25:23 root:INFO:#### 下载URL #### https://p1.maiyaole.com/img/50057/50057779/120_120.jpg
+06-25-2019 09:25:23 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p1.maiyaole.com:443
+06-25-2019 09:25:23 urllib3.connectionpool:DEBUG:https://p1.maiyaole.com:443 "GET /img/50057/50057779/120_120.jpg HTTP/1.1" 200 8808
+06-25-2019 09:25:23 root:INFO:#### 下载路径 #### ./file/image/146312/1.jpg
+06-25-2019 09:25:23 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/50057/50057779/org_org.jpg?a=1548533854
+06-25-2019 09:25:23 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+06-25-2019 09:25:23 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/50057/50057779/org_org.jpg?a=1548533854 HTTP/1.1" 200 28818
+06-25-2019 09:25:23 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:55875/session/851e64de70182b92c5bbae0f3ca4397b/window {}
+06-25-2019 09:25:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:55875 "DELETE /session/851e64de70182b92c5bbae0f3ca4397b/window HTTP/1.1" 200 12
+06-25-2019 09:25:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-25-2019 09:25:23 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:55875/session/851e64de70182b92c5bbae0f3ca4397b {}
+06-25-2019 09:25:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:55875 "DELETE /session/851e64de70182b92c5bbae0f3ca4397b HTTP/1.1" 200 14
+06-25-2019 09:25:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

@@ -1,0 +1,1912 @@
+11-30-2019 10:30:05 root:INFO:[1616, '上海信谊黄河制药有限公司', '国药准字H31020147', 2027514, '叶酸片(处方药)']
+11-30-2019 10:30:05 root:INFO:********************* 关键字：叶酸片+上海信谊
+11-30-2019 10:30:05 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u53f6\u9178\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+11-30-2019 10:30:06 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-30-2019 10:30:06 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:07 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-30-2019 10:30:07 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144024
+11-30-2019 10:30:07 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:07 root:ERROR:#### 找不到关键字 #### 叶酸片+上海信谊
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-30-2019 10:30:07 root:INFO:[1746, '上海信谊天平药业有限公司', '国药准字H20034013', 2044638, '盐酸小檗碱片(OTC)']
+11-30-2019 10:30:07 root:INFO:********************* 关键字：盐酸小檗碱片+上海信谊
+11-30-2019 10:30:07 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u76d0\u9178\u5c0f\u6a97\u78b1\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+11-30-2019 10:30:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-30-2019 10:30:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:13 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-30-2019 10:30:13 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143628
+11-30-2019 10:30:13 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:13 root:ERROR:#### 找不到关键字 #### 盐酸小檗碱片+上海信谊
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-30-2019 10:30:13 root:INFO:[2455, '上海医药(集团)有限公司信谊制药总厂委托上海辛帕斯制药有限公司', '国药准字H31021331', 1110559, '安乃近片(处方药)']
+11-30-2019 10:30:13 root:INFO:********************* 关键字：安乃近片+上海医药
+11-30-2019 10:30:13 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u5b89\u4e43\u8fd1\u7247+\u4e0a\u6d77\u533b\u836f&sort=complex&pricefilter=0"}
+11-30-2019 10:30:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-30-2019 10:30:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:23 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-30-2019 10:30:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 145024
+11-30-2019 10:30:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:23 root:ERROR:#### 找不到关键字 #### 安乃近片+上海医药
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-30-2019 10:30:23 root:INFO:[2468, '上海强生制药有限公司', '国药准字H20010115', 1110376, '酚麻美敏片(OTC)']
+11-30-2019 10:30:23 root:INFO:********************* 关键字：酚麻美敏片+上海强生
+11-30-2019 10:30:23 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u915a\u9ebb\u7f8e\u654f\u7247+\u4e0a\u6d77\u5f3a\u751f&sort=complex&pricefilter=0"}
+11-30-2019 10:30:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-30-2019 10:30:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:34 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-30-2019 10:30:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144606
+11-30-2019 10:30:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:34 root:ERROR:#### 找不到关键字 #### 酚麻美敏片+上海强生
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-30-2019 10:30:34 root:INFO:[2481, '中美上海施贵宝制药有限公司', '国药准字H10970388(H10970387)', 1110121, '氨酚伪麻美芬片(日片)/氨麻美敏片Ⅱ(夜片)(OTC)']
+11-30-2019 10:30:34 root:INFO:********************* 关键字：氨酚伪麻美芬片(日片)/氨麻美敏片Ⅱ(夜片)+中美上海
+11-30-2019 10:30:34 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u6c28\u915a\u4f2a\u9ebb\u7f8e\u82ac\u7247(\u65e5\u7247)/\u6c28\u9ebb\u7f8e\u654f\u7247\u2161(\u591c\u7247)+\u4e2d\u7f8e\u4e0a\u6d77&sort=complex&pricefilter=0"}
+11-30-2019 10:30:38 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-30-2019 10:30:38 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:39 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-30-2019 10:30:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 148312
+11-30-2019 10:30:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:39 root:ERROR:#### 找不到关键字 #### 氨酚伪麻美芬片(日片)/氨麻美敏片Ⅱ(夜片)+中美上海
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-30-2019 10:30:39 root:INFO:[2728, '惠氏制药有限公司', '国药准字H20030054', 1150096, '美敏伪麻溶液(OTC)']
+11-30-2019 10:30:39 root:INFO:********************* 关键字：美敏伪麻溶液+惠氏制药
+11-30-2019 10:30:39 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u7f8e\u654f\u4f2a\u9ebb\u6eb6\u6db2+\u60e0\u6c0f\u5236\u836f&sort=complex&pricefilter=0"}
+11-30-2019 10:30:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-30-2019 10:30:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:41 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-30-2019 10:30:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143037
+11-30-2019 10:30:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:41 root:ERROR:#### 找不到关键字 #### 美敏伪麻溶液+惠氏制药
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-30-2019 10:30:41 root:INFO:[2735, '上海运佳黄浦制药有限公司', '国药准字H31022217', 1170371, '开塞露(含甘油)(OTC)']
+11-30-2019 10:30:41 root:INFO:********************* 关键字：开塞露(含甘油)+上海运佳
+11-30-2019 10:30:41 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u5f00\u585e\u9732(\u542b\u7518\u6cb9)+\u4e0a\u6d77\u8fd0\u4f73&sort=complex&pricefilter=0"}
+11-30-2019 10:30:43 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-30-2019 10:30:43 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:44 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-30-2019 10:30:44 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 142857
+11-30-2019 10:30:44 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:44 root:ERROR:#### 找不到关键字 #### 开塞露(含甘油)+上海运佳
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-30-2019 10:30:44 root:INFO:[2780, '西双版纳版纳药业有限责任公司', '国药准字H53021369', 1110690, '秋水仙碱片(处方药)']
+11-30-2019 10:30:44 root:INFO:********************* 关键字：秋水仙碱片+西双版纳
+11-30-2019 10:30:44 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u79cb\u6c34\u4ed9\u78b1\u7247+\u897f\u53cc\u7248\u7eb3&sort=complex&pricefilter=0"}
+11-30-2019 10:30:46 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-30-2019 10:30:46 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:47 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-30-2019 10:30:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144079
+11-30-2019 10:30:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:47 root:ERROR:#### 找不到关键字 #### 秋水仙碱片+西双版纳
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-30-2019 10:30:47 root:INFO:[2916, '河北赛克药业有限公司', '国药准字H13023971', 2143666, '尼群地平片(处方药)']
+11-30-2019 10:30:47 root:INFO:********************* 关键字：尼群地平片+河北赛克
+11-30-2019 10:30:47 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u5c3c\u7fa4\u5730\u5e73\u7247+\u6cb3\u5317\u8d5b\u514b&sort=complex&pricefilter=0"}
+11-30-2019 10:30:49 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-30-2019 10:30:49 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:50 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-30-2019 10:30:50 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 142365
+11-30-2019 10:30:50 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:50 root:ERROR:#### 找不到关键字 #### 尼群地平片+河北赛克
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-30-2019 10:30:50 root:INFO:[2942, '杭州默沙东制药有限公司', '国药准字H19990366', 1110651, '辛伐他汀片(处方药)']
+11-30-2019 10:30:50 root:INFO:********************* 关键字：辛伐他汀片+杭州默沙
+11-30-2019 10:30:50 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u8f9b\u4f10\u4ed6\u6c40\u7247+\u676d\u5dde\u9ed8\u6c99&sort=complex&pricefilter=0"}
+11-30-2019 10:30:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-30-2019 10:30:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:53 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-30-2019 10:30:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 156039
+11-30-2019 10:30:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:53 root:ERROR:#### 找不到关键字 #### 辛伐他汀片+杭州默沙
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-30-2019 10:30:53 root:INFO:[2942, '杭州默沙东制药有限公司', '国药准字H19990366', 2124024, '辛伐他汀片(处方药)']
+11-30-2019 10:30:53 root:INFO:********************* 关键字：辛伐他汀片+杭州默沙
+11-30-2019 10:30:53 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u8f9b\u4f10\u4ed6\u6c40\u7247+\u676d\u5dde\u9ed8\u6c99&sort=complex&pricefilter=0"}
+11-30-2019 10:30:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-30-2019 10:30:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:54 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-30-2019 10:30:55 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 156039
+11-30-2019 10:30:55 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:55 root:ERROR:#### 找不到关键字 #### 辛伐他汀片+杭州默沙
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-30-2019 10:30:55 root:INFO:[3112, '扬子江药业集团有限公司', '国药准字H19980059', 1115813, '盐酸西替利嗪片(OTC)']
+11-30-2019 10:30:55 root:INFO:********************* 关键字：盐酸西替利嗪片+扬子江药
+11-30-2019 10:30:55 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u76d0\u9178\u897f\u66ff\u5229\u55ea\u7247+\u626c\u5b50\u6c5f\u836f&sort=complex&pricefilter=0"}
+11-30-2019 10:30:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-30-2019 10:30:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:58 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-30-2019 10:30:58 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 146442
+11-30-2019 10:30:58 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-30-2019 10:30:58 root:ERROR:#### 找不到关键字 #### 盐酸西替利嗪片+扬子江药
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-30-2019 10:30:58 root:INFO:[3235, '上海信谊天平药业有限公司', '国药准字H31022719', 1110548, '尼莫地平片(处方药)']
+11-30-2019 10:30:58 root:INFO:********************* 关键字：尼莫地平片+上海信谊
+11-30-2019 10:30:58 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u5c3c\u83ab\u5730\u5e73\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+11-31-2019 10:31:00 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-31-2019 10:31:00 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:01 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-31-2019 10:31:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144430
+11-31-2019 10:31:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:01 root:ERROR:#### 找不到关键字 #### 尼莫地平片+上海信谊
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-31-2019 10:31:01 root:INFO:[3433, '卫材(中国)药业有限公司', '国药准字J20080040', 1110385, '雷贝拉唑钠肠溶片(处方药)']
+11-31-2019 10:31:01 root:INFO:********************* 关键字：雷贝拉唑钠肠溶片+卫材(中
+11-31-2019 10:31:01 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u96f7\u8d1d\u62c9\u5511\u94a0\u80a0\u6eb6\u7247+\u536b\u6750(\u4e2d&sort=complex&pricefilter=0"}
+11-31-2019 10:31:09 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-31-2019 10:31:09 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:10 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-31-2019 10:31:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 145038
+11-31-2019 10:31:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:10 root:ERROR:#### 找不到关键字 #### 雷贝拉唑钠肠溶片+卫材(中
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-31-2019 10:31:10 root:INFO:[3702, '上海青平药业有限公司', '国药准字H19999156', 1110370, '食母生片(OTC)']
+11-31-2019 10:31:10 root:INFO:********************* 关键字：食母生片+上海青平
+11-31-2019 10:31:10 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u98df\u6bcd\u751f\u7247+\u4e0a\u6d77\u9752\u5e73&sort=complex&pricefilter=0"}
+11-31-2019 10:31:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-31-2019 10:31:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:17 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-31-2019 10:31:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 142402
+11-31-2019 10:31:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:17 root:ERROR:#### 找不到关键字 #### 食母生片+上海青平
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-31-2019 10:31:17 root:INFO:[4144, '比利时联合化工集团医药部（瑞士）', 'H20100740', 1111269, '盐酸西替利嗪片(OTC)']
+11-31-2019 10:31:17 root:INFO:********************* 关键字：盐酸西替利嗪片+比利时联
+11-31-2019 10:31:17 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u76d0\u9178\u897f\u66ff\u5229\u55ea\u7247+\u6bd4\u5229\u65f6\u8054&sort=complex&pricefilter=0"}
+11-31-2019 10:31:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-31-2019 10:31:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:24 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-31-2019 10:31:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144927
+11-31-2019 10:31:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:24 root:ERROR:#### 找不到关键字 #### 盐酸西替利嗪片+比利时联
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-31-2019 10:31:24 root:INFO:[4192, 'Ipsen Pharma(Beaufour Ipsen Industrie)', 'H20130307', 2030856, '银杏叶片(处方药)']
+11-31-2019 10:31:24 root:INFO:********************* 关键字：银杏叶片+Ipse
+11-31-2019 10:31:24 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u94f6\u674f\u53f6\u7247+Ipse&sort=complex&pricefilter=0"}
+11-31-2019 10:31:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-31-2019 10:31:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:28 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-31-2019 10:31:28 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 145296
+11-31-2019 10:31:28 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:28 root:ERROR:#### 找不到关键字 #### 银杏叶片+Ipse
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-31-2019 10:31:28 root:INFO:[4709, '上海衡山药业有限公司', '国药准字H31021354', 1160098, '口服补液盐II(OTC)']
+11-31-2019 10:31:28 root:INFO:********************* 关键字：口服补液盐II+上海衡山
+11-31-2019 10:31:28 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u53e3\u670d\u8865\u6db2\u76d0II+\u4e0a\u6d77\u8861\u5c71&sort=complex&pricefilter=0"}
+11-31-2019 10:31:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-31-2019 10:31:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:37 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-31-2019 10:31:37 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 141344
+11-31-2019 10:31:37 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:37 root:ERROR:#### 找不到关键字 #### 口服补液盐II+上海衡山
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-31-2019 10:31:37 root:INFO:[4867, '上海中医大药业股份有限公司', '国药准字Z31020012', 2103290, '复方消痔栓(OTC)']
+11-31-2019 10:31:37 root:INFO:********************* 关键字：复方消痔栓+上海中医
+11-31-2019 10:31:37 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u590d\u65b9\u6d88\u75d4\u6813+\u4e0a\u6d77\u4e2d\u533b&sort=complex&pricefilter=0"}
+11-31-2019 10:31:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-31-2019 10:31:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:40 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-31-2019 10:31:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 145775
+11-31-2019 10:31:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:40 root:ERROR:#### 找不到关键字 #### 复方消痔栓+上海中医
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-31-2019 10:31:40 root:INFO:[4910, '上海运佳黄浦制药有限公司', '国药准字H31022695', 1170018, '呋麻滴鼻液(OTC)']
+11-31-2019 10:31:40 root:INFO:********************* 关键字：呋麻滴鼻液+上海运佳
+11-31-2019 10:31:40 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u544b\u9ebb\u6ef4\u9f3b\u6db2+\u4e0a\u6d77\u8fd0\u4f73&sort=complex&pricefilter=0"}
+11-31-2019 10:31:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-31-2019 10:31:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:42 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-31-2019 10:31:42 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 140661
+11-31-2019 10:31:42 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:42 root:ERROR:#### 找不到关键字 #### 呋麻滴鼻液+上海运佳
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-31-2019 10:31:42 root:INFO:[5065, '德国拜耳（Bayer AG)', 'H20100680', 2103520, '克霉唑阴道片(处方药)']
+11-31-2019 10:31:42 root:INFO:********************* 关键字：克霉唑阴道片+德国拜耳
+11-31-2019 10:31:42 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u514b\u9709\u5511\u9634\u9053\u7247+\u5fb7\u56fd\u62dc\u8033&sort=complex&pricefilter=0"}
+11-31-2019 10:31:49 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-31-2019 10:31:49 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:50 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-31-2019 10:31:50 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 142373
+11-31-2019 10:31:50 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:50 root:ERROR:#### 找不到关键字 #### 克霉唑阴道片+德国拜耳
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-31-2019 10:31:50 root:INFO:[25091, '上海雷允上药业有限公司', '国药准字Z31020515', 1212544, '牛黄解毒片(处方药)']
+11-31-2019 10:31:50 root:INFO:********************* 关键字：牛黄解毒片+上海雷允
+11-31-2019 10:31:50 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u725b\u9ec4\u89e3\u6bd2\u7247+\u4e0a\u6d77\u96f7\u5141&sort=complex&pricefilter=0"}
+11-31-2019 10:31:55 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-31-2019 10:31:55 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:56 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-31-2019 10:31:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144318
+11-31-2019 10:31:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-31-2019 10:31:56 root:ERROR:#### 找不到关键字 #### 牛黄解毒片+上海雷允
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-31-2019 10:31:56 root:INFO:[25249, '上海静安制药有限公司', '国药准字Z31020382', 1260017, '排石颗粒(无蔗糖)(处方药)']
+11-31-2019 10:31:56 root:INFO:********************* 关键字：排石颗粒(无蔗糖)+上海静安
+11-31-2019 10:31:56 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u6392\u77f3\u9897\u7c92(\u65e0\u8517\u7cd6)+\u4e0a\u6d77\u9759\u5b89&sort=complex&pricefilter=0"}
+11-32-2019 10:32:06 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-32-2019 10:32:06 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:07 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-32-2019 10:32:07 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 147046
+11-32-2019 10:32:07 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:07 root:ERROR:#### 找不到关键字 #### 排石颗粒(无蔗糖)+上海静安
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-32-2019 10:32:07 root:INFO:[25380, '上海雷允上药业有限公司', '国药准字Z31020436', 1230227, '补肾强身胶囊(OTC)']
+11-32-2019 10:32:07 root:INFO:********************* 关键字：补肾强身胶囊+上海雷允
+11-32-2019 10:32:07 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u8865\u80be\u5f3a\u8eab\u80f6\u56ca+\u4e0a\u6d77\u96f7\u5141&sort=complex&pricefilter=0"}
+11-32-2019 10:32:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-32-2019 10:32:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:13 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-32-2019 10:32:13 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143841
+11-32-2019 10:32:13 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:13 root:ERROR:#### 找不到关键字 #### 补肾强身胶囊+上海雷允
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-32-2019 10:32:13 root:INFO:[26029, '江西济民可信药业有限公司', '国药准字Z36021968', 1250349, '蛇胆陈皮口服液(OTC)']
+11-32-2019 10:32:13 root:INFO:********************* 关键字：蛇胆陈皮口服液+江西济民
+11-32-2019 10:32:13 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u86c7\u80c6\u9648\u76ae\u53e3\u670d\u6db2+\u6c5f\u897f\u6d4e\u6c11&sort=complex&pricefilter=0"}
+11-32-2019 10:32:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-32-2019 10:32:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:16 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-32-2019 10:32:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143100
+11-32-2019 10:32:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:16 root:ERROR:#### 找不到关键字 #### 蛇胆陈皮口服液+江西济民
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-32-2019 10:32:16 root:INFO:[26299, '江西济民可信药业有限公司', '国药准字Z36021312', 2140181, '小青龙合剂(OTC)']
+11-32-2019 10:32:16 root:INFO:********************* 关键字：小青龙合剂+江西济民
+11-32-2019 10:32:16 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u5c0f\u9752\u9f99\u5408\u5242+\u6c5f\u897f\u6d4e\u6c11&sort=complex&pricefilter=0"}
+11-32-2019 10:32:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-32-2019 10:32:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:25 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-32-2019 10:32:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144302
+11-32-2019 10:32:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:25 root:ERROR:#### 找不到关键字 #### 小青龙合剂+江西济民
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-32-2019 10:32:25 root:INFO:[26674, '雷允上药业有限公司', '国药准字Z32020917', 1211259, '补肾强身片(OTC)']
+11-32-2019 10:32:25 root:INFO:********************* 关键字：补肾强身片+雷允上药
+11-32-2019 10:32:25 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u8865\u80be\u5f3a\u8eab\u7247+\u96f7\u5141\u4e0a\u836f&sort=complex&pricefilter=0"}
+11-32-2019 10:32:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-32-2019 10:32:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:35 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-32-2019 10:32:35 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 141674
+11-32-2019 10:32:35 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:35 root:ERROR:#### 找不到关键字 #### 补肾强身片+雷允上药
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-32-2019 10:32:35 root:INFO:[40029, '上海延安药业有限公司', '国药准字H20056316', 1150135, '喷托维林氯化铵糖浆(OTC)']
+11-32-2019 10:32:35 root:INFO:********************* 关键字：喷托维林氯化铵糖浆+上海延安
+11-32-2019 10:32:35 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u55b7\u6258\u7ef4\u6797\u6c2f\u5316\u94f5\u7cd6\u6d46+\u4e0a\u6d77\u5ef6\u5b89&sort=complex&pricefilter=0"}
+11-32-2019 10:32:42 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-32-2019 10:32:42 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:43 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-32-2019 10:32:43 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143633
+11-32-2019 10:32:43 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:43 root:ERROR:#### 找不到关键字 #### 喷托维林氯化铵糖浆+上海延安
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-32-2019 10:32:43 root:INFO:[108007, '辉瑞制药有限公司', '国药准字J20140130(H20140367)', 1113342, '甲磺酸多沙唑嗪缓释片(处方药)']
+11-32-2019 10:32:43 root:INFO:********************* 关键字：甲磺酸多沙唑嗪缓释片+辉瑞制药
+11-32-2019 10:32:43 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u7532\u78fa\u9178\u591a\u6c99\u5511\u55ea\u7f13\u91ca\u7247+\u8f89\u745e\u5236\u836f&sort=complex&pricefilter=0"}
+11-32-2019 10:32:45 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-32-2019 10:32:45 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:46 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-32-2019 10:32:46 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 140335
+11-32-2019 10:32:46 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:46 root:ERROR:#### 找不到关键字 #### 甲磺酸多沙唑嗪缓释片+辉瑞制药
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-32-2019 10:32:46 root:INFO:[109939, '伊春药业有限公司', '国药准字H20013344', 2012942, '乳酸菌素片(OTC)']
+11-32-2019 10:32:46 root:INFO:********************* 关键字：乳酸菌素片+伊春药业
+11-32-2019 10:32:46 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u4e73\u9178\u83cc\u7d20\u7247+\u4f0a\u6625\u836f\u4e1a&sort=complex&pricefilter=0"}
+11-32-2019 10:32:49 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-32-2019 10:32:49 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:50 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-32-2019 10:32:50 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143620
+11-32-2019 10:32:50 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:50 root:ERROR:#### 找不到关键字 #### 乳酸菌素片+伊春药业
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-32-2019 10:32:50 root:INFO:[125861, '海南海力制药有限公司', '国药准字H20033510', 2140394, '奥美拉唑肠溶胶囊(处方药)']
+11-32-2019 10:32:50 root:INFO:********************* 关键字：奥美拉唑肠溶胶囊+海南海力
+11-32-2019 10:32:50 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u5965\u7f8e\u62c9\u5511\u80a0\u6eb6\u80f6\u56ca+\u6d77\u5357\u6d77\u529b&sort=complex&pricefilter=0"}
+11-32-2019 10:32:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-32-2019 10:32:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:54 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-32-2019 10:32:54 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 145423
+11-32-2019 10:32:54 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:54 root:ERROR:#### 找不到关键字 #### 奥美拉唑肠溶胶囊+海南海力
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-32-2019 10:32:54 root:INFO:[132325, '拜耳医药保健有限公司启东分公司', '国药准字H10940251', 1115230, '氨酚伪麻美芬片Ⅱ/氨麻苯美片(OTC)']
+11-32-2019 10:32:54 root:INFO:********************* 关键字：氨酚伪麻美芬片Ⅱ/氨麻苯美片+拜耳医药
+11-32-2019 10:32:54 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u6c28\u915a\u4f2a\u9ebb\u7f8e\u82ac\u7247\u2161/\u6c28\u9ebb\u82ef\u7f8e\u7247+\u62dc\u8033\u533b\u836f&sort=complex&pricefilter=0"}
+11-32-2019 10:32:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-32-2019 10:32:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:57 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-32-2019 10:32:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143768
+11-32-2019 10:32:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-32-2019 10:32:57 root:ERROR:#### 找不到关键字 #### 氨酚伪麻美芬片Ⅱ/氨麻苯美片+拜耳医药
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-32-2019 10:32:57 root:INFO:[146574, '上海万仕诚药业有限公司', '国药准字Z20013110', 2201222, '香砂养胃丸(OTC)']
+11-32-2019 10:32:57 root:INFO:********************* 关键字：香砂养胃丸+上海万仕
+11-32-2019 10:32:57 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u9999\u7802\u517b\u80c3\u4e38+\u4e0a\u6d77\u4e07\u4ed5&sort=complex&pricefilter=0"}
+11-32-2019 10:32:59 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-32-2019 10:32:59 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:00 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:00 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144233
+11-33-2019 10:33:00 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:00 root:ERROR:#### 找不到关键字 #### 香砂养胃丸+上海万仕
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:00 root:INFO:[146919, '香港澳美制药厂 (BRIGHT FUTURE PHARMACEUTICALS FACTORY HONG KONG)', 'HC20181019', 1170830, '卤米松乳膏(处方药)']
+11-33-2019 10:33:00 root:INFO:********************* 关键字：卤米松乳膏+香港澳美
+11-33-2019 10:33:00 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u5364\u7c73\u677e\u4e73\u818f+\u9999\u6e2f\u6fb3\u7f8e&sort=complex&pricefilter=0"}
+11-33-2019 10:33:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-33-2019 10:33:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:02 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 145737
+11-33-2019 10:33:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:02 root:ERROR:#### 找不到关键字 #### 卤米松乳膏+香港澳美
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:02 root:INFO:[147276, '上海信谊药厂有限公司', '国药准字H31021191', 2101921, '茶苯海明片(OTC)']
+11-33-2019 10:33:02 root:INFO:********************* 关键字：茶苯海明片+上海信谊
+11-33-2019 10:33:02 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u8336\u82ef\u6d77\u660e\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+11-33-2019 10:33:05 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-33-2019 10:33:05 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:06 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:06 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143373
+11-33-2019 10:33:06 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:06 root:ERROR:#### 找不到关键字 #### 茶苯海明片+上海信谊
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:06 root:INFO:[147318, '上海信谊万象药业股份有限公司', '国药准字H10960265', 1111484, '赖诺普利片(处方药)']
+11-33-2019 10:33:06 root:INFO:********************* 关键字：赖诺普利片+上海信谊
+11-33-2019 10:33:06 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u8d56\u8bfa\u666e\u5229\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+11-33-2019 10:33:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-33-2019 10:33:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:11 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 146133
+11-33-2019 10:33:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:12 root:ERROR:#### 找不到关键字 #### 赖诺普利片+上海信谊
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:12 root:INFO:[147367, '南京白敬宇制药有限责任公司', '国药准字H32024515', 2028091, '维生素B2片(OTC)']
+11-33-2019 10:33:12 root:INFO:********************* 关键字：维生素B2片+南京白敬
+11-33-2019 10:33:12 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u7ef4\u751f\u7d20B2\u7247+\u5357\u4eac\u767d\u656c&sort=complex&pricefilter=0"}
+11-33-2019 10:33:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-33-2019 10:33:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:18 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:18 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144235
+11-33-2019 10:33:18 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:18 root:ERROR:#### 找不到关键字 #### 维生素B2片+南京白敬
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:18 root:INFO:[152468, 'Novartis Pharma Schweiz AG (Novartis Farma S.p.A.(I))', 'H20181069', 2031383, '缬沙坦氢氯噻嗪片(处方药)']
+11-33-2019 10:33:18 root:INFO:********************* 关键字：缬沙坦氢氯噻嗪片+Nova
+11-33-2019 10:33:18 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u7f2c\u6c99\u5766\u6c22\u6c2f\u567b\u55ea\u7247+Nova&sort=complex&pricefilter=0"}
+11-33-2019 10:33:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-33-2019 10:33:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:23 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 145843
+11-33-2019 10:33:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:23 root:ERROR:#### 找不到关键字 #### 缬沙坦氢氯噻嗪片+Nova
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:23 root:INFO:[171613, '上海强生制药有限公司', '国药准字H20010115', 1115219, '酚麻美敏片(OTC)']
+11-33-2019 10:33:23 root:INFO:********************* 关键字：酚麻美敏片+上海强生
+11-33-2019 10:33:23 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u915a\u9ebb\u7f8e\u654f\u7247+\u4e0a\u6d77\u5f3a\u751f&sort=complex&pricefilter=0"}
+11-33-2019 10:33:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-33-2019 10:33:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:25 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144606
+11-33-2019 10:33:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:25 root:ERROR:#### 找不到关键字 #### 酚麻美敏片+上海强生
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:25 root:INFO:[189489, '吉林益民堂制药有限公司', '国药准字H22023991', 1115597, '复方贝母氯化铵片(OTC)']
+11-33-2019 10:33:25 root:INFO:********************* 关键字：复方贝母氯化铵片+吉林益民
+11-33-2019 10:33:25 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u590d\u65b9\u8d1d\u6bcd\u6c2f\u5316\u94f5\u7247+\u5409\u6797\u76ca\u6c11&sort=complex&pricefilter=0"}
+11-33-2019 10:33:28 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-33-2019 10:33:28 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:29 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:29 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143700
+11-33-2019 10:33:29 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:29 root:ERROR:#### 找不到关键字 #### 复方贝母氯化铵片+吉林益民
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:29 root:INFO:[227418, 'IPR PHARMACEUTICALS INCORPORATED 阿斯利康分包装', '国药准字J20120006', 1117077, '瑞舒伐他汀钙片(处方药)']
+11-33-2019 10:33:29 root:INFO:********************* 关键字：瑞舒伐他汀钙片+IPR 
+11-33-2019 10:33:29 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u745e\u8212\u4f10\u4ed6\u6c40\u9499\u7247+IPR &sort=complex&pricefilter=0"}
+11-33-2019 10:33:35 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-33-2019 10:33:35 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:36 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 145432
+11-33-2019 10:33:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:36 root:ERROR:#### 找不到关键字 #### 瑞舒伐他汀钙片+IPR 
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:36 root:INFO:[228813, '上海信谊药厂有限公司', '国药准字H20000240', 2004150, '氨麻美敏片(Ⅲ)(OTC)']
+11-33-2019 10:33:36 root:INFO:********************* 关键字：氨麻美敏片(Ⅲ)+上海信谊
+11-33-2019 10:33:36 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u6c28\u9ebb\u7f8e\u654f\u7247(\u2162)+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+11-33-2019 10:33:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-33-2019 10:33:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:41 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143900
+11-33-2019 10:33:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:41 root:ERROR:#### 找不到关键字 #### 氨麻美敏片(Ⅲ)+上海信谊
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:41 root:INFO:[262252, '上海雷允上药业有限公司', '国药准字Z31020331', 2049489, '感冒退热颗粒(OTC)']
+11-33-2019 10:33:41 root:INFO:********************* 关键字：感冒退热颗粒+上海雷允
+11-33-2019 10:33:41 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u611f\u5192\u9000\u70ed\u9897\u7c92+\u4e0a\u6d77\u96f7\u5141&sort=complex&pricefilter=0"}
+11-33-2019 10:33:43 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-33-2019 10:33:43 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:44 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:44 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144609
+11-33-2019 10:33:44 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:44 root:ERROR:#### 找不到关键字 #### 感冒退热颗粒+上海雷允
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:44 root:INFO:[285015, '湖北东信药业有限公司', '国药准字Z20064024', 2143398, '复方消痔栓(OTC)']
+11-33-2019 10:33:44 root:INFO:********************* 关键字：复方消痔栓+湖北东信
+11-33-2019 10:33:44 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u590d\u65b9\u6d88\u75d4\u6813+\u6e56\u5317\u4e1c\u4fe1&sort=complex&pricefilter=0"}
+11-33-2019 10:33:46 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-33-2019 10:33:46 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:47 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143989
+11-33-2019 10:33:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:47 root:ERROR:#### 找不到关键字 #### 复方消痔栓+湖北东信
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:47 root:INFO:[292785, '上海信谊万象药业股份有限公司', '国药准字H19980055', 1114841, '辛伐他汀片(处方药)']
+11-33-2019 10:33:47 root:INFO:********************* 关键字：辛伐他汀片+上海信谊
+11-33-2019 10:33:47 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u8f9b\u4f10\u4ed6\u6c40\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+11-33-2019 10:33:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-33-2019 10:33:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:48 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:48 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 156310
+11-33-2019 10:33:48 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:48 root:ERROR:#### 找不到关键字 #### 辛伐他汀片+上海信谊
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:48 root:INFO:[294425, '江西赣南制药有限公司', '国药准字H36021910', 2063868, '喷托维林氯化铵糖浆(OTC)']
+11-33-2019 10:33:48 root:INFO:********************* 关键字：喷托维林氯化铵糖浆+江西赣南
+11-33-2019 10:33:48 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u55b7\u6258\u7ef4\u6797\u6c2f\u5316\u94f5\u7cd6\u6d46+\u6c5f\u897f\u8d63\u5357&sort=complex&pricefilter=0"}
+11-33-2019 10:33:50 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-33-2019 10:33:50 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:51 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:51 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144660
+11-33-2019 10:33:51 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:51 root:ERROR:#### 找不到关键字 #### 喷托维林氯化铵糖浆+江西赣南
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:51 root:INFO:[308387, '拜耳医药保健有限公司启东分公司', '国药准字H10940250', 2063104, '氨酚伪麻美芬片II/氨麻苯美片(OTC)']
+11-33-2019 10:33:51 root:INFO:********************* 关键字：氨酚伪麻美芬片II/氨麻苯美片+拜耳医药
+11-33-2019 10:33:51 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u6c28\u915a\u4f2a\u9ebb\u7f8e\u82ac\u7247II/\u6c28\u9ebb\u82ef\u7f8e\u7247+\u62dc\u8033\u533b\u836f&sort=complex&pricefilter=0"}
+11-33-2019 10:33:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-33-2019 10:33:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:53 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143708
+11-33-2019 10:33:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:53 root:ERROR:#### 找不到关键字 #### 氨酚伪麻美芬片II/氨麻苯美片+拜耳医药
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:53 root:INFO:[311962, '中美上海施贵宝制药有限公司', '国药准字H10970388', 2092991, '氨酚伪麻美芬片(日片)/氨麻美敏片II(夜片)(OTC)']
+11-33-2019 10:33:53 root:INFO:********************* 关键字：氨酚伪麻美芬片(日片)/氨麻美敏片II(夜片)+中美上海
+11-33-2019 10:33:53 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u6c28\u915a\u4f2a\u9ebb\u7f8e\u82ac\u7247(\u65e5\u7247)/\u6c28\u9ebb\u7f8e\u654f\u7247II(\u591c\u7247)+\u4e2d\u7f8e\u4e0a\u6d77&sort=complex&pricefilter=0"}
+11-33-2019 10:33:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-33-2019 10:33:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:57 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-33-2019 10:33:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 147023
+11-33-2019 10:33:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-33-2019 10:33:57 root:ERROR:#### 找不到关键字 #### 氨酚伪麻美芬片(日片)/氨麻美敏片II(夜片)+中美上海
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-33-2019 10:33:57 root:INFO:[313057, '四川光大制药有限公司', '国药准字Z20020015', 2143347, '上清胶囊(OTC)']
+11-33-2019 10:33:57 root:INFO:********************* 关键字：上清胶囊+四川光大
+11-33-2019 10:33:57 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u4e0a\u6e05\u80f6\u56ca+\u56db\u5ddd\u5149\u5927&sort=complex&pricefilter=0"}
+11-34-2019 10:34:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-34-2019 10:34:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:02 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-34-2019 10:34:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 142665
+11-34-2019 10:34:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:02 root:ERROR:#### 找不到关键字 #### 上清胶囊+四川光大
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-34-2019 10:34:02 root:INFO:[401371, '湖北炎黄本草药业有限公司', '国药准字Z42021994', 2143566, '强力枇杷露(OTC)']
+11-34-2019 10:34:02 root:INFO:********************* 关键字：强力枇杷露+湖北炎黄
+11-34-2019 10:34:02 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u5f3a\u529b\u6787\u6777\u9732+\u6e56\u5317\u708e\u9ec4&sort=complex&pricefilter=0"}
+11-34-2019 10:34:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-34-2019 10:34:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:13 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-34-2019 10:34:13 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 140444
+11-34-2019 10:34:13 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:13 root:ERROR:#### 找不到关键字 #### 强力枇杷露+湖北炎黄
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-34-2019 10:34:13 root:INFO:[402242, '四川光大制药有限公司', '国药准字Z20020078', 2117462, '黄连上清胶囊(OTC)']
+11-34-2019 10:34:13 root:INFO:********************* 关键字：黄连上清胶囊+四川光大
+11-34-2019 10:34:13 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u9ec4\u8fde\u4e0a\u6e05\u80f6\u56ca+\u56db\u5ddd\u5149\u5927&sort=complex&pricefilter=0"}
+11-34-2019 10:34:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-34-2019 10:34:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:31 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-34-2019 10:34:31 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144507
+11-34-2019 10:34:31 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:31 root:ERROR:#### 找不到关键字 #### 黄连上清胶囊+四川光大
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-34-2019 10:34:31 root:INFO:[415924, '中美天津史克制药有限公司', '国药准字H20013063', 1119567, '氨麻美敏片(II)(OTC)']
+11-34-2019 10:34:31 root:INFO:********************* 关键字：氨麻美敏片(II)+中美天津
+11-34-2019 10:34:31 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u6c28\u9ebb\u7f8e\u654f\u7247(II)+\u4e2d\u7f8e\u5929\u6d25&sort=complex&pricefilter=0"}
+11-34-2019 10:34:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-34-2019 10:34:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:37 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-34-2019 10:34:37 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144331
+11-34-2019 10:34:37 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:37 root:ERROR:#### 找不到关键字 #### 氨麻美敏片(II)+中美天津
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-34-2019 10:34:37 root:INFO:[416003, 'Merck Sharp & Dohme B.V. (Frosst Iberica SA)', '国药准字J20180057', 2121762, '依托考昔片(处方药)']
+11-34-2019 10:34:37 root:INFO:********************* 关键字：依托考昔片+Merc
+11-34-2019 10:34:37 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u4f9d\u6258\u8003\u6614\u7247+Merc&sort=complex&pricefilter=0"}
+11-34-2019 10:34:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-34-2019 10:34:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:40 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-34-2019 10:34:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 140932
+11-34-2019 10:34:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:40 root:ERROR:#### 找不到关键字 #### 依托考昔片+Merc
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-34-2019 10:34:40 root:INFO:[420845, '珠海润都制药股份有限公司', '国药准字H20110076', 2163523, '雷贝拉唑钠肠溶胶囊(处方药)']
+11-34-2019 10:34:40 root:INFO:********************* 关键字：雷贝拉唑钠肠溶胶囊+珠海润都
+11-34-2019 10:34:40 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u96f7\u8d1d\u62c9\u5511\u94a0\u80a0\u6eb6\u80f6\u56ca+\u73e0\u6d77\u6da6\u90fd&sort=complex&pricefilter=0"}
+11-34-2019 10:34:42 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-34-2019 10:34:42 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:43 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-34-2019 10:34:43 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 147632
+11-34-2019 10:34:43 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:43 root:ERROR:#### 找不到关键字 #### 雷贝拉唑钠肠溶胶囊+珠海润都
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-34-2019 10:34:43 root:INFO:[421124, '正美药品有限公司', 'HC20130023', 2163381, '克霉唑阴道片(OTC)']
+11-34-2019 10:34:43 root:INFO:********************* 关键字：克霉唑阴道片+正美药品
+11-34-2019 10:34:43 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u514b\u9709\u5511\u9634\u9053\u7247+\u6b63\u7f8e\u836f\u54c1&sort=complex&pricefilter=0"}
+11-34-2019 10:34:49 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-34-2019 10:34:49 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:50 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-34-2019 10:34:50 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144442
+11-34-2019 10:34:50 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:50 root:ERROR:#### 找不到关键字 #### 克霉唑阴道片+正美药品
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-34-2019 10:34:50 root:INFO:[422765, '御室（北京）集团通化御室药业股份有限公司', '国药准字H22025577', 2174476, '复方颠茄氢氧化铝片(OTC)']
+11-34-2019 10:34:50 root:INFO:********************* 关键字：复方颠茄氢氧化铝片+御室（北
+11-34-2019 10:34:50 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u590d\u65b9\u98a0\u8304\u6c22\u6c27\u5316\u94dd\u7247+\u5fa1\u5ba4\uff08\u5317&sort=complex&pricefilter=0"}
+11-34-2019 10:34:51 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-34-2019 10:34:51 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:52 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-34-2019 10:34:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143655
+11-34-2019 10:34:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-34-2019 10:34:52 root:ERROR:#### 找不到关键字 #### 复方颠茄氢氧化铝片+御室（北
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-34-2019 10:34:52 root:INFO:[423344, '浙江诚意药业股份有限公司', '国药准字H20143326', 2170052, '盐酸氨基葡萄糖胶囊(OTC)']
+11-34-2019 10:34:52 root:INFO:********************* 关键字：盐酸氨基葡萄糖胶囊+浙江诚意
+11-34-2019 10:34:52 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u76d0\u9178\u6c28\u57fa\u8461\u8404\u7cd6\u80f6\u56ca+\u6d59\u6c5f\u8bda\u610f&sort=complex&pricefilter=0"}
+11-34-2019 10:34:59 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-34-2019 10:34:59 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:00 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-35-2019 10:35:00 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 132921
+11-35-2019 10:35:00 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:00 root:ERROR:#### 找不到关键字 #### 盐酸氨基葡萄糖胶囊+浙江诚意
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-35-2019 10:35:00 root:INFO:[423692, '湖南九典制药股份有限公司', '国药准字Z20080635', 2180336, '痔疮胶囊(OTC)']
+11-35-2019 10:35:00 root:INFO:********************* 关键字：痔疮胶囊+湖南九典
+11-35-2019 10:35:00 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u75d4\u75ae\u80f6\u56ca+\u6e56\u5357\u4e5d\u5178&sort=complex&pricefilter=0"}
+11-35-2019 10:35:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-35-2019 10:35:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:03 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-35-2019 10:35:03 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 139460
+11-35-2019 10:35:03 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:03 root:ERROR:#### 找不到关键字 #### 痔疮胶囊+湖南九典
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-35-2019 10:35:03 root:INFO:[424231, '太极集团浙江东方制药有限公司', '国药准字Z33020852', 2174695, '急支糖浆(OTC)']
+11-35-2019 10:35:03 root:INFO:********************* 关键字：急支糖浆+太极集团
+11-35-2019 10:35:03 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u6025\u652f\u7cd6\u6d46+\u592a\u6781\u96c6\u56e2&sort=complex&pricefilter=0"}
+11-35-2019 10:35:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-35-2019 10:35:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:13 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-35-2019 10:35:13 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144843
+11-35-2019 10:35:13 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:13 root:ERROR:#### 找不到关键字 #### 急支糖浆+太极集团
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-35-2019 10:35:13 root:INFO:[424304, '上海雷允上药业有限公司', '国药准字Z31020436', 2180502, '补肾强身胶囊(OTC)']
+11-35-2019 10:35:13 root:INFO:********************* 关键字：补肾强身胶囊+上海雷允
+11-35-2019 10:35:13 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u8865\u80be\u5f3a\u8eab\u80f6\u56ca+\u4e0a\u6d77\u96f7\u5141&sort=complex&pricefilter=0"}
+11-35-2019 10:35:14 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-35-2019 10:35:14 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:15 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-35-2019 10:35:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143841
+11-35-2019 10:35:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:15 root:ERROR:#### 找不到关键字 #### 补肾强身胶囊+上海雷允
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-35-2019 10:35:15 root:INFO:[424341, '国药集团广东环球制药有限公司', '国药准字H20133345', 2181493, '硝苯地平缓释片(III)(处方药)']
+11-35-2019 10:35:15 root:INFO:********************* 关键字：硝苯地平缓释片(III)+国药集团
+11-35-2019 10:35:15 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u785d\u82ef\u5730\u5e73\u7f13\u91ca\u7247(III)+\u56fd\u836f\u96c6\u56e2&sort=complex&pricefilter=0"}
+11-35-2019 10:35:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-35-2019 10:35:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:17 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-35-2019 10:35:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144143
+11-35-2019 10:35:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:17 root:ERROR:#### 找不到关键字 #### 硝苯地平缓释片(III)+国药集团
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-35-2019 10:35:17 root:INFO:[425231, '浙江安宝药业有限公司', '国药准字H20020537', 2179898, '酚麻美软胶囊(OTC)']
+11-35-2019 10:35:17 root:INFO:********************* 关键字：酚麻美软胶囊+浙江安宝
+11-35-2019 10:35:17 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u915a\u9ebb\u7f8e\u8f6f\u80f6\u56ca+\u6d59\u6c5f\u5b89\u5b9d&sort=complex&pricefilter=0"}
+11-35-2019 10:35:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-35-2019 10:35:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:23 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-35-2019 10:35:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 141733
+11-35-2019 10:35:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:23 root:ERROR:#### 找不到关键字 #### 酚麻美软胶囊+浙江安宝
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-35-2019 10:35:23 root:INFO:[425271, 'Abbott Laboratories GmbH(Abbott Laboratories GmbH)', 'H20171150', 2185720, '胰酶肠溶胶囊(OTC)']
+11-35-2019 10:35:23 root:INFO:********************* 关键字：胰酶肠溶胶囊+Abbo
+11-35-2019 10:35:23 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u80f0\u9176\u80a0\u6eb6\u80f6\u56ca+Abbo&sort=complex&pricefilter=0"}
+11-35-2019 10:35:26 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-35-2019 10:35:26 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:27 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-35-2019 10:35:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 139807
+11-35-2019 10:35:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:27 root:ERROR:#### 找不到关键字 #### 胰酶肠溶胶囊+Abbo
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-35-2019 10:35:27 root:INFO:[425518, '湖南华纳大药厂股份有限公司', '国药准字H20043250 ', 2198558, '克霉唑阴道片(OTC)']
+11-35-2019 10:35:27 root:INFO:********************* 关键字：克霉唑阴道片+湖南华纳
+11-35-2019 10:35:27 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u514b\u9709\u5511\u9634\u9053\u7247+\u6e56\u5357\u534e\u7eb3&sort=complex&pricefilter=0"}
+11-35-2019 10:35:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-35-2019 10:35:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:28 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-35-2019 10:35:28 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 142373
+11-35-2019 10:35:28 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:28 root:ERROR:#### 找不到关键字 #### 克霉唑阴道片+湖南华纳
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-35-2019 10:35:28 root:INFO:[426548, '昆明中药厂有限公司', '国药准字Z53021292', 2151597, '银翘解毒片(OTC)']
+11-35-2019 10:35:28 root:INFO:********************* 关键字：银翘解毒片+昆明中药
+11-35-2019 10:35:28 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u94f6\u7fd8\u89e3\u6bd2\u7247+\u6606\u660e\u4e2d\u836f&sort=complex&pricefilter=0"}
+11-35-2019 10:35:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-35-2019 10:35:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:31 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-35-2019 10:35:31 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144867
+11-35-2019 10:35:31 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:31 root:ERROR:#### 找不到关键字 #### 银翘解毒片+昆明中药
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-35-2019 10:35:31 root:INFO:[426609, '南京白敬宇制药有限责任公司', '国药准字H32025527', 2160156, '硫糖铝小檗碱片(OTC)']
+11-35-2019 10:35:31 root:INFO:********************* 关键字：硫糖铝小檗碱片+南京白敬
+11-35-2019 10:35:31 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u786b\u7cd6\u94dd\u5c0f\u6a97\u78b1\u7247+\u5357\u4eac\u767d\u656c&sort=complex&pricefilter=0"}
+11-35-2019 10:35:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-35-2019 10:35:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:34 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-35-2019 10:35:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143530
+11-35-2019 10:35:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:34 root:ERROR:#### 找不到关键字 #### 硫糖铝小檗碱片+南京白敬
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-35-2019 10:35:34 root:INFO:[428774, '杭州苏泊尔南洋药业有限公司', '国药准字H20051128', 2214118, '乳酸菌素分散片(OTC)']
+11-35-2019 10:35:34 root:INFO:********************* 关键字：乳酸菌素分散片+杭州苏泊
+11-35-2019 10:35:34 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u4e73\u9178\u83cc\u7d20\u5206\u6563\u7247+\u676d\u5dde\u82cf\u6cca&sort=complex&pricefilter=0"}
+11-35-2019 10:35:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-35-2019 10:35:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:48 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-35-2019 10:35:48 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143067
+11-35-2019 10:35:48 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:48 root:ERROR:#### 找不到关键字 #### 乳酸菌素分散片+杭州苏泊
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-35-2019 10:35:48 root:INFO:[428907, 'EDMOND PHARMA S.R.L.(FAMAR ITALIA S.p.A.)', 'H20150462', 2199584, '厄多司坦胶囊(处方药)']
+11-35-2019 10:35:48 root:INFO:********************* 关键字：厄多司坦胶囊+EDMO
+11-35-2019 10:35:48 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u5384\u591a\u53f8\u5766\u80f6\u56ca+EDMO&sort=complex&pricefilter=0"}
+11-35-2019 10:35:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-35-2019 10:35:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:53 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-35-2019 10:35:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 140575
+11-35-2019 10:35:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-35-2019 10:35:53 root:ERROR:#### 找不到关键字 #### 厄多司坦胶囊+EDMO
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-35-2019 10:35:53 root:INFO:[429287, '北京韩美药品有限公司', '国药准字H20065730', 2157717, '乳果糖口服溶液(OTC)']
+11-35-2019 10:35:53 root:INFO:********************* 关键字：乳果糖口服溶液+北京韩美
+11-35-2019 10:35:53 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u4e73\u679c\u7cd6\u53e3\u670d\u6eb6\u6db2+\u5317\u4eac\u97e9\u7f8e&sort=complex&pricefilter=0"}
+11-36-2019 10:36:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-36-2019 10:36:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:02 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-36-2019 10:36:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143313
+11-36-2019 10:36:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:02 root:ERROR:#### 找不到关键字 #### 乳果糖口服溶液+北京韩美
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-36-2019 10:36:02 root:INFO:[429509, '安徽安科余良卿药业有限公司', '国药准字Z34020907', 2167367, '蛇胆川贝液(OTC)']
+11-36-2019 10:36:02 root:INFO:********************* 关键字：蛇胆川贝液+安徽安科
+11-36-2019 10:36:02 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u86c7\u80c6\u5ddd\u8d1d\u6db2+\u5b89\u5fbd\u5b89\u79d1&sort=complex&pricefilter=0"}
+11-36-2019 10:36:08 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-36-2019 10:36:08 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:09 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-36-2019 10:36:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143621
+11-36-2019 10:36:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:10 root:ERROR:#### 找不到关键字 #### 蛇胆川贝液+安徽安科
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-36-2019 10:36:10 root:INFO:[429715, '天津中新药业集团股份有限公司隆顺榕制药厂', '国药准字Z20063686', 2185136, '养胃片(OTC)']
+11-36-2019 10:36:10 root:INFO:********************* 关键字：养胃片+天津中新
+11-36-2019 10:36:10 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u517b\u80c3\u7247+\u5929\u6d25\u4e2d\u65b0&sort=complex&pricefilter=0"}
+11-36-2019 10:36:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-36-2019 10:36:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:13 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-36-2019 10:36:13 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 145286
+11-36-2019 10:36:13 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:13 root:ERROR:#### 找不到关键字 #### 养胃片+天津中新
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-36-2019 10:36:13 root:INFO:[429811, '喀什昆仑维吾尔药业股份有限公司', '国药准字Z65020019', 2195557, '玫瑰花口服液(OTC)']
+11-36-2019 10:36:13 root:INFO:********************* 关键字：玫瑰花口服液+喀什昆仑
+11-36-2019 10:36:13 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u73ab\u7470\u82b1\u53e3\u670d\u6db2+\u5580\u4ec0\u6606\u4ed1&sort=complex&pricefilter=0"}
+11-36-2019 10:36:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-36-2019 10:36:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:16 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-36-2019 10:36:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144963
+11-36-2019 10:36:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:16 root:ERROR:#### 找不到关键字 #### 玫瑰花口服液+喀什昆仑
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-36-2019 10:36:16 root:INFO:[429811, '喀什昆仑维吾尔药业股份有限公司', '国药准字Z65020019', 2190893, '玫瑰花口服液(OTC)']
+11-36-2019 10:36:16 root:INFO:********************* 关键字：玫瑰花口服液+喀什昆仑
+11-36-2019 10:36:16 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u73ab\u7470\u82b1\u53e3\u670d\u6db2+\u5580\u4ec0\u6606\u4ed1&sort=complex&pricefilter=0"}
+11-36-2019 10:36:18 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-36-2019 10:36:18 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:19 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-36-2019 10:36:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144963
+11-36-2019 10:36:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:19 root:ERROR:#### 找不到关键字 #### 玫瑰花口服液+喀什昆仑
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-36-2019 10:36:19 root:INFO:[431195, '上海万仕诚药业有限公司', '国药准字Z20093486', 2201223, '小柴胡颗粒(OTC)']
+11-36-2019 10:36:19 root:INFO:********************* 关键字：小柴胡颗粒+上海万仕
+11-36-2019 10:36:19 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u5c0f\u67f4\u80e1\u9897\u7c92+\u4e0a\u6d77\u4e07\u4ed5&sort=complex&pricefilter=0"}
+11-36-2019 10:36:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-36-2019 10:36:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:23 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-36-2019 10:36:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143054
+11-36-2019 10:36:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:23 root:ERROR:#### 找不到关键字 #### 小柴胡颗粒+上海万仕
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-36-2019 10:36:23 root:INFO:[431885, '武汉诺安药业有限公司', '国药准字H20173401', 2199451, '糠酸莫米松乳膏(OTC)']
+11-36-2019 10:36:23 root:INFO:********************* 关键字：糠酸莫米松乳膏+武汉诺安
+11-36-2019 10:36:23 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u7ce0\u9178\u83ab\u7c73\u677e\u4e73\u818f+\u6b66\u6c49\u8bfa\u5b89&sort=complex&pricefilter=0"}
+11-36-2019 10:36:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-36-2019 10:36:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:26 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-36-2019 10:36:26 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 145744
+11-36-2019 10:36:26 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:26 root:ERROR:#### 找不到关键字 #### 糠酸莫米松乳膏+武汉诺安
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-36-2019 10:36:26 root:INFO:[432231, '昆明中药厂有限公司', '国药准字Z20027596', 2205742, '止咳胶囊(处方药)']
+11-36-2019 10:36:26 root:INFO:********************* 关键字：止咳胶囊+昆明中药
+11-36-2019 10:36:26 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u6b62\u54b3\u80f6\u56ca+\u6606\u660e\u4e2d\u836f&sort=complex&pricefilter=0"}
+11-36-2019 10:36:29 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-36-2019 10:36:29 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:30 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-36-2019 10:36:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 137045
+11-36-2019 10:36:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:30 root:ERROR:#### 找不到关键字 #### 止咳胶囊+昆明中药
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-36-2019 10:36:30 root:INFO:[432343, '沈阳三生制药有限责任公司', '国药准字S20050048', 1122050, '重组人血小板生成素注射液(处方药)']
+11-36-2019 10:36:30 root:INFO:********************* 关键字：重组人血小板生成素注射液+沈阳三生
+11-36-2019 10:36:30 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u91cd\u7ec4\u4eba\u8840\u5c0f\u677f\u751f\u6210\u7d20\u6ce8\u5c04\u6db2+\u6c88\u9633\u4e09\u751f&sort=complex&pricefilter=0"}
+11-36-2019 10:36:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-36-2019 10:36:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:37 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-36-2019 10:36:37 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 140829
+11-36-2019 10:36:37 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:37 root:ERROR:#### 找不到关键字 #### 重组人血小板生成素注射液+沈阳三生
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-36-2019 10:36:37 root:INFO:[432346, '上海万仕诚药业有限公司', '国药准字Z31020570', 2201220, '良园枇杷叶膏(OTC)']
+11-36-2019 10:36:37 root:INFO:********************* 关键字：良园枇杷叶膏+上海万仕
+11-36-2019 10:36:37 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u826f\u56ed\u6787\u6777\u53f6\u818f+\u4e0a\u6d77\u4e07\u4ed5&sort=complex&pricefilter=0"}
+11-36-2019 10:36:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-36-2019 10:36:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:40 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-36-2019 10:36:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 140764
+11-36-2019 10:36:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:41 root:ERROR:#### 找不到关键字 #### 良园枇杷叶膏+上海万仕
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-36-2019 10:36:41 root:INFO:[432407, '兰州佛慈制药股份有限公司', '国药准字Z62020679', 1240029, '润肠丸(OTC)']
+11-36-2019 10:36:41 root:INFO:********************* 关键字：润肠丸+兰州佛慈
+11-36-2019 10:36:41 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u6da6\u80a0\u4e38+\u5170\u5dde\u4f5b\u6148&sort=complex&pricefilter=0"}
+11-36-2019 10:36:44 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-36-2019 10:36:44 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:45 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-36-2019 10:36:45 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 144609
+11-36-2019 10:36:45 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:45 root:ERROR:#### 找不到关键字 #### 润肠丸+兰州佛慈
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-36-2019 10:36:45 root:INFO:[432462, '云南植物药业有限公司', '国药准字Z53020156 ', 2071642, '三七伤药片(处方药)']
+11-36-2019 10:36:45 root:INFO:********************* 关键字：三七伤药片+云南植物
+11-36-2019 10:36:45 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u4e09\u4e03\u4f24\u836f\u7247+\u4e91\u5357\u690d\u7269&sort=complex&pricefilter=0"}
+11-36-2019 10:36:49 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-36-2019 10:36:49 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:50 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-36-2019 10:36:50 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 145132
+11-36-2019 10:36:50 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:50 root:ERROR:#### 找不到关键字 #### 三七伤药片+云南植物
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-36-2019 10:36:50 root:INFO:[432615, '河南福森药业有限公司', '国药准字Z20163098', 2214836, '清热解毒口服液(OTC)']
+11-36-2019 10:36:50 root:INFO:********************* 关键字：清热解毒口服液+河南福森
+11-36-2019 10:36:50 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u6e05\u70ed\u89e3\u6bd2\u53e3\u670d\u6db2+\u6cb3\u5357\u798f\u68ee&sort=complex&pricefilter=0"}
+11-36-2019 10:36:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-36-2019 10:36:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:53 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-36-2019 10:36:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143887
+11-36-2019 10:36:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:53 root:ERROR:#### 找不到关键字 #### 清热解毒口服液+河南福森
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-36-2019 10:36:53 root:INFO:[432616, '国药集团宜宾制药有限责任公司', '国药准字Z20054979', 2214837, '金莲花口服液(OTC)']
+11-36-2019 10:36:53 root:INFO:********************* 关键字：金莲花口服液+国药集团
+11-36-2019 10:36:53 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u91d1\u83b2\u82b1\u53e3\u670d\u6db2+\u56fd\u836f\u96c6\u56e2&sort=complex&pricefilter=0"}
+11-36-2019 10:36:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-36-2019 10:36:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:57 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-36-2019 10:36:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 143404
+11-36-2019 10:36:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-36-2019 10:36:57 root:ERROR:#### 找不到关键字 #### 金莲花口服液+国药集团
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-36-2019 10:36:57 root:INFO:[432944, '昆明源瑞制药有限公司', '国药准字H20133028', 2193740, '坎地沙坦酯分散片(处方药)']
+11-36-2019 10:36:57 root:INFO:********************* 关键字：坎地沙坦酯分散片+昆明源瑞
+11-36-2019 10:36:57 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u574e\u5730\u6c99\u5766\u916f\u5206\u6563\u7247+\u6606\u660e\u6e90\u745e&sort=complex&pricefilter=0"}
+11-37-2019 10:37:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "POST /session/0e0b98d63b16bd79f414347dd298f5cb/url HTTP/1.1" 200 14
+11-37-2019 10:37:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-37-2019 10:37:03 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/source {}
+11-37-2019 10:37:03 urllib3.connectionpool:DEBUG:http://127.0.0.1:53774 "GET /session/0e0b98d63b16bd79f414347dd298f5cb/source HTTP/1.1" 200 133861
+11-37-2019 10:37:03 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-37-2019 10:37:03 root:ERROR:#### 找不到关键字 #### 坎地沙坦酯分散片+昆明源瑞
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 220, in spider
+    self.parseHtml(data, key)
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 104, in parseHtml
+    soup = BeautifulSoup(data, "lxml")
+  File "/usr/local/lib/python3.7/site-packages/bs4/__init__.py", line 278, in __init__
+    markup, from_encoding, exclude_encodings=exclude_encodings)):
+  File "/usr/local/lib/python3.7/site-packages/bs4/builder/_lxml.py", line 149, in prepare_markup
+    for encoding in detector.encodings:
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 256, in encodings
+    self.markup, self.is_html)
+  File "/usr/local/lib/python3.7/site-packages/bs4/dammit.py", line 314, in find_declared_encoding
+    declared_encoding_match = xml_encoding_re.search(markup, endpos=xml_endpos)
+TypeError: expected string or bytes-like object
+11-37-2019 10:37:03 root:INFO:[433357, '甘肃普安制药股份有限公司', '国药准字H20066029', 2115208, '克霉唑药膜(OTC)']
+11-37-2019 10:37:03 root:INFO:********************* 关键字：克霉唑药膜+甘肃普安
+11-37-2019 10:37:03 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:53774/session/0e0b98d63b16bd79f414347dd298f5cb/url {"url": "http://yao.xywy.com/search/?q=\u514b\u9709\u5511\u836f\u819c+\u7518\u8083\u666e\u5b89&sort=complex&pricefilter=0"}

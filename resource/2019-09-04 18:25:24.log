@@ -1,0 +1,30 @@
+04-25-2019 18:25:24 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55218/session/68473355e61bd8acbd433ec4becd32c1/url {"url": "https://search.jd.com/Search?keyword=\u9a6c\u5e94\u9f99\u9e9d\u9999\u75d4\u75ae\u818f \u9a6c\u5e94\u9f99&enc=utf-8&wq=\u9a6c\u5e94\u9f99\u9e9d\u9999\u75d4\u75ae\u818f \u9a6c\u5e94\u9f99&pvid=e594be63471b41b2a6821999b9c2e65a"}
+04-25-2019 18:25:26 urllib3.connectionpool:DEBUG:http://127.0.0.1:55218 "POST /session/68473355e61bd8acbd433ec4becd32c1/url HTTP/1.1" 200 14
+04-25-2019 18:25:26 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-25-2019 18:25:27 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55218/session/68473355e61bd8acbd433ec4becd32c1/source {}
+04-25-2019 18:25:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:55218 "GET /session/68473355e61bd8acbd433ec4becd32c1/source HTTP/1.1" 200 271752
+04-25-2019 18:25:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-25-2019 18:25:27 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55218/session/68473355e61bd8acbd433ec4becd32c1/url {"url": "http://item.jd.com/10248433010.html"}
+04-25-2019 18:25:29 urllib3.connectionpool:DEBUG:http://127.0.0.1:55218 "POST /session/68473355e61bd8acbd433ec4becd32c1/url HTTP/1.1" 200 14
+04-25-2019 18:25:29 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-25-2019 18:25:30 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55218/session/68473355e61bd8acbd433ec4becd32c1/source {}
+04-25-2019 18:25:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:55218 "GET /session/68473355e61bd8acbd433ec4becd32c1/source HTTP/1.1" 200 234318
+04-25-2019 18:25:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-25-2019 18:25:30 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55218/session/68473355e61bd8acbd433ec4becd32c1/url {"url": "http://item.jd.com/2943750.html"}
+04-25-2019 18:25:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:55218 "POST /session/68473355e61bd8acbd433ec4becd32c1/url HTTP/1.1" 200 14
+04-25-2019 18:25:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-25-2019 18:25:33 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55218/session/68473355e61bd8acbd433ec4becd32c1/source {}
+04-25-2019 18:25:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:55218 "GET /session/68473355e61bd8acbd433ec4becd32c1/source HTTP/1.1" 200 218837
+04-25-2019 18:25:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-25-2019 18:25:34 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55218/session/68473355e61bd8acbd433ec4becd32c1/url {"url": "http://item.jd.com/6066479.html"}
+04-25-2019 18:25:35 urllib3.connectionpool:DEBUG:http://127.0.0.1:55218 "POST /session/68473355e61bd8acbd433ec4becd32c1/url HTTP/1.1" 200 14
+04-25-2019 18:25:35 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-25-2019 18:25:36 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55218/session/68473355e61bd8acbd433ec4becd32c1/source {}
+04-25-2019 18:25:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:55218 "GET /session/68473355e61bd8acbd433ec4becd32c1/source HTTP/1.1" 200 206927
+04-25-2019 18:25:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-25-2019 18:25:36 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:55218/session/68473355e61bd8acbd433ec4becd32c1/window {}
+04-25-2019 18:25:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:55218 "DELETE /session/68473355e61bd8acbd433ec4becd32c1/window HTTP/1.1" 200 12
+04-25-2019 18:25:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-25-2019 18:25:36 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:55218/session/68473355e61bd8acbd433ec4becd32c1 {}
+04-25-2019 18:25:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:55218 "DELETE /session/68473355e61bd8acbd433ec4becd32c1 HTTP/1.1" 200 14
+04-25-2019 18:25:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

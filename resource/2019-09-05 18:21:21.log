@@ -1,0 +1,15 @@
+05-21-2019 18:21:21 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62053/session/91bdcc7aa9560d270afed594c759de90/url {"url": "https://www.111.com.cn"}
+05-21-2019 18:21:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:62053 "POST /session/91bdcc7aa9560d270afed594c759de90/url HTTP/1.1" 200 14
+05-21-2019 18:21:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-21-2019 18:21:23 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62053/session/91bdcc7aa9560d270afed594c759de90/source {}
+05-21-2019 18:21:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:62053 "GET /session/91bdcc7aa9560d270afed594c759de90/source HTTP/1.1" 200 340134
+05-21-2019 18:21:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-21-2019 18:21:23 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62053/session/91bdcc7aa9560d270afed594c759de90/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u94f6\u674f\u53f6\u7247\");\n$(\"#word\").attr(\"value\",\"\u94f6\u674f\u53f6\u7247\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+05-21-2019 18:21:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:62053 "POST /session/91bdcc7aa9560d270afed594c759de90/execute/sync HTTP/1.1" 200 14
+05-21-2019 18:21:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-21-2019 18:21:25 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62053/session/91bdcc7aa9560d270afed594c759de90/source {}
+05-21-2019 18:21:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:62053 "GET /session/91bdcc7aa9560d270afed594c759de90/source HTTP/1.1" 200 678436
+05-21-2019 18:21:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-21-2019 18:21:29 root:INFO:<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/51081509.html" target="_blank">
+<img alt="荣昌制药 银杏叶片 24片 *4件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/item/201805/28/200_20180528100849972.jpg" width="205"/>
+</a>

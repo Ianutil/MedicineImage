@@ -1,0 +1,34 @@
+11-45-2019 10:45:06 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:60533/session/bf6e3658f2d31760f69390b28c0e1d6b/url {"url": "http://yao.xywy.com/search/?q=\u5c3c\u7fa4\u5730\u5e73\u7247+\u6cb3\u5317\u8d5b\u514b&sort=complex&pricefilter=0"}
+11-45-2019 10:45:07 urllib3.connectionpool:DEBUG:http://127.0.0.1:60533 "POST /session/bf6e3658f2d31760f69390b28c0e1d6b/url HTTP/1.1" 200 14
+11-45-2019 10:45:07 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-45-2019 10:45:08 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:60533/session/bf6e3658f2d31760f69390b28c0e1d6b/source {}
+11-45-2019 10:45:08 urllib3.connectionpool:DEBUG:http://127.0.0.1:60533 "GET /session/bf6e3658f2d31760f69390b28c0e1d6b/source HTTP/1.1" 200 142365
+11-45-2019 10:45:08 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-45-2019 10:45:08 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:60533/session/bf6e3658f2d31760f69390b28c0e1d6b/url {"url": "http://yao.xywy.com/goods/18232.htm"}
+11-45-2019 10:45:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:60533 "POST /session/bf6e3658f2d31760f69390b28c0e1d6b/url HTTP/1.1" 200 14
+11-45-2019 10:45:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-45-2019 10:45:11 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:60533/session/bf6e3658f2d31760f69390b28c0e1d6b/source {}
+11-45-2019 10:45:11 urllib3.connectionpool:DEBUG:http://127.0.0.1:60533 "GET /session/bf6e3658f2d31760f69390b28c0e1d6b/source HTTP/1.1" 200 176406
+11-45-2019 10:45:11 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-45-2019 10:45:12 root:INFO:#### 下载路径 #### ./file/image/other/2916/0.jpg
+11-45-2019 10:45:12 root:INFO:#### 下载URL #### http://xs3.op.xywy.com/api.iu1.xywy.com/wksc/20160806/e2e4f0687e27189e177ae168615c871368245.jpg
+11-45-2019 10:45:12 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): xs3.op.xywy.com:80
+11-45-2019 10:45:12 urllib3.connectionpool:DEBUG:http://xs3.op.xywy.com:80 "GET /api.iu1.xywy.com/wksc/20160806/e2e4f0687e27189e177ae168615c871368245.jpg HTTP/1.1" 200 37472
+11-45-2019 10:45:12 root:INFO:#### 下载路径 #### ./file/image/other/2916/1.jpg
+11-45-2019 10:45:12 root:INFO:#### 下载URL #### http://xs3.op.xywy.com/api.iu1.xywy.com/wksc/20160806/e2e4f0687e27189e177ae168615c871368245.jpg
+11-45-2019 10:45:12 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): xs3.op.xywy.com:80
+11-45-2019 10:45:12 urllib3.connectionpool:DEBUG:http://xs3.op.xywy.com:80 "GET /api.iu1.xywy.com/wksc/20160806/e2e4f0687e27189e177ae168615c871368245.jpg HTTP/1.1" 200 37472
+11-45-2019 10:45:12 root:INFO:#### 下载路径 #### ./file/image/other/2916/2.jpg
+11-45-2019 10:45:12 root:INFO:#### 下载URL #### http://xs3.op.xywy.com/api.iu1.xywy.com/wksc/20160807/387791d7a90530ac349b00703d33d03a46811.jpg
+11-45-2019 10:45:12 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): xs3.op.xywy.com:80
+11-45-2019 10:45:12 urllib3.connectionpool:DEBUG:http://xs3.op.xywy.com:80 "GET /api.iu1.xywy.com/wksc/20160807/387791d7a90530ac349b00703d33d03a46811.jpg HTTP/1.1" 200 29429
+11-45-2019 10:45:12 root:INFO:#### 下载路径 #### ./file/image/other/2916/3.jpg
+11-45-2019 10:45:12 root:INFO:#### 下载URL #### http://xs3.op.xywy.com/api.iu1.xywy.com/wksc/20160807/a56c4b43788866fd0e27ff10dd5c889513106.jpg
+11-45-2019 10:45:12 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): xs3.op.xywy.com:80
+11-45-2019 10:45:12 urllib3.connectionpool:DEBUG:http://xs3.op.xywy.com:80 "GET /api.iu1.xywy.com/wksc/20160807/a56c4b43788866fd0e27ff10dd5c889513106.jpg HTTP/1.1" 200 36094
+11-45-2019 10:45:12 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:60533/session/bf6e3658f2d31760f69390b28c0e1d6b/window {}
+11-45-2019 10:45:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:60533 "DELETE /session/bf6e3658f2d31760f69390b28c0e1d6b/window HTTP/1.1" 200 12
+11-45-2019 10:45:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+11-45-2019 10:45:12 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:60533/session/bf6e3658f2d31760f69390b28c0e1d6b {}
+11-45-2019 10:45:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:60533 "DELETE /session/bf6e3658f2d31760f69390b28c0e1d6b HTTP/1.1" 200 14
+11-45-2019 10:45:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

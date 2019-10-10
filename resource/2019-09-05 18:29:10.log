@@ -1,0 +1,129 @@
+05-29-2019 18:29:10 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:64226/session/4d1b2b842dea2cc4a61e1b58dd56892a/url {"url": "https://www.111.com.cn"}
+05-29-2019 18:29:11 urllib3.connectionpool:DEBUG:http://127.0.0.1:64226 "POST /session/4d1b2b842dea2cc4a61e1b58dd56892a/url HTTP/1.1" 200 14
+05-29-2019 18:29:11 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-29-2019 18:29:12 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:64226/session/4d1b2b842dea2cc4a61e1b58dd56892a/source {}
+05-29-2019 18:29:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:64226 "GET /session/4d1b2b842dea2cc4a61e1b58dd56892a/source HTTP/1.1" 200 340132
+05-29-2019 18:29:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-29-2019 18:29:12 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:64226/session/4d1b2b842dea2cc4a61e1b58dd56892a/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u94f6\u674f\u53f6\u7247\");\n$(\"#word\").attr(\"value\",\"\u94f6\u674f\u53f6\u7247\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+05-29-2019 18:29:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:64226 "POST /session/4d1b2b842dea2cc4a61e1b58dd56892a/execute/sync HTTP/1.1" 200 14
+05-29-2019 18:29:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-29-2019 18:29:13 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:64226/session/4d1b2b842dea2cc4a61e1b58dd56892a/source {}
+05-29-2019 18:29:13 urllib3.connectionpool:DEBUG:http://127.0.0.1:64226 "GET /session/4d1b2b842dea2cc4a61e1b58dd56892a/source HTTP/1.1" 200 677369
+05-29-2019 18:29:13 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-29-2019 18:29:14 root:INFO:<div class="itemSearchResultCon none" comproid="1986354" isrecom="0" itemid="50503421">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50503421.html" target="_blank">
+<img alt="龙城 银杏叶片 24片" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/item/201902/20/200_20190220173626839.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1986354">
+<span>
+                        6.9
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50503421.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    龙城 银杏叶片 24片</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1986354">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" druglevel="2" id="askDoctor_1986354" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="1986354" productcode="1986354" sellproductid="1986354" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/50503421.html" id="buyButton_1986354" index="0" inshop="0" merchantid="26" pminfo="1986354" productcode="1986354" productdisabled="true" sellproductid="1986354" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-29-2019 18:29:14 root:INFO:<div class="itemSearchResultCon" comproid="3075821" itemid="51065120" purchasehidestatus="1">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51065120.html" target="_blank">
+<img alt="龙城 银杏叶片 24片 *15件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201903/07/200_20190307160144949.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3075821">
+<span>
+                                  
+                            96.0
+                                  
+                                    <u>¥6.4/件</u>
+</span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51065120.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          龙城 银杏叶片 24片 *15件</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3075821">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" id="askDoctor_1986354" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="1986354" productcode="1986354" sellproductid="1986354" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/51065120.html" id="buyButton_3075821" index="0" inshop="0" merchantid="26" pminfo="3075821" productcode="3075821" sellproductid="3075821" specialtype="13">查看详情</a>
+</div>
+<div class="sheng"><span>省</span>7.5元</div>
+<u class="bg_border"></u>
+<div class="item_kit" id="item_kit">
+<div class="item_kit_clip clearfix">
+<div class="item_kit_n">
+<a class="" comproid="1986354" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">1件</a>
+<a class="k_cur" comproid="3075821" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">15件</a>
+<i style="left: 0px;"></i>
+</div></div>
+</div></div>
+05-29-2019 18:29:14 root:INFO:<div class="itemSearchResultCon none" comproid="1106416" isrecom="0" itemid="50088345">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/50088345.html" target="_blank">
+<img alt="荣昌制药 银杏叶片 24片" data-ywpoint="null_null_null_null_I1121_1" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/50088/50088345/120_120.JPG" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1106416">
+<span>
+                        20.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/50088345.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    荣昌制药 银杏叶片 24片</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_1">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1106416">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_1" druglevel="2" id="askDoctor_1106416" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="1106416" productcode="1106416" sellproductid="1106416" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_1" href="//www.111.com.cn/product/50088345.html" id="buyButton_1106416" index="0" inshop="0" merchantid="26" pminfo="1106416" productcode="1106416" productdisabled="true" sellproductid="1106416" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-29-2019 18:29:14 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:64226/session/4d1b2b842dea2cc4a61e1b58dd56892a/window {}
+05-29-2019 18:29:14 urllib3.connectionpool:DEBUG:http://127.0.0.1:64226 "DELETE /session/4d1b2b842dea2cc4a61e1b58dd56892a/window HTTP/1.1" 200 12
+05-29-2019 18:29:14 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-29-2019 18:29:14 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:64226/session/4d1b2b842dea2cc4a61e1b58dd56892a {}
+05-29-2019 18:29:14 urllib3.connectionpool:DEBUG:http://127.0.0.1:64226 "DELETE /session/4d1b2b842dea2cc4a61e1b58dd56892a HTTP/1.1" 200 14
+05-29-2019 18:29:14 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

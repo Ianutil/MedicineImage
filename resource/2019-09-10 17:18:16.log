@@ -1,0 +1,45 @@
+10-18-2019 17:18:16 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:65319/session/d7cacd7abf923d52875b6080375c742d/url {"url": "http://yao.xywy.com/search/?q=\u53f6\u9178\u7247+\u4e0a\u6d77\u4fe1\u8c0a&sort=complex&pricefilter=0"}
+10-18-2019 17:18:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:65319 "POST /session/d7cacd7abf923d52875b6080375c742d/url HTTP/1.1" 200 14
+10-18-2019 17:18:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-18-2019 17:18:18 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:65319/session/d7cacd7abf923d52875b6080375c742d/source {}
+10-18-2019 17:18:18 urllib3.connectionpool:DEBUG:http://127.0.0.1:65319 "GET /session/d7cacd7abf923d52875b6080375c742d/source HTTP/1.1" 200 144024
+10-18-2019 17:18:18 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-18-2019 17:18:18 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:65319/session/d7cacd7abf923d52875b6080375c742d/url {"url": "http://yao.xywy.com/goods/17680.htm"}
+10-18-2019 17:18:20 urllib3.connectionpool:DEBUG:http://127.0.0.1:65319 "POST /session/d7cacd7abf923d52875b6080375c742d/url HTTP/1.1" 200 14
+10-18-2019 17:18:20 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-18-2019 17:18:21 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:65319/session/d7cacd7abf923d52875b6080375c742d/source {}
+10-18-2019 17:18:21 urllib3.connectionpool:DEBUG:http://127.0.0.1:65319 "GET /session/d7cacd7abf923d52875b6080375c742d/source HTTP/1.1" 200 174446
+10-18-2019 17:18:21 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-18-2019 17:18:21 root:ERROR:#### 解析异常 #### 叶酸片(处方药)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 169, in parseDetailHtml
+    name = text[8]+text[3]+text[5]+text[7]+text[2]+text[0]+text[1]+text[4]+text[7]
+IndexError: list index out of range
+10-18-2019 17:18:21 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:65319/session/d7cacd7abf923d52875b6080375c742d/url {"url": "http://yao.xywy.com/goods/122399.htm"}
+10-18-2019 17:18:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:65319 "POST /session/d7cacd7abf923d52875b6080375c742d/url HTTP/1.1" 200 14
+10-18-2019 17:18:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-18-2019 17:18:24 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:65319/session/d7cacd7abf923d52875b6080375c742d/source {}
+10-18-2019 17:18:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:65319 "GET /session/d7cacd7abf923d52875b6080375c742d/source HTTP/1.1" 200 172073
+10-18-2019 17:18:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-18-2019 17:18:24 root:ERROR:#### 解析异常 #### 叶酸片(处方药)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 169, in parseDetailHtml
+    name = text[8]+text[3]+text[5]+text[7]+text[2]+text[0]+text[1]+text[4]+text[7]
+IndexError: list index out of range
+10-18-2019 17:18:24 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:65319/session/d7cacd7abf923d52875b6080375c742d/url {"url": "http://yao.xywy.com/goods/16384.htm"}
+10-18-2019 17:18:26 urllib3.connectionpool:DEBUG:http://127.0.0.1:65319 "POST /session/d7cacd7abf923d52875b6080375c742d/url HTTP/1.1" 200 14
+10-18-2019 17:18:26 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-18-2019 17:18:27 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:65319/session/d7cacd7abf923d52875b6080375c742d/source {}
+10-18-2019 17:18:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:65319 "GET /session/d7cacd7abf923d52875b6080375c742d/source HTTP/1.1" 200 180881
+10-18-2019 17:18:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-18-2019 17:18:27 root:ERROR:#### 解析异常 #### 叶酸片(处方药)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpider_YAOPIN.py", line 169, in parseDetailHtml
+    name = text[8]+text[3]+text[5]+text[7]+text[2]+text[0]+text[1]+text[4]+text[7]
+IndexError: list index out of range
+10-18-2019 17:18:27 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:65319/session/d7cacd7abf923d52875b6080375c742d/window {}
+10-18-2019 17:18:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:65319 "DELETE /session/d7cacd7abf923d52875b6080375c742d/window HTTP/1.1" 200 12
+10-18-2019 17:18:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+10-18-2019 17:18:27 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:65319/session/d7cacd7abf923d52875b6080375c742d {}
+10-18-2019 17:18:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:65319 "DELETE /session/d7cacd7abf923d52875b6080375c742d HTTP/1.1" 200 14
+10-18-2019 17:18:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

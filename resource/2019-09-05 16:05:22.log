@@ -1,0 +1,24 @@
+05-05-2019 16:05:22 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55833/session/fab89c855b43ffe414f46d5c307d5328/url {"url": "https://www.111.com.cn"}
+05-05-2019 16:05:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:55833 "POST /session/fab89c855b43ffe414f46d5c307d5328/url HTTP/1.1" 200 14
+05-05-2019 16:05:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-05-2019 16:05:25 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55833/session/fab89c855b43ffe414f46d5c307d5328/source {}
+05-05-2019 16:05:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:55833 "GET /session/fab89c855b43ffe414f46d5c307d5328/source HTTP/1.1" 200 340133
+05-05-2019 16:05:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-05-2019 16:05:25 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55833/session/fab89c855b43ffe414f46d5c307d5328/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u91d1\u83b2\u82b1\u53e3\u670d\u6db2\");\n$(\"#word\").attr(\"value\",\"\u91d1\u83b2\u82b1\u53e3\u670d\u6db2\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+05-05-2019 16:05:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:55833 "POST /session/fab89c855b43ffe414f46d5c307d5328/execute/sync HTTP/1.1" 200 14
+05-05-2019 16:05:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-05-2019 16:05:26 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55833/session/fab89c855b43ffe414f46d5c307d5328/source {}
+05-05-2019 16:05:26 urllib3.connectionpool:DEBUG:http://127.0.0.1:55833 "GET /session/fab89c855b43ffe414f46d5c307d5328/source HTTP/1.1" 200 224883
+05-05-2019 16:05:26 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-05-2019 16:05:26 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55833/session/fab89c855b43ffe414f46d5c307d5328/url {"url": "http://www.111.com.cn/product/51271832.html"}
+05-05-2019 16:05:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:55833 "POST /session/fab89c855b43ffe414f46d5c307d5328/url HTTP/1.1" 200 14
+05-05-2019 16:05:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-05-2019 16:05:28 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55833/session/fab89c855b43ffe414f46d5c307d5328/source {}
+05-05-2019 16:05:28 urllib3.connectionpool:DEBUG:http://127.0.0.1:55833 "GET /session/fab89c855b43ffe414f46d5c307d5328/source HTTP/1.1" 200 245796
+05-05-2019 16:05:28 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-05-2019 16:05:28 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:55833/session/fab89c855b43ffe414f46d5c307d5328/window {}
+05-05-2019 16:05:28 urllib3.connectionpool:DEBUG:http://127.0.0.1:55833 "DELETE /session/fab89c855b43ffe414f46d5c307d5328/window HTTP/1.1" 200 12
+05-05-2019 16:05:28 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-05-2019 16:05:28 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:55833/session/fab89c855b43ffe414f46d5c307d5328 {}
+05-05-2019 16:05:28 urllib3.connectionpool:DEBUG:http://127.0.0.1:55833 "DELETE /session/fab89c855b43ffe414f46d5c307d5328 HTTP/1.1" 200 14
+05-05-2019 16:05:28 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

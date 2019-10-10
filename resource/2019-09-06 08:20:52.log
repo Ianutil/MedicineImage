@@ -1,0 +1,220 @@
+06-20-2019 08:20:52 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:52571/session/cff63b16add281a8728994cd02ceb4d5/url {"url": "https://www.111.com.cn"}
+06-20-2019 08:20:54 urllib3.connectionpool:DEBUG:http://127.0.0.1:52571 "POST /session/cff63b16add281a8728994cd02ceb4d5/url HTTP/1.1" 200 14
+06-20-2019 08:20:54 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-20-2019 08:20:55 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:52571/session/cff63b16add281a8728994cd02ceb4d5/source {}
+06-20-2019 08:20:55 urllib3.connectionpool:DEBUG:http://127.0.0.1:52571 "GET /session/cff63b16add281a8728994cd02ceb4d5/source HTTP/1.1" 200 340134
+06-20-2019 08:20:55 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-20-2019 08:20:55 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:52571/session/cff63b16add281a8728994cd02ceb4d5/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u786b\u9178\u6c28\u57fa\u8461\u8404\u7cd6\u80f6\u56ca\");\n$(\"#word\").attr(\"value\",\"\u786b\u9178\u6c28\u57fa\u8461\u8404\u7cd6\u80f6\u56ca\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-20-2019 08:20:55 urllib3.connectionpool:DEBUG:http://127.0.0.1:52571 "POST /session/cff63b16add281a8728994cd02ceb4d5/execute/sync HTTP/1.1" 200 14
+06-20-2019 08:20:55 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-20-2019 08:20:56 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:52571/session/cff63b16add281a8728994cd02ceb4d5/source {}
+06-20-2019 08:20:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:52571 "GET /session/cff63b16add281a8728994cd02ceb4d5/source HTTP/1.1" 200 660473
+06-20-2019 08:20:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-20-2019 08:20:56 root:INFO:<div class="itemSearchResultCon" comproid="923409" isrecom="0" itemid="50023120">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50023120.html" target="_blank">
+<img alt="谷力 硫酸氨基葡萄糖胶囊 0.314g*24粒" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/50023/50023120/120_120.jpg?a=1894692131" width="205"/>
+</a>
+<p class="price" id="promotionInfo_923409">
+<span>
+                        25.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50023120.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    谷力 硫酸氨基葡萄糖胶囊 0.314g*24粒缓解骨关节炎的疼痛症状，改善关节功能【8盒/月，6周1个疗程约11盒】</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_923409">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" druglevel="2" id="askDoctor_923409" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121542010',1);" pminfo="923409" productcode="923409" sellproductid="923409" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/50023120.html" id="buyButton_923409" index="0" inshop="0" merchantid="26" pminfo="923409" productcode="923409" productdisabled="true" sellproductid="923409" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-20-2019 08:20:56 root:INFO:https://p1.maiyaole.com/img/50023/50023120/120_120.jpg?a=1894692131
+06-20-2019 08:20:56 root:INFO:http://www.111.com.cn/product/50023120.html
+06-20-2019 08:20:56 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:52571/session/cff63b16add281a8728994cd02ceb4d5/url {"url": "http://www.111.com.cn/product/50023120.html"}
+06-20-2019 08:20:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:52571 "POST /session/cff63b16add281a8728994cd02ceb4d5/url HTTP/1.1" 200 14
+06-20-2019 08:20:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-20-2019 08:20:58 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:52571/session/cff63b16add281a8728994cd02ceb4d5/source {}
+06-20-2019 08:20:58 urllib3.connectionpool:DEBUG:http://127.0.0.1:52571 "GET /session/cff63b16add281a8728994cd02ceb4d5/source HTTP/1.1" 200 248068
+06-20-2019 08:20:58 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-20-2019 08:20:58 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">谷力 硫酸氨基葡萄糖胶囊 0.314g*24粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>谷力</td>
+<th>规　　格：</th>
+<td>24粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.04kg</td>
+<th>生产厂商:</th>
+<td>信东生技股份有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    医药产品注册证HC20120036 HC20120037 HC20120038(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-20-2019 08:20:58 root:INFO:**********************
+06-20-2019 08:20:58 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-20-2019 08:20:58 root:INFO:**********************
+06-20-2019 08:20:58 root:INFO:[<td colspan="3">谷力 硫酸氨基葡萄糖胶囊 0.314g*24粒</td>, <td>谷力</td>, <td>24粒</td>, <td>0.04kg</td>, <td>信东生技股份有限公司</td>, <td>
+                                                                                    医药产品注册证HC20120036 HC20120037 HC20120038(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-20-2019 08:20:58 root:INFO:商品名称：谷力 硫酸氨基葡萄糖胶囊 0.314g*24粒
+06-20-2019 08:20:58 root:INFO:品　　牌：谷力
+06-20-2019 08:20:58 root:INFO:规　　格：24粒
+06-20-2019 08:20:58 root:INFO:重　　量：0.04kg
+06-20-2019 08:20:58 root:INFO:生产厂商:信东生技股份有限公司
+06-20-2019 08:20:58 root:INFO:批准文号：医药产品注册证HC20120036 HC20120037 HC20120038
+06-20-2019 08:20:58 root:INFO:产品类型：处方药
+06-20-2019 08:20:58 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-20-2019 08:20:58 root:INFO:<div class="itemSearchResultCon" comproid="799348" isrecom="0" itemid="7243220">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/7243220.html" target="_blank">
+<img alt="维固力(Viartril-S) 硫酸氨基葡萄糖胶囊 0.25g*20粒" data-ywpoint="null_null_null_null_I1121_1" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/item/201709/14/200_20170914141532861.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_799348">
+<span>
+                        46.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/7243220.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    维固力(Viartril-S) 硫酸氨基葡萄糖胶囊 0.25g*20粒适用于原发性及继发性骨关节炎。</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_1">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_799348">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_1" druglevel="2" id="askDoctor_799348" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121542010',1);" pminfo="799348" productcode="799348" sellproductid="799348" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_1" href="//www.111.com.cn/product/7243220.html" id="buyButton_799348" index="0" inshop="0" merchantid="26" pminfo="799348" productcode="799348" productdisabled="true" sellproductid="799348" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-20-2019 08:20:58 root:INFO:https://p4.maiyaole.com/img/item/201709/14/200_20170914141532861.jpg
+06-20-2019 08:20:58 root:INFO:http://www.111.com.cn/product/7243220.html
+06-20-2019 08:20:58 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:52571/session/cff63b16add281a8728994cd02ceb4d5/url {"url": "http://www.111.com.cn/product/7243220.html"}
+06-20-2019 08:20:59 urllib3.connectionpool:DEBUG:http://127.0.0.1:52571 "POST /session/cff63b16add281a8728994cd02ceb4d5/url HTTP/1.1" 200 14
+06-20-2019 08:20:59 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 08:21:00 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:52571/session/cff63b16add281a8728994cd02ceb4d5/source {}
+06-21-2019 08:21:00 urllib3.connectionpool:DEBUG:http://127.0.0.1:52571 "GET /session/cff63b16add281a8728994cd02ceb4d5/source HTTP/1.1" 200 248789
+06-21-2019 08:21:00 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 08:21:00 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">维固力(Viartril-S) 硫酸氨基葡萄糖胶囊 0.25g*20粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>维固力</td>
+<th>规　　格：</th>
+<td>0.25g*20粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.024kg</td>
+<th>生产厂商:</th>
+<td>Rottapharm Ltd.</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    进口药品注册证号H20170108 H20090797(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-21-2019 08:21:00 root:INFO:**********************
+06-21-2019 08:21:00 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-21-2019 08:21:00 root:INFO:**********************
+06-21-2019 08:21:00 root:INFO:[<td colspan="3">维固力(Viartril-S) 硫酸氨基葡萄糖胶囊 0.25g*20粒</td>, <td>维固力</td>, <td>0.25g*20粒</td>, <td>0.024kg</td>, <td>Rottapharm Ltd.</td>, <td>
+                                                                                    进口药品注册证号H20170108 H20090797(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-21-2019 08:21:00 root:INFO:商品名称：维固力(Viartril-S) 硫酸氨基葡萄糖胶囊 0.25g*20粒
+06-21-2019 08:21:00 root:INFO:品　　牌：维固力
+06-21-2019 08:21:00 root:INFO:规　　格：0.25g*20粒
+06-21-2019 08:21:00 root:INFO:重　　量：0.024kg
+06-21-2019 08:21:00 root:INFO:生产厂商:Rottapharm Ltd.
+06-21-2019 08:21:00 root:INFO:批准文号：进口药品注册证号H20170108 H20090797
+06-21-2019 08:21:00 root:INFO:#### 下载路径 #### ./file/image/4059/0.jpg
+06-21-2019 08:21:00 root:INFO:#### 下载URL #### https://p4.maiyaole.com/img/item/201709/14/200_20170914141532861.jpg
+06-21-2019 08:21:00 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p4.maiyaole.com:443
+06-21-2019 08:21:00 urllib3.connectionpool:DEBUG:https://p4.maiyaole.com:443 "GET /img/item/201709/14/200_20170914141532861.jpg HTTP/1.1" 200 27310
+06-21-2019 08:21:00 root:INFO:#### 下载路径 #### ./file/image/4059/1.jpg
+06-21-2019 08:21:00 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/item/201709/14/org_20170914141532861.jpg
+06-21-2019 08:21:00 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+06-21-2019 08:21:00 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/item/201709/14/org_20170914141532861.jpg HTTP/1.1" 200 230192
+06-21-2019 08:21:00 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:52571/session/cff63b16add281a8728994cd02ceb4d5/window {}
+06-21-2019 08:21:00 urllib3.connectionpool:DEBUG:http://127.0.0.1:52571 "DELETE /session/cff63b16add281a8728994cd02ceb4d5/window HTTP/1.1" 200 12
+06-21-2019 08:21:00 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-21-2019 08:21:00 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:52571/session/cff63b16add281a8728994cd02ceb4d5 {}
+06-21-2019 08:21:00 urllib3.connectionpool:DEBUG:http://127.0.0.1:52571 "DELETE /session/cff63b16add281a8728994cd02ceb4d5 HTTP/1.1" 200 14
+06-21-2019 08:21:00 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

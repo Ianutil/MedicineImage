@@ -1,0 +1,710 @@
+06-31-2019 08:31:29 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/url {"url": "https://www.111.com.cn"}
+06-31-2019 08:31:31 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "POST /session/115db5f2add50f8edb521810580a881b/url HTTP/1.1" 200 14
+06-31-2019 08:31:31 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:32 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/source {}
+06-31-2019 08:31:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "GET /session/115db5f2add50f8edb521810580a881b/source HTTP/1.1" 200 339731
+06-31-2019 08:31:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:32 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u5355\u785d\u9178\u5f02\u5c71\u68a8\u916f\u7f13\u91ca\u80f6\u56ca \u8bb8\u74e6\u5179\");\n$(\"#word\").attr(\"value\",\"\u5355\u785d\u9178\u5f02\u5c71\u68a8\u916f\u7f13\u91ca\u80f6\u56ca \u8bb8\u74e6\u5179\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-31-2019 08:31:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "POST /session/115db5f2add50f8edb521810580a881b/execute/sync HTTP/1.1" 200 14
+06-31-2019 08:31:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:33 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/source {}
+06-31-2019 08:31:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "GET /session/115db5f2add50f8edb521810580a881b/source HTTP/1.1" 200 260387
+06-31-2019 08:31:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:33 root:INFO:<div class="itemSearchResultCon" comproid="779113" isrecom="0" itemid="974220">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/974220.html" target="_blank">
+<img alt="异乐定 单硝酸异山梨酯缓释胶囊（Ⅳ） 50mg*20粒" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/974/974220/120_120.JPG?a=64096778" width="205"/>
+</a>
+<p class="price" id="promotionInfo_779113">
+<span>
+                        72.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/974220.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    异乐定 单硝酸异山梨酯缓释胶囊（Ⅳ） 50mg*20粒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_779113">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" druglevel="4" id="askDoctor_779113" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="779113" productcode="779113" sellproductid="779113" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/974220.html" id="buyButton_779113" index="0" inshop="0" merchantid="26" pminfo="779113" productcode="779113" productdisabled="true" sellproductid="779113" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-31-2019 08:31:33 root:INFO:https://p2.maiyaole.com/img/974/974220/120_120.JPG?a=64096778
+06-31-2019 08:31:33 root:INFO:http://www.111.com.cn/product/974220.html
+06-31-2019 08:31:33 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/url {"url": "http://www.111.com.cn/product/974220.html"}
+06-31-2019 08:31:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "POST /session/115db5f2add50f8edb521810580a881b/url HTTP/1.1" 200 14
+06-31-2019 08:31:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:35 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/source {}
+06-31-2019 08:31:35 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "GET /session/115db5f2add50f8edb521810580a881b/source HTTP/1.1" 200 249607
+06-31-2019 08:31:35 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:35 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">异乐定 单硝酸异山梨酯缓释胶囊（Ⅳ） 50mg*20粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>异乐定</td>
+<th>规　　格：</th>
+<td>50mg*20粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.018kg</td>
+<th>生产厂商:</th>
+<td>优时比（珠海）制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-31-2019 08:31:35 root:INFO:**********************
+06-31-2019 08:31:35 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-31-2019 08:31:35 root:INFO:**********************
+06-31-2019 08:31:35 root:INFO:[<td colspan="3">异乐定 单硝酸异山梨酯缓释胶囊（Ⅳ） 50mg*20粒</td>, <td>异乐定</td>, <td>50mg*20粒</td>, <td>0.018kg</td>, <td>优时比（珠海）制药有限公司</td>, <td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-31-2019 08:31:35 root:INFO:商品名称：异乐定 单硝酸异山梨酯缓释胶囊（Ⅳ） 50mg*20粒
+06-31-2019 08:31:35 root:INFO:品　　牌：异乐定
+06-31-2019 08:31:35 root:INFO:规　　格：50mg*20粒
+06-31-2019 08:31:35 root:INFO:重　　量：0.018kg
+06-31-2019 08:31:35 root:INFO:生产厂商:优时比（珠海）制药有限公司
+06-31-2019 08:31:35 root:INFO:批准文号：国药准字H20031224
+06-31-2019 08:31:35 root:INFO:产品类型：处方药
+06-31-2019 08:31:35 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-31-2019 08:31:35 root:INFO:<div class="itemSearchResultCon" comproid="3505522" isrecom="0" itemid="51321286">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/51321286.html" target="_blank">
+<img alt="许瓦兹 异乐定(单硝酸异山梨酯缓释胶囊) 50毫克*10粒" data-ywpoint="null_null_null_null_I1121_1" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/201907/12/200_20190712154724535.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3505522">
+<span>
+                        39.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/51321286.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    许瓦兹 异乐定(单硝酸异山梨酯缓释胶囊) 50毫克*10粒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_1">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102557589">万民药房</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3505522">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_1" id="submitRequest_3505522_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51321286,1)" pminfo="3505522" productcode="3505522" sellproductid="3505522" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_1" id="submitRequest_3505522" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51321286,1)" ordersettings="11" pminfo="3505522" productcode="3505522" sellproductid="3505522" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_1" href="//www.111.com.cn/product/51321286.html" id="buyButton_3505522" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3505522" productcode="3505522" sellproductid="3505522" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-31-2019 08:31:35 root:INFO:https://p4.maiyaole.com/img/201907/12/200_20190712154724535.jpg
+06-31-2019 08:31:35 root:INFO:http://www.111.com.cn/product/51321286.html
+06-31-2019 08:31:35 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/url {"url": "http://www.111.com.cn/product/51321286.html"}
+06-31-2019 08:31:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "POST /session/115db5f2add50f8edb521810580a881b/url HTTP/1.1" 200 14
+06-31-2019 08:31:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:37 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/source {}
+06-31-2019 08:31:37 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "GET /session/115db5f2add50f8edb521810580a881b/source HTTP/1.1" 200 239664
+06-31-2019 08:31:37 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:37 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">许瓦兹 异乐定(单硝酸异山梨酯缓释胶囊) 50毫克*10粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>许瓦兹</td>
+<th>规　　格：</th>
+<td>50毫克*10粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.003kg</td>
+<th>生产厂商:</th>
+<td>珠海许瓦兹制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-31-2019 08:31:37 root:INFO:**********************
+06-31-2019 08:31:37 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-31-2019 08:31:37 root:INFO:**********************
+06-31-2019 08:31:37 root:INFO:[<td colspan="3">许瓦兹 异乐定(单硝酸异山梨酯缓释胶囊) 50毫克*10粒</td>, <td>许瓦兹</td>, <td>50毫克*10粒</td>, <td>0.003kg</td>, <td>珠海许瓦兹制药有限公司</td>, <td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-31-2019 08:31:37 root:INFO:商品名称：许瓦兹 异乐定(单硝酸异山梨酯缓释胶囊) 50毫克*10粒
+06-31-2019 08:31:37 root:INFO:品　　牌：许瓦兹
+06-31-2019 08:31:37 root:INFO:规　　格：50毫克*10粒
+06-31-2019 08:31:37 root:INFO:重　　量：0.003kg
+06-31-2019 08:31:37 root:INFO:生产厂商:珠海许瓦兹制药有限公司
+06-31-2019 08:31:37 root:INFO:批准文号：国药准字H20031224
+06-31-2019 08:31:37 root:INFO:产品类型：处方药
+06-31-2019 08:31:37 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-31-2019 08:31:37 root:INFO:<div class="itemSearchResultCon" comproid="2014683" isrecom="0" itemid="50521244">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/50521244.html" target="_blank">
+<img alt="异乐定 单硝酸异山梨酯缓释胶囊(Ⅳ) 50mg*20粒" data-ywpoint="null_null_null_null_I1121_2" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/974/974220/120_120.JPG?a=64096778" width="205"/>
+</a>
+<p class="price" id="promotionInfo_2014683">
+<span>
+                        66.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/50521244.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    异乐定 单硝酸异山梨酯缓释胶囊(Ⅳ) 50mg*20粒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_2">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102513207">康弘大药房</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2014683">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_2" id="submitRequest_2014683_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50521244,1)" pminfo="2014683" productcode="2014683" sellproductid="2014683" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_2" id="submitRequest_2014683" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50521244,1)" ordersettings="11" pminfo="2014683" productcode="2014683" sellproductid="2014683" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_2" href="//www.111.com.cn/product/50521244.html" id="buyButton_2014683" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="2014683" productcode="2014683" sellproductid="2014683" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-31-2019 08:31:37 root:INFO:https://p3.maiyaole.com/img/974/974220/120_120.JPG?a=64096778
+06-31-2019 08:31:37 root:INFO:http://www.111.com.cn/product/50521244.html
+06-31-2019 08:31:37 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/url {"url": "http://www.111.com.cn/product/50521244.html"}
+06-31-2019 08:31:38 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "POST /session/115db5f2add50f8edb521810580a881b/url HTTP/1.1" 200 14
+06-31-2019 08:31:38 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:39 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/source {}
+06-31-2019 08:31:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "GET /session/115db5f2add50f8edb521810580a881b/source HTTP/1.1" 200 247916
+06-31-2019 08:31:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:39 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">异乐定 单硝酸异山梨酯缓释胶囊(Ⅳ) 50mg*20粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>异乐定</td>
+<th>规　　格：</th>
+<td>50mg*20粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.018kg</td>
+<th>生产厂商:</th>
+<td>优时比（珠海）制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-31-2019 08:31:39 root:INFO:**********************
+06-31-2019 08:31:39 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-31-2019 08:31:39 root:INFO:**********************
+06-31-2019 08:31:39 root:INFO:[<td colspan="3">异乐定 单硝酸异山梨酯缓释胶囊(Ⅳ) 50mg*20粒</td>, <td>异乐定</td>, <td>50mg*20粒</td>, <td>0.018kg</td>, <td>优时比（珠海）制药有限公司</td>, <td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-31-2019 08:31:39 root:INFO:商品名称：异乐定 单硝酸异山梨酯缓释胶囊(Ⅳ) 50mg*20粒
+06-31-2019 08:31:39 root:INFO:品　　牌：异乐定
+06-31-2019 08:31:39 root:INFO:规　　格：50mg*20粒
+06-31-2019 08:31:39 root:INFO:重　　量：0.018kg
+06-31-2019 08:31:39 root:INFO:生产厂商:优时比（珠海）制药有限公司
+06-31-2019 08:31:39 root:INFO:批准文号：国药准字H20031224
+06-31-2019 08:31:39 root:INFO:产品类型：处方药
+06-31-2019 08:31:39 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-31-2019 08:31:39 root:INFO:<div class="itemSearchResultCon" comproid="2168235" isrecom="0" itemid="50592853">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_3" href="//www.111.com.cn/product/50592853.html" target="_blank">
+<img alt="异乐定 单硝酸异山梨酯缓释胶囊(Ⅳ) 50mg*20粒" data-ywpoint="null_null_null_null_I1121_3" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/201906/28/200_20190628100450140.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_2168235">
+<span>
+                        65.89
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_3" href="//www.111.com.cn/product/50592853.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    异乐定 单硝酸异山梨酯缓释胶囊(Ⅳ) 50mg*20粒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_3">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102507387">民益大药房</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2168235">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_3" id="submitRequest_2168235_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50592853,1)" pminfo="2168235" productcode="2168235" sellproductid="2168235" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_3" id="submitRequest_2168235" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50592853,1)" ordersettings="11" pminfo="2168235" productcode="2168235" sellproductid="2168235" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_3" href="//www.111.com.cn/product/50592853.html" id="buyButton_2168235" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="2168235" productcode="2168235" sellproductid="2168235" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-31-2019 08:31:39 root:INFO:https://p1.maiyaole.com/img/201906/28/200_20190628100450140.jpg
+06-31-2019 08:31:39 root:INFO:http://www.111.com.cn/product/50592853.html
+06-31-2019 08:31:39 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/url {"url": "http://www.111.com.cn/product/50592853.html"}
+06-31-2019 08:31:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "POST /session/115db5f2add50f8edb521810580a881b/url HTTP/1.1" 200 14
+06-31-2019 08:31:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:40 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/source {}
+06-31-2019 08:31:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "GET /session/115db5f2add50f8edb521810580a881b/source HTTP/1.1" 200 246713
+06-31-2019 08:31:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:41 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">异乐定 单硝酸异山梨酯缓释胶囊(Ⅳ) 50mg*20粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>异乐定</td>
+<th>规　　格：</th>
+<td>50mg*20粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.018kg</td>
+<th>生产厂商:</th>
+<td>优时比（珠海）制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-31-2019 08:31:41 root:INFO:**********************
+06-31-2019 08:31:41 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-31-2019 08:31:41 root:INFO:**********************
+06-31-2019 08:31:41 root:INFO:[<td colspan="3">异乐定 单硝酸异山梨酯缓释胶囊(Ⅳ) 50mg*20粒</td>, <td>异乐定</td>, <td>50mg*20粒</td>, <td>0.018kg</td>, <td>优时比（珠海）制药有限公司</td>, <td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-31-2019 08:31:41 root:INFO:商品名称：异乐定 单硝酸异山梨酯缓释胶囊(Ⅳ) 50mg*20粒
+06-31-2019 08:31:41 root:INFO:品　　牌：异乐定
+06-31-2019 08:31:41 root:INFO:规　　格：50mg*20粒
+06-31-2019 08:31:41 root:INFO:重　　量：0.018kg
+06-31-2019 08:31:41 root:INFO:生产厂商:优时比（珠海）制药有限公司
+06-31-2019 08:31:41 root:INFO:批准文号：国药准字H20031224
+06-31-2019 08:31:41 root:INFO:产品类型：处方药
+06-31-2019 08:31:41 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-31-2019 08:31:41 root:INFO:<div class="itemSearchResultCon" comproid="1501953" isrecom="0" itemid="50274370">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/50274370.html" target="_blank">
+<img alt="异乐定 单硝酸异山梨酯缓释胶囊 50mg*20粒" data-ywpoint="null_null_null_null_I1121_4" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/201508/28/120_20150828135721453.JPG" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1501953">
+<span>
+                        69.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/50274370.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    异乐定 单硝酸异山梨酯缓释胶囊 50mg*20粒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_4">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102516118">四季堂大药房</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1501953">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_4" id="submitRequest_1501953_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50274370,1)" pminfo="1501953" productcode="1501953" sellproductid="1501953" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_4" id="submitRequest_1501953" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50274370,1)" ordersettings="11" pminfo="1501953" productcode="1501953" sellproductid="1501953" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_4" href="//www.111.com.cn/product/50274370.html" id="buyButton_1501953" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="1501953" productcode="1501953" sellproductid="1501953" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-31-2019 08:31:41 root:INFO:https://p4.maiyaole.com/img/201508/28/120_20150828135721453.JPG
+06-31-2019 08:31:41 root:INFO:http://www.111.com.cn/product/50274370.html
+06-31-2019 08:31:41 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/url {"url": "http://www.111.com.cn/product/50274370.html"}
+06-31-2019 08:31:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "POST /session/115db5f2add50f8edb521810580a881b/url HTTP/1.1" 200 14
+06-31-2019 08:31:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:42 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/source {}
+06-31-2019 08:31:42 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "GET /session/115db5f2add50f8edb521810580a881b/source HTTP/1.1" 200 245547
+06-31-2019 08:31:42 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:42 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">异乐定 单硝酸异山梨酯缓释胶囊 50mg*20粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>异乐定</td>
+<th>规　　格：</th>
+<td>50mg*20粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.018kg</td>
+<th>生产厂商:</th>
+<td>优时比（珠海）制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-31-2019 08:31:42 root:INFO:**********************
+06-31-2019 08:31:42 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-31-2019 08:31:42 root:INFO:**********************
+06-31-2019 08:31:42 root:INFO:[<td colspan="3">异乐定 单硝酸异山梨酯缓释胶囊 50mg*20粒</td>, <td>异乐定</td>, <td>50mg*20粒</td>, <td>0.018kg</td>, <td>优时比（珠海）制药有限公司</td>, <td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-31-2019 08:31:42 root:INFO:商品名称：异乐定 单硝酸异山梨酯缓释胶囊 50mg*20粒
+06-31-2019 08:31:42 root:INFO:品　　牌：异乐定
+06-31-2019 08:31:42 root:INFO:规　　格：50mg*20粒
+06-31-2019 08:31:42 root:INFO:重　　量：0.018kg
+06-31-2019 08:31:42 root:INFO:生产厂商:优时比（珠海）制药有限公司
+06-31-2019 08:31:42 root:INFO:批准文号：国药准字H20031224
+06-31-2019 08:31:42 root:INFO:产品类型：处方药
+06-31-2019 08:31:42 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-31-2019 08:31:42 root:INFO:<div class="itemSearchResultCon" comproid="1399615" isrecom="0" itemid="50200049">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_5" href="//www.111.com.cn/product/50200049.html" target="_blank">
+<img alt="异乐定 单硝酸异山梨酯缓释胶囊 50mg*20粒" data-ywpoint="null_null_null_null_I1121_5" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/974/974220/120_120.JPG?a=64096778" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1399615">
+<span>
+                        68.3
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_5" href="//www.111.com.cn/product/50200049.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    异乐定 单硝酸异山梨酯缓释胶囊 50mg*20粒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_5">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102511535">德邦医药</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1399615">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_5" id="submitRequest_1399615_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50200049,1)" pminfo="1399615" productcode="1399615" sellproductid="1399615" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_5" id="submitRequest_1399615" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50200049,1)" ordersettings="11" pminfo="1399615" productcode="1399615" sellproductid="1399615" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_5" href="//www.111.com.cn/product/50200049.html" id="buyButton_1399615" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="1399615" productcode="1399615" sellproductid="1399615" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-31-2019 08:31:42 root:INFO:https://p3.maiyaole.com/img/974/974220/120_120.JPG?a=64096778
+06-31-2019 08:31:42 root:INFO:http://www.111.com.cn/product/50200049.html
+06-31-2019 08:31:42 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/url {"url": "http://www.111.com.cn/product/50200049.html"}
+06-31-2019 08:31:43 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "POST /session/115db5f2add50f8edb521810580a881b/url HTTP/1.1" 200 14
+06-31-2019 08:31:43 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:44 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/source {}
+06-31-2019 08:31:44 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "GET /session/115db5f2add50f8edb521810580a881b/source HTTP/1.1" 200 247875
+06-31-2019 08:31:44 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:45 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">异乐定 单硝酸异山梨酯缓释胶囊 50mg*20粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>异乐定</td>
+<th>规　　格：</th>
+<td>50mg*20粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.018kg</td>
+<th>生产厂商:</th>
+<td>优时比（珠海）制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-31-2019 08:31:45 root:INFO:**********************
+06-31-2019 08:31:45 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-31-2019 08:31:45 root:INFO:**********************
+06-31-2019 08:31:45 root:INFO:[<td colspan="3">异乐定 单硝酸异山梨酯缓释胶囊 50mg*20粒</td>, <td>异乐定</td>, <td>50mg*20粒</td>, <td>0.018kg</td>, <td>优时比（珠海）制药有限公司</td>, <td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-31-2019 08:31:45 root:INFO:商品名称：异乐定 单硝酸异山梨酯缓释胶囊 50mg*20粒
+06-31-2019 08:31:45 root:INFO:品　　牌：异乐定
+06-31-2019 08:31:45 root:INFO:规　　格：50mg*20粒
+06-31-2019 08:31:45 root:INFO:重　　量：0.018kg
+06-31-2019 08:31:45 root:INFO:生产厂商:优时比（珠海）制药有限公司
+06-31-2019 08:31:45 root:INFO:批准文号：国药准字H20031224
+06-31-2019 08:31:45 root:INFO:产品类型：处方药
+06-31-2019 08:31:45 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-31-2019 08:31:45 root:INFO:<div class="itemSearchResultCon" comproid="1157538" isrecom="0" itemid="50119922">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_6" href="//www.111.com.cn/product/50119922.html" target="_blank">
+<img alt="异乐定 单硝酸异山梨酯缓释胶囊(Ⅳ) 50mg*20粒" data-ywpoint="null_null_null_null_I1121_6" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/974/974220/120_120.jpg?a=1691527840" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1157538">
+<span>
+                        68.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_6" href="//www.111.com.cn/product/50119922.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    异乐定 单硝酸异山梨酯缓释胶囊(Ⅳ) 50mg*20粒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_6">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102507110">北京阳光一生大药房</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1157538">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_6" id="submitRequest_1157538_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50119922,1)" pminfo="1157538" productcode="1157538" sellproductid="1157538" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_6" id="submitRequest_1157538" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50119922,1)" ordersettings="11" pminfo="1157538" productcode="1157538" sellproductid="1157538" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_6" href="//www.111.com.cn/product/50119922.html" id="buyButton_1157538" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="1157538" productcode="1157538" sellproductid="1157538" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-31-2019 08:31:45 root:INFO:https://p2.maiyaole.com/img/974/974220/120_120.jpg?a=1691527840
+06-31-2019 08:31:45 root:INFO:http://www.111.com.cn/product/50119922.html
+06-31-2019 08:31:45 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/url {"url": "http://www.111.com.cn/product/50119922.html"}
+06-31-2019 08:31:46 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "POST /session/115db5f2add50f8edb521810580a881b/url HTTP/1.1" 200 14
+06-31-2019 08:31:46 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:47 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/source {}
+06-31-2019 08:31:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "GET /session/115db5f2add50f8edb521810580a881b/source HTTP/1.1" 200 248744
+06-31-2019 08:31:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:47 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">异乐定 单硝酸异山梨酯缓释胶囊(Ⅳ) 50mg*20粒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>异乐定</td>
+<th>规　　格：</th>
+<td>50mg*20粒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.018kg</td>
+<th>生产厂商:</th>
+<td>优时比（珠海）制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-31-2019 08:31:47 root:INFO:**********************
+06-31-2019 08:31:47 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-31-2019 08:31:47 root:INFO:**********************
+06-31-2019 08:31:47 root:INFO:[<td colspan="3">异乐定 单硝酸异山梨酯缓释胶囊(Ⅳ) 50mg*20粒</td>, <td>异乐定</td>, <td>50mg*20粒</td>, <td>0.018kg</td>, <td>优时比（珠海）制药有限公司</td>, <td>
+                                                                                    国药准字H20031224(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-31-2019 08:31:47 root:INFO:商品名称：异乐定 单硝酸异山梨酯缓释胶囊(Ⅳ) 50mg*20粒
+06-31-2019 08:31:47 root:INFO:品　　牌：异乐定
+06-31-2019 08:31:47 root:INFO:规　　格：50mg*20粒
+06-31-2019 08:31:47 root:INFO:重　　量：0.018kg
+06-31-2019 08:31:47 root:INFO:生产厂商:优时比（珠海）制药有限公司
+06-31-2019 08:31:47 root:INFO:批准文号：国药准字H20031224
+06-31-2019 08:31:47 root:INFO:产品类型：处方药
+06-31-2019 08:31:47 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-31-2019 08:31:47 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b/window {}
+06-31-2019 08:31:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "DELETE /session/115db5f2add50f8edb521810580a881b/window HTTP/1.1" 200 12
+06-31-2019 08:31:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-31-2019 08:31:47 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:55858/session/115db5f2add50f8edb521810580a881b {}
+06-31-2019 08:31:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:55858 "DELETE /session/115db5f2add50f8edb521810580a881b HTTP/1.1" 200 14
+06-31-2019 08:31:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

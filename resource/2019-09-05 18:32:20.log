@@ -1,0 +1,262 @@
+05-32-2019 18:32:20 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:65183/session/5d39a9023d57a2d6db068b323b812385/url {"url": "https://www.111.com.cn"}
+05-32-2019 18:32:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:65183 "POST /session/5d39a9023d57a2d6db068b323b812385/url HTTP/1.1" 200 14
+05-32-2019 18:32:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-32-2019 18:32:23 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:65183/session/5d39a9023d57a2d6db068b323b812385/source {}
+05-32-2019 18:32:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:65183 "GET /session/5d39a9023d57a2d6db068b323b812385/source HTTP/1.1" 200 340131
+05-32-2019 18:32:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-32-2019 18:32:23 root:INFO:[1616, '上海信谊黄河制药有限公司', '国药准字H31020147', 2027514, '叶酸片(处方药)']
+05-32-2019 18:32:23 root:INFO:********************* 关键字：叶酸片
+05-32-2019 18:32:23 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:65183/session/5d39a9023d57a2d6db068b323b812385/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u53f6\u9178\u7247\");\n$(\"#word\").attr(\"value\",\"\u53f6\u9178\u7247\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+05-32-2019 18:32:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:65183 "POST /session/5d39a9023d57a2d6db068b323b812385/execute/sync HTTP/1.1" 200 14
+05-32-2019 18:32:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-32-2019 18:32:24 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:65183/session/5d39a9023d57a2d6db068b323b812385/source {}
+05-32-2019 18:32:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:65183 "GET /session/5d39a9023d57a2d6db068b323b812385/source HTTP/1.1" 200 707374
+05-32-2019 18:32:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-32-2019 18:32:24 root:INFO:<div class="itemSearchResultCon none" comproid="1393740" isrecom="0" itemid="50197782">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50197782.html" target="_blank">
+<img alt="买3件减20】爱乐维 复合维生素片 30片" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/item/201908/28/200_20190828105503432.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1393740">
+<span>
+                        79.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50197782.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    买3件减20】爱乐维 复合维生素片 30片多盒价格请联系药师！新效期，全孕期适用 叶酸 VAVB等12种维生素 7种矿物质 一盒1个月量，建议服用6个月（6盒）以上</a>
+<a class="promoTitle" href="//www.111.com.cn/list/promotion.action?promoid=145098" id="promotion_1393740" pnamesubtitle="买3件减20】爱乐维 复合维生素片 30片" pstock="101" rel="nofollow" ruletype="0" stockflag="" target="_blank" title="">满199减20 299减40</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/50197782.html#itemComments');" pmid="1393740">评论 <em>13519</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1393740">
+<input class="search_list_reduce_gray" data-ywpoint="null_null_null_null_I1122_0" onclick="modifyBuyNum(this, -1);" type="button"/>
+<input class="num" id="buyNum_50197782" onkeyup="var key=event.keyCode;checkBuyNum(this, key)" type="text" value="1"/>
+<input class="search_list_plus" data-ywpoint="null_null_null_null_I1122_0" onclick="modifyBuyNum(this, 1);" type="button"/>
+<button class="buy op_right_btn add_cart_btn border_left" currentstore="true" data-ywpoint="null_null_null_null_I1123_0" id="buyButton_50197782" index="0" inshop="0" merchantid="" onclick="javascript:buyToCart(1,50197782);" pminfo="" productcode="1393740" sellproductid="1393740" specialtype="13">加入购物车</button>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-32-2019 18:32:24 root:INFO:<div class="itemSearchResultCon" comproid="3591713" itemid="51350966" purchasehidestatus="1">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51350966.html" target="_blank">
+<img alt="买3件减20】爱乐维 复合维生素片 30片 *10件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/item/201908/21/200_20190821105539947.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3591713">
+<span>
+                                  
+                            660.0
+                                  
+                                    <u>¥66.0/件</u>
+</span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51350966.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          买3件减20】爱乐维 复合维生素片 30片 *10件</a>
+<a class="promoTitle" href="//www.111.com.cn/list/promotion.action?promoid=" id="promotion_3591713" pnamesubtitle="买3件减20】爱乐维 复合维生素片 30片 *10件" pstock="101" rel="nofollow" ruletype="0" stockflag="" target="_blank" title=""></a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/50197782.html#itemComments');" pmid="1393740">评论 <em>13519</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3591713">
+<input class="search_list_reduce_gray" onclick="modifyBuyNum(this, -1);" type="button"/>
+<input class="num" id="buyNum_51350966" onkeyup="var key=event.keyCode;checkBuyNum(this, key)" type="text" value="1"/>
+<input class="search_list_plus" onclick="modifyBuyNum(this, 1);" type="button"/>
+<button class="buy op_right_btn add_cart_btn border_left" id="buyButton_51350966" index="0" inshop="0" merchantid="" onclick="javascript:buyToCart(3,51350966);" pminfo="" productcode="3591713" sellproductid="3591713" specialtype="13">加入购物车</button>
+</div>
+<div class="sheng"><span>省</span>130.0元</div>
+<u class="bg_border"></u>
+<div class="item_kit" id="item_kit">
+<div class="item_kit_clip clearfix">
+<div class="item_kit_n">
+<a class="" comproid="1393740" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">1件</a>
+<a class="k_cur" comproid="3591713" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">10件</a>
+<a class="" comproid="3591707" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">4件</a>
+<a class="" comproid="3591701" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">3件</a>
+<i style="left: 50px;"></i>
+</div></div>
+</div></div>
+05-32-2019 18:32:24 root:INFO:<div class="itemSearchResultCon none" comproid="3591707" itemid="51350965" purchasehidestatus="1">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51350965.html" target="_blank">
+<img alt="买3件减20】爱乐维 复合维生素片 30片 *4件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/item/201908/21/200_20190821105539947.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3591707">
+<span>
+                                  
+                            276.0
+                                  
+                                    <u>¥69.0/件</u>
+</span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51350965.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          买3件减20】爱乐维 复合维生素片 30片 *4件</a>
+<a class="promoTitle" href="//www.111.com.cn/list/promotion.action?promoid=" id="promotion_3591707" pnamesubtitle="买3件减20】爱乐维 复合维生素片 30片 *4件" pstock="101" rel="nofollow" ruletype="0" stockflag="" target="_blank" title=""></a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/50197782.html#itemComments');" pmid="1393740">评论 <em>13519</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3591707">
+<input class="search_list_reduce_gray" onclick="modifyBuyNum(this, -1);" type="button"/>
+<input class="num" id="buyNum_51350965" onkeyup="var key=event.keyCode;checkBuyNum(this, key)" type="text" value="1"/>
+<input class="search_list_plus" onclick="modifyBuyNum(this, 1);" type="button"/>
+<button class="buy op_right_btn add_cart_btn border_left" id="buyButton_51350965" index="0" inshop="0" merchantid="" onclick="javascript:buyToCart(3,51350965);" pminfo="" productcode="3591707" sellproductid="3591707" specialtype="13">加入购物车</button>
+</div>
+<div class="sheng"><span>省</span>40.0元</div>
+<u class="bg_border"></u>
+</div>
+05-32-2019 18:32:24 root:INFO:末找到关键字：叶酸片
+05-32-2019 18:32:24 root:INFO:[1746, '上海信谊天平药业有限公司', '国药准字H20034013', 2044638, '盐酸小檗碱片(OTC)']
+05-32-2019 18:32:24 root:INFO:********************* 关键字：盐酸小檗碱片
+05-32-2019 18:32:24 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:65183/session/5d39a9023d57a2d6db068b323b812385/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u76d0\u9178\u5c0f\u6a97\u78b1\u7247\");\n$(\"#word\").attr(\"value\",\"\u76d0\u9178\u5c0f\u6a97\u78b1\u7247\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+05-32-2019 18:32:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:65183 "POST /session/5d39a9023d57a2d6db068b323b812385/execute/sync HTTP/1.1" 200 14
+05-32-2019 18:32:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-32-2019 18:32:25 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:65183/session/5d39a9023d57a2d6db068b323b812385/source {}
+05-32-2019 18:32:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:65183 "GET /session/5d39a9023d57a2d6db068b323b812385/source HTTP/1.1" 200 553312
+05-32-2019 18:32:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-32-2019 18:32:26 root:INFO:<div class="itemSearchResultCon" comproid="3143294" isrecom="0" itemid="51122283">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51122283.html" target="_blank">
+<img alt="东北制药 盐酸小檗碱片 0.1g*100片" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/201807/12/200_20180712145941705.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3143294">
+<span>
+                        14.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51122283.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    东北制药 盐酸小檗碱片 0.1g*100片</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102527591">华佗大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3143294">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3143294_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51122283,1)" pminfo="3143294" productcode="3143294" sellproductid="3143294" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3143294" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51122283,1)" ordersettings="11" pminfo="3143294" productcode="3143294" sellproductid="3143294" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/51122283.html" id="buyButton_3143294" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3143294" productcode="3143294" sellproductid="3143294" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-32-2019 18:32:26 root:INFO:<div class="itemSearchResultCon" comproid="3268804" isrecom="0" itemid="51192998">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/51192998.html" target="_blank">
+<img alt="东北制药 盐酸小檗碱片 0.1g*100片" data-ywpoint="null_null_null_null_I1121_1" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/50044/50044125/120_120.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3268804">
+<span>
+                        14.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/51192998.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    东北制药 盐酸小檗碱片 0.1g*100片温馨提示：请仔细阅读说明书并按说明使用或在药师指导下购买和使用</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_1">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/51192998.html#itemComments');" pmid="3268804">评论 <em>1</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102551176">瑞人堂大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3268804">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_1" id="submitRequest_3268804_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51192998,1)" pminfo="3268804" productcode="3268804" sellproductid="3268804" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_1" id="submitRequest_3268804" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51192998,1)" ordersettings="11" pminfo="3268804" productcode="3268804" sellproductid="3268804" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_1" href="//www.111.com.cn/product/51192998.html" id="buyButton_3268804" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3268804" productcode="3268804" sellproductid="3268804" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-32-2019 18:32:26 root:INFO:<div class="itemSearchResultCon" comproid="3455929" isrecom="0" itemid="51307858">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/51307858.html" target="_blank">
+<img alt="盐酸小檗碱片 0.1g/片" data-ywpoint="null_null_null_null_I1121_2" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/50045/50045648/120_120.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3455929">
+<span>
+                        17.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/51307858.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    盐酸小檗碱片 0.1g/片连锁大药房 有保障更放心  祝君安康</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_2">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102552307">医心达大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3455929">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_2" id="submitRequest_3455929_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51307858,1)" pminfo="3455929" productcode="3455929" sellproductid="3455929" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_2" id="submitRequest_3455929" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51307858,1)" ordersettings="11" pminfo="3455929" productcode="3455929" sellproductid="3455929" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_2" href="//www.111.com.cn/product/51307858.html" id="buyButton_3455929" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3455929" productcode="3455929" sellproductid="3455929" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-32-2019 18:32:26 root:INFO:末找到关键字：盐酸小檗碱片
+05-32-2019 18:32:26 root:INFO:[2455, '上海医药(集团)有限公司信谊制药总厂委托上海辛帕斯制药有限公司', '国药准字H31021331', 1110559, '安乃近片(处方药)']
+05-32-2019 18:32:26 root:INFO:********************* 关键字：安乃近片
+05-32-2019 18:32:26 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:65183/session/5d39a9023d57a2d6db068b323b812385/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u5b89\u4e43\u8fd1\u7247\");\n$(\"#word\").attr(\"value\",\"\u5b89\u4e43\u8fd1\u7247\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+05-32-2019 18:32:26 urllib3.connectionpool:DEBUG:http://127.0.0.1:65183 "POST /session/5d39a9023d57a2d6db068b323b812385/execute/sync HTTP/1.1" 200 14
+05-32-2019 18:32:26 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

@@ -1,0 +1,220 @@
+06-22-2019 09:22:55 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55148/session/eb6805d6757069c79b2b599b55df8c84/url {"url": "https://www.111.com.cn"}
+06-22-2019 09:22:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:55148 "POST /session/eb6805d6757069c79b2b599b55df8c84/url HTTP/1.1" 200 14
+06-22-2019 09:22:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-22-2019 09:22:57 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55148/session/eb6805d6757069c79b2b599b55df8c84/source {}
+06-22-2019 09:22:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:55148 "GET /session/eb6805d6757069c79b2b599b55df8c84/source HTTP/1.1" 200 340135
+06-22-2019 09:22:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-22-2019 09:22:57 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55148/session/eb6805d6757069c79b2b599b55df8c84/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u666e\u4f10\u4ed6\u6c40\u94a0\u7247\");\n$(\"#word\").attr(\"value\",\"\u666e\u4f10\u4ed6\u6c40\u94a0\u7247\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-22-2019 09:22:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:55148 "POST /session/eb6805d6757069c79b2b599b55df8c84/execute/sync HTTP/1.1" 200 14
+06-22-2019 09:22:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-22-2019 09:22:58 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55148/session/eb6805d6757069c79b2b599b55df8c84/source {}
+06-22-2019 09:22:58 urllib3.connectionpool:DEBUG:http://127.0.0.1:55148 "GET /session/eb6805d6757069c79b2b599b55df8c84/source HTTP/1.1" 200 646918
+06-22-2019 09:22:58 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-22-2019 09:22:58 root:INFO:<div class="itemSearchResultCon" comproid="808920" isrecom="0" itemid="50006392">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50006392.html" target="_blank">
+<img alt="美百乐镇 普伐他汀钠片 20mg*7片" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/50006/50006392/120_120.jpg?a=490884785" width="205"/>
+</a>
+<p class="price" id="promotionInfo_808920">
+<span>
+                        42.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50006392.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    美百乐镇 普伐他汀钠片 20mg*7片</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_808920">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" druglevel="2" id="askDoctor_808920" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="808920" productcode="808920" sellproductid="808920" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/50006392.html" id="buyButton_808920" index="0" inshop="0" merchantid="26" pminfo="808920" productcode="808920" productdisabled="true" sellproductid="808920" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-22-2019 09:22:58 root:INFO:https://p2.maiyaole.com/img/50006/50006392/120_120.jpg?a=490884785
+06-22-2019 09:22:58 root:INFO:http://www.111.com.cn/product/50006392.html
+06-22-2019 09:22:58 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55148/session/eb6805d6757069c79b2b599b55df8c84/url {"url": "http://www.111.com.cn/product/50006392.html"}
+06-22-2019 09:22:59 urllib3.connectionpool:DEBUG:http://127.0.0.1:55148 "POST /session/eb6805d6757069c79b2b599b55df8c84/url HTTP/1.1" 200 14
+06-22-2019 09:22:59 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-23-2019 09:23:01 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55148/session/eb6805d6757069c79b2b599b55df8c84/source {}
+06-23-2019 09:23:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:55148 "GET /session/eb6805d6757069c79b2b599b55df8c84/source HTTP/1.1" 200 246240
+06-23-2019 09:23:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-23-2019 09:23:01 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">美百乐镇 普伐他汀钠片 20mg*7片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>美百乐镇</td>
+<th>规　　格：</th>
+<td>20mg*7片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.015kg</td>
+<th>生产厂商:</th>
+<td>第一三共制药（上海）有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20040101(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-23-2019 09:23:01 root:INFO:**********************
+06-23-2019 09:23:01 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-23-2019 09:23:01 root:INFO:**********************
+06-23-2019 09:23:01 root:INFO:[<td colspan="3">美百乐镇 普伐他汀钠片 20mg*7片</td>, <td>美百乐镇</td>, <td>20mg*7片</td>, <td>0.015kg</td>, <td>第一三共制药（上海）有限公司</td>, <td>
+                                                                                    国药准字H20040101(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-23-2019 09:23:01 root:INFO:商品名称：美百乐镇 普伐他汀钠片 20mg*7片
+06-23-2019 09:23:01 root:INFO:品　　牌：美百乐镇
+06-23-2019 09:23:01 root:INFO:规　　格：20mg*7片
+06-23-2019 09:23:01 root:INFO:重　　量：0.015kg
+06-23-2019 09:23:01 root:INFO:生产厂商:第一三共制药（上海）有限公司
+06-23-2019 09:23:01 root:INFO:批准文号：国药准字H20040101
+06-23-2019 09:23:01 root:INFO:产品类型：处方药
+06-23-2019 09:23:01 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-23-2019 09:23:01 root:INFO:<div class="itemSearchResultCon" comproid="3105411" isrecom="0" itemid="51089559">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/51089559.html" target="_blank">
+<img alt="美百乐镇 普伐他汀钠片 40mg*7片" data-ywpoint="null_null_null_null_I1121_1" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201806/19/200_20180619174950838.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3105411">
+<span>
+                        66.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/51089559.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    美百乐镇 普伐他汀钠片 40mg*7片适用于治疗高脂血症、家族性高胆固醇血症</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_1">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3105411">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_1" druglevel="2" id="askDoctor_3105411" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="3105411" productcode="3105411" sellproductid="3105411" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_1" href="//www.111.com.cn/product/51089559.html" id="buyButton_3105411" index="0" inshop="0" merchantid="26" pminfo="3105411" productcode="3105411" productdisabled="true" sellproductid="3105411" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-23-2019 09:23:01 root:INFO:https://p1.maiyaole.com/img/item/201806/19/200_20180619174950838.jpg
+06-23-2019 09:23:01 root:INFO:http://www.111.com.cn/product/51089559.html
+06-23-2019 09:23:01 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:55148/session/eb6805d6757069c79b2b599b55df8c84/url {"url": "http://www.111.com.cn/product/51089559.html"}
+06-23-2019 09:23:01 urllib3.connectionpool:DEBUG:http://127.0.0.1:55148 "POST /session/eb6805d6757069c79b2b599b55df8c84/url HTTP/1.1" 200 14
+06-23-2019 09:23:01 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-23-2019 09:23:02 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:55148/session/eb6805d6757069c79b2b599b55df8c84/source {}
+06-23-2019 09:23:02 urllib3.connectionpool:DEBUG:http://127.0.0.1:55148 "GET /session/eb6805d6757069c79b2b599b55df8c84/source HTTP/1.1" 200 252688
+06-23-2019 09:23:02 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-23-2019 09:23:02 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">美百乐镇 普伐他汀钠片 40mg*7片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>美百乐镇</td>
+<th>规　　格：</th>
+<td>40mg*7片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.016kg</td>
+<th>生产厂商:</th>
+<td>第一三共制药（上海）有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H20060271(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-23-2019 09:23:02 root:INFO:**********************
+06-23-2019 09:23:02 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-23-2019 09:23:02 root:INFO:**********************
+06-23-2019 09:23:02 root:INFO:[<td colspan="3">美百乐镇 普伐他汀钠片 40mg*7片</td>, <td>美百乐镇</td>, <td>40mg*7片</td>, <td>0.016kg</td>, <td>第一三共制药（上海）有限公司</td>, <td>
+                                                                                    国药准字H20060271(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-23-2019 09:23:02 root:INFO:商品名称：美百乐镇 普伐他汀钠片 40mg*7片
+06-23-2019 09:23:02 root:INFO:品　　牌：美百乐镇
+06-23-2019 09:23:02 root:INFO:规　　格：40mg*7片
+06-23-2019 09:23:02 root:INFO:重　　量：0.016kg
+06-23-2019 09:23:02 root:INFO:生产厂商:第一三共制药（上海）有限公司
+06-23-2019 09:23:02 root:INFO:批准文号：国药准字H20060271
+06-23-2019 09:23:02 root:INFO:#### 下载路径 #### ./file/image/116737/0.jpg
+06-23-2019 09:23:02 root:INFO:#### 下载URL #### https://p1.maiyaole.com/img/item/201806/19/200_20180619174950838.jpg
+06-23-2019 09:23:02 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p1.maiyaole.com:443
+06-23-2019 09:23:03 urllib3.connectionpool:DEBUG:https://p1.maiyaole.com:443 "GET /img/item/201806/19/200_20180619174950838.jpg HTTP/1.1" 200 14498
+06-23-2019 09:23:03 root:INFO:#### 下载路径 #### ./file/image/116737/1.jpg
+06-23-2019 09:23:03 root:INFO:#### 下载URL #### https://p1.maiyaole.com/img/item/201806/19/org_20180619174950838.jpg
+06-23-2019 09:23:03 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p1.maiyaole.com:443
+06-23-2019 09:23:03 urllib3.connectionpool:DEBUG:https://p1.maiyaole.com:443 "GET /img/item/201806/19/org_20180619174950838.jpg HTTP/1.1" 200 208782
+06-23-2019 09:23:03 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:55148/session/eb6805d6757069c79b2b599b55df8c84/window {}
+06-23-2019 09:23:03 urllib3.connectionpool:DEBUG:http://127.0.0.1:55148 "DELETE /session/eb6805d6757069c79b2b599b55df8c84/window HTTP/1.1" 200 12
+06-23-2019 09:23:03 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-23-2019 09:23:03 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:55148/session/eb6805d6757069c79b2b599b55df8c84 {}
+06-23-2019 09:23:03 urllib3.connectionpool:DEBUG:http://127.0.0.1:55148 "DELETE /session/eb6805d6757069c79b2b599b55df8c84 HTTP/1.1" 200 14
+06-23-2019 09:23:03 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

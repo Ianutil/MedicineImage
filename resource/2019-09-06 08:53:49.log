@@ -1,0 +1,119 @@
+06-53-2019 08:53:49 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62884/session/cc7502e034b3f066f7011fd2eed216e6/url {"url": "https://www.111.com.cn"}
+06-53-2019 08:53:51 urllib3.connectionpool:DEBUG:http://127.0.0.1:62884 "POST /session/cc7502e034b3f066f7011fd2eed216e6/url HTTP/1.1" 200 14
+06-53-2019 08:53:51 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-53-2019 08:53:52 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62884/session/cc7502e034b3f066f7011fd2eed216e6/source {}
+06-53-2019 08:53:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:62884 "GET /session/cc7502e034b3f066f7011fd2eed216e6/source HTTP/1.1" 200 339424
+06-53-2019 08:53:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-53-2019 08:53:52 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62884/session/cc7502e034b3f066f7011fd2eed216e6/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u76d0\u9178\u7279\u6bd4\u8418\u82ac\u4e73\u818f \u9f50\u9c81\");\n$(\"#word\").attr(\"value\",\"\u76d0\u9178\u7279\u6bd4\u8418\u82ac\u4e73\u818f \u9f50\u9c81\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-53-2019 08:53:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:62884 "POST /session/cc7502e034b3f066f7011fd2eed216e6/execute/sync HTTP/1.1" 200 14
+06-53-2019 08:53:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-53-2019 08:53:53 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62884/session/cc7502e034b3f066f7011fd2eed216e6/source {}
+06-53-2019 08:53:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:62884 "GET /session/cc7502e034b3f066f7011fd2eed216e6/source HTTP/1.1" 200 222925
+06-53-2019 08:53:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-53-2019 08:53:53 root:INFO:<div class="itemSearchResultCon" comproid="1116281" isrecom="0" itemid="50092992">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50092992.html" target="_blank">
+<img alt="丁克 盐酸特比萘芬乳膏 10g:0.1g" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/item/201801/31/200_20180131154354624.jpg" width="205"/>
+<span class="no_pro_mark">暂时无货</span>
+</a>
+<p class="price" id="promotionInfo_1116281">
+<span>
+                        13.5
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50092992.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    丁克 盐酸特比萘芬乳膏 10g:0.1g齐鲁制药，用于治疗手藓，足藓，体藓，股藓，花斑藓，及皮肤念珠菌病等。</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/50092992.html#itemComments');" pmid="1116281">评论 <em>228</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div id="buyInfo_1116281">
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-53-2019 08:53:53 root:INFO:https://p3.maiyaole.com/img/item/201801/31/200_20180131154354624.jpg
+06-53-2019 08:53:53 root:INFO:http://www.111.com.cn/product/50092992.html
+06-53-2019 08:53:53 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62884/session/cc7502e034b3f066f7011fd2eed216e6/url {"url": "http://www.111.com.cn/product/50092992.html"}
+06-53-2019 08:53:54 urllib3.connectionpool:DEBUG:http://127.0.0.1:62884 "POST /session/cc7502e034b3f066f7011fd2eed216e6/url HTTP/1.1" 200 14
+06-53-2019 08:53:54 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-53-2019 08:53:55 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62884/session/cc7502e034b3f066f7011fd2eed216e6/source {}
+06-53-2019 08:53:55 urllib3.connectionpool:DEBUG:http://127.0.0.1:62884 "GET /session/cc7502e034b3f066f7011fd2eed216e6/source HTTP/1.1" 200 248470
+06-53-2019 08:53:55 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-53-2019 08:53:55 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">丁克 盐酸特比萘芬乳膏 10g:0.1g</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>丁克</td>
+<th>规　　格：</th>
+<td>10g:0.1g</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.02kg</td>
+<th>生产厂商:</th>
+<td>齐鲁制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H10970135(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-53-2019 08:53:55 root:INFO:**********************
+06-53-2019 08:53:55 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-53-2019 08:53:55 root:INFO:**********************
+06-53-2019 08:53:55 root:INFO:[<td colspan="3">丁克 盐酸特比萘芬乳膏 10g:0.1g</td>, <td>丁克</td>, <td>10g:0.1g</td>, <td>0.02kg</td>, <td>齐鲁制药有限公司</td>, <td>
+                                                                                    国药准字H10970135(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-53-2019 08:53:55 root:INFO:商品名称：丁克 盐酸特比萘芬乳膏 10g:0.1g
+06-53-2019 08:53:55 root:INFO:品　　牌：丁克
+06-53-2019 08:53:55 root:INFO:规　　格：10g:0.1g
+06-53-2019 08:53:55 root:INFO:重　　量：0.02kg
+06-53-2019 08:53:55 root:INFO:生产厂商:齐鲁制药有限公司
+06-53-2019 08:53:55 root:INFO:批准文号：国药准字H10970135
+06-53-2019 08:53:55 root:INFO:#### 下载路径 #### ./file/image/4742/0.jpg
+06-53-2019 08:53:55 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/item/201801/31/200_20180131154354624.jpg
+06-53-2019 08:53:55 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+06-53-2019 08:53:55 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/item/201801/31/200_20180131154354624.jpg HTTP/1.1" 200 25667
+06-53-2019 08:53:56 root:INFO:#### 下载路径 #### ./file/image/4742/1.jpg
+06-53-2019 08:53:56 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/item/201801/31/org_20180131154354624.jpg
+06-53-2019 08:53:56 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+06-53-2019 08:53:56 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/item/201801/31/org_20180131154354624.jpg HTTP/1.1" 200 216521
+06-53-2019 08:53:56 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:62884/session/cc7502e034b3f066f7011fd2eed216e6/window {}
+06-53-2019 08:53:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:62884 "DELETE /session/cc7502e034b3f066f7011fd2eed216e6/window HTTP/1.1" 200 12
+06-53-2019 08:53:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-53-2019 08:53:56 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:62884/session/cc7502e034b3f066f7011fd2eed216e6 {}
+06-53-2019 08:53:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:62884 "DELETE /session/cc7502e034b3f066f7011fd2eed216e6 HTTP/1.1" 200 14
+06-53-2019 08:53:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

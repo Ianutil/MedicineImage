@@ -1,0 +1,311 @@
+06-37-2019 08:37:13 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57659/session/d5e3000a3ca21d89a8eebde843397d27/url {"url": "https://www.111.com.cn"}
+06-37-2019 08:37:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:57659 "POST /session/d5e3000a3ca21d89a8eebde843397d27/url HTTP/1.1" 200 14
+06-37-2019 08:37:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-37-2019 08:37:16 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57659/session/d5e3000a3ca21d89a8eebde843397d27/source {}
+06-37-2019 08:37:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:57659 "GET /session/d5e3000a3ca21d89a8eebde843397d27/source HTTP/1.1" 200 340136
+06-37-2019 08:37:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-37-2019 08:37:16 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57659/session/d5e3000a3ca21d89a8eebde843397d27/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u9ec4\u8fde\u4e0a\u6e05\u80f6\u56ca \u5149\u5927\");\n$(\"#word\").attr(\"value\",\"\u9ec4\u8fde\u4e0a\u6e05\u80f6\u56ca \u5149\u5927\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-37-2019 08:37:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:57659 "POST /session/d5e3000a3ca21d89a8eebde843397d27/execute/sync HTTP/1.1" 200 14
+06-37-2019 08:37:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-37-2019 08:37:17 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57659/session/d5e3000a3ca21d89a8eebde843397d27/source {}
+06-37-2019 08:37:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:57659 "GET /session/d5e3000a3ca21d89a8eebde843397d27/source HTTP/1.1" 200 658908
+06-37-2019 08:37:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-37-2019 08:37:17 root:INFO:<div class="itemSearchResultCon none" comproid="778356" isrecom="0" itemid="971660">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/971660.html" target="_blank">
+<img alt="今辰 黄连上清片 48片" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201908/27/200_20190827140515134.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_778356">
+<span>
+                        7.3
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/971660.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    今辰 黄连上清片 48片清热通便，散风止痛。用于头晕目眩，暴发火眼，牙齿疼痛，口舌生疮，咽喉肿痛，耳痛耳鸣，大便秘结，小便短赤。</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/971660.html#itemComments');" pmid="778356">评论 <em>1780</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_778356">
+<input class="search_list_reduce_gray" data-ywpoint="null_null_null_null_I1122_0" onclick="modifyBuyNum(this, -1);" type="button"/>
+<input class="num" id="buyNum_971660" onkeyup="var key=event.keyCode;checkBuyNum(this, key)" type="text" value="1"/>
+<input class="search_list_plus" data-ywpoint="null_null_null_null_I1122_0" onclick="modifyBuyNum(this, 1);" type="button"/>
+<button class="buy op_right_btn add_cart_btn border_left" currentstore="true" data-ywpoint="null_null_null_null_I1123_0" id="buyButton_971660" index="0" inshop="0" merchantid="" onclick="javascript:buyToCart(1,971660);" pminfo="" productcode="778356" sellproductid="778356" specialtype="13">加入购物车</button>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-37-2019 08:37:17 root:INFO:https://p1.maiyaole.com/img/item/201908/27/200_20190827140515134.jpg
+06-37-2019 08:37:17 root:INFO:http://www.111.com.cn/product/971660.html
+06-37-2019 08:37:17 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57659/session/d5e3000a3ca21d89a8eebde843397d27/url {"url": "http://www.111.com.cn/product/971660.html"}
+06-37-2019 08:37:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:57659 "POST /session/d5e3000a3ca21d89a8eebde843397d27/url HTTP/1.1" 200 14
+06-37-2019 08:37:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-37-2019 08:37:20 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57659/session/d5e3000a3ca21d89a8eebde843397d27/source {}
+06-37-2019 08:37:20 urllib3.connectionpool:DEBUG:http://127.0.0.1:57659 "GET /session/d5e3000a3ca21d89a8eebde843397d27/source HTTP/1.1" 200 248684
+06-37-2019 08:37:20 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-37-2019 08:37:20 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">今辰 黄连上清片 48片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>今辰</td>
+<th>规　　格：</th>
+<td>24片*2板</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.038kg</td>
+<th>生产厂商:</th>
+<td>上海海虹实业(集团)巢湖今辰药业有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z34020702(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-37-2019 08:37:20 root:INFO:**********************
+06-37-2019 08:37:20 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-37-2019 08:37:20 root:INFO:**********************
+06-37-2019 08:37:20 root:INFO:[<td colspan="3">今辰 黄连上清片 48片</td>, <td>今辰</td>, <td>24片*2板</td>, <td>0.038kg</td>, <td>上海海虹实业(集团)巢湖今辰药业有限公司</td>, <td>
+                                                                                    国药准字Z34020702(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-37-2019 08:37:20 root:INFO:商品名称：今辰 黄连上清片 48片
+06-37-2019 08:37:20 root:INFO:品　　牌：今辰
+06-37-2019 08:37:20 root:INFO:规　　格：24片*2板
+06-37-2019 08:37:20 root:INFO:重　　量：0.038kg
+06-37-2019 08:37:20 root:INFO:生产厂商:上海海虹实业(集团)巢湖今辰药业有限公司
+06-37-2019 08:37:20 root:INFO:批准文号：国药准字Z34020702
+06-37-2019 08:37:20 root:INFO:产品类型：OTC（非处方药）
+06-37-2019 08:37:20 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-37-2019 08:37:20 root:INFO:<div class="itemSearchResultCon" comproid="3273390" itemid="51197108" purchasehidestatus="1">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51197108.html" target="_blank">
+<img alt="今辰 黄连上清片 48片 *6件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201808/10/200_20180810150222547.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3273390">
+<span>
+                                  
+                            22.8
+                                  
+                                    <u>¥3.8/件</u>
+</span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51197108.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          今辰 黄连上清片 48片 *6件</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/971660.html#itemComments');" pmid="778356">评论 <em>1780</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3273390">
+<input class="search_list_reduce_gray" onclick="modifyBuyNum(this, -1);" type="button"/>
+<input class="num" id="buyNum_51197108" onkeyup="var key=event.keyCode;checkBuyNum(this, key)" type="text" value="1"/>
+<input class="search_list_plus" onclick="modifyBuyNum(this, 1);" type="button"/>
+<button class="buy op_right_btn add_cart_btn border_left" id="buyButton_51197108" index="0" inshop="0" merchantid="" onclick="javascript:buyToCart(3,51197108);" pminfo="" productcode="3273390" sellproductid="3273390" specialtype="13">加入购物车</button>
+</div>
+<div class="sheng"><span>省</span>3.0元</div>
+<u class="bg_border"></u>
+<div class="item_kit" id="item_kit">
+<div class="item_kit_clip clearfix">
+<div class="item_kit_n">
+<a class="" comproid="778356" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">1件</a>
+<a class="k_cur" comproid="3273390" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">6件</a>
+<a class="" comproid="3273383" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">3件</a>
+<a class="" comproid="3309795" data-ywpoint="null_null_null_null_I1120_0" href="javascript:void(0);">套餐1</a>
+<i style="left: 50px;"></i>
+</div></div>
+</div></div>
+06-37-2019 08:37:20 root:INFO:https://p1.maiyaole.com/img/item/201808/10/200_20180810150222547.jpg
+06-37-2019 08:37:20 root:INFO:http://www.111.com.cn/product/51197108.html
+06-37-2019 08:37:20 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57659/session/d5e3000a3ca21d89a8eebde843397d27/url {"url": "http://www.111.com.cn/product/51197108.html"}
+06-37-2019 08:37:21 urllib3.connectionpool:DEBUG:http://127.0.0.1:57659 "POST /session/d5e3000a3ca21d89a8eebde843397d27/url HTTP/1.1" 200 14
+06-37-2019 08:37:21 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-37-2019 08:37:22 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57659/session/d5e3000a3ca21d89a8eebde843397d27/source {}
+06-37-2019 08:37:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:57659 "GET /session/d5e3000a3ca21d89a8eebde843397d27/source HTTP/1.1" 200 244993
+06-37-2019 08:37:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-37-2019 08:37:22 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">今辰 黄连上清片 48片*6件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>今辰</td>
+<th>规　　格：</th>
+<td>24片*2板</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.038kg</td>
+<th>生产厂商:</th>
+<td>上海海虹实业(集团)巢湖今辰药业有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z34020702(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-37-2019 08:37:22 root:INFO:**********************
+06-37-2019 08:37:22 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>]
+06-37-2019 08:37:22 root:INFO:**********************
+06-37-2019 08:37:22 root:INFO:[<td colspan="3">今辰 黄连上清片 48片*6件</td>, <td>今辰</td>, <td>24片*2板</td>, <td>0.038kg</td>, <td>上海海虹实业(集团)巢湖今辰药业有限公司</td>, <td>
+                                                                                    国药准字Z34020702(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-37-2019 08:37:22 root:INFO:商品名称：今辰 黄连上清片 48片*6件
+06-37-2019 08:37:22 root:INFO:品　　牌：今辰
+06-37-2019 08:37:22 root:INFO:规　　格：24片*2板
+06-37-2019 08:37:22 root:INFO:重　　量：0.038kg
+06-37-2019 08:37:22 root:INFO:生产厂商:上海海虹实业(集团)巢湖今辰药业有限公司
+06-37-2019 08:37:22 root:INFO:批准文号：国药准字Z34020702
+06-37-2019 08:37:22 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-37-2019 08:37:22 root:INFO:<div class="itemSearchResultCon none" comproid="3273383" itemid="51197106" purchasehidestatus="1">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51197106.html" target="_blank">
+<img alt="今辰 黄连上清片 48片 *3件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201808/10/200_20180810150222547.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3273383">
+<span>
+                                  
+                            12.0
+                                  
+                                    <u>¥4.0/件</u>
+</span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51197106.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          今辰 黄连上清片 48片 *3件</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/971660.html#itemComments');" pmid="778356">评论 <em>1780</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3273383">
+<input class="search_list_reduce_gray" onclick="modifyBuyNum(this, -1);" type="button"/>
+<input class="num" id="buyNum_51197106" onkeyup="var key=event.keyCode;checkBuyNum(this, key)" type="text" value="1"/>
+<input class="search_list_plus" onclick="modifyBuyNum(this, 1);" type="button"/>
+<button class="buy op_right_btn add_cart_btn border_left" id="buyButton_51197106" index="0" inshop="0" merchantid="" onclick="javascript:buyToCart(3,51197106);" pminfo="" productcode="3273383" sellproductid="3273383" specialtype="13">加入购物车</button>
+</div>
+<div class="sheng"><span>省</span>0.9元</div>
+<u class="bg_border"></u>
+</div>
+06-37-2019 08:37:22 root:INFO:https://p1.maiyaole.com/img/item/201808/10/200_20180810150222547.jpg
+06-37-2019 08:37:22 root:INFO:http://www.111.com.cn/product/51197106.html
+06-37-2019 08:37:22 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57659/session/d5e3000a3ca21d89a8eebde843397d27/url {"url": "http://www.111.com.cn/product/51197106.html"}
+06-37-2019 08:37:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:57659 "POST /session/d5e3000a3ca21d89a8eebde843397d27/url HTTP/1.1" 200 14
+06-37-2019 08:37:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-37-2019 08:37:23 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57659/session/d5e3000a3ca21d89a8eebde843397d27/source {}
+06-37-2019 08:37:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:57659 "GET /session/d5e3000a3ca21d89a8eebde843397d27/source HTTP/1.1" 200 245008
+06-37-2019 08:37:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-37-2019 08:37:23 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">今辰 黄连上清片 48片*3件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>今辰</td>
+<th>规　　格：</th>
+<td>24片*2板</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.038kg</td>
+<th>生产厂商:</th>
+<td>上海海虹实业(集团)巢湖今辰药业有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z34020702(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-37-2019 08:37:23 root:INFO:**********************
+06-37-2019 08:37:23 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>]
+06-37-2019 08:37:23 root:INFO:**********************
+06-37-2019 08:37:23 root:INFO:[<td colspan="3">今辰 黄连上清片 48片*3件</td>, <td>今辰</td>, <td>24片*2板</td>, <td>0.038kg</td>, <td>上海海虹实业(集团)巢湖今辰药业有限公司</td>, <td>
+                                                                                    国药准字Z34020702(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-37-2019 08:37:23 root:INFO:商品名称：今辰 黄连上清片 48片*3件
+06-37-2019 08:37:23 root:INFO:品　　牌：今辰
+06-37-2019 08:37:23 root:INFO:规　　格：24片*2板
+06-37-2019 08:37:23 root:INFO:重　　量：0.038kg
+06-37-2019 08:37:23 root:INFO:生产厂商:上海海虹实业(集团)巢湖今辰药业有限公司
+06-37-2019 08:37:23 root:INFO:批准文号：国药准字Z34020702
+06-37-2019 08:37:23 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-37-2019 08:37:23 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:57659/session/d5e3000a3ca21d89a8eebde843397d27/window {}
+06-37-2019 08:37:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:57659 "DELETE /session/d5e3000a3ca21d89a8eebde843397d27/window HTTP/1.1" 200 12
+06-37-2019 08:37:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-37-2019 08:37:24 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:57659/session/d5e3000a3ca21d89a8eebde843397d27 {}
+06-37-2019 08:37:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:57659 "DELETE /session/d5e3000a3ca21d89a8eebde843397d27 HTTP/1.1" 200 14
+06-37-2019 08:37:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

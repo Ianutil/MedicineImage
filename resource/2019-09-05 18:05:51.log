@@ -1,0 +1,105 @@
+05-05-2019 18:05:51 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57621/session/9ea72c41e97183578ba046d548037d65/url {"url": "https://www.111.com.cn"}
+05-05-2019 18:05:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:57621 "POST /session/9ea72c41e97183578ba046d548037d65/url HTTP/1.1" 200 14
+05-05-2019 18:05:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-05-2019 18:05:53 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57621/session/9ea72c41e97183578ba046d548037d65/source {}
+05-05-2019 18:05:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:57621 "GET /session/9ea72c41e97183578ba046d548037d65/source HTTP/1.1" 200 339426
+05-05-2019 18:05:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-05-2019 18:05:53 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57621/session/9ea72c41e97183578ba046d548037d65/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u94f6\u674f\u53f6\u7247\");\n$(\"#word\").attr(\"value\",\"\u94f6\u674f\u53f6\u7247\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+05-05-2019 18:05:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:57621 "POST /session/9ea72c41e97183578ba046d548037d65/execute/sync HTTP/1.1" 200 14
+05-05-2019 18:05:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-05-2019 18:05:55 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57621/session/9ea72c41e97183578ba046d548037d65/source {}
+05-05-2019 18:05:55 urllib3.connectionpool:DEBUG:http://127.0.0.1:57621 "GET /session/9ea72c41e97183578ba046d548037d65/source HTTP/1.1" 200 678612
+05-05-2019 18:05:55 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-05-2019 18:05:56 root:INFO:<div class="itemSearchResultCon none" comproid="1986354" isrecom="0" itemid="50503421">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50503421.html" target="_blank">
+<img alt="龙城 银杏叶片 24片" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/item/201902/20/200_20190220173626839.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1986354">
+<span>
+                        6.9
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50503421.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    龙城 银杏叶片 24片</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1986354">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_0" druglevel="2" id="askDoctor_1986354" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="1986354" productcode="1986354" sellproductid="1986354" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/50503421.html" id="buyButton_1986354" index="0" inshop="0" merchantid="26" pminfo="1986354" productcode="1986354" productdisabled="true" sellproductid="1986354" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+05-05-2019 18:05:56 root:INFO:https://p4.maiyaole.com/img/item/201902/20/200_20190220173626839.jpg
+05-05-2019 18:05:56 root:INFO:http://www.111.com.cn/product/50503421.html
+05-05-2019 18:05:56 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:57621/session/9ea72c41e97183578ba046d548037d65/url {"url": "http://www.111.com.cn/product/50503421.html"}
+05-05-2019 18:05:57 urllib3.connectionpool:DEBUG:http://127.0.0.1:57621 "POST /session/9ea72c41e97183578ba046d548037d65/url HTTP/1.1" 200 14
+05-05-2019 18:05:57 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-05-2019 18:05:58 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:57621/session/9ea72c41e97183578ba046d548037d65/source {}
+05-05-2019 18:05:58 urllib3.connectionpool:DEBUG:http://127.0.0.1:57621 "GET /session/9ea72c41e97183578ba046d548037d65/source HTTP/1.1" 200 245352
+05-05-2019 18:05:58 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-05-2019 18:05:59 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">龙城 银杏叶片 24片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>亿康</td>
+<th>规　　格：</th>
+<td>9.6mg:2.4mg*12片*2板</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.02kg</td>
+<th>生产厂商:</th>
+<td>广西两面针亿康药业股份有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字Z20027940(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+05-05-2019 18:05:59 root:INFO:**********************
+05-05-2019 18:05:59 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+05-05-2019 18:05:59 root:INFO:**********************
+05-05-2019 18:05:59 root:INFO:[<td colspan="3">龙城 银杏叶片 24片</td>, <td>亿康</td>, <td>9.6mg:2.4mg*12片*2板</td>, <td>0.02kg</td>, <td>广西两面针亿康药业股份有限公司</td>, <td>
+                                                                                    国药准字Z20027940(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-06-2019 18:06:03 root:INFO:商品名称：龙城 银杏叶片 24片
+05-06-2019 18:06:08 root:INFO:品　　牌：亿康
+05-06-2019 18:06:29 root:INFO:规　　格：9.6mg:2.4mg*12片*2板

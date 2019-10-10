@@ -1,0 +1,876 @@
+06-09-2019 09:09:07 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/url {"url": "https://www.111.com.cn"}
+06-09-2019 09:09:08 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "POST /session/08eaa50bf165b60dcbcab4780044fed5/url HTTP/1.1" 200 14
+06-09-2019 09:09:08 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:09 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/source {}
+06-09-2019 09:09:09 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "GET /session/08eaa50bf165b60dcbcab4780044fed5/source HTTP/1.1" 200 340134
+06-09-2019 09:09:09 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:09 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u514b\u9709\u5511\u9634\u9053\u7247 \u62dc\u8033\");\n$(\"#word\").attr(\"value\",\"\u514b\u9709\u5511\u9634\u9053\u7247 \u62dc\u8033\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-09-2019 09:09:09 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "POST /session/08eaa50bf165b60dcbcab4780044fed5/execute/sync HTTP/1.1" 200 14
+06-09-2019 09:09:09 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:10 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/source {}
+06-09-2019 09:09:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "GET /session/08eaa50bf165b60dcbcab4780044fed5/source HTTP/1.1" 200 271660
+06-09-2019 09:09:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:10 root:INFO:<div class="itemSearchResultCon" comproid="3567937" isrecom="0" itemid="51338491">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51338491.html" target="_blank">
+<img alt="凯妮汀 克霉唑阴道片 0.5gx1片/盒" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/50163/50163566/120_120.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3567937">
+<span>
+                        55.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51338491.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    凯妮汀 克霉唑阴道片 0.5gx1片/盒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102514505">北京隆元康药房</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3567937">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3567937_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51338491,1)" pminfo="3567937" productcode="3567937" sellproductid="3567937" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3567937" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51338491,1)" ordersettings="11" pminfo="3567937" productcode="3567937" sellproductid="3567937" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/51338491.html" id="buyButton_3567937" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3567937" productcode="3567937" sellproductid="3567937" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-09-2019 09:09:10 root:INFO:https://p3.maiyaole.com/img/50163/50163566/120_120.jpg
+06-09-2019 09:09:10 root:INFO:http://www.111.com.cn/product/51338491.html
+06-09-2019 09:09:10 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/url {"url": "http://www.111.com.cn/product/51338491.html"}
+06-09-2019 09:09:11 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "POST /session/08eaa50bf165b60dcbcab4780044fed5/url HTTP/1.1" 200 14
+06-09-2019 09:09:11 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:12 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/source {}
+06-09-2019 09:09:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "GET /session/08eaa50bf165b60dcbcab4780044fed5/source HTTP/1.1" 200 238039
+06-09-2019 09:09:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:12 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">凯妮汀 克霉唑阴道片 0.5gx1片/盒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>拜耳/bayer/凯妮汀</td>
+<th>规　　格：</th>
+<td>0.5gx1片/盒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.01kg</td>
+<th>生产厂商:</th>
+<td>拜耳医药保健有限公司启东分公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-09-2019 09:09:12 root:INFO:**********************
+06-09-2019 09:09:12 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-09-2019 09:09:12 root:INFO:**********************
+06-09-2019 09:09:12 root:INFO:[<td colspan="3">凯妮汀 克霉唑阴道片 0.5gx1片/盒</td>, <td>拜耳/bayer/凯妮汀</td>, <td>0.5gx1片/盒</td>, <td>0.01kg</td>, <td>拜耳医药保健有限公司启东分公司</td>, <td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-09-2019 09:09:12 root:INFO:商品名称：凯妮汀 克霉唑阴道片 0.5gx1片/盒
+06-09-2019 09:09:12 root:INFO:品　　牌：拜耳/bayer/凯妮汀
+06-09-2019 09:09:12 root:INFO:规　　格：0.5gx1片/盒
+06-09-2019 09:09:12 root:INFO:重　　量：0.01kg
+06-09-2019 09:09:12 root:INFO:生产厂商:拜耳医药保健有限公司启东分公司
+06-09-2019 09:09:12 root:INFO:批准文号：国药准字J20130174
+06-09-2019 09:09:12 root:INFO:产品类型：处方药
+06-09-2019 09:09:12 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-09-2019 09:09:12 root:INFO:<div class="itemSearchResultCon" comproid="3393630" isrecom="0" itemid="51275464">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/51275464.html" target="_blank">
+<img alt="凯妮汀 克霉唑阴道片(OTC) 500mg*1片＋投药器" data-ywpoint="null_null_null_null_I1121_1" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201804/11/200_20180411160722228.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3393630">
+<span>
+                        47.6
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/51275464.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    凯妮汀 克霉唑阴道片(OTC) 500mg*1片＋投药器</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_1">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102553535">济瑾堂大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3393630">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_1" id="submitRequest_3393630_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51275464,1)" pminfo="3393630" productcode="3393630" sellproductid="3393630" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_1" id="submitRequest_3393630" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51275464,1)" ordersettings="11" pminfo="3393630" productcode="3393630" sellproductid="3393630" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_1" href="//www.111.com.cn/product/51275464.html" id="buyButton_3393630" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3393630" productcode="3393630" sellproductid="3393630" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-09-2019 09:09:12 root:INFO:https://p1.maiyaole.com/img/item/201804/11/200_20180411160722228.jpg
+06-09-2019 09:09:12 root:INFO:http://www.111.com.cn/product/51275464.html
+06-09-2019 09:09:12 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/url {"url": "http://www.111.com.cn/product/51275464.html"}
+06-09-2019 09:09:13 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "POST /session/08eaa50bf165b60dcbcab4780044fed5/url HTTP/1.1" 200 14
+06-09-2019 09:09:13 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:14 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/source {}
+06-09-2019 09:09:14 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "GET /session/08eaa50bf165b60dcbcab4780044fed5/source HTTP/1.1" 200 247645
+06-09-2019 09:09:14 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:14 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">凯妮汀 克霉唑阴道片(OTC) 500mg*1片＋投药器</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>拜耳/bayer/凯妮汀</td>
+<th>规　　格：</th>
+<td>500mg*1片+投药器</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.031kg</td>
+<th>生产厂商:</th>
+<td>拜耳医药保健有限公司启东分公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-09-2019 09:09:14 root:INFO:**********************
+06-09-2019 09:09:14 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-09-2019 09:09:14 root:INFO:**********************
+06-09-2019 09:09:14 root:INFO:[<td colspan="3">凯妮汀 克霉唑阴道片(OTC) 500mg*1片＋投药器</td>, <td>拜耳/bayer/凯妮汀</td>, <td>500mg*1片+投药器</td>, <td>0.031kg</td>, <td>拜耳医药保健有限公司启东分公司</td>, <td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-09-2019 09:09:14 root:INFO:商品名称：凯妮汀 克霉唑阴道片(OTC) 500mg*1片＋投药器
+06-09-2019 09:09:14 root:INFO:品　　牌：拜耳/bayer/凯妮汀
+06-09-2019 09:09:14 root:INFO:规　　格：500mg*1片+投药器
+06-09-2019 09:09:14 root:INFO:重　　量：0.031kg
+06-09-2019 09:09:14 root:INFO:生产厂商:拜耳医药保健有限公司启东分公司
+06-09-2019 09:09:14 root:INFO:批准文号：国药准字J20130174
+06-09-2019 09:09:14 root:INFO:产品类型：OTC（非处方药）
+06-09-2019 09:09:14 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-09-2019 09:09:14 root:INFO:<div class="itemSearchResultCon" comproid="3224318" isrecom="0" itemid="51158327">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/51158327.html" target="_blank">
+<img alt="凯妮汀 克霉唑阴道片 0.5gx1片/盒" data-ywpoint="null_null_null_null_I1121_2" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/50163/50163566/120_120.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3224318">
+<span>
+                        50.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/51158327.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    凯妮汀 克霉唑阴道片 0.5gx1片/盒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_2">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102547389">康之家大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3224318">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_2" id="submitRequest_3224318_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51158327,1)" pminfo="3224318" productcode="3224318" sellproductid="3224318" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_2" id="submitRequest_3224318" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51158327,1)" ordersettings="11" pminfo="3224318" productcode="3224318" sellproductid="3224318" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_2" href="//www.111.com.cn/product/51158327.html" id="buyButton_3224318" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3224318" productcode="3224318" sellproductid="3224318" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-09-2019 09:09:14 root:INFO:https://p3.maiyaole.com/img/50163/50163566/120_120.jpg
+06-09-2019 09:09:14 root:INFO:http://www.111.com.cn/product/51158327.html
+06-09-2019 09:09:14 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/url {"url": "http://www.111.com.cn/product/51158327.html"}
+06-09-2019 09:09:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "POST /session/08eaa50bf165b60dcbcab4780044fed5/url HTTP/1.1" 200 14
+06-09-2019 09:09:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:16 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/source {}
+06-09-2019 09:09:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "GET /session/08eaa50bf165b60dcbcab4780044fed5/source HTTP/1.1" 200 238051
+06-09-2019 09:09:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:16 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">凯妮汀 克霉唑阴道片 0.5gx1片/盒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>拜耳/bayer/凯妮汀</td>
+<th>规　　格：</th>
+<td>0.5gx1片/盒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.01kg</td>
+<th>生产厂商:</th>
+<td>拜耳医药保健有限公司启东分公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-09-2019 09:09:16 root:INFO:**********************
+06-09-2019 09:09:16 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-09-2019 09:09:16 root:INFO:**********************
+06-09-2019 09:09:16 root:INFO:[<td colspan="3">凯妮汀 克霉唑阴道片 0.5gx1片/盒</td>, <td>拜耳/bayer/凯妮汀</td>, <td>0.5gx1片/盒</td>, <td>0.01kg</td>, <td>拜耳医药保健有限公司启东分公司</td>, <td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-09-2019 09:09:16 root:INFO:商品名称：凯妮汀 克霉唑阴道片 0.5gx1片/盒
+06-09-2019 09:09:16 root:INFO:品　　牌：拜耳/bayer/凯妮汀
+06-09-2019 09:09:16 root:INFO:规　　格：0.5gx1片/盒
+06-09-2019 09:09:16 root:INFO:重　　量：0.01kg
+06-09-2019 09:09:16 root:INFO:生产厂商:拜耳医药保健有限公司启东分公司
+06-09-2019 09:09:16 root:INFO:批准文号：国药准字J20130174
+06-09-2019 09:09:16 root:INFO:产品类型：处方药
+06-09-2019 09:09:16 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-09-2019 09:09:16 root:INFO:<div class="itemSearchResultCon" comproid="3564797" isrecom="0" itemid="51336236">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_3" href="//www.111.com.cn/product/51336236.html" target="_blank">
+<img alt="凯妮汀 克霉唑阴道片 0.5gx1片/盒" data-ywpoint="null_null_null_null_I1121_3" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/201907/11/200_20190711162714973.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3564797">
+<span>
+                        50.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_3" href="//www.111.com.cn/product/51336236.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    凯妮汀 克霉唑阴道片 0.5gx1片/盒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_3">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102545185">益丰大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3564797">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_3" id="submitRequest_3564797_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51336236,1)" pminfo="3564797" productcode="3564797" sellproductid="3564797" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_3" id="submitRequest_3564797" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51336236,1)" ordersettings="11" pminfo="3564797" productcode="3564797" sellproductid="3564797" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_3" href="//www.111.com.cn/product/51336236.html" id="buyButton_3564797" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3564797" productcode="3564797" sellproductid="3564797" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-09-2019 09:09:16 root:INFO:https://p4.maiyaole.com/img/201907/11/200_20190711162714973.jpg
+06-09-2019 09:09:16 root:INFO:http://www.111.com.cn/product/51336236.html
+06-09-2019 09:09:16 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/url {"url": "http://www.111.com.cn/product/51336236.html"}
+06-09-2019 09:09:16 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "POST /session/08eaa50bf165b60dcbcab4780044fed5/url HTTP/1.1" 200 14
+06-09-2019 09:09:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:17 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/source {}
+06-09-2019 09:09:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "GET /session/08eaa50bf165b60dcbcab4780044fed5/source HTTP/1.1" 200 240420
+06-09-2019 09:09:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:18 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">凯妮汀 克霉唑阴道片 0.5gx1片/盒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>拜耳/bayer/凯妮汀</td>
+<th>规　　格：</th>
+<td>0.5gx1片/盒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.01kg</td>
+<th>生产厂商:</th>
+<td>拜耳医药保健有限公司启东分公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-09-2019 09:09:18 root:INFO:**********************
+06-09-2019 09:09:18 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-09-2019 09:09:18 root:INFO:**********************
+06-09-2019 09:09:18 root:INFO:[<td colspan="3">凯妮汀 克霉唑阴道片 0.5gx1片/盒</td>, <td>拜耳/bayer/凯妮汀</td>, <td>0.5gx1片/盒</td>, <td>0.01kg</td>, <td>拜耳医药保健有限公司启东分公司</td>, <td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-09-2019 09:09:18 root:INFO:商品名称：凯妮汀 克霉唑阴道片 0.5gx1片/盒
+06-09-2019 09:09:18 root:INFO:品　　牌：拜耳/bayer/凯妮汀
+06-09-2019 09:09:18 root:INFO:规　　格：0.5gx1片/盒
+06-09-2019 09:09:18 root:INFO:重　　量：0.01kg
+06-09-2019 09:09:18 root:INFO:生产厂商:拜耳医药保健有限公司启东分公司
+06-09-2019 09:09:18 root:INFO:批准文号：国药准字J20130174
+06-09-2019 09:09:18 root:INFO:产品类型：处方药
+06-09-2019 09:09:18 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-09-2019 09:09:18 root:INFO:<div class="itemSearchResultCon" comproid="3292877" isrecom="0" itemid="51212686">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/51212686.html" target="_blank">
+<img alt="凯妮汀 克霉唑阴道片(OTC) 500mg*1片＋投药器" data-ywpoint="null_null_null_null_I1121_4" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/item/201804/11/200_20180411160722228.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3292877">
+<span>
+                        47.6
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/51212686.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    凯妮汀 克霉唑阴道片(OTC) 500mg*1片＋投药器</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_4">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102550031">成都拜欧大药房旗...</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3292877">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_4" id="submitRequest_3292877_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51212686,1)" pminfo="3292877" productcode="3292877" sellproductid="3292877" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_4" id="submitRequest_3292877" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51212686,1)" ordersettings="11" pminfo="3292877" productcode="3292877" sellproductid="3292877" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_4" href="//www.111.com.cn/product/51212686.html" id="buyButton_3292877" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3292877" productcode="3292877" sellproductid="3292877" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-09-2019 09:09:18 root:INFO:https://p1.maiyaole.com/img/item/201804/11/200_20180411160722228.jpg
+06-09-2019 09:09:18 root:INFO:http://www.111.com.cn/product/51212686.html
+06-09-2019 09:09:18 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/url {"url": "http://www.111.com.cn/product/51212686.html"}
+06-09-2019 09:09:18 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "POST /session/08eaa50bf165b60dcbcab4780044fed5/url HTTP/1.1" 200 14
+06-09-2019 09:09:18 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:19 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/source {}
+06-09-2019 09:09:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "GET /session/08eaa50bf165b60dcbcab4780044fed5/source HTTP/1.1" 200 247557
+06-09-2019 09:09:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:19 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">凯妮汀 克霉唑阴道片(OTC) 500mg*1片＋投药器</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>拜耳/bayer/凯妮汀</td>
+<th>规　　格：</th>
+<td>500mg*1片+投药器</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.031kg</td>
+<th>生产厂商:</th>
+<td>拜耳医药保健有限公司启东分公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-09-2019 09:09:19 root:INFO:**********************
+06-09-2019 09:09:19 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-09-2019 09:09:19 root:INFO:**********************
+06-09-2019 09:09:19 root:INFO:[<td colspan="3">凯妮汀 克霉唑阴道片(OTC) 500mg*1片＋投药器</td>, <td>拜耳/bayer/凯妮汀</td>, <td>500mg*1片+投药器</td>, <td>0.031kg</td>, <td>拜耳医药保健有限公司启东分公司</td>, <td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-09-2019 09:09:19 root:INFO:商品名称：凯妮汀 克霉唑阴道片(OTC) 500mg*1片＋投药器
+06-09-2019 09:09:19 root:INFO:品　　牌：拜耳/bayer/凯妮汀
+06-09-2019 09:09:19 root:INFO:规　　格：500mg*1片+投药器
+06-09-2019 09:09:19 root:INFO:重　　量：0.031kg
+06-09-2019 09:09:19 root:INFO:生产厂商:拜耳医药保健有限公司启东分公司
+06-09-2019 09:09:19 root:INFO:批准文号：国药准字J20130174
+06-09-2019 09:09:19 root:INFO:产品类型：OTC（非处方药）
+06-09-2019 09:09:19 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-09-2019 09:09:19 root:INFO:<div class="itemSearchResultCon" comproid="3242332" isrecom="0" itemid="51172031">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_5" href="//www.111.com.cn/product/51172031.html" target="_blank">
+<img alt="凯妮汀 克霉唑阴道片 0.5gx1片/盒" data-ywpoint="null_null_null_null_I1121_5" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/50163/50163566/120_120.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3242332">
+<span>
+                        50.4
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_5" href="//www.111.com.cn/product/51172031.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    凯妮汀 克霉唑阴道片 0.5gx1片/盒</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_5">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102541739">国药控股国大药房...</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3242332">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_5" id="submitRequest_3242332_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51172031,1)" pminfo="3242332" productcode="3242332" sellproductid="3242332" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_5" id="submitRequest_3242332" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51172031,1)" ordersettings="11" pminfo="3242332" productcode="3242332" sellproductid="3242332" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_5" href="//www.111.com.cn/product/51172031.html" id="buyButton_3242332" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3242332" productcode="3242332" sellproductid="3242332" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-09-2019 09:09:19 root:INFO:https://p3.maiyaole.com/img/50163/50163566/120_120.jpg
+06-09-2019 09:09:19 root:INFO:http://www.111.com.cn/product/51172031.html
+06-09-2019 09:09:19 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/url {"url": "http://www.111.com.cn/product/51172031.html"}
+06-09-2019 09:09:20 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "POST /session/08eaa50bf165b60dcbcab4780044fed5/url HTTP/1.1" 200 14
+06-09-2019 09:09:20 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:21 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/source {}
+06-09-2019 09:09:21 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "GET /session/08eaa50bf165b60dcbcab4780044fed5/source HTTP/1.1" 200 238002
+06-09-2019 09:09:21 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:21 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">凯妮汀 克霉唑阴道片 0.5gx1片/盒</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>拜耳/bayer/凯妮汀</td>
+<th>规　　格：</th>
+<td>0.5gx1片/盒</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.01kg</td>
+<th>生产厂商:</th>
+<td>拜耳医药保健有限公司启东分公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-09-2019 09:09:21 root:INFO:**********************
+06-09-2019 09:09:21 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-09-2019 09:09:21 root:INFO:**********************
+06-09-2019 09:09:21 root:INFO:[<td colspan="3">凯妮汀 克霉唑阴道片 0.5gx1片/盒</td>, <td>拜耳/bayer/凯妮汀</td>, <td>0.5gx1片/盒</td>, <td>0.01kg</td>, <td>拜耳医药保健有限公司启东分公司</td>, <td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-09-2019 09:09:21 root:INFO:商品名称：凯妮汀 克霉唑阴道片 0.5gx1片/盒
+06-09-2019 09:09:21 root:INFO:品　　牌：拜耳/bayer/凯妮汀
+06-09-2019 09:09:21 root:INFO:规　　格：0.5gx1片/盒
+06-09-2019 09:09:21 root:INFO:重　　量：0.01kg
+06-09-2019 09:09:21 root:INFO:生产厂商:拜耳医药保健有限公司启东分公司
+06-09-2019 09:09:21 root:INFO:批准文号：国药准字J20130174
+06-09-2019 09:09:21 root:INFO:产品类型：处方药
+06-09-2019 09:09:21 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-09-2019 09:09:21 root:INFO:<div class="itemSearchResultCon" comproid="3602033" isrecom="0" itemid="51356132">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_6" href="//www.111.com.cn/product/51356132.html" target="_blank">
+<img alt="凯妮汀 克霉唑阴道片 0.5g*1片＋投药器" data-ywpoint="null_null_null_null_I1121_6" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/201908/29/200_20190829093015212.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3602033">
+<span>
+                        47.6
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_6" href="//www.111.com.cn/product/51356132.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    凯妮汀 克霉唑阴道片 0.5g*1片＋投药器</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_6">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102555866">鑫华仁大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3602033">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_6" id="submitRequest_3602033_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51356132,1)" pminfo="3602033" productcode="3602033" sellproductid="3602033" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_6" id="submitRequest_3602033" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51356132,1)" ordersettings="11" pminfo="3602033" productcode="3602033" sellproductid="3602033" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_6" href="//www.111.com.cn/product/51356132.html" id="buyButton_3602033" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3602033" productcode="3602033" sellproductid="3602033" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-09-2019 09:09:21 root:INFO:https://p2.maiyaole.com/img/201908/29/200_20190829093015212.jpg
+06-09-2019 09:09:21 root:INFO:http://www.111.com.cn/product/51356132.html
+06-09-2019 09:09:21 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/url {"url": "http://www.111.com.cn/product/51356132.html"}
+06-09-2019 09:09:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "POST /session/08eaa50bf165b60dcbcab4780044fed5/url HTTP/1.1" 200 14
+06-09-2019 09:09:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:23 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/source {}
+06-09-2019 09:09:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "GET /session/08eaa50bf165b60dcbcab4780044fed5/source HTTP/1.1" 200 245440
+06-09-2019 09:09:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:23 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">凯妮汀 克霉唑阴道片 0.5g*1片＋投药器</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>拜耳/bayer/凯妮汀</td>
+<th>规　　格：</th>
+<td>500mg*1片+投药器</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.031kg</td>
+<th>生产厂商:</th>
+<td>拜耳医药保健有限公司启东分公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-09-2019 09:09:23 root:INFO:**********************
+06-09-2019 09:09:23 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-09-2019 09:09:23 root:INFO:**********************
+06-09-2019 09:09:23 root:INFO:[<td colspan="3">凯妮汀 克霉唑阴道片 0.5g*1片＋投药器</td>, <td>拜耳/bayer/凯妮汀</td>, <td>500mg*1片+投药器</td>, <td>0.031kg</td>, <td>拜耳医药保健有限公司启东分公司</td>, <td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-09-2019 09:09:23 root:INFO:商品名称：凯妮汀 克霉唑阴道片 0.5g*1片＋投药器
+06-09-2019 09:09:23 root:INFO:品　　牌：拜耳/bayer/凯妮汀
+06-09-2019 09:09:23 root:INFO:规　　格：500mg*1片+投药器
+06-09-2019 09:09:23 root:INFO:重　　量：0.031kg
+06-09-2019 09:09:23 root:INFO:生产厂商:拜耳医药保健有限公司启东分公司
+06-09-2019 09:09:23 root:INFO:批准文号：国药准字J20130174
+06-09-2019 09:09:23 root:INFO:产品类型：OTC（非处方药）
+06-09-2019 09:09:23 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-09-2019 09:09:23 root:INFO:<div class="itemSearchResultCon" comproid="778511" isrecom="0" itemid="971851">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_7" href="//www.111.com.cn/product/971851.html" target="_blank">
+<img alt="凯妮汀 克霉唑阴道片 0.5g*1片＋投药器" data-ywpoint="null_null_null_null_I1121_7" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/item/201908/29/200_20190829152107606.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_778511">
+<span>
+                        47.9
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_7" href="//www.111.com.cn/product/971851.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    凯妮汀 克霉唑阴道片 0.5g*1片＋投药器用于念珠菌性阴道病。</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_7">
+<a href="javascript:void(0);" id="pdlink3" onclick="javascript:window.open('//www.111.com.cn/product/971851.html#itemComments');" pmid="778511">评论 <em>2475</em>条</a>
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_778511">
+<input class="search_list_reduce_gray" data-ywpoint="null_null_null_null_I1122_7" onclick="modifyBuyNum(this, -1);" type="button"/>
+<input class="num" id="buyNum_971851" onkeyup="var key=event.keyCode;checkBuyNum(this, key)" type="text" value="1"/>
+<input class="search_list_plus" data-ywpoint="null_null_null_null_I1122_7" onclick="modifyBuyNum(this, 1);" type="button"/>
+<button class="buy op_right_btn add_cart_btn border_left" currentstore="true" data-ywpoint="null_null_null_null_I1123_7" id="buyButton_971851" index="0" inshop="0" merchantid="" onclick="javascript:buyToCart(1,971851);" pminfo="" productcode="778511" sellproductid="778511" specialtype="13">加入购物车</button>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-09-2019 09:09:23 root:INFO:https://p4.maiyaole.com/img/item/201908/29/200_20190829152107606.jpg
+06-09-2019 09:09:23 root:INFO:http://www.111.com.cn/product/971851.html
+06-09-2019 09:09:23 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/url {"url": "http://www.111.com.cn/product/971851.html"}
+06-09-2019 09:09:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "POST /session/08eaa50bf165b60dcbcab4780044fed5/url HTTP/1.1" 200 14
+06-09-2019 09:09:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:25 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/source {}
+06-09-2019 09:09:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "GET /session/08eaa50bf165b60dcbcab4780044fed5/source HTTP/1.1" 200 250204
+06-09-2019 09:09:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:25 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">凯妮汀 克霉唑阴道片 0.5g*1片＋投药器</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>凯妮汀</td>
+<th>规　　格：</th>
+<td>500mg*1片+投药器</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.031kg</td>
+<th>生产厂商:</th>
+<td>拜耳医药保健有限公司启东分公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+06-09-2019 09:09:25 root:INFO:**********************
+06-09-2019 09:09:25 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+06-09-2019 09:09:25 root:INFO:**********************
+06-09-2019 09:09:25 root:INFO:[<td colspan="3">凯妮汀 克霉唑阴道片 0.5g*1片＋投药器</td>, <td>凯妮汀</td>, <td>500mg*1片+投药器</td>, <td>0.031kg</td>, <td>拜耳医药保健有限公司启东分公司</td>, <td>
+                                                                                    国药准字J20130174(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-09-2019 09:09:25 root:INFO:商品名称：凯妮汀 克霉唑阴道片 0.5g*1片＋投药器
+06-09-2019 09:09:25 root:INFO:品　　牌：凯妮汀
+06-09-2019 09:09:25 root:INFO:规　　格：500mg*1片+投药器
+06-09-2019 09:09:25 root:INFO:重　　量：0.031kg
+06-09-2019 09:09:25 root:INFO:生产厂商:拜耳医药保健有限公司启东分公司
+06-09-2019 09:09:25 root:INFO:批准文号：国药准字J20130174
+06-09-2019 09:09:25 root:INFO:产品类型：OTC（非处方药）
+06-09-2019 09:09:25 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-09-2019 09:09:25 root:INFO:<div class="itemSearchResultCon" comproid="2264251" isrecom="0" itemid="50658235">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_8" href="//www.111.com.cn/product/50658235.html" target="_blank">
+<textarea data-original="" lz="true" style="visibility:hidden;">                              &lt;img src="https://p2.maiyaole.com/img/971/971851/120_120.jpg?a=288833187" alt="凯妮汀 克霉唑阴道片 0.5g*1片＋投药器" onerror="imgERROR(this,'no_pic_120_120.jpg');" width="205" height="188" data-ywpoint='null_null_null_null_I1121_8'&gt;
+                          </textarea>
+</a>
+<p class="price" id="promotionInfo_2264251">
+<textarea data-original="" lz="true" style="visibility:hidden;">                                  
+                                &lt;span&gt;
+                                    54.0
+                                &lt;/span&gt;
+                              </textarea>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_8" href="//www.111.com.cn/product/50658235.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    凯妮汀 克霉唑阴道片 0.5g*1片＋投药器实体药房 验货付款</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_8">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102529635">隆安堂大药房</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2264251">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_8" id="submitRequest_2264251_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50658235,1)" pminfo="2264251" productcode="2264251" sellproductid="2264251" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_8" id="submitRequest_2264251" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50658235,1)" ordersettings="11" pminfo="2264251" productcode="2264251" sellproductid="2264251" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_8" href="//www.111.com.cn/product/50658235.html" id="buyButton_2264251" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="2264251" productcode="2264251" sellproductid="2264251" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-09-2019 09:09:25 root:INFO:<div class="itemSearchResultCon" comproid="1472361" isrecom="0" itemid="50256581">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_9" href="//www.111.com.cn/product/50256581.html" target="_blank">
+<textarea data-original="" lz="true" style="visibility:hidden;">                              &lt;img src="https://p1.maiyaole.com/img/971/971851/120_120.jpg?a=288833187" alt="凯妮汀 克霉唑阴道片(OTC) 500mg*1片＋投药器" onerror="imgERROR(this,'no_pic_120_120.jpg');" width="205" height="188" data-ywpoint='null_null_null_null_I1121_9'&gt;
+                          </textarea>
+</a>
+<p class="price" id="promotionInfo_1472361">
+<textarea data-original="" lz="true" style="visibility:hidden;">                                  
+                                &lt;span&gt;
+                                    55.0
+                                &lt;/span&gt;
+                              </textarea>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_9" href="//www.111.com.cn/product/50256581.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    凯妮汀 克霉唑阴道片(OTC) 500mg*1片＋投药器正规医药公司进货，质量有保障，咨询电话021-50321331</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_9">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102509961">上海荣馨大药房旗...</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1472361">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_9" id="submitRequest_1472361_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50256581,1)" pminfo="1472361" productcode="1472361" sellproductid="1472361" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_9" id="submitRequest_1472361" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50256581,1)" ordersettings="11" pminfo="1472361" productcode="1472361" sellproductid="1472361" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_9" href="//www.111.com.cn/product/50256581.html" id="buyButton_1472361" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="1472361" productcode="1472361" sellproductid="1472361" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-09-2019 09:09:25 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5/window {}
+06-09-2019 09:09:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "DELETE /session/08eaa50bf165b60dcbcab4780044fed5/window HTTP/1.1" 200 12
+06-09-2019 09:09:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-09-2019 09:09:25 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:51054/session/08eaa50bf165b60dcbcab4780044fed5 {}
+06-09-2019 09:09:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:51054 "DELETE /session/08eaa50bf165b60dcbcab4780044fed5 HTTP/1.1" 200 14
+06-09-2019 09:09:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

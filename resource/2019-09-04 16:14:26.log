@@ -1,0 +1,265 @@
+04-14-2019 16:14:27 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "https://search.jd.com/Search?keyword=\u7ef4\u751f\u7d20B6\u7247 \u4fe1\u8c0a&enc=utf-8&wq=\u7ef4\u751f\u7d20B6\u7247 \u4fe1\u8c0a&pvid=e594be63471b41b2a6821999b9c2e65a"}
+04-14-2019 16:14:29 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-14-2019 16:14:29 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-14-2019 16:14:30 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-14-2019 16:14:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 165484
+04-14-2019 16:14:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-14-2019 16:14:31 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/10167976628.html"}
+04-14-2019 16:14:35 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-14-2019 16:14:35 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-14-2019 16:14:36 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-14-2019 16:14:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 204600
+04-14-2019 16:14:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-14-2019 16:14:36 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/44560486901.html"}
+04-14-2019 16:14:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-14-2019 16:14:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-14-2019 16:14:40 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-14-2019 16:14:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 229058
+04-14-2019 16:14:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-14-2019 16:14:41 root:INFO:#### 下载路径 #### ./file/image/1563/0.jpg
+04-14-2019 16:14:41 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n7/jfs/t4456/307/1107034342/261363/8d9a53e4/58d8a5f1N19ddf7d1.jpg
+04-14-2019 16:14:41 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-14-2019 16:14:41 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n7/jfs/t4456/307/1107034342/261363/8d9a53e4/58d8a5f1N19ddf7d1.jpg HTTP/1.1" 200 29722
+04-14-2019 16:14:41 root:INFO:#### 下载路径 #### ./file/image/1563/1.jpg
+04-14-2019 16:14:41 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t4456/307/1107034342/261363/8d9a53e4/58d8a5f1N19ddf7d1.jpg
+04-14-2019 16:14:41 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-14-2019 16:14:41 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t4456/307/1107034342/261363/8d9a53e4/58d8a5f1N19ddf7d1.jpg HTTP/1.1" 200 280440
+04-14-2019 16:14:41 root:INFO:#### 下载路径 #### ./file/image/1563/2.jpg
+04-14-2019 16:14:41 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t3208/119/9851214084/252926/767b19a2/58d8a5f2N1a923a91.jpg
+04-14-2019 16:14:41 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-14-2019 16:14:41 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t3208/119/9851214084/252926/767b19a2/58d8a5f2N1a923a91.jpg HTTP/1.1" 200 292749
+04-14-2019 16:14:41 root:INFO:#### 下载路径 #### ./file/image/1563/3.jpg
+04-14-2019 16:14:41 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t3157/196/9866479958/280246/2bd7fd52/58d8a5f2N21783d87.jpg
+04-14-2019 16:14:41 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-14-2019 16:14:42 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t3157/196/9866479958/280246/2bd7fd52/58d8a5f2N21783d87.jpg HTTP/1.1" 200 328363
+04-14-2019 16:14:42 root:INFO:#### 下载路径 #### ./file/image/1563/4.jpg
+04-14-2019 16:14:42 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t4315/324/2935486241/324931/8a1b377b/58d8a5f3Nca3a7cdd.jpg
+04-14-2019 16:14:42 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-14-2019 16:14:42 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t4315/324/2935486241/324931/8a1b377b/58d8a5f3Nca3a7cdd.jpg HTTP/1.1" 200 390559
+04-14-2019 16:14:42 root:INFO:#### 下载路径 #### ./file/image/1563/5.jpg
+04-14-2019 16:14:42 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t4159/57/2994566916/301887/96b08620/58d8a5f2N31fc691e.jpg
+04-14-2019 16:14:42 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-14-2019 16:14:42 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t4159/57/2994566916/301887/96b08620/58d8a5f2N31fc691e.jpg HTTP/1.1" 200 350356
+04-14-2019 16:14:43 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "https://search.jd.com/Search?keyword=\u7ef4\u751f\u7d20C\u7247 \u4fe1\u8c0a&enc=utf-8&wq=\u7ef4\u751f\u7d20C\u7247 \u4fe1\u8c0a&pvid=e594be63471b41b2a6821999b9c2e65a"}
+04-14-2019 16:14:45 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-14-2019 16:14:45 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-14-2019 16:14:46 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-14-2019 16:14:46 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 189952
+04-14-2019 16:14:46 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-14-2019 16:14:46 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http:https://item.jd.hk/100003908211.html"}
+04-14-2019 16:14:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-14-2019 16:14:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-14-2019 16:14:48 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-14-2019 16:14:48 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 201308
+04-14-2019 16:14:48 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-14-2019 16:14:48 root:ERROR:#### 解析异常 #### 维生素C片(OTC)
+Traceback (most recent call last):
+  File "/Users/ianchang/Public/PycharmProjects/MedicineImage/MedicineSpiderJD.py", line 104, in parseDetailHtml
+    dts = div[0].contents[3].find_all("dl")
+IndexError: list index out of range
+04-14-2019 16:14:48 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/31547200629.html"}
+04-14-2019 16:14:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-14-2019 16:14:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-14-2019 16:14:53 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-14-2019 16:14:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 164903
+04-14-2019 16:14:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-14-2019 16:14:53 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/10906418273.html"}
+04-14-2019 16:14:59 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-14-2019 16:14:59 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:00 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-15-2019 16:15:00 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 221202
+04-15-2019 16:15:00 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:00 root:INFO:#### 下载路径 #### ./file/image/1575/0.jpg
+04-15-2019 16:15:00 root:INFO:#### 下载URL #### http://img13.360buyimg.com/n7/jfs/t3730/293/903906628/346774/d8af37b8/58180392Nd4a2429c.jpg
+04-15-2019 16:15:00 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img13.360buyimg.com:80
+04-15-2019 16:15:01 urllib3.connectionpool:DEBUG:http://img13.360buyimg.com:80 "GET /n7/jfs/t3730/293/903906628/346774/d8af37b8/58180392Nd4a2429c.jpg HTTP/1.1" 200 42250
+04-15-2019 16:15:01 root:INFO:#### 下载路径 #### ./file/image/1575/1.jpg
+04-15-2019 16:15:01 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t3730/293/903906628/346774/d8af37b8/58180392Nd4a2429c.jpg
+04-15-2019 16:15:01 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-15-2019 16:15:01 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t3730/293/903906628/346774/d8af37b8/58180392Nd4a2429c.jpg HTTP/1.1" 200 391504
+04-15-2019 16:15:01 root:INFO:#### 下载路径 #### ./file/image/1575/2.jpg
+04-15-2019 16:15:01 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t3754/253/795756659/353986/fc318058/58180393Nf979cc5a.jpg
+04-15-2019 16:15:01 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-15-2019 16:15:01 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t3754/253/795756659/353986/fc318058/58180393Nf979cc5a.jpg HTTP/1.1" 200 404038
+04-15-2019 16:15:01 root:INFO:#### 下载路径 #### ./file/image/1575/3.jpg
+04-15-2019 16:15:01 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t3640/95/926162762/398549/19953ebb/58180394Nffe81f4b.jpg
+04-15-2019 16:15:01 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-15-2019 16:15:01 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t3640/95/926162762/398549/19953ebb/58180394Nffe81f4b.jpg HTTP/1.1" 200 444097
+04-15-2019 16:15:02 root:INFO:#### 下载路径 #### ./file/image/1575/4.jpg
+04-15-2019 16:15:02 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t3514/328/854583095/287813/1cddcfea/58180394Ne97c78e9.jpg
+04-15-2019 16:15:02 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-15-2019 16:15:02 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t3514/328/854583095/287813/1cddcfea/58180394Ne97c78e9.jpg HTTP/1.1" 200 334207
+04-15-2019 16:15:02 root:INFO:#### 下载路径 #### ./file/image/1575/5.jpg
+04-15-2019 16:15:02 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t3694/270/958291443/386643/31440b57/58180395Nf8e509d3.jpg
+04-15-2019 16:15:02 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-15-2019 16:15:02 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t3694/270/958291443/386643/31440b57/58180395Nf8e509d3.jpg HTTP/1.1" 200 456629
+04-15-2019 16:15:02 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "https://search.jd.com/Search?keyword=\u544b\u5583\u786b\u80fa\u7247 \u4fe1\u8c0a&enc=utf-8&wq=\u544b\u5583\u786b\u80fa\u7247 \u4fe1\u8c0a&pvid=e594be63471b41b2a6821999b9c2e65a"}
+04-15-2019 16:15:05 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-15-2019 16:15:05 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:06 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-15-2019 16:15:06 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 105454
+04-15-2019 16:15:06 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:06 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/56000201442.html"}
+04-15-2019 16:15:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-15-2019 16:15:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:11 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-15-2019 16:15:12 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 150491
+04-15-2019 16:15:12 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:12 root:INFO:#### 下载路径 #### ./file/image/1605/0.jpg
+04-15-2019 16:15:12 root:INFO:#### 下载URL #### http://img12.360buyimg.com/n7/jfs/t1/79781/13/9067/65300/5d6cd09cE5339d562/c6349d6b8df4f780.jpg
+04-15-2019 16:15:12 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img12.360buyimg.com:80
+04-15-2019 16:15:12 urllib3.connectionpool:DEBUG:http://img12.360buyimg.com:80 "GET /n7/jfs/t1/79781/13/9067/65300/5d6cd09cE5339d562/c6349d6b8df4f780.jpg HTTP/1.1" 200 8845
+04-15-2019 16:15:12 root:INFO:#### 下载路径 #### ./file/image/1605/1.jpg
+04-15-2019 16:15:12 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t1/79781/13/9067/65300/5d6cd09cE5339d562/c6349d6b8df4f780.jpg
+04-15-2019 16:15:12 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-15-2019 16:15:12 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t1/79781/13/9067/65300/5d6cd09cE5339d562/c6349d6b8df4f780.jpg HTTP/1.1" 200 61085
+04-15-2019 16:15:12 root:INFO:#### 下载路径 #### ./file/image/1605/2.jpg
+04-15-2019 16:15:12 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t1/68332/6/8994/60182/5d6cd09eE555581eb/16ae853722aebc4b.jpg
+04-15-2019 16:15:12 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-15-2019 16:15:12 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t1/68332/6/8994/60182/5d6cd09eE555581eb/16ae853722aebc4b.jpg HTTP/1.1" 200 73070
+04-15-2019 16:15:12 root:INFO:#### 下载路径 #### ./file/image/1605/3.jpg
+04-15-2019 16:15:12 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t1/48830/10/9553/127489/5d6cd0bdE61cc8b29/73510bcc82d18735.jpg
+04-15-2019 16:15:12 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-15-2019 16:15:12 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t1/48830/10/9553/127489/5d6cd0bdE61cc8b29/73510bcc82d18735.jpg HTTP/1.1" 200 116213
+04-15-2019 16:15:12 root:INFO:#### 下载路径 #### ./file/image/1605/4.jpg
+04-15-2019 16:15:12 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t1/49625/37/9431/137387/5d6cd0bfE93fa66a8/ab28aeda9da2583b.jpg
+04-15-2019 16:15:12 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-15-2019 16:15:13 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t1/49625/37/9431/137387/5d6cd0bfE93fa66a8/ab28aeda9da2583b.jpg HTTP/1.1" 200 125212
+04-15-2019 16:15:13 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "https://search.jd.com/Search?keyword=\u53f6\u9178\u7247 \u4fe1\u8c0a&enc=utf-8&wq=\u53f6\u9178\u7247 \u4fe1\u8c0a&pvid=e594be63471b41b2a6821999b9c2e65a"}
+04-15-2019 16:15:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-15-2019 16:15:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:18 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-15-2019 16:15:18 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 336148
+04-15-2019 16:15:18 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:18 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/3032951.html"}
+04-15-2019 16:15:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-15-2019 16:15:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:34 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-15-2019 16:15:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 236650
+04-15-2019 16:15:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:34 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/3597603.html"}
+04-15-2019 16:15:38 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-15-2019 16:15:38 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:39 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-15-2019 16:15:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 237859
+04-15-2019 16:15:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:39 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/5722754.html"}
+04-15-2019 16:15:42 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-15-2019 16:15:42 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:43 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-15-2019 16:15:43 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 211938
+04-15-2019 16:15:43 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:43 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/2930900.html"}
+04-15-2019 16:15:46 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-15-2019 16:15:46 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:47 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-15-2019 16:15:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 223515
+04-15-2019 16:15:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:48 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/6330434.html"}
+04-15-2019 16:15:50 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-15-2019 16:15:50 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:51 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-15-2019 16:15:51 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 212089
+04-15-2019 16:15:51 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-15-2019 16:15:51 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/36542451296.html"}
+04-15-2019 16:15:59 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-15-2019 16:15:59 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:00 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-16-2019 16:16:00 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 202846
+04-16-2019 16:16:00 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:00 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/3372540.html"}
+04-16-2019 16:16:05 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-16-2019 16:16:05 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:06 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-16-2019 16:16:06 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 202884
+04-16-2019 16:16:06 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:07 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "https://search.jd.com/Search?keyword=\u76d0\u9178\u5c0f\u6a97\u78b1\u7247 \u4fe1\u8c0a&enc=utf-8&wq=\u76d0\u9178\u5c0f\u6a97\u78b1\u7247 \u4fe1\u8c0a&pvid=e594be63471b41b2a6821999b9c2e65a"}
+04-16-2019 16:16:09 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-16-2019 16:16:09 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:10 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-16-2019 16:16:10 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 152908
+04-16-2019 16:16:10 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:10 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/10808891541.html"}
+04-16-2019 16:16:14 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-16-2019 16:16:14 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:15 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-16-2019 16:16:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 235833
+04-16-2019 16:16:16 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:16 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/40246998503.html"}
+04-16-2019 16:16:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-16-2019 16:16:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:25 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-16-2019 16:16:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 172126
+04-16-2019 16:16:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:25 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/16233797091.html"}
+04-16-2019 16:16:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-16-2019 16:16:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:28 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-16-2019 16:16:28 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 219772
+04-16-2019 16:16:28 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:28 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/40246998501.html"}
+04-16-2019 16:16:31 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-16-2019 16:16:31 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:32 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-16-2019 16:16:32 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 171465
+04-16-2019 16:16:32 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:32 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/40246998502.html"}
+04-16-2019 16:16:35 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-16-2019 16:16:35 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:36 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-16-2019 16:16:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 171914
+04-16-2019 16:16:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:36 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/33785260654.html"}
+04-16-2019 16:16:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-16-2019 16:16:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:40 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-16-2019 16:16:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 223108
+04-16-2019 16:16:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:40 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/33785260653.html"}
+04-16-2019 16:16:43 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-16-2019 16:16:43 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:44 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-16-2019 16:16:44 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 223448
+04-16-2019 16:16:44 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:45 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "https://search.jd.com/Search?keyword=\u7532\u785d\u5511\u7247 \u4fe1\u8c0a&enc=utf-8&wq=\u7532\u785d\u5511\u7247 \u4fe1\u8c0a&pvid=e594be63471b41b2a6821999b9c2e65a"}
+04-16-2019 16:16:46 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-16-2019 16:16:46 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:47 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-16-2019 16:16:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 184197
+04-16-2019 16:16:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:47 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/url {"url": "http://item.jd.com/23847781832.html"}
+04-16-2019 16:16:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "POST /session/4fae4716ba057c122ba3361794f50e37/url HTTP/1.1" 200 14
+04-16-2019 16:16:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:53 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/source {}
+04-16-2019 16:16:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "GET /session/4fae4716ba057c122ba3361794f50e37/source HTTP/1.1" 200 193349
+04-16-2019 16:16:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:54 root:INFO:#### 下载路径 #### ./file/image/1759/0.jpg
+04-16-2019 16:16:54 root:INFO:#### 下载URL #### http://img12.360buyimg.com/n7/jfs/t1/14670/5/4533/308647/5c33147cEf250eefd/2f0a60a144871e03.jpg
+04-16-2019 16:16:54 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img12.360buyimg.com:80
+04-16-2019 16:16:54 urllib3.connectionpool:DEBUG:http://img12.360buyimg.com:80 "GET /n7/jfs/t1/14670/5/4533/308647/5c33147cEf250eefd/2f0a60a144871e03.jpg HTTP/1.1" 200 38013
+04-16-2019 16:16:54 root:INFO:#### 下载路径 #### ./file/image/1759/1.jpg
+04-16-2019 16:16:54 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t1/14670/5/4533/308647/5c33147cEf250eefd/2f0a60a144871e03.jpg
+04-16-2019 16:16:54 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-16-2019 16:16:54 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t1/14670/5/4533/308647/5c33147cEf250eefd/2f0a60a144871e03.jpg HTTP/1.1" 200 377327
+04-16-2019 16:16:54 root:INFO:#### 下载路径 #### ./file/image/1759/2.jpg
+04-16-2019 16:16:54 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t1/27865/18/4531/241810/5c33147bE16ff47ad/2403c67c1e8971bb.jpg
+04-16-2019 16:16:54 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-16-2019 16:16:54 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t1/27865/18/4531/241810/5c33147bE16ff47ad/2403c67c1e8971bb.jpg HTTP/1.1" 200 298517
+04-16-2019 16:16:54 root:INFO:#### 下载路径 #### ./file/image/1759/3.jpg
+04-16-2019 16:16:54 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t1/10471/21/8154/429462/5c33147dEe4598a3b/c14321411d36655c.jpg
+04-16-2019 16:16:54 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-16-2019 16:16:54 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t1/10471/21/8154/429462/5c33147dEe4598a3b/c14321411d36655c.jpg HTTP/1.1" 200 521942
+04-16-2019 16:16:55 root:INFO:#### 下载路径 #### ./file/image/1759/4.jpg
+04-16-2019 16:16:55 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t1/15078/38/4543/291315/5c33147cEb447c6b6/37057c65fe924a93.jpg
+04-16-2019 16:16:55 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-16-2019 16:16:55 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t1/15078/38/4543/291315/5c33147cEb447c6b6/37057c65fe924a93.jpg HTTP/1.1" 200 347430
+04-16-2019 16:16:55 root:INFO:#### 下载路径 #### ./file/image/1759/5.jpg
+04-16-2019 16:16:55 root:INFO:#### 下载URL #### http://img11.360buyimg.com/n0/jfs/t1/9191/10/12146/312750/5c33147cE2f7a9d2d/352d23f6ea96adad.jpg
+04-16-2019 16:16:55 urllib3.connectionpool:DEBUG:Starting new HTTP connection (1): img11.360buyimg.com:80
+04-16-2019 16:16:55 urllib3.connectionpool:DEBUG:http://img11.360buyimg.com:80 "GET /n0/jfs/t1/9191/10/12146/312750/5c33147cE2f7a9d2d/352d23f6ea96adad.jpg HTTP/1.1" 200 364928
+04-16-2019 16:16:55 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37/window {}
+04-16-2019 16:16:55 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "DELETE /session/4fae4716ba057c122ba3361794f50e37/window HTTP/1.1" 200 12
+04-16-2019 16:16:55 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+04-16-2019 16:16:55 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:63721/session/4fae4716ba057c122ba3361794f50e37 {}
+04-16-2019 16:16:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:63721 "DELETE /session/4fae4716ba057c122ba3361794f50e37 HTTP/1.1" 200 14
+04-16-2019 16:16:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

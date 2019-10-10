@@ -1,0 +1,1249 @@
+06-59-2019 08:59:31 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/url {"url": "https://www.111.com.cn"}
+06-59-2019 08:59:33 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "POST /session/6fefbe5414aa15c009661f1784cf490d/url HTTP/1.1" 200 14
+06-59-2019 08:59:33 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:34 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/source {}
+06-59-2019 08:59:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "GET /session/6fefbe5414aa15c009661f1784cf490d/source HTTP/1.1" 200 339731
+06-59-2019 08:59:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:34 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u8f9b\u4f10\u4ed6\u6c40\u7247 \u9ed8\u6c99\u4e1c\");\n$(\"#word\").attr(\"value\",\"\u8f9b\u4f10\u4ed6\u6c40\u7247 \u9ed8\u6c99\u4e1c\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-59-2019 08:59:34 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "POST /session/6fefbe5414aa15c009661f1784cf490d/execute/sync HTTP/1.1" 200 14
+06-59-2019 08:59:34 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:35 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/source {}
+06-59-2019 08:59:35 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "GET /session/6fefbe5414aa15c009661f1784cf490d/source HTTP/1.1" 200 304485
+06-59-2019 08:59:35 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:35 root:INFO:<div class="itemSearchResultCon" comproid="3299507" isrecom="0" itemid="51218276">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51218276.html" target="_blank">
+<img alt="默沙东 辛伐他汀片（舒降之）20mg*7s" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/201902/15/200_20190215133258756.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3299507">
+<span>
+                        21.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/51218276.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    默沙东 辛伐他汀片（舒降之）20mg*7s</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102549452">长春市天翼大药房...</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3299507">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3299507_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51218276,1)" pminfo="3299507" productcode="3299507" sellproductid="3299507" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_3299507" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51218276,1)" ordersettings="11" pminfo="3299507" productcode="3299507" sellproductid="3299507" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/51218276.html" id="buyButton_3299507" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3299507" productcode="3299507" sellproductid="3299507" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-59-2019 08:59:35 root:INFO:https://p1.maiyaole.com/img/201902/15/200_20190215133258756.jpg
+06-59-2019 08:59:35 root:INFO:http://www.111.com.cn/product/51218276.html
+06-59-2019 08:59:35 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/url {"url": "http://www.111.com.cn/product/51218276.html"}
+06-59-2019 08:59:36 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "POST /session/6fefbe5414aa15c009661f1784cf490d/url HTTP/1.1" 200 14
+06-59-2019 08:59:36 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:37 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/source {}
+06-59-2019 08:59:37 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "GET /session/6fefbe5414aa15c009661f1784cf490d/source HTTP/1.1" 200 239338
+06-59-2019 08:59:37 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:37 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">默沙东 辛伐他汀片（舒降之）20mg*7s</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>默沙东</td>
+<th>规　　格：</th>
+<td>20mg*7s</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.05kg</td>
+<th>生产厂商:</th>
+<td>杭州默沙东制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130068(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-59-2019 08:59:37 root:INFO:**********************
+06-59-2019 08:59:37 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-59-2019 08:59:37 root:INFO:**********************
+06-59-2019 08:59:37 root:INFO:[<td colspan="3">默沙东 辛伐他汀片（舒降之）20mg*7s</td>, <td>默沙东</td>, <td>20mg*7s</td>, <td>0.05kg</td>, <td>杭州默沙东制药有限公司</td>, <td>
+                                                                                    国药准字J20130068(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-59-2019 08:59:37 root:INFO:商品名称：默沙东 辛伐他汀片（舒降之）20mg*7s
+06-59-2019 08:59:37 root:INFO:品　　牌：默沙东
+06-59-2019 08:59:37 root:INFO:规　　格：20mg*7s
+06-59-2019 08:59:37 root:INFO:重　　量：0.05kg
+06-59-2019 08:59:37 root:INFO:生产厂商:杭州默沙东制药有限公司
+06-59-2019 08:59:37 root:INFO:批准文号：国药准字J20130068
+06-59-2019 08:59:37 root:INFO:产品类型：处方药
+06-59-2019 08:59:37 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-59-2019 08:59:37 root:INFO:<div class="itemSearchResultCon" comproid="1565383" isrecom="0" itemid="50311813">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/50311813.html" target="_blank">
+<img alt="默沙东 舒降之（辛伐他汀片） 40mg*5片" data-ywpoint="null_null_null_null_I1121_1" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/50052/50052311/120_120.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1565383">
+<span>
+                        35.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/50311813.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    默沙东 舒降之（辛伐他汀片） 40mg*5片温馨提示：实体药房发货，保证质量！</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_1">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102513207">康弘大药房</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1565383">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_1" id="submitRequest_1565383_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50311813,1)" pminfo="1565383" productcode="1565383" sellproductid="1565383" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_1" id="submitRequest_1565383" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50311813,1)" ordersettings="11" pminfo="1565383" productcode="1565383" sellproductid="1565383" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_1" href="//www.111.com.cn/product/50311813.html" id="buyButton_1565383" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="1565383" productcode="1565383" sellproductid="1565383" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-59-2019 08:59:37 root:INFO:https://p2.maiyaole.com/img/50052/50052311/120_120.jpg
+06-59-2019 08:59:37 root:INFO:http://www.111.com.cn/product/50311813.html
+06-59-2019 08:59:37 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/url {"url": "http://www.111.com.cn/product/50311813.html"}
+06-59-2019 08:59:38 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "POST /session/6fefbe5414aa15c009661f1784cf490d/url HTTP/1.1" 200 14
+06-59-2019 08:59:38 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:39 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/source {}
+06-59-2019 08:59:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "GET /session/6fefbe5414aa15c009661f1784cf490d/source HTTP/1.1" 200 252385
+06-59-2019 08:59:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:39 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">默沙东 舒降之（辛伐他汀片） 40mg*5片</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>其他</td>
+<th>规　　格：</th>
+<td>40mg*5片</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.002kg</td>
+<th>生产厂商:</th>
+<td>杭州默沙东制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20040032(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-59-2019 08:59:39 root:INFO:**********************
+06-59-2019 08:59:39 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-59-2019 08:59:39 root:INFO:**********************
+06-59-2019 08:59:39 root:INFO:[<td colspan="3">默沙东 舒降之（辛伐他汀片） 40mg*5片</td>, <td>其他</td>, <td>40mg*5片</td>, <td>0.002kg</td>, <td>杭州默沙东制药有限公司</td>, <td>
+                                                                                    国药准字J20040032(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-59-2019 08:59:39 root:INFO:商品名称：默沙东 舒降之（辛伐他汀片） 40mg*5片
+06-59-2019 08:59:39 root:INFO:品　　牌：其他
+06-59-2019 08:59:39 root:INFO:规　　格：40mg*5片
+06-59-2019 08:59:39 root:INFO:重　　量：0.002kg
+06-59-2019 08:59:39 root:INFO:生产厂商:杭州默沙东制药有限公司
+06-59-2019 08:59:39 root:INFO:批准文号：国药准字J20040032
+06-59-2019 08:59:39 root:INFO:产品类型：处方药
+06-59-2019 08:59:39 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-59-2019 08:59:39 root:INFO:<div class="itemSearchResultCon" comproid="3258149" isrecom="0" itemid="51184603">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/51184603.html" target="_blank">
+<img alt="默沙东 辛伐他汀片（舒降之）20mg*7s" data-ywpoint="null_null_null_null_I1121_2" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/201811/30/200_20181130090757978.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3258149">
+<span>
+                        21.0
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/51184603.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    默沙东 辛伐他汀片（舒降之）20mg*7s</a>
+<a class="promoTitle" href="//www.111.com.cn/list/promotion.action?promoid=145240" id="promotion_3258149" pnamesubtitle="默沙东 辛伐他汀片（舒降之）20mg*7s" pstock="101" rel="nofollow" ruletype="0" stockflag="" target="_blank" title="">满额减</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_2">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102550585">国赢大药房正亿连...</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3258149">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_2" id="submitRequest_3258149_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51184603,1)" pminfo="3258149" productcode="3258149" sellproductid="3258149" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_2" id="submitRequest_3258149" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51184603,1)" ordersettings="11" pminfo="3258149" productcode="3258149" sellproductid="3258149" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_2" href="//www.111.com.cn/product/51184603.html" id="buyButton_3258149" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3258149" productcode="3258149" sellproductid="3258149" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-59-2019 08:59:39 root:INFO:https://p2.maiyaole.com/img/201811/30/200_20181130090757978.jpg
+06-59-2019 08:59:39 root:INFO:http://www.111.com.cn/product/51184603.html
+06-59-2019 08:59:39 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/url {"url": "http://www.111.com.cn/product/51184603.html"}
+06-59-2019 08:59:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "POST /session/6fefbe5414aa15c009661f1784cf490d/url HTTP/1.1" 200 14
+06-59-2019 08:59:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:41 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/source {}
+06-59-2019 08:59:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "GET /session/6fefbe5414aa15c009661f1784cf490d/source HTTP/1.1" 200 241370
+06-59-2019 08:59:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:41 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">默沙东 辛伐他汀片（舒降之）20mg*7s</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>默沙东</td>
+<th>规　　格：</th>
+<td>20mg*7s</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.05kg</td>
+<th>生产厂商:</th>
+<td>杭州默沙东制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130068(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-59-2019 08:59:41 root:INFO:**********************
+06-59-2019 08:59:41 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-59-2019 08:59:41 root:INFO:**********************
+06-59-2019 08:59:41 root:INFO:[<td colspan="3">默沙东 辛伐他汀片（舒降之）20mg*7s</td>, <td>默沙东</td>, <td>20mg*7s</td>, <td>0.05kg</td>, <td>杭州默沙东制药有限公司</td>, <td>
+                                                                                    国药准字J20130068(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-59-2019 08:59:41 root:INFO:商品名称：默沙东 辛伐他汀片（舒降之）20mg*7s
+06-59-2019 08:59:41 root:INFO:品　　牌：默沙东
+06-59-2019 08:59:41 root:INFO:规　　格：20mg*7s
+06-59-2019 08:59:41 root:INFO:重　　量：0.05kg
+06-59-2019 08:59:41 root:INFO:生产厂商:杭州默沙东制药有限公司
+06-59-2019 08:59:41 root:INFO:批准文号：国药准字J20130068
+06-59-2019 08:59:41 root:INFO:产品类型：处方药
+06-59-2019 08:59:41 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-59-2019 08:59:41 root:INFO:<div class="itemSearchResultCon" comproid="3558317" isrecom="0" itemid="51334266">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_3" href="//www.111.com.cn/product/51334266.html" target="_blank">
+<img alt="默沙东 辛伐他汀片（舒降之）20mg*7s" data-ywpoint="null_null_null_null_I1121_3" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/201907/29/200_20190729165825150.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3558317">
+<span>
+                        21.9
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_3" href="//www.111.com.cn/product/51334266.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    默沙东 辛伐他汀片（舒降之）20mg*7s货到付款</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_3">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102546775">芒果大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3558317">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_3" id="submitRequest_3558317_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51334266,1)" pminfo="3558317" productcode="3558317" sellproductid="3558317" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_3" id="submitRequest_3558317" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51334266,1)" ordersettings="11" pminfo="3558317" productcode="3558317" sellproductid="3558317" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_3" href="//www.111.com.cn/product/51334266.html" id="buyButton_3558317" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3558317" productcode="3558317" sellproductid="3558317" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-59-2019 08:59:41 root:INFO:https://p2.maiyaole.com/img/201907/29/200_20190729165825150.jpg
+06-59-2019 08:59:41 root:INFO:http://www.111.com.cn/product/51334266.html
+06-59-2019 08:59:41 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/url {"url": "http://www.111.com.cn/product/51334266.html"}
+06-59-2019 08:59:41 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "POST /session/6fefbe5414aa15c009661f1784cf490d/url HTTP/1.1" 200 14
+06-59-2019 08:59:41 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:42 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/source {}
+06-59-2019 08:59:42 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "GET /session/6fefbe5414aa15c009661f1784cf490d/source HTTP/1.1" 200 240699
+06-59-2019 08:59:42 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:43 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">默沙东 辛伐他汀片（舒降之）20mg*7s</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>默沙东</td>
+<th>规　　格：</th>
+<td>20mg*7s</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.05kg</td>
+<th>生产厂商:</th>
+<td>杭州默沙东制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130068(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-59-2019 08:59:43 root:INFO:**********************
+06-59-2019 08:59:43 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-59-2019 08:59:43 root:INFO:**********************
+06-59-2019 08:59:43 root:INFO:[<td colspan="3">默沙东 辛伐他汀片（舒降之）20mg*7s</td>, <td>默沙东</td>, <td>20mg*7s</td>, <td>0.05kg</td>, <td>杭州默沙东制药有限公司</td>, <td>
+                                                                                    国药准字J20130068(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-59-2019 08:59:43 root:INFO:商品名称：默沙东 辛伐他汀片（舒降之）20mg*7s
+06-59-2019 08:59:43 root:INFO:品　　牌：默沙东
+06-59-2019 08:59:43 root:INFO:规　　格：20mg*7s
+06-59-2019 08:59:43 root:INFO:重　　量：0.05kg
+06-59-2019 08:59:43 root:INFO:生产厂商:杭州默沙东制药有限公司
+06-59-2019 08:59:43 root:INFO:批准文号：国药准字J20130068
+06-59-2019 08:59:43 root:INFO:产品类型：处方药
+06-59-2019 08:59:43 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-59-2019 08:59:43 root:INFO:<div class="itemSearchResultCon" comproid="3290153" isrecom="0" itemid="51211042">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/51211042.html" target="_blank">
+<img alt="默沙东 辛伐他汀片（舒降之）20mg*7s" data-ywpoint="null_null_null_null_I1121_4" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/201901/21/200_20190121104628680.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3290153">
+<span>
+                        23.3
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/51211042.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    默沙东 辛伐他汀片（舒降之）20mg*7s</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_4">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102550031">成都拜欧大药房旗...</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3290153">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_4" id="submitRequest_3290153_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51211042,1)" pminfo="3290153" productcode="3290153" sellproductid="3290153" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_4" id="submitRequest_3290153" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51211042,1)" ordersettings="11" pminfo="3290153" productcode="3290153" sellproductid="3290153" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_4" href="//www.111.com.cn/product/51211042.html" id="buyButton_3290153" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3290153" productcode="3290153" sellproductid="3290153" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-59-2019 08:59:43 root:INFO:https://p2.maiyaole.com/img/201901/21/200_20190121104628680.jpg
+06-59-2019 08:59:43 root:INFO:http://www.111.com.cn/product/51211042.html
+06-59-2019 08:59:43 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/url {"url": "http://www.111.com.cn/product/51211042.html"}
+06-59-2019 08:59:44 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "POST /session/6fefbe5414aa15c009661f1784cf490d/url HTTP/1.1" 200 14
+06-59-2019 08:59:44 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:45 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/source {}
+06-59-2019 08:59:45 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "GET /session/6fefbe5414aa15c009661f1784cf490d/source HTTP/1.1" 200 240489
+06-59-2019 08:59:45 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:45 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">默沙东 辛伐他汀片（舒降之）20mg*7s</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>默沙东</td>
+<th>规　　格：</th>
+<td>20mg*7s</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.05kg</td>
+<th>生产厂商:</th>
+<td>杭州默沙东制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130068(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-59-2019 08:59:45 root:INFO:**********************
+06-59-2019 08:59:45 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-59-2019 08:59:45 root:INFO:**********************
+06-59-2019 08:59:45 root:INFO:[<td colspan="3">默沙东 辛伐他汀片（舒降之）20mg*7s</td>, <td>默沙东</td>, <td>20mg*7s</td>, <td>0.05kg</td>, <td>杭州默沙东制药有限公司</td>, <td>
+                                                                                    国药准字J20130068(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-59-2019 08:59:45 root:INFO:商品名称：默沙东 辛伐他汀片（舒降之）20mg*7s
+06-59-2019 08:59:45 root:INFO:品　　牌：默沙东
+06-59-2019 08:59:45 root:INFO:规　　格：20mg*7s
+06-59-2019 08:59:45 root:INFO:重　　量：0.05kg
+06-59-2019 08:59:45 root:INFO:生产厂商:杭州默沙东制药有限公司
+06-59-2019 08:59:45 root:INFO:批准文号：国药准字J20130068
+06-59-2019 08:59:45 root:INFO:产品类型：处方药
+06-59-2019 08:59:45 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-59-2019 08:59:45 root:INFO:<div class="itemSearchResultCon" comproid="1914860" isrecom="0" itemid="50455611">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_5" href="//www.111.com.cn/product/50455611.html" target="_blank">
+<img alt="默沙东 辛伐他汀片（舒降之）20mg*7s" data-ywpoint="null_null_null_null_I1121_5" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p4.maiyaole.com/img/201606/23/200_20160623174104569.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1914860">
+<span>
+                        22.5
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_5" href="//www.111.com.cn/product/50455611.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    默沙东 辛伐他汀片（舒降之）20mg*7s新顺大药房祝新老顾客身体健康。</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_5">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102520039">新顺大药房</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1914860">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_5" id="submitRequest_1914860_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50455611,1)" pminfo="1914860" productcode="1914860" sellproductid="1914860" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_5" id="submitRequest_1914860" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50455611,1)" ordersettings="11" pminfo="1914860" productcode="1914860" sellproductid="1914860" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_5" href="//www.111.com.cn/product/50455611.html" id="buyButton_1914860" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="1914860" productcode="1914860" sellproductid="1914860" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-59-2019 08:59:45 root:INFO:https://p4.maiyaole.com/img/201606/23/200_20160623174104569.jpg
+06-59-2019 08:59:45 root:INFO:http://www.111.com.cn/product/50455611.html
+06-59-2019 08:59:45 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/url {"url": "http://www.111.com.cn/product/50455611.html"}
+06-59-2019 08:59:45 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "POST /session/6fefbe5414aa15c009661f1784cf490d/url HTTP/1.1" 200 14
+06-59-2019 08:59:45 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:46 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/source {}
+06-59-2019 08:59:46 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "GET /session/6fefbe5414aa15c009661f1784cf490d/source HTTP/1.1" 200 243499
+06-59-2019 08:59:46 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:46 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">默沙东 辛伐他汀片（舒降之）20mg*7s</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>默沙东</td>
+<th>规　　格：</th>
+<td>20mg*7s</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.05kg</td>
+<th>生产厂商:</th>
+<td>杭州默沙东制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130068(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-59-2019 08:59:46 root:INFO:**********************
+06-59-2019 08:59:46 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-59-2019 08:59:46 root:INFO:**********************
+06-59-2019 08:59:46 root:INFO:[<td colspan="3">默沙东 辛伐他汀片（舒降之）20mg*7s</td>, <td>默沙东</td>, <td>20mg*7s</td>, <td>0.05kg</td>, <td>杭州默沙东制药有限公司</td>, <td>
+                                                                                    国药准字J20130068(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-59-2019 08:59:46 root:INFO:商品名称：默沙东 辛伐他汀片（舒降之）20mg*7s
+06-59-2019 08:59:46 root:INFO:品　　牌：默沙东
+06-59-2019 08:59:46 root:INFO:规　　格：20mg*7s
+06-59-2019 08:59:46 root:INFO:重　　量：0.05kg
+06-59-2019 08:59:46 root:INFO:生产厂商:杭州默沙东制药有限公司
+06-59-2019 08:59:46 root:INFO:批准文号：国药准字J20130068
+06-59-2019 08:59:46 root:INFO:产品类型：处方药
+06-59-2019 08:59:46 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-59-2019 08:59:46 root:INFO:<div class="itemSearchResultCon" comproid="3402043" isrecom="0" itemid="51281712">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_6" href="//www.111.com.cn/product/51281712.html" target="_blank">
+<img alt="默沙东 辛伐他汀片（舒降之）20mg*7s" data-ywpoint="null_null_null_null_I1121_6" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/201905/18/200_2019051823082167.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3402043">
+<span>
+                        22.8
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_6" href="//www.111.com.cn/product/51281712.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    默沙东 辛伐他汀片（舒降之）20mg*7s</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_6">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102554843">乐仁堂大药房</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3402043">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_6" id="submitRequest_3402043_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51281712,1)" pminfo="3402043" productcode="3402043" sellproductid="3402043" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_6" id="submitRequest_3402043" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51281712,1)" ordersettings="11" pminfo="3402043" productcode="3402043" sellproductid="3402043" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_6" href="//www.111.com.cn/product/51281712.html" id="buyButton_3402043" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3402043" productcode="3402043" sellproductid="3402043" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-59-2019 08:59:46 root:INFO:https://p1.maiyaole.com/img/201905/18/200_2019051823082167.jpg
+06-59-2019 08:59:46 root:INFO:http://www.111.com.cn/product/51281712.html
+06-59-2019 08:59:46 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/url {"url": "http://www.111.com.cn/product/51281712.html"}
+06-59-2019 08:59:47 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "POST /session/6fefbe5414aa15c009661f1784cf490d/url HTTP/1.1" 200 14
+06-59-2019 08:59:47 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:48 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/source {}
+06-59-2019 08:59:48 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "GET /session/6fefbe5414aa15c009661f1784cf490d/source HTTP/1.1" 200 240056
+06-59-2019 08:59:48 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:48 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">默沙东 辛伐他汀片（舒降之）20mg*7s</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>默沙东</td>
+<th>规　　格：</th>
+<td>20mg*7s</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.05kg</td>
+<th>生产厂商:</th>
+<td>杭州默沙东制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130068(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-59-2019 08:59:48 root:INFO:**********************
+06-59-2019 08:59:48 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-59-2019 08:59:48 root:INFO:**********************
+06-59-2019 08:59:48 root:INFO:[<td colspan="3">默沙东 辛伐他汀片（舒降之）20mg*7s</td>, <td>默沙东</td>, <td>20mg*7s</td>, <td>0.05kg</td>, <td>杭州默沙东制药有限公司</td>, <td>
+                                                                                    国药准字J20130068(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-59-2019 08:59:48 root:INFO:商品名称：默沙东 辛伐他汀片（舒降之）20mg*7s
+06-59-2019 08:59:48 root:INFO:品　　牌：默沙东
+06-59-2019 08:59:48 root:INFO:规　　格：20mg*7s
+06-59-2019 08:59:48 root:INFO:重　　量：0.05kg
+06-59-2019 08:59:48 root:INFO:生产厂商:杭州默沙东制药有限公司
+06-59-2019 08:59:48 root:INFO:批准文号：国药准字J20130068
+06-59-2019 08:59:48 root:INFO:产品类型：处方药
+06-59-2019 08:59:48 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-59-2019 08:59:48 root:INFO:<div class="itemSearchResultCon" comproid="3405126" isrecom="0" itemid="51283785">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_7" href="//www.111.com.cn/product/51283785.html" target="_blank">
+<img alt="默沙东 辛伐他汀片（舒降之）20mg*7s" data-ywpoint="null_null_null_null_I1121_7" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/201906/02/200_20190602202119168.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3405126">
+<span>
+                        23.3
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_7" href="//www.111.com.cn/product/51283785.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    默沙东 辛伐他汀片（舒降之）20mg*7s</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_7">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102553535">济瑾堂大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3405126">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_7" id="submitRequest_3405126_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51283785,1)" pminfo="3405126" productcode="3405126" sellproductid="3405126" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_7" id="submitRequest_3405126" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51283785,1)" ordersettings="11" pminfo="3405126" productcode="3405126" sellproductid="3405126" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_7" href="//www.111.com.cn/product/51283785.html" id="buyButton_3405126" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3405126" productcode="3405126" sellproductid="3405126" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-59-2019 08:59:48 root:INFO:https://p3.maiyaole.com/img/201906/02/200_20190602202119168.jpg
+06-59-2019 08:59:48 root:INFO:http://www.111.com.cn/product/51283785.html
+06-59-2019 08:59:48 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/url {"url": "http://www.111.com.cn/product/51283785.html"}
+06-59-2019 08:59:49 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "POST /session/6fefbe5414aa15c009661f1784cf490d/url HTTP/1.1" 200 14
+06-59-2019 08:59:49 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:50 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/source {}
+06-59-2019 08:59:50 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "GET /session/6fefbe5414aa15c009661f1784cf490d/source HTTP/1.1" 200 239024
+06-59-2019 08:59:50 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:50 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">默沙东 辛伐他汀片（舒降之）20mg*7s</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>默沙东</td>
+<th>规　　格：</th>
+<td>20mg*7s</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.05kg</td>
+<th>生产厂商:</th>
+<td>杭州默沙东制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130068(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-59-2019 08:59:50 root:INFO:**********************
+06-59-2019 08:59:50 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-59-2019 08:59:50 root:INFO:**********************
+06-59-2019 08:59:50 root:INFO:[<td colspan="3">默沙东 辛伐他汀片（舒降之）20mg*7s</td>, <td>默沙东</td>, <td>20mg*7s</td>, <td>0.05kg</td>, <td>杭州默沙东制药有限公司</td>, <td>
+                                                                                    国药准字J20130068(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-59-2019 08:59:50 root:INFO:商品名称：默沙东 辛伐他汀片（舒降之）20mg*7s
+06-59-2019 08:59:50 root:INFO:品　　牌：默沙东
+06-59-2019 08:59:50 root:INFO:规　　格：20mg*7s
+06-59-2019 08:59:50 root:INFO:重　　量：0.05kg
+06-59-2019 08:59:50 root:INFO:生产厂商:杭州默沙东制药有限公司
+06-59-2019 08:59:50 root:INFO:批准文号：国药准字J20130068
+06-59-2019 08:59:50 root:INFO:产品类型：处方药
+06-59-2019 08:59:50 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-59-2019 08:59:50 root:INFO:<div class="itemSearchResultCon" comproid="3351887" isrecom="0" itemid="51247246">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_8" href="//www.111.com.cn/product/51247246.html" target="_blank">
+<textarea data-original="" lz="true" style="visibility:hidden;">                              &lt;img src="https://p1.maiyaole.com/img/201904/10/200_20190410095847906.jpg" alt="默沙东 辛伐他汀片（舒降之）20mg*7s" onerror="imgERROR(this,'no_pic_120_120.jpg');" width="205" height="188" data-ywpoint='null_null_null_null_I1121_8'&gt;
+                          </textarea>
+</a>
+<p class="price" id="promotionInfo_3351887">
+<textarea data-original="" lz="true" style="visibility:hidden;">                                  
+                                &lt;span&gt;
+                                    24.0
+                                &lt;/span&gt;
+                              </textarea>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_8" href="//www.111.com.cn/product/51247246.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    默沙东 辛伐他汀片（舒降之）20mg*7s</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_8">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102545185">益丰大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3351887">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_8" id="submitRequest_3351887_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51247246,1)" pminfo="3351887" productcode="3351887" sellproductid="3351887" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_8" id="submitRequest_3351887" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51247246,1)" ordersettings="11" pminfo="3351887" productcode="3351887" sellproductid="3351887" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_8" href="//www.111.com.cn/product/51247246.html" id="buyButton_3351887" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3351887" productcode="3351887" sellproductid="3351887" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-59-2019 08:59:50 root:INFO:<div class="itemSearchResultCon" comproid="3255843" isrecom="0" itemid="51182327">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_9" href="//www.111.com.cn/product/51182327.html" target="_blank">
+<textarea data-original="" lz="true" style="visibility:hidden;">                              &lt;img src="https://p1.maiyaole.com/img/201812/03/200_20181203150038878.jpg" alt="默沙东 辛伐他汀片（舒降之）20mg*7s" onerror="imgERROR(this,'no_pic_120_120.jpg');" width="205" height="188" data-ywpoint='null_null_null_null_I1121_9'&gt;
+                          </textarea>
+</a>
+<p class="price" id="promotionInfo_3255843">
+<textarea data-original="" lz="true" style="visibility:hidden;">                                  
+                                &lt;span&gt;
+                                    28.0
+                                &lt;/span&gt;
+                              </textarea>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_9" href="//www.111.com.cn/product/51182327.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    默沙东 辛伐他汀片（舒降之）20mg*7s</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_9">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102527917">福仁美大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3255843">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_9" id="submitRequest_3255843_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51182327,1)" pminfo="3255843" productcode="3255843" sellproductid="3255843" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_9" id="submitRequest_3255843" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51182327,1)" ordersettings="11" pminfo="3255843" productcode="3255843" sellproductid="3255843" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_9" href="//www.111.com.cn/product/51182327.html" id="buyButton_3255843" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3255843" productcode="3255843" sellproductid="3255843" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-59-2019 08:59:50 root:INFO:<div class="itemSearchResultCon none" comproid="779213" isrecom="0" itemid="974352">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_10" href="//www.111.com.cn/product/974352.html" target="_blank">
+<textarea data-original="" lz="true" style="visibility:hidden;">                              &lt;img src="https://p1.maiyaole.com/img/item/201804/13/200_20180413151338614.jpg" alt="舒降之 辛伐他汀片 20mg*7片" onerror="imgERROR(this,'no_pic_120_120.jpg');" width="205" height="188" data-ywpoint='null_null_null_null_I1121_10'&gt;
+                          </textarea>
+</a>
+<p class="price" id="promotionInfo_779213">
+<textarea data-original="" lz="true" style="visibility:hidden;">                                  
+                                &lt;span&gt;
+                                    23.0
+                                &lt;/span&gt;
+                              </textarea>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_10" href="//www.111.com.cn/product/974352.html" target="_blank">
+<span class="list_lable_self"></span>
+                    
+                    
+                  
+
+                    舒降之 辛伐他汀片 20mg*7片主治高脂血症、冠心病，预防心脑血管事件</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_10">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_779213">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_10" druglevel="2" id="askDoctor_779213" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="779213" productcode="779213" sellproductid="779213" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_10" href="//www.111.com.cn/product/974352.html" id="buyButton_779213" index="0" inshop="0" merchantid="26" pminfo="779213" productcode="779213" productdisabled="true" sellproductid="779213" specialtype="13">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-59-2019 08:59:50 root:INFO:<div class="itemSearchResultCon" comproid="1116105" itemid="50092924" purchasehidestatus="2">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_10" href="//www.111.com.cn/product/50092924.html" target="_blank">
+<img alt="舒降之 辛伐他汀片 20mg*7片 *10件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/item/201804/13/200_20180413151413854.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1116105">
+<span>
+                                  
+                            222.0
+                                  
+                                    <u>¥22.2/件</u>
+</span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_10" href="//www.111.com.cn/product/50092924.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          舒降之 辛伐他汀片 20mg*7片 *10件</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_10">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1116105">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_10" id="askDoctor_779213" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="779213" productcode="779213" sellproductid="779213" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_10" href="//www.111.com.cn/product/50092924.html" id="buyButton_1116105" index="0" inshop="0" merchantid="26" pminfo="1116105" productcode="1116105" sellproductid="1116105" specialtype="13">查看详情</a>
+</div>
+<div class="sheng"><span>省</span>8.0元</div>
+<u class="bg_border"></u>
+<div class="item_kit" id="item_kit">
+<div class="item_kit_clip clearfix">
+<div class="item_kit_n">
+<a class="" comproid="779213" data-ywpoint="null_null_null_null_I1120_10" href="javascript:void(0);">1件</a>
+<a class="k_cur" comproid="1116105" data-ywpoint="null_null_null_null_I1120_10" href="javascript:void(0);">10件</a>
+<a class="" comproid="1116102" data-ywpoint="null_null_null_null_I1120_10" href="javascript:void(0);">5件</a>
+<a class="" comproid="1634087" data-ywpoint="null_null_null_null_I1120_10" href="javascript:void(0);">套餐1</a>
+<i style="left: 50px;"></i>
+</div></div>
+</div></div>
+06-59-2019 08:59:50 root:INFO:https://p3.maiyaole.com/img/item/201804/13/200_20180413151413854.jpg
+06-59-2019 08:59:50 root:INFO:http://www.111.com.cn/product/50092924.html
+06-59-2019 08:59:50 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/url {"url": "http://www.111.com.cn/product/50092924.html"}
+06-59-2019 08:59:51 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "POST /session/6fefbe5414aa15c009661f1784cf490d/url HTTP/1.1" 200 14
+06-59-2019 08:59:51 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:52 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/source {}
+06-59-2019 08:59:52 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "GET /session/6fefbe5414aa15c009661f1784cf490d/source HTTP/1.1" 200 259762
+06-59-2019 08:59:52 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:52 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">舒降之 辛伐他汀片 20mg*7片*10件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>舒降之</td>
+<th>规　　格：</th>
+<td>20mg*7</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.01kg</td>
+<th>生产厂商:</th>
+<td>杭州默沙东制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20180007(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-59-2019 08:59:52 root:INFO:**********************
+06-59-2019 08:59:52 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-59-2019 08:59:52 root:INFO:**********************
+06-59-2019 08:59:52 root:INFO:[<td colspan="3">舒降之 辛伐他汀片 20mg*7片*10件</td>, <td>舒降之</td>, <td>20mg*7</td>, <td>0.01kg</td>, <td>杭州默沙东制药有限公司</td>, <td>
+                                                                                    国药准字J20180007(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-59-2019 08:59:52 root:INFO:商品名称：舒降之 辛伐他汀片 20mg*7片*10件
+06-59-2019 08:59:52 root:INFO:品　　牌：舒降之
+06-59-2019 08:59:52 root:INFO:规　　格：20mg*7
+06-59-2019 08:59:52 root:INFO:重　　量：0.01kg
+06-59-2019 08:59:52 root:INFO:生产厂商:杭州默沙东制药有限公司
+06-59-2019 08:59:52 root:INFO:批准文号：国药准字J20180007
+06-59-2019 08:59:52 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-59-2019 08:59:52 root:INFO:<div class="itemSearchResultCon none" comproid="1116102" itemid="50092923" purchasehidestatus="2">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_10" href="//www.111.com.cn/product/50092923.html" target="_blank">
+<img alt="舒降之 辛伐他汀片 20mg*7片 *5件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/item/201804/13/200_20180413151441525.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1116102">
+<span>
+                                  
+                            112.5
+                                  
+                                    <u>¥22.5/件</u>
+</span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_10" href="//www.111.com.cn/product/50092923.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          舒降之 辛伐他汀片 20mg*7片 *5件</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_10">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1116102">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_10" id="askDoctor_779213" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="779213" productcode="779213" sellproductid="779213" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_10" href="//www.111.com.cn/product/50092923.html" id="buyButton_1116102" index="0" inshop="0" merchantid="26" pminfo="1116102" productcode="1116102" sellproductid="1116102" specialtype="13">查看详情</a>
+</div>
+<div class="sheng"><span>省</span>2.5元</div>
+<u class="bg_border"></u>
+</div>
+06-59-2019 08:59:52 root:INFO:https://p2.maiyaole.com/img/item/201804/13/200_20180413151441525.jpg
+06-59-2019 08:59:52 root:INFO:http://www.111.com.cn/product/50092923.html
+06-59-2019 08:59:52 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/url {"url": "http://www.111.com.cn/product/50092923.html"}
+06-59-2019 08:59:53 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "POST /session/6fefbe5414aa15c009661f1784cf490d/url HTTP/1.1" 200 14
+06-59-2019 08:59:53 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:54 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/source {}
+06-59-2019 08:59:54 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "GET /session/6fefbe5414aa15c009661f1784cf490d/source HTTP/1.1" 200 259740
+06-59-2019 08:59:54 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:54 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">舒降之 辛伐他汀片 20mg*7片*5件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>舒降之</td>
+<th>规　　格：</th>
+<td>20mg*7</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.01kg</td>
+<th>生产厂商:</th>
+<td>杭州默沙东制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20180007(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-59-2019 08:59:54 root:INFO:**********************
+06-59-2019 08:59:54 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-59-2019 08:59:54 root:INFO:**********************
+06-59-2019 08:59:54 root:INFO:[<td colspan="3">舒降之 辛伐他汀片 20mg*7片*5件</td>, <td>舒降之</td>, <td>20mg*7</td>, <td>0.01kg</td>, <td>杭州默沙东制药有限公司</td>, <td>
+                                                                                    国药准字J20180007(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-59-2019 08:59:54 root:INFO:商品名称：舒降之 辛伐他汀片 20mg*7片*5件
+06-59-2019 08:59:54 root:INFO:品　　牌：舒降之
+06-59-2019 08:59:54 root:INFO:规　　格：20mg*7
+06-59-2019 08:59:54 root:INFO:重　　量：0.01kg
+06-59-2019 08:59:54 root:INFO:生产厂商:杭州默沙东制药有限公司
+06-59-2019 08:59:54 root:INFO:批准文号：国药准字J20180007
+06-59-2019 08:59:54 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-59-2019 08:59:54 root:INFO:<div class="itemSearchResultCon none" comproid="1634087" itemid="50359977" purchasehidestatus="2">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_10" href="//www.111.com.cn/product/50359977.html" target="_blank">
+<img alt="舒降之 辛伐他汀片 20mg*7片 *1件+能气朗 辅酶Q10片 10mg*30片 *1件" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/201605/20/120_20160520174226702.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_1634087">
+<span>
+                                  
+                            51.5
+                                  
+                          </span>
+</p>
+<!--A+B组合品标题显示-->
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_10" href="//www.111.com.cn/product/50359977.html" target="_blank">
+<span class="list_lable_self"></span>
+                          
+                          
+                        
+                          舒降之 辛伐他汀片 20mg*7片 *1件+能气朗 辅酶Q10片 10mg*30片 *1件</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_10">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name self_name">1药网自营</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_1634087">
+<button class="buy op_right_btn consult_btn border_left" data-ywpoint="null_null_null_null_I1127_10" id="askDoctor_779213" index="0" inshop="0" merchantid="26" onclick="imBak.openIm('yy_1000_1432121462212',1);" pminfo="779213" productcode="779213" sellproductid="779213" specialtype="13">咨询药师</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_10" href="//www.111.com.cn/product/50359977.html" id="buyButton_1634087" index="0" inshop="0" merchantid="26" pminfo="1634087" productcode="1634087" sellproductid="1634087" specialtype="13">查看详情</a>
+</div>
+<div class="sheng"><span>省</span>1.0元</div>
+<u class="bg_border"></u>
+</div>
+06-59-2019 08:59:54 root:INFO:https://p2.maiyaole.com/img/201605/20/120_20160520174226702.jpg
+06-59-2019 08:59:54 root:INFO:http://www.111.com.cn/product/50359977.html
+06-59-2019 08:59:54 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/url {"url": "http://www.111.com.cn/product/50359977.html"}
+06-59-2019 08:59:54 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "POST /session/6fefbe5414aa15c009661f1784cf490d/url HTTP/1.1" 200 14
+06-59-2019 08:59:54 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:55 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/source {}
+06-59-2019 08:59:55 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "GET /session/6fefbe5414aa15c009661f1784cf490d/source HTTP/1.1" 200 264461
+06-59-2019 08:59:55 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:56 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">舒降之 辛伐他汀片 20mg*7片*1件 + 能气朗 辅酶Q10片 10mg*30片*1件</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>舒降之</td>
+<th>规　　格：</th>
+<td>20mg*7</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.01kg</td>
+<th>生产厂商:</th>
+<td>杭州默沙东制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20180007,国药准字H10930021(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-59-2019 08:59:56 root:INFO:**********************
+06-59-2019 08:59:56 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-59-2019 08:59:56 root:INFO:**********************
+06-59-2019 08:59:56 root:INFO:[<td colspan="3">舒降之 辛伐他汀片 20mg*7片*1件 + 能气朗 辅酶Q10片 10mg*30片*1件</td>, <td>舒降之</td>, <td>20mg*7</td>, <td>0.01kg</td>, <td>杭州默沙东制药有限公司</td>, <td>
+                                                                                    国药准字J20180007,国药准字H10930021(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-59-2019 08:59:56 root:INFO:商品名称：舒降之 辛伐他汀片 20mg*7片*1件 + 能气朗 辅酶Q10片 10mg*30片*1件
+06-59-2019 08:59:56 root:INFO:品　　牌：舒降之
+06-59-2019 08:59:56 root:INFO:规　　格：20mg*7
+06-59-2019 08:59:56 root:INFO:重　　量：0.01kg
+06-59-2019 08:59:56 root:INFO:生产厂商:杭州默沙东制药有限公司
+06-59-2019 08:59:56 root:INFO:批准文号：国药准字J20180007,国药准字H10930021
+06-59-2019 08:59:56 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-59-2019 08:59:56 root:INFO:<div class="itemSearchResultCon" comproid="2198575" isrecom="0" itemid="50612657">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_11" href="//www.111.com.cn/product/50612657.html" target="_blank">
+<textarea data-original="" lz="true" style="visibility:hidden;">                              &lt;img src="https://p1.maiyaole.com/img/974/974352/120_120.jpg?a=1182989003" alt="舒降之 辛伐他汀片 20mg*7片" onerror="imgERROR(this,'no_pic_120_120.jpg');" width="205" height="188" data-ywpoint='null_null_null_null_I1121_11'&gt;
+                          </textarea>
+</a>
+<p class="price" id="promotionInfo_2198575">
+<textarea data-original="" lz="true" style="visibility:hidden;">                                  
+                                &lt;span&gt;
+                                    25.8
+                                &lt;/span&gt;
+                              </textarea>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_11" href="//www.111.com.cn/product/50612657.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    舒降之 辛伐他汀片 20mg*7片连锁大药房 有保障更放心</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_11">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102528091">亮健好药房网上药店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2198575">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_11" id="submitRequest_2198575_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50612657,1)" pminfo="2198575" productcode="2198575" sellproductid="2198575" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_11" id="submitRequest_2198575" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50612657,1)" ordersettings="11" pminfo="2198575" productcode="2198575" sellproductid="2198575" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_11" href="//www.111.com.cn/product/50612657.html" id="buyButton_2198575" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="2198575" productcode="2198575" sellproductid="2198575" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-59-2019 08:59:56 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d/window {}
+06-59-2019 08:59:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "DELETE /session/6fefbe5414aa15c009661f1784cf490d/window HTTP/1.1" 200 12
+06-59-2019 08:59:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-59-2019 08:59:56 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:64545/session/6fefbe5414aa15c009661f1784cf490d {}
+06-59-2019 08:59:56 urllib3.connectionpool:DEBUG:http://127.0.0.1:64545 "DELETE /session/6fefbe5414aa15c009661f1784cf490d HTTP/1.1" 200 14
+06-59-2019 08:59:56 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

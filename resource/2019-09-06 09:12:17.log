@@ -1,0 +1,513 @@
+06-12-2019 09:12:17 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927/url {"url": "https://www.111.com.cn"}
+06-12-2019 09:12:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "POST /session/72d86c6b35323b53b733396bb53d4927/url HTTP/1.1" 200 14
+06-12-2019 09:12:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-12-2019 09:12:20 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927/source {}
+06-12-2019 09:12:20 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "GET /session/72d86c6b35323b53b733396bb53d4927/source HTTP/1.1" 200 340134
+06-12-2019 09:12:20 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-12-2019 09:12:20 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u73bb\u7483\u9178\u94a0\u6ef4\u773c\u6db2 \u53c2\u5929\");\n$(\"#word\").attr(\"value\",\"\u73bb\u7483\u9178\u94a0\u6ef4\u773c\u6db2 \u53c2\u5929\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+06-12-2019 09:12:20 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "POST /session/72d86c6b35323b53b733396bb53d4927/execute/sync HTTP/1.1" 200 14
+06-12-2019 09:12:20 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-12-2019 09:12:21 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927/source {}
+06-12-2019 09:12:21 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "GET /session/72d86c6b35323b53b733396bb53d4927/source HTTP/1.1" 200 240994
+06-12-2019 09:12:21 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-12-2019 09:12:21 root:INFO:<div class="itemSearchResultCon" comproid="2382016" isrecom="0" itemid="50733132">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50733132.html" target="_blank">
+<img alt="参天堂 氟米龙滴眼液 5ml" data-ywpoint="null_null_null_null_I1121_0" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/201703/07/200_20170307135849400.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_2382016">
+<span>
+                        18.5
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_0" href="//www.111.com.cn/product/50733132.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    参天堂 氟米龙滴眼液 5ml</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_0">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102519852">惠泽康大药房</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2382016">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_2382016_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50733132,1)" pminfo="2382016" productcode="2382016" sellproductid="2382016" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_0" id="submitRequest_2382016" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50733132,1)" ordersettings="11" pminfo="2382016" productcode="2382016" sellproductid="2382016" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_0" href="//www.111.com.cn/product/50733132.html" id="buyButton_2382016" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="2382016" productcode="2382016" sellproductid="2382016" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-12-2019 09:12:21 root:INFO:https://p1.maiyaole.com/img/201703/07/200_20170307135849400.jpg
+06-12-2019 09:12:21 root:INFO:http://www.111.com.cn/product/50733132.html
+06-12-2019 09:12:21 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927/url {"url": "http://www.111.com.cn/product/50733132.html"}
+06-12-2019 09:12:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "POST /session/72d86c6b35323b53b733396bb53d4927/url HTTP/1.1" 200 14
+06-12-2019 09:12:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-12-2019 09:12:23 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927/source {}
+06-12-2019 09:12:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "GET /session/72d86c6b35323b53b733396bb53d4927/source HTTP/1.1" 200 241814
+06-12-2019 09:12:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-12-2019 09:12:23 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">参天堂 氟米龙滴眼液 5ml</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>参天堂</td>
+<th>规　　格：</th>
+<td>5ml</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.01kg</td>
+<th>生产厂商:</th>
+<td>韩国参天堂制药株式会社</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    进口注册证号H20140262(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-12-2019 09:12:23 root:INFO:**********************
+06-12-2019 09:12:23 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-12-2019 09:12:23 root:INFO:**********************
+06-12-2019 09:12:23 root:INFO:[<td colspan="3">参天堂 氟米龙滴眼液 5ml</td>, <td>参天堂</td>, <td>5ml</td>, <td>0.01kg</td>, <td>韩国参天堂制药株式会社</td>, <td>
+                                                                                    进口注册证号H20140262(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-12-2019 09:12:23 root:INFO:商品名称：参天堂 氟米龙滴眼液 5ml
+06-12-2019 09:12:23 root:INFO:品　　牌：参天堂
+06-12-2019 09:12:23 root:INFO:规　　格：5ml
+06-12-2019 09:12:23 root:INFO:重　　量：0.01kg
+06-12-2019 09:12:23 root:INFO:生产厂商:韩国参天堂制药株式会社
+06-12-2019 09:12:23 root:INFO:批准文号：进口注册证号H20140262
+06-12-2019 09:12:23 root:INFO:产品类型：处方药
+06-12-2019 09:12:23 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-12-2019 09:12:23 root:INFO:<div class="itemSearchResultCon" comproid="2313171" isrecom="0" itemid="50689155">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/50689155.html" target="_blank">
+<img alt="研立双 吡嘧司特钾滴眼液5ml：5mg" data-ywpoint="null_null_null_null_I1121_1" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/201612/18/200_20161218091026386.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_2313171">
+<span>
+                        23.8
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_1" href="//www.111.com.cn/product/50689155.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    研立双 吡嘧司特钾滴眼液5ml：5mg本品用于过敏性结膜炎、春季卡他性结膜炎。</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_1">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><em class="gold_brand_ico"></em><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102532298">壹心康新特药</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_2313171">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_1" id="submitRequest_2313171_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50689155,1)" pminfo="2313171" productcode="2313171" sellproductid="2313171" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_1" id="submitRequest_2313171" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(50689155,1)" ordersettings="11" pminfo="2313171" productcode="2313171" sellproductid="2313171" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_1" href="//www.111.com.cn/product/50689155.html" id="buyButton_2313171" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="2313171" productcode="2313171" sellproductid="2313171" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-12-2019 09:12:23 root:INFO:https://p3.maiyaole.com/img/201612/18/200_20161218091026386.jpg
+06-12-2019 09:12:23 root:INFO:http://www.111.com.cn/product/50689155.html
+06-12-2019 09:12:23 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927/url {"url": "http://www.111.com.cn/product/50689155.html"}
+06-12-2019 09:12:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "POST /session/72d86c6b35323b53b733396bb53d4927/url HTTP/1.1" 200 14
+06-12-2019 09:12:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-12-2019 09:12:25 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927/source {}
+06-12-2019 09:12:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "GET /session/72d86c6b35323b53b733396bb53d4927/source HTTP/1.1" 200 241310
+06-12-2019 09:12:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-12-2019 09:12:25 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">研立双 吡嘧司特钾滴眼液5ml：5mg</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>参天</td>
+<th>规　　格：</th>
+<td>5ml：5mg</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.1kg</td>
+<th>生产厂商:</th>
+<td>参天制药（中国）有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130147(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-12-2019 09:12:25 root:INFO:**********************
+06-12-2019 09:12:25 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-12-2019 09:12:25 root:INFO:**********************
+06-12-2019 09:12:25 root:INFO:[<td colspan="3">研立双 吡嘧司特钾滴眼液5ml：5mg</td>, <td>参天</td>, <td>5ml：5mg</td>, <td>0.1kg</td>, <td>参天制药（中国）有限公司</td>, <td>
+                                                                                    国药准字J20130147(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-12-2019 09:12:25 root:INFO:商品名称：研立双 吡嘧司特钾滴眼液5ml：5mg
+06-12-2019 09:12:25 root:INFO:品　　牌：参天
+06-12-2019 09:12:25 root:INFO:规　　格：5ml：5mg
+06-12-2019 09:12:25 root:INFO:重　　量：0.1kg
+06-12-2019 09:12:25 root:INFO:生产厂商:参天制药（中国）有限公司
+06-12-2019 09:12:25 root:INFO:批准文号：国药准字J20130147
+06-12-2019 09:12:25 root:INFO:产品类型：处方药
+06-12-2019 09:12:25 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-12-2019 09:12:25 root:INFO:<div class="itemSearchResultCon" comproid="3357008" isrecom="0" itemid="51251127">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/51251127.html" target="_blank">
+<img alt="研立双 吡嘧司特钾滴眼液5ml：5mg" data-ywpoint="null_null_null_null_I1121_2" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p3.maiyaole.com/img/201904/17/200_20190417115914508.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3357008">
+<span>
+                        22.9
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_2" href="//www.111.com.cn/product/51251127.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    研立双 吡嘧司特钾滴眼液5ml：5mg</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_2">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102552527">阿康大药房旗舰店...</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3357008">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_2" id="submitRequest_3357008_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51251127,1)" pminfo="3357008" productcode="3357008" sellproductid="3357008" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_2" id="submitRequest_3357008" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51251127,1)" ordersettings="11" pminfo="3357008" productcode="3357008" sellproductid="3357008" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_2" href="//www.111.com.cn/product/51251127.html" id="buyButton_3357008" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3357008" productcode="3357008" sellproductid="3357008" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-12-2019 09:12:25 root:INFO:https://p3.maiyaole.com/img/201904/17/200_20190417115914508.jpg
+06-12-2019 09:12:25 root:INFO:http://www.111.com.cn/product/51251127.html
+06-12-2019 09:12:25 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927/url {"url": "http://www.111.com.cn/product/51251127.html"}
+06-12-2019 09:12:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "POST /session/72d86c6b35323b53b733396bb53d4927/url HTTP/1.1" 200 14
+06-12-2019 09:12:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-12-2019 09:12:26 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927/source {}
+06-12-2019 09:12:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "GET /session/72d86c6b35323b53b733396bb53d4927/source HTTP/1.1" 200 241102
+06-12-2019 09:12:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-12-2019 09:12:27 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">研立双 吡嘧司特钾滴眼液5ml：5mg</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>参天</td>
+<th>规　　格：</th>
+<td>5ml：5mg</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.1kg</td>
+<th>生产厂商:</th>
+<td>参天制药（中国）有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130147(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-12-2019 09:12:27 root:INFO:**********************
+06-12-2019 09:12:27 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-12-2019 09:12:27 root:INFO:**********************
+06-12-2019 09:12:27 root:INFO:[<td colspan="3">研立双 吡嘧司特钾滴眼液5ml：5mg</td>, <td>参天</td>, <td>5ml：5mg</td>, <td>0.1kg</td>, <td>参天制药（中国）有限公司</td>, <td>
+                                                                                    国药准字J20130147(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-12-2019 09:12:27 root:INFO:商品名称：研立双 吡嘧司特钾滴眼液5ml：5mg
+06-12-2019 09:12:27 root:INFO:品　　牌：参天
+06-12-2019 09:12:27 root:INFO:规　　格：5ml：5mg
+06-12-2019 09:12:27 root:INFO:重　　量：0.1kg
+06-12-2019 09:12:27 root:INFO:生产厂商:参天制药（中国）有限公司
+06-12-2019 09:12:27 root:INFO:批准文号：国药准字J20130147
+06-12-2019 09:12:27 root:INFO:产品类型：处方药
+06-12-2019 09:12:27 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-12-2019 09:12:27 root:INFO:<div class="itemSearchResultCon" comproid="3409654" isrecom="0" itemid="51286998">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_3" href="//www.111.com.cn/product/51286998.html" target="_blank">
+<img alt="研立双 吡嘧司特钾滴眼液5ml：5mg" data-ywpoint="null_null_null_null_I1121_3" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p2.maiyaole.com/img/201906/02/200_20190602201607205.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3409654">
+<span>
+                        24.3
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_3" href="//www.111.com.cn/product/51286998.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    研立双 吡嘧司特钾滴眼液5ml：5mg</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_3">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102553535">济瑾堂大药房旗舰店</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3409654">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_3" id="submitRequest_3409654_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51286998,1)" pminfo="3409654" productcode="3409654" sellproductid="3409654" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_3" id="submitRequest_3409654" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51286998,1)" ordersettings="11" pminfo="3409654" productcode="3409654" sellproductid="3409654" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_3" href="//www.111.com.cn/product/51286998.html" id="buyButton_3409654" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3409654" productcode="3409654" sellproductid="3409654" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-12-2019 09:12:27 root:INFO:https://p2.maiyaole.com/img/201906/02/200_20190602201607205.jpg
+06-12-2019 09:12:27 root:INFO:http://www.111.com.cn/product/51286998.html
+06-12-2019 09:12:27 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927/url {"url": "http://www.111.com.cn/product/51286998.html"}
+06-12-2019 09:12:27 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "POST /session/72d86c6b35323b53b733396bb53d4927/url HTTP/1.1" 200 14
+06-12-2019 09:12:27 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-12-2019 09:12:28 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927/source {}
+06-12-2019 09:12:28 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "GET /session/72d86c6b35323b53b733396bb53d4927/source HTTP/1.1" 200 238996
+06-12-2019 09:12:28 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-12-2019 09:12:28 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">研立双 吡嘧司特钾滴眼液5ml：5mg</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>参天</td>
+<th>规　　格：</th>
+<td>5ml：5mg</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.1kg</td>
+<th>生产厂商:</th>
+<td>参天制药（中国）有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130147(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-12-2019 09:12:28 root:INFO:**********************
+06-12-2019 09:12:28 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-12-2019 09:12:28 root:INFO:**********************
+06-12-2019 09:12:28 root:INFO:[<td colspan="3">研立双 吡嘧司特钾滴眼液5ml：5mg</td>, <td>参天</td>, <td>5ml：5mg</td>, <td>0.1kg</td>, <td>参天制药（中国）有限公司</td>, <td>
+                                                                                    国药准字J20130147(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-12-2019 09:12:28 root:INFO:商品名称：研立双 吡嘧司特钾滴眼液5ml：5mg
+06-12-2019 09:12:28 root:INFO:品　　牌：参天
+06-12-2019 09:12:28 root:INFO:规　　格：5ml：5mg
+06-12-2019 09:12:28 root:INFO:重　　量：0.1kg
+06-12-2019 09:12:28 root:INFO:生产厂商:参天制药（中国）有限公司
+06-12-2019 09:12:28 root:INFO:批准文号：国药准字J20130147
+06-12-2019 09:12:28 root:INFO:产品类型：处方药
+06-12-2019 09:12:28 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-12-2019 09:12:28 root:INFO:<div class="itemSearchResultCon" comproid="3314925" isrecom="0" itemid="51230749">
+<a class="product_pic pro_img" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/51230749.html" target="_blank">
+<img alt="研立双 吡嘧司特钾滴眼液5ml：5mg" data-ywpoint="null_null_null_null_I1121_4" height="188" onerror="imgERROR(this,'no_pic_120_120.jpg');" src="https://p1.maiyaole.com/img/201903/11/200_20190311135813626.jpg" width="205"/>
+</a>
+<p class="price" id="promotionInfo_3314925">
+<span>
+                        24.3
+                    </span>
+</p>
+<p class="titleBox">
+<a class="productName twoRow" data-ywpoint="null_null_null_null_I1121_4" href="//www.111.com.cn/product/51230749.html" target="_blank">
+<span class="list_lable_business"></span>
+                    
+                  
+
+                    研立双 吡嘧司特钾滴眼液5ml：5mg</a>
+</p>
+<div class="sell_type_div">
+<!--评论-->
+<span class="comment comment_right" data-ywpoint="null_null_null_null_I1124_4">
+</span>
+<!--A+B组合品标题显示-->
+<span class="goldseller_name"><a href="//www.111.com.cn/search/innerSearch.action?venderId=000102550031">成都拜欧大药房旗...</a>
+</span>
+<div class="browse"></div>
+</div>
+<div class="search_list_op" id="buyInfo_3314925">
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_4" id="submitRequest_3314925_ys" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51230749,1)" pminfo="3314925" productcode="3314925" sellproductid="3314925" specialtype="13" style="display: none">提交需求</button>
+<button class="buy op_right_btn send_require_btn border_left" data-ywpoint="null_null_null_null_I1128_4" id="submitRequest_3314925" index="0" inshop="0" merchantid="26" onclick="addMPRxDrugByList(51230749,1)" ordersettings="11" pminfo="3314925" productcode="3314925" sellproductid="3314925" specialtype="13" yaoshiordersettings="1">提交需求</button>
+<a class="look_detail_btn" data-ywpoint="null_null_null_null_I1125_4" href="//www.111.com.cn/product/51230749.html" id="buyButton_3314925" index="0" inshop="0" merchantid="26" ordersettings="11" pminfo="3314925" productcode="3314925" sellproductid="3314925" specialtype="13" yaoshiordersettings="1">查看详情</a>
+</div>
+<u class="bg_border"></u>
+<!-- 组合品件数条 -->
+<!-- 组合品件数条 -->
+</div>
+06-12-2019 09:12:28 root:INFO:https://p1.maiyaole.com/img/201903/11/200_20190311135813626.jpg
+06-12-2019 09:12:28 root:INFO:http://www.111.com.cn/product/51230749.html
+06-12-2019 09:12:28 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927/url {"url": "http://www.111.com.cn/product/51230749.html"}
+06-12-2019 09:12:29 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "POST /session/72d86c6b35323b53b733396bb53d4927/url HTTP/1.1" 200 14
+06-12-2019 09:12:29 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-12-2019 09:12:30 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927/source {}
+06-12-2019 09:12:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "GET /session/72d86c6b35323b53b733396bb53d4927/source HTTP/1.1" 200 240977
+06-12-2019 09:12:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-12-2019 09:12:30 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">研立双 吡嘧司特钾滴眼液5ml：5mg</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>参天</td>
+<th>规　　格：</th>
+<td>5ml：5mg</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.1kg</td>
+<th>生产厂商:</th>
+<td>参天制药（中国）有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字J20130147(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            处方药
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+<tr>
+<th>    </th>
+</tr>
+</tbody></table>
+</div>
+06-12-2019 09:12:30 root:INFO:**********************
+06-12-2019 09:12:30 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>, <th>    </th>]
+06-12-2019 09:12:30 root:INFO:**********************
+06-12-2019 09:12:30 root:INFO:[<td colspan="3">研立双 吡嘧司特钾滴眼液5ml：5mg</td>, <td>参天</td>, <td>5ml：5mg</td>, <td>0.1kg</td>, <td>参天制药（中国）有限公司</td>, <td>
+                                                                                    国药准字J20130147(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            处方药
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+06-12-2019 09:12:30 root:INFO:商品名称：研立双 吡嘧司特钾滴眼液5ml：5mg
+06-12-2019 09:12:30 root:INFO:品　　牌：参天
+06-12-2019 09:12:30 root:INFO:规　　格：5ml：5mg
+06-12-2019 09:12:30 root:INFO:重　　量：0.1kg
+06-12-2019 09:12:30 root:INFO:生产厂商:参天制药（中国）有限公司
+06-12-2019 09:12:30 root:INFO:批准文号：国药准字J20130147
+06-12-2019 09:12:30 root:INFO:产品类型：处方药
+06-12-2019 09:12:30 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+06-12-2019 09:12:30 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927/window {}
+06-12-2019 09:12:30 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "DELETE /session/72d86c6b35323b53b733396bb53d4927/window HTTP/1.1" 200 12
+06-12-2019 09:12:30 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+06-12-2019 09:12:30 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:51973/session/72d86c6b35323b53b733396bb53d4927 {}
+06-12-2019 09:12:31 urllib3.connectionpool:DEBUG:http://127.0.0.1:51973 "DELETE /session/72d86c6b35323b53b733396bb53d4927 HTTP/1.1" 200 14
+06-12-2019 09:12:31 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

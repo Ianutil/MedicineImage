@@ -1,0 +1,247 @@
+05-28-2019 17:28:13 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62302/session/a46fdb8ae10bc901fb520daba3b49b0e/url {"url": "https://www.111.com.cn"}
+05-28-2019 17:28:14 urllib3.connectionpool:DEBUG:http://127.0.0.1:62302 "POST /session/a46fdb8ae10bc901fb520daba3b49b0e/url HTTP/1.1" 200 14
+05-28-2019 17:28:14 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-28-2019 17:28:15 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62302/session/a46fdb8ae10bc901fb520daba3b49b0e/source {}
+05-28-2019 17:28:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:62302 "GET /session/a46fdb8ae10bc901fb520daba3b49b0e/source HTTP/1.1" 200 340135
+05-28-2019 17:28:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-28-2019 17:28:15 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62302/session/a46fdb8ae10bc901fb520daba3b49b0e/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u5f00\u585e\u9732(\u542b\u7518\u6cb9)\");\n$(\"#word\").attr(\"value\",\"\u5f00\u585e\u9732(\u542b\u7518\u6cb9)\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+05-28-2019 17:28:15 urllib3.connectionpool:DEBUG:http://127.0.0.1:62302 "POST /session/a46fdb8ae10bc901fb520daba3b49b0e/execute/sync HTTP/1.1" 200 14
+05-28-2019 17:28:15 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-28-2019 17:28:16 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62302/session/a46fdb8ae10bc901fb520daba3b49b0e/source {}
+05-28-2019 17:28:17 urllib3.connectionpool:DEBUG:http://127.0.0.1:62302 "GET /session/a46fdb8ae10bc901fb520daba3b49b0e/source HTTP/1.1" 200 657302
+05-28-2019 17:28:17 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-28-2019 17:28:17 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62302/session/a46fdb8ae10bc901fb520daba3b49b0e/url {"url": "http://www.111.com.cn/product/50088521.html"}
+05-28-2019 17:28:18 urllib3.connectionpool:DEBUG:http://127.0.0.1:62302 "POST /session/a46fdb8ae10bc901fb520daba3b49b0e/url HTTP/1.1" 200 14
+05-28-2019 17:28:18 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-28-2019 17:28:19 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62302/session/a46fdb8ae10bc901fb520daba3b49b0e/source {}
+05-28-2019 17:28:19 urllib3.connectionpool:DEBUG:http://127.0.0.1:62302 "GET /session/a46fdb8ae10bc901fb520daba3b49b0e/source HTTP/1.1" 200 256242
+05-28-2019 17:28:19 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-28-2019 17:28:19 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">信龙 开塞露(含甘油)20ml*20支 小儿童男女孕妇老人成人便秘通便</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>信龙</td>
+<th>规　　格：</th>
+<td>20mL*20支</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.586kg</td>
+<th>生产厂商:</th>
+<td>上海运佳黄浦制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H31021363(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+05-28-2019 17:28:19 root:INFO:**********************
+05-28-2019 17:28:19 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+05-28-2019 17:28:19 root:INFO:**********************
+05-28-2019 17:28:19 root:INFO:[<td colspan="3">信龙 开塞露(含甘油)20ml*20支 小儿童男女孕妇老人成人便秘通便</td>, <td>信龙</td>, <td>20mL*20支</td>, <td>0.586kg</td>, <td>上海运佳黄浦制药有限公司</td>, <td>
+                                                                                    国药准字H31021363(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-28-2019 17:28:19 root:INFO:商品名称：信龙 开塞露(含甘油)20ml*20支 小儿童男女孕妇老人成人便秘通便
+05-28-2019 17:28:19 root:INFO:品　　牌：信龙
+05-28-2019 17:28:19 root:INFO:规　　格：20mL*20支
+05-28-2019 17:28:19 root:INFO:重　　量：0.586kg
+05-28-2019 17:28:19 root:INFO:生产厂商:上海运佳黄浦制药有限公司
+05-28-2019 17:28:19 root:INFO:批准文号：国药准字H31021363
+05-28-2019 17:28:19 root:INFO:#### 下载路径 #### ./file/image/122534/0.jpg
+05-28-2019 17:28:19 root:INFO:#### 下载URL #### https://p1.maiyaole.com/img/item/201908/13/200_20190813102051180.jpg
+05-28-2019 17:28:19 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p1.maiyaole.com:443
+05-28-2019 17:28:19 urllib3.connectionpool:DEBUG:https://p1.maiyaole.com:443 "GET /img/item/201908/13/200_20190813102051180.jpg HTTP/1.1" 200 13154
+05-28-2019 17:28:19 root:INFO:#### 下载路径 #### ./file/image/122534/1.jpg
+05-28-2019 17:28:19 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/item/201908/13/org_20190813102051180.jpg
+05-28-2019 17:28:19 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+05-28-2019 17:28:19 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/item/201908/13/org_20190813102051180.jpg HTTP/1.1" 200 119149
+05-28-2019 17:28:19 root:INFO:#### 下载路径 #### ./file/image/122534/2.jpg
+05-28-2019 17:28:19 root:INFO:#### 下载URL #### https://p1.maiyaole.com/img/item/201908/13/org_20190813102051967.jpg
+05-28-2019 17:28:19 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p1.maiyaole.com:443
+05-28-2019 17:28:20 urllib3.connectionpool:DEBUG:https://p1.maiyaole.com:443 "GET /img/item/201908/13/org_20190813102051967.jpg HTTP/1.1" 200 63988
+05-28-2019 17:28:20 root:INFO:#### 下载路径 #### ./file/image/122534/3.jpg
+05-28-2019 17:28:20 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/item/201908/13/org_20190813102052759.jpg
+05-28-2019 17:28:20 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+05-28-2019 17:28:20 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/item/201908/13/org_20190813102052759.jpg HTTP/1.1" 200 308641
+05-28-2019 17:28:20 root:INFO:#### 下载路径 #### ./file/image/122534/4.jpg
+05-28-2019 17:28:20 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/item/201908/13/org_20190813102053939.jpg
+05-28-2019 17:28:20 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+05-28-2019 17:28:20 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/item/201908/13/org_20190813102053939.jpg HTTP/1.1" 200 212206
+05-28-2019 17:28:20 root:INFO:#### 下载路径 #### ./file/image/122534/5.jpg
+05-28-2019 17:28:20 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/item/201908/13/org_20190813102054964.jpg
+05-28-2019 17:28:20 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+05-28-2019 17:28:20 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/item/201908/13/org_20190813102054964.jpg HTTP/1.1" 200 167327
+05-28-2019 17:28:20 root:INFO:#### 下载路径 #### ./file/image/122534/6.jpg
+05-28-2019 17:28:20 root:INFO:#### 下载URL #### https://p2.maiyaole.com/img/item/201908/13/org_20190813102055922.jpg
+05-28-2019 17:28:20 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p2.maiyaole.com:443
+05-28-2019 17:28:20 urllib3.connectionpool:DEBUG:https://p2.maiyaole.com:443 "GET /img/item/201908/13/org_20190813102055922.jpg HTTP/1.1" 200 93157
+05-28-2019 17:28:20 root:INFO:#### 下载路径 #### ./file/image/122534/7.jpg
+05-28-2019 17:28:20 root:INFO:#### 下载URL #### https://p4.maiyaole.com/img/item/201908/13/org_20190813102056642.jpg
+05-28-2019 17:28:20 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p4.maiyaole.com:443
+05-28-2019 17:28:20 urllib3.connectionpool:DEBUG:https://p4.maiyaole.com:443 "GET /img/item/201908/13/org_20190813102056642.jpg HTTP/1.1" 200 285400
+05-28-2019 17:28:20 root:INFO:产品类型：OTC（非处方药）
+05-28-2019 17:28:20 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+05-28-2019 17:28:20 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62302/session/a46fdb8ae10bc901fb520daba3b49b0e/url {"url": "http://www.111.com.cn/product/50126433.html"}
+05-28-2019 17:28:21 urllib3.connectionpool:DEBUG:http://127.0.0.1:62302 "POST /session/a46fdb8ae10bc901fb520daba3b49b0e/url HTTP/1.1" 200 14
+05-28-2019 17:28:21 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-28-2019 17:28:22 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62302/session/a46fdb8ae10bc901fb520daba3b49b0e/source {}
+05-28-2019 17:28:22 urllib3.connectionpool:DEBUG:http://127.0.0.1:62302 "GET /session/a46fdb8ae10bc901fb520daba3b49b0e/source HTTP/1.1" 200 246273
+05-28-2019 17:28:22 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-28-2019 17:28:22 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">恒建 开塞露(含甘油) 20ml*20支</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>恒建</td>
+<th>规　　格：</th>
+<td>20mL*20支</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.579kg</td>
+<th>生产厂商:</th>
+<td>广东恒健制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H44023815(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+05-28-2019 17:28:22 root:INFO:**********************
+05-28-2019 17:28:22 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+05-28-2019 17:28:22 root:INFO:**********************
+05-28-2019 17:28:22 root:INFO:[<td colspan="3">恒建 开塞露(含甘油) 20ml*20支</td>, <td>恒建</td>, <td>20mL*20支</td>, <td>0.579kg</td>, <td>广东恒健制药有限公司</td>, <td>
+                                                                                    国药准字H44023815(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-28-2019 17:28:22 root:INFO:商品名称：恒建 开塞露(含甘油) 20ml*20支
+05-28-2019 17:28:22 root:INFO:品　　牌：恒建
+05-28-2019 17:28:22 root:INFO:规　　格：20mL*20支
+05-28-2019 17:28:22 root:INFO:重　　量：0.579kg
+05-28-2019 17:28:22 root:INFO:生产厂商:广东恒健制药有限公司
+05-28-2019 17:28:22 root:INFO:批准文号：国药准字H44023815
+05-28-2019 17:28:22 root:INFO:产品类型：OTC（非处方药）
+05-28-2019 17:28:22 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+05-28-2019 17:28:22 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:62302/session/a46fdb8ae10bc901fb520daba3b49b0e/url {"url": "http://www.111.com.cn/product/8814833.html"}
+05-28-2019 17:28:23 urllib3.connectionpool:DEBUG:http://127.0.0.1:62302 "POST /session/a46fdb8ae10bc901fb520daba3b49b0e/url HTTP/1.1" 200 14
+05-28-2019 17:28:23 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-28-2019 17:28:24 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:62302/session/a46fdb8ae10bc901fb520daba3b49b0e/source {}
+05-28-2019 17:28:24 urllib3.connectionpool:DEBUG:http://127.0.0.1:62302 "GET /session/a46fdb8ae10bc901fb520daba3b49b0e/source HTTP/1.1" 200 246890
+05-28-2019 17:28:24 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-28-2019 17:28:24 root:INFO:<div class="goods_intro">
+<table>
+<colgroup><col width="10%"/>
+<col width="31%"/>
+<col width="10%"/>
+</colgroup><tbody><tr>
+<th>商品名称：</th>
+<td colspan="3">信龙 开塞露(含甘油) 20ml*6支</td>
+</tr>
+<tr>
+<th>品　　牌：</th>
+<td>信龙</td>
+<th>规　　格：</th>
+<td>20ml*6支</td>
+</tr>
+<tr>
+<th>重　　量：</th>
+<td>0.182kg</td>
+<th>生产厂商:</th>
+<td>上海运佳黄浦制药有限公司</td>
+</tr>
+<tr>
+<th>批准文号：</th>
+<td>
+                                                                                    国药准字H31021363(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>
+<th>产品类型：</th>
+<td>
+                                            OTC（非处方药）
+                                        </td>
+</tr>
+<tr>
+<th>温馨提示：</th>
+<td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>
+</tr>
+</tbody></table>
+</div>
+05-28-2019 17:28:24 root:INFO:**********************
+05-28-2019 17:28:24 root:INFO:[<th>商品名称：</th>, <th>品　　牌：</th>, <th>规　　格：</th>, <th>重　　量：</th>, <th>生产厂商:</th>, <th>批准文号：</th>, <th>产品类型：</th>, <th>温馨提示：</th>]
+05-28-2019 17:28:24 root:INFO:**********************
+05-28-2019 17:28:24 root:INFO:[<td colspan="3">信龙 开塞露(含甘油) 20ml*6支</td>, <td>信龙</td>, <td>20ml*6支</td>, <td>0.182kg</td>, <td>上海运佳黄浦制药有限公司</td>, <td>
+                                                                                    国药准字H31021363(<a href="http://app1.sfda.gov.cn/datasearch/face3/dir.html" style="color:#0083ce" target="_blank">国家食药局查询</a>)
+                                                                            </td>, <td>
+                                            OTC（非处方药）
+                                        </td>, <td colspan="3">部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准</td>]
+05-28-2019 17:28:24 root:INFO:商品名称：信龙 开塞露(含甘油) 20ml*6支
+05-28-2019 17:28:24 root:INFO:品　　牌：信龙
+05-28-2019 17:28:24 root:INFO:规　　格：20ml*6支
+05-28-2019 17:28:24 root:INFO:重　　量：0.182kg
+05-28-2019 17:28:24 root:INFO:生产厂商:上海运佳黄浦制药有限公司
+05-28-2019 17:28:24 root:INFO:批准文号：国药准字H31021363
+05-28-2019 17:28:24 root:INFO:#### 下载路径 #### ./file/image/122534/0.jpg
+05-28-2019 17:28:24 root:INFO:#### 下载URL #### https://p2.maiyaole.com/img/item/201802/08/200_20180208110218385.jpg
+05-28-2019 17:28:24 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p2.maiyaole.com:443
+05-28-2019 17:28:24 urllib3.connectionpool:DEBUG:https://p2.maiyaole.com:443 "GET /img/item/201802/08/200_20180208110218385.jpg HTTP/1.1" 200 11972
+05-28-2019 17:28:24 root:INFO:#### 下载路径 #### ./file/image/122534/1.jpg
+05-28-2019 17:28:24 root:INFO:#### 下载URL #### https://p4.maiyaole.com/img/item/201802/08/org_20180208110218385.jpg
+05-28-2019 17:28:24 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p4.maiyaole.com:443
+05-28-2019 17:28:24 urllib3.connectionpool:DEBUG:https://p4.maiyaole.com:443 "GET /img/item/201802/08/org_20180208110218385.jpg HTTP/1.1" 200 109076
+05-28-2019 17:28:24 root:INFO:#### 下载路径 #### ./file/image/122534/2.jpg
+05-28-2019 17:28:24 root:INFO:#### 下载URL #### https://p2.maiyaole.com/img/item/201802/08/org_20180208110219234.jpg
+05-28-2019 17:28:24 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p2.maiyaole.com:443
+05-28-2019 17:28:25 urllib3.connectionpool:DEBUG:https://p2.maiyaole.com:443 "GET /img/item/201802/08/org_20180208110219234.jpg HTTP/1.1" 200 131089
+05-28-2019 17:28:25 root:INFO:#### 下载路径 #### ./file/image/122534/3.jpg
+05-28-2019 17:28:25 root:INFO:#### 下载URL #### https://p3.maiyaole.com/img/item/201802/08/org_20180208110220769.jpg
+05-28-2019 17:28:25 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p3.maiyaole.com:443
+05-28-2019 17:28:25 urllib3.connectionpool:DEBUG:https://p3.maiyaole.com:443 "GET /img/item/201802/08/org_20180208110220769.jpg HTTP/1.1" 200 88031
+05-28-2019 17:28:25 root:INFO:#### 下载路径 #### ./file/image/122534/4.jpg
+05-28-2019 17:28:25 root:INFO:#### 下载URL #### https://p1.maiyaole.com/img/item/201811/13/org_20181113183312907.jpg
+05-28-2019 17:28:25 urllib3.connectionpool:DEBUG:Starting new HTTPS connection (1): p1.maiyaole.com:443
+05-28-2019 17:28:25 urllib3.connectionpool:DEBUG:https://p1.maiyaole.com:443 "GET /img/item/201811/13/org_20181113183312907.jpg HTTP/1.1" 200 67797
+05-28-2019 17:28:25 root:INFO:产品类型：OTC（非处方药）
+05-28-2019 17:28:25 root:INFO:温馨提示：部分商品包装更换频繁，如货品与图片 不完全一致，请以收到的商品实物为准
+05-28-2019 17:28:25 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:62302/session/a46fdb8ae10bc901fb520daba3b49b0e/window {}
+05-28-2019 17:28:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:62302 "DELETE /session/a46fdb8ae10bc901fb520daba3b49b0e/window HTTP/1.1" 200 12
+05-28-2019 17:28:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-28-2019 17:28:25 selenium.webdriver.remote.remote_connection:DEBUG:DELETE http://127.0.0.1:62302/session/a46fdb8ae10bc901fb520daba3b49b0e {}
+05-28-2019 17:28:25 urllib3.connectionpool:DEBUG:http://127.0.0.1:62302 "DELETE /session/a46fdb8ae10bc901fb520daba3b49b0e HTTP/1.1" 200 14
+05-28-2019 17:28:25 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request

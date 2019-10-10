@@ -1,0 +1,14 @@
+05-11-2019 18:11:37 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:59316/session/202ea1c7be03b95389aae2b1e44b17e9/url {"url": "https://www.111.com.cn"}
+05-11-2019 18:11:39 urllib3.connectionpool:DEBUG:http://127.0.0.1:59316 "POST /session/202ea1c7be03b95389aae2b1e44b17e9/url HTTP/1.1" 200 14
+05-11-2019 18:11:39 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-11-2019 18:11:40 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:59316/session/202ea1c7be03b95389aae2b1e44b17e9/source {}
+05-11-2019 18:11:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:59316 "GET /session/202ea1c7be03b95389aae2b1e44b17e9/source HTTP/1.1" 200 340135
+05-11-2019 18:11:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-11-2019 18:11:40 selenium.webdriver.remote.remote_connection:DEBUG:POST http://127.0.0.1:59316/session/202ea1c7be03b95389aae2b1e44b17e9/execute/sync {"script": "\n$(\"#combobox-placeholder\").attr(\"value\",\"\u94f6\u674f\u53f6\u7247\");\n$(\"#word\").attr(\"value\",\"\u94f6\u674f\u53f6\u7247\");\n\nfunction searchBtn() {\u3000\n    search();\n};\nsearchBtn()\n\n", "args": []}
+05-11-2019 18:11:40 urllib3.connectionpool:DEBUG:http://127.0.0.1:59316 "POST /session/202ea1c7be03b95389aae2b1e44b17e9/execute/sync HTTP/1.1" 200 14
+05-11-2019 18:11:40 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-11-2019 18:11:42 selenium.webdriver.remote.remote_connection:DEBUG:GET http://127.0.0.1:59316/session/202ea1c7be03b95389aae2b1e44b17e9/source {}
+05-11-2019 18:11:42 urllib3.connectionpool:DEBUG:http://127.0.0.1:59316 "GET /session/202ea1c7be03b95389aae2b1e44b17e9/source HTTP/1.1" 200 679250
+05-11-2019 18:11:42 selenium.webdriver.remote.remote_connection:DEBUG:Finished Request
+05-11-2019 18:11:59 root:INFO:
+
